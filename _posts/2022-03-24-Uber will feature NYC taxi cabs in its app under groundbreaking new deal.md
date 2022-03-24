@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0zkR9tnsaejlyk9vfj6xdBOlAps=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/70665907/1350477835.0.jpg' width='700px' /><br/>
+Uber, longtime foe of the taxi industry, has made a deal to integrate New York City's iconic yellow cabs in its app. The agreement, which is set to go into effect later this spring, means that roughly 14,000 taxis will be able to receive trip requests from Uber customers. (The news was first reported by The Wall Street Journal.)
+<a href='https://www.theverge.com/2022/3/24/22994332/uber-yellow-taxi-app-nyc-curb-cmt-arro-deal'> Source <a/>

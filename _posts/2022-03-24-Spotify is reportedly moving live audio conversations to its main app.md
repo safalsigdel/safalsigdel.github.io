@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d57Y_03WUuwbHpFJZvbgTjVuyNE=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/70661796/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-Spotify is renaming its live audio app and moving it into its main music streaming app to make it more visible, according to a report from Bloomberg. Greenroom, which Spotify launched last June, will be rebranded as Spotify Live, a place where creators can hold conversations that subscribers can listen to.
-<a href='https://www.theverge.com/2022/3/23/22992647/spotify-greenroom-live-audio-clubhouse-creators'> Source <a/>

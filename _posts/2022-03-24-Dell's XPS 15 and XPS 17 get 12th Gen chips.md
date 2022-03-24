@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WcdXtSF78yU7RBRBbcwnc0w4ocU=/0x0:1280x853/1200x800/filters:focal(173x411:377x615)/cdn.vox-cdn.com/uploads/chorus_image/image/70666043/woman_lounging_XPS_9510_1280x1280.0.jpeg' width='700px' /><br/>
+Dell has announced the 2022 models of its 15.6-inch XPS 15 and 17-inch XPS 17 laptops, and they're available for purchase starting today. The two devices differ from their 2021 predecessors in one way only: They're powered by Intel's newest 12th Gen processors.
+<a href='https://www.theverge.com/2022/3/24/22993452/dell-xps-15-17-intel-12th-gen-processors-alder-lake-release'> Source <a/>

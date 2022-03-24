@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QSBfphCKuUZoKksTayElilhwDzw=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23340151/AMD_FSR_2_Temporal_Upscaling_Diagram_v2__1080p.jpg' width='700px' /><br/>
-Last week, AMD promised a new technology that should let you blow up your games to higher resolutions or increase their framerates without requiring the fancy machine learning hardware of Nvidia's GPUs like Nvidia's lauded DLSS. Now at GDC 2022, it's revealing how the new FidelityFX Super Resolution 2.0 actually works — and that it's coming to Microsoft's Xbox game consoles too.
-<a href='https://www.theverge.com/2022/3/23/22993152/amd-fsr-2-0-xbox-nvidia-gpus'> Source <a/>

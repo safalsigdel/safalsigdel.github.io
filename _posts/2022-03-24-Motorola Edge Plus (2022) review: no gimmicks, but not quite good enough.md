@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/67G53zUjLpUqHpW4EGy38sc8ZbI=/0x0:2040x1360/1200x675/filters:focal(860x603:1186x929)/cdn.vox-cdn.com/uploads/chorus_image/image/70665763/ajohnson_220321_5095_0004.0.jpg' width='700px' /><br/>
+The Motorola Edge Plus is a straightforward Android flagship with no gimmicky features or nostalgia to prop it up. The result is a good but pricey phone that can't quite compete with the current class leader.
+<a href='https://www.theverge.com/22992862/motorola-edge-plus-2022-review-price-specs-screen-battery'> Source <a/>

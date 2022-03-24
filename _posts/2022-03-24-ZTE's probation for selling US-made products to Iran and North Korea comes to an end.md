@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q_QcyT99XfE_BmEWPcU612HCmSM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70662165/jbareham_180515_2574_0009.0.jpg' width='700px' /><br/>
-ZTE's probation in the US is coming to an end following a Texas judge's ruling on Tuesday, according to a report from The Wall Street Journal. The Chinese telecommunications company had been under supervision by the US government since pleading guilty to illegally selling American-made equipment in Iran and North Korea in 2017. ZTE incurred a $1.2 billion fine as a result of violating US sanctions against both countries.
-<a href='https://www.theverge.com/2022/3/23/22992517/zte-iran-north-korea-sanctions-united-states'> Source <a/>

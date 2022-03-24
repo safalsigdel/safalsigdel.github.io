@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PzH-sLpbmLJOQpE5Y3t14Q__ZAs=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70665295/642805_20211216_Electric_Car_Brand_Polestar_Opens_Showroom_in_Marin_County_California.0.jpg' width='700px' /><br/>
+Swedish electric automaker Polestar is bringing its most affordable model to the US. The long-range, single-motor Polestar 2 may not have as much performance as the dual-motor variant, but it will certainly be more accessible.
+<a href='https://www.theverge.com/2022/3/24/22993409/polestar-2-single-motor-long-range-us-price-specs'> Source <a/>

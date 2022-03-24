@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Bs5ibRqF6qG2y53JgIyzFOfDY0c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70662587/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
-Microsoft and Amazon are both appearing at the Game Developers Conference (GDC) this week with a simple pitch: use our cloud services to build your game. Both companies have been battling to get businesses to switch to the cloud in recent years, and now the focus is truly on game developers during a pandemic that has challenged the norms of creating games.
-<a href='https://www.theverge.com/2022/3/23/22992432/microsoft-azure-game-dev-vm-amazon-aws-for-games'> Source <a/>

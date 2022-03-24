@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d8lkWulOTIckWtdqUPjjEAtYoss=/0x0:1548x1004/1200x800/filters:focal(651x379:897x625)/cdn.vox-cdn.com/uploads/chorus_image/image/70661865/Screen_Shot_2022_03_23_at_11.39.51_AM.0.png' width='700px' /><br/>
-Ikea's forays into connected audio continue with its new $65 Vappeby Bluetooth speaker lamp, which resembles a futuristic-looking lantern and is the first speaker to feature Spotify Tap (which had previously only been available on a variety of headphones) for one-touch access to the streaming music service.
-<a href='https://www.theverge.com/2022/3/23/22992775/ikea-vappeby-bluetooth-lamp-speaker-spotify-tap-support'> Source <a/>

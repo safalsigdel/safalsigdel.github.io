@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u7YGSkKK03JuOxaSzJi3hw9l1zE=/0x0:1853x1037/1200x800/filters:focal(779x371:1075x667)/cdn.vox-cdn.com/uploads/chorus_image/image/70661994/Screen_Shot_2022_03_23_at_8.38.33_AM.0.png' width='700px' /><br/>
-The first state to officially roll out Apple's digital driver's license and state ID is Arizona, the iPhone maker announced Wednesday. “Starting today, Arizonans can add their driver's license or state ID to Wallet, and tap their iPhone or Apple Watch to seamlessly and securely present it at select TSA security checkpoints in Phoenix Sky Harbor International Airport,” Apple announced in a press release.
-<a href='https://www.theverge.com/2022/3/23/22992745/apple-wallet-license-arizona-colorado-hawaii-real-id'> Source <a/>
