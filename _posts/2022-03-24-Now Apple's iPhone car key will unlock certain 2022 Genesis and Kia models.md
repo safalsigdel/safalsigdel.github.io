@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i6z2M4O_XnB2itHmlqviXSupUSc=/0x0:4616x2987/1200x800/filters:focal(1939x1125:2677x1863)/cdn.vox-cdn.com/uploads/chorus_image/image/70662963/1235636035.0.jpg' width='700px' /><br/>
-Apple's digital car keys are arriving on the 2022 Kia Niro, 2022 Genesis G90, and the all-electric 2022 Genesis GV60. As spotted by MacRumors, Apple added a key symbol next to all three vehicles in a list on its site, indicating support for the feature.
-<a href='https://www.theverge.com/2022/3/23/22993073/apple-digital-car-keys-hyundai-kia-genesis-gv60-g90-niro'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kZtIALCQfB3ZIqTQQiyt-JC74O0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70666677/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+City of London Police have arrested seven teenagers due to their suspected connections with a hacking group that is believed to be the recently prolific Lapsus$ group, BBC News reports.
+<a href='https://www.theverge.com/2022/3/24/22994563/lapsus-hacking-group-london-police-arrest-microsoft-nvidia'> Source <a/>
