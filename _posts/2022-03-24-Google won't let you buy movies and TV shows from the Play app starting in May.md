@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mo1nNSP7ithYeQcJ5mE789v_cQU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70663128/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google will no longer sell movies and TV shows from the Google Play app starting in May, the company announced (via Ars Technica). Instead, you'll be able to get movies and shows from the Google TV app.
+<a href='https://www.theverge.com/2022/3/23/22993235/google-play-tv-app-movies-play-store'> Source <a/>

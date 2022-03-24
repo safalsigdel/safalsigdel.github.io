@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gh7wWfqrSsckTR9J-iubl4eJtes=/0x0:2880x1344/1200x800/filters:focal(1210x442:1670x902)/cdn.vox-cdn.com/uploads/chorus_image/image/70661153/Screen_Shot_2022_03_16_at_6.32.10_PM.0.png' width='700px' /><br/>
-Today, let's talk about an evolution in the way that startups are being funded, and what it means for the companies working to replace the current internet with blockchain technologies.
-<a href='https://www.theverge.com/22992086/bored-ape-yacht-club-apecoin-venture-capital-yuga-labs-money'> Source <a/>

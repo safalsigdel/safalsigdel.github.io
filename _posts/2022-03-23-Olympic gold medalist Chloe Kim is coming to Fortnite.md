@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RTmtffMh4c2DxJWtga0PjDOcYVI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70661300/Chloe_Kim___Loading_Screen.0.jpg' width='700px' /><br/>
-Yet another notable athlete is coming to Fortnite's battle royale. Epic Games announced that on March 26th, players will be able to snag a skin based on two-time Olympic gold medalist snowboarder Chloe Kim. The skin features four different color schemes — including a black-and-gold option and another where she appears encased in ice — and there are also a handful of accessories, including a giant frozen dragon to ride on.
-<a href='https://www.theverge.com/2022/3/23/22991529/fortnite-chloe-kim-olympic-gold-medalist'> Source <a/>

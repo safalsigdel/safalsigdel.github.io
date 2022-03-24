@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0Q9_amqfh0lc_x-cD0o-saWb5-Y=/0x0:2083x3086/1200x0/filters:focal(0x0:2083x3086):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23339362/A24_MEN_KeyArt.jpg' width='700px' /><br/>
-Things start out rather quaint and cozy in the latest trailer for Men — directed by Alex Garland, best known for his work on Annihilation and Ex Machina — but that feeling doesn't last long. It starts with an uncomfortable joke and then gets progressively more unsettling from there, before eventually descending into full-blown psychological horror. (If the embed above doesn't work, you can also check out the trailer on Twitter.)
-<a href='https://www.theverge.com/2022/3/23/22992578/men-trailer-alex-garland-release-date'> Source <a/>

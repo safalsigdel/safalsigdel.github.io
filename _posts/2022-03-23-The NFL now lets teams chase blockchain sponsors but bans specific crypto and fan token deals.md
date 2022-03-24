@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MFRLmHe1v_yCbS2bCuImAFCMY18=/0x0:5568x3712/1200x800/filters:focal(2484x1675:3374x2565)/cdn.vox-cdn.com/uploads/chorus_image/image/70659035/1238459461.0.jpg' width='700px' /><br/>
-The National Football League will now allow teams to secure sponsorships with blockchain companies. However, it will still prohibit them from promoting specific cryptocurrencies and fan tokens, according to a report from CNBC. This reverses the NFL's previous decision to bar teams from cryptocurrency sponsorships completely.
-<a href='https://www.theverge.com/2022/3/22/22991604/nfl-teams-blockchain-nft-crypto-tokens-sponsors-fan-banned'> Source <a/>

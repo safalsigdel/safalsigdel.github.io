@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pqFilZuxh5o8JJ_kWABWXd_j92c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70661198/vpavic_4261_20201023_0028.5.jpg' width='700px' /><br/>
-Players are experiencing a number of issues with the PlayStation Network right now, affecting the PS Store, PS Now cloud gaming services, as well as any games, apps, or features that require a network connection. PlayStation's status page currently says “some services are experiencing issues” and notes that problems began at around 8:30AM ET this morning.
-<a href='https://www.theverge.com/2022/3/23/22992567/sony-playstation-plus-down-outage-ps5-ps4-psn'> Source <a/>

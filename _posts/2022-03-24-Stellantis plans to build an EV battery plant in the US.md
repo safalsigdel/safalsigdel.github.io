@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/azEn8Pn5te6oN_LZzBV6Rv1RRs8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70662724/BU022_006EV4c5ffij5togna19gdeuoekltig.0.jpg' width='700px' /><br/>
+Stellantis, the parent company of Dodge, Jeep, and Chrysler, plans to build an electric vehicle battery factory in the US. The news came out of an announcement Wednesday that the automaker would invest $4.1 billion on a new battery facility in Canada, along with South Korea's LG Energy Solution.
+<a href='https://www.theverge.com/2022/3/23/22993071/stellantis-ev-battery-factory-us-canada-lg'> Source <a/>

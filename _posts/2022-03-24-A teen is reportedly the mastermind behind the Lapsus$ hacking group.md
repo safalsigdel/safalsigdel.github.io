@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1lFgQC56S-H8JzbZ0tQbDiN9RlQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70664113/acastro_170621_1777_0006.0.jpg' width='700px' /><br/>
+In recent weeks, the Lapsus$ hacking group has taken credit for accessing company data from Nvidia, Samsung, Ubisoft, Okta, and even Microsoft, and according to a new Bloomberg report, an England-based teenager might be the person heading up the operation.
+<a href='https://www.theverge.com/2022/3/23/22993731/lapsus-hacking-group-teenager-mastermind'> Source <a/>

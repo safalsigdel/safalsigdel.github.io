@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kc_JQTyIXl2n7PP6Ld5SwXRjcuw=/0x0:2027x1208/1200x800/filters:focal(852x442:1176x766)/cdn.vox-cdn.com/uploads/chorus_image/image/70660267/Show_Page.0.png' width='700px' /><br/>
-YouTube is the latest company to offer free shows TV with ads. The video giant says you'll now be able to stream nearly 4,000 episodes of TV for free, as long as you're also willing to watch ads during the show. Shows available include Hell's Kitchen, Andromeda, and Heartland, and you'll be able to watch them in the US on the web, mobile devices, and “most connected TVs via the YouTube TV app,” YouTube says in a blog post.
-<a href='https://www.theverge.com/2022/3/23/22991810/youtube-free-tv-shows-with-ads'> Source <a/>

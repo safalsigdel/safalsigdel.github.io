@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JRSnc5xL41rYGLLhLLXXvmK6gM4=/0x0:3418x2322/1200x800/filters:focal(1436x888:1982x1434)/cdn.vox-cdn.com/uploads/chorus_image/image/70660659/619280574.0.jpg' width='700px' /><br/>
-The National Football League is stepping into virtual reality with the announcement of a new official VR game. It will be developed in partnership with sports technology company StatusPro, which makes use of player data for an AR training tool already used by NFL teams. The plan is for the game to become an annual series, like EA's Madden series.
-<a href='https://www.theverge.com/2022/3/23/22992203/official-nfl-vr-game-statuspro-announced'> Source <a/>

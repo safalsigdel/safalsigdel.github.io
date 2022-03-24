@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/whLkltcXueNyLHF3BeRUKWjivyg=/0x0:1996x1766/1200x800/filters:focal(745x613:1063x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70663238/169208696.0.jpg' width='700px' /><br/>
+Stephen Wilhite, one of the lead inventors of the GIF, died last week from COVID at the age of 74, according to his wife, Kathaleen, who spoke to The Verge. He was surrounded by family when he passed. His obituary page notes that “even with all his accomplishments, he remained a very humble, kind, and good man.”
+<a href='https://www.theverge.com/2022/3/23/22992066/stephen-wilhite-gif-creator-dies'> Source <a/>

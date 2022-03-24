@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xHmtls5h8YlqucHe81HSElFO_AQ=/0x0:1553x929/1200x800/filters:focal(601x347:849x595)/cdn.vox-cdn.com/uploads/chorus_image/image/70663693/Screen_Shot_2022_03_23_at_13.40.28.0.png' width='700px' /><br/>
+Zoom announced on Wednesday that it's making it easier to livestream your meeting or webinar to Twitch by adding native integration with the streaming service to its app. After you connect your Zoom and Twitch accounts, you can start broadcasting your meeting with just a few clicks.
+<a href='https://www.theverge.com/2022/3/23/22993459/zoom-twitch-stream-button-integration'> Source <a/>

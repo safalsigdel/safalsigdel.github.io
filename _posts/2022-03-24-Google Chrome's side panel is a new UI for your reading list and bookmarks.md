@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eCw6brdAO_QOtth6t71X7FEj4FM=/0x0:1678x1266/1200x800/filters:focal(1222x68:1490x336)/cdn.vox-cdn.com/uploads/chorus_image/image/70662741/Screen_Shot_2022_03_23_at_09.55.01.0.png' width='700px' /><br/>
+Google has introduced a new sidebar feature to Chrome, which lets you quickly access your bookmarks and reading list while using the desktop version of the browser (via 9to5Google). Previously, the reading list's main home was as a button on the bookmark bar, which not everyone has enabled.
+<a href='https://www.theverge.com/2022/3/23/22993010/google-chrome-side-panel-reading-list-bookmarks'> Source <a/>

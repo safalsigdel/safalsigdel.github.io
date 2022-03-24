@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tEq4Y3WsvSvMqPRcLwcSnz8A9oE=/0x0:1429x978/1200x800/filters:focal(193x517:421x745)/cdn.vox-cdn.com/uploads/chorus_image/image/70664362/forspoken_ssd_speed_3.0.jpg' width='700px' /><br/>
+Last Monday, Microsoft declared that DirectStorage would usher in “a new era of fast load times and detailed worlds in PC games.” And while that now seems a little too grandiose, the developer of upcoming tech showcase game Forspoken now claims that one-second load times are legitimately in reach.
+<a href='https://www.theverge.com/2022/3/23/22993860/forspoken-pc-microsoft-directstorage-nvme-ssd-gdc'> Source <a/>
