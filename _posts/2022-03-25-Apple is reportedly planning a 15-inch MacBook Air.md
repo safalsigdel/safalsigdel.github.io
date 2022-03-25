@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qy86ou6YZZriYsEyUPNyOuI98gE=/0x0:2040x1360/1200x800/filters:focal(562x759:888x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/70670119/vpavic_4291_20201113_0407.0.0.jpg' width='700px' /><br/>
+Apple's upcoming MacBook Air redesign has been extensively reported on, but new information suggests it may come in two sizes. According to Display Supply Chain Consultants' latest quarterly report (via 9to5Mac and AppleInsider), Apple is working on a 15-inch version of the laptop to sit alongside the 13-inch model, which may itself get a slightly larger screen as well.
+<a href='https://www.theverge.com/2022/3/25/22995892/apple-15-inch-laptop-macbook-air-rumor-report'> Source <a/>
