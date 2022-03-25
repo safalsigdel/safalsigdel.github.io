@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b5FdSRnrqleN9ShoHKEqbmmtU-w=/0x0:2526x1508/1200x800/filters:focal(1061x552:1465x956)/cdn.vox-cdn.com/uploads/chorus_image/image/70663862/HBO_Max_Shuffle_Button.0.png' width='700px' /><br/>
-HBO Max is rolling out its very own shuffle button for desktop. Rather than working like a “play something” button, HBO Max's new feature will shuffle episodes. So if you know you're in the mood to watch Friends or South Park but don't know where to start, the button will do the work for you.
-<a href='https://www.theverge.com/2022/3/23/22993709/hbo-max-shuffle-button-curb-your-enthusiasm-friends-south-park'> Source <a/>

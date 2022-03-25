@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eKnRbexR0FUMif3FjZ8ovs7ecUo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70669231/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
+The EU's newly agreed-upon Digital Markets Act could require messaging app developers to make their apps work together if it ends up being passed. In the EU's press release, it says that lawmakers agreed that the companies behind WhatsApp, Facebook Messenger, or iMessage would have to make their apps “interoperable” with smaller messaging platforms at the developers' request.
+<a href='https://www.theverge.com/2022/3/24/22995431/european-union-digital-markets-act-imessage-whatsapp-interoperable'> Source <a/>

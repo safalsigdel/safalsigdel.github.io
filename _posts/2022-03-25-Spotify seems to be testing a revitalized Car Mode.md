@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fb6iLu8EOX_pUrhqWFdPyLHxZhU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70667841/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
+Spotify is reportedly letting some Android users test out a new, voice-focused car mode after it removed Car View last year without any obvious replacement. According to a report from 9to5Google, which includes screenshots of the test, Car Mode is less like the hyper-simplified Car View that came before it and more like a version of Spotify's usual interface that's tweaked to make quick actions easier.
+<a href='https://www.theverge.com/2022/3/24/22994776/spotify-car-mode-revival-test-voice-control'> Source <a/>

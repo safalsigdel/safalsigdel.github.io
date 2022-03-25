@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U1_JzWsRwqoDTB1sW7nj0D6wnPY=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70663679/taking_in_the_view_surface_from_hls.0.jpeg' width='700px' /><br/>
-Today, NASA announced plans to develop a second human lunar lander for its Artemis program, the agency's major spaceflight initiative to send humans back to the Moon. To build the vehicle, the space agency is calling on commercial space companies to propose concepts for landers that can take people to and from the Moon's orbit and the lunar surface, with the goal of having them ready by 2026 or 2027 at the earliest.
-<a href='https://www.theverge.com/2022/3/23/22993287/nasa-second-human-lunar-lander-moon-artemis-spacex'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4ZQi4H-5Jq_IqIHERf_m1NSViMM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70666779/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
+Google will show the next available appointment with a health care provider directly on search, the company announced today.
+<a href='https://www.theverge.com/2022/3/24/22993022/google-doctors-appointment-search'> Source <a/>

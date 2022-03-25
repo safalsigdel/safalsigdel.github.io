@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5As6EEnTMQ8VURGCf4pAYYk8cGo=/0x0:1600x1067/1200x800/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/70665307/20210226_1338.0.jpg' width='700px' /><br/>
-Lyft is integrating Spin's electric scooters into its app, with the goal of eventually featuring the scooters in all 60 cities where Spin operates in the US.
-<a href='https://www.theverge.com/2022/3/24/22993299/spin-lyft-electric-scooter-rent-app-nashville'> Source <a/>

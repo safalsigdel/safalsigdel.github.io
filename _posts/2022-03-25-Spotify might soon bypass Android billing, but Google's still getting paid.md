@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/syrTxS5gu7TQ1BkovXEjCB4Byc0=/0x0:1260x660/1200x800/filters:focal(530x230:730x430)/cdn.vox-cdn.com/uploads/chorus_image/image/70668227/Screen_Shot_2019_07_08_at_5.30.40_PM.0.png' width='700px' /><br/>
+For years, a loose coalition of companies, including Spotify and Epic Games, has been railing against the so-called app store tax — taking Apple and Google to court and spurring regulators to investigate their up-to-30 percent cut of developers' app revenue. They argue they're locked into grossly overpriced billing, hosting, and curation services that sometimes hurt more than they help.
+<a href='https://www.theverge.com/22993765/google-spotify-android-user-choice-billing'> Source <a/>

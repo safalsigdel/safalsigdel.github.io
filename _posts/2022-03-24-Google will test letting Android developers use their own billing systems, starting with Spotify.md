@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EYDxnfuh6-A5X0Fyyc09s1Rspss=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70663284/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
-Google is introducing a pilot to let “a small number of participating developers” offer a payment system in addition to Google Play's. Spotify will be the first and will use both Google Play's billing system and its own.
-<a href='https://www.theverge.com/2022/3/23/22993417/google-pilot-test-android-alternate-billing-systems-spotify'> Source <a/>

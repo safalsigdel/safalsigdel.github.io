@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8KZ81EBxEhhzm2_ltPnnWY9qJrk=/0x0:1920x1280/1200x800/filters:focal(722x507:1028x813)/cdn.vox-cdn.com/uploads/chorus_image/image/70663687/elden_ring_1.0.jpg' width='700px' /><br/>
-Elden Ring has patched an exploit on PC that hackers used to trap players in endless cycles of death. In the patch notes for update 1.03.2, game publisher Bandai Namco says it includes a fix for “a bug in multiplayer that allowed players to teleport others to incorrect map coordinates.”
-<a href='https://www.theverge.com/2022/3/23/22993443/elden-rings-update-patches-infinite-death-loop-hack-pc'> Source <a/>
