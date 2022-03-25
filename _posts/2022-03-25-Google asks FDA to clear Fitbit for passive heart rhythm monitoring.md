@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dL04E4e545al53RbrXNujE-Hlmo=/0x0:1512x766/1200x800/filters:focal(636x263:876x503)/cdn.vox-cdn.com/uploads/chorus_image/image/70666790/Screen_Shot_2022_02_01_at_10.00.56_AM.0.png' width='700px' /><br/>
-Google submitted data for a new Fitbit feature that would passively monitor users' heart rhythms to the Food and Drug Administration, the company announced today.
-<a href='https://www.theverge.com/2022/3/24/22994324/google-fitbit-heart-monitoring-afib-fda'> Source <a/>

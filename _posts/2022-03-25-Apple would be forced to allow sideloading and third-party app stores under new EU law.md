@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lUHIHWy5GSrcCwJdcGCfmSmuYxk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70671783/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+Apple would be forced to allow users to install apps from outside the App Store under legislation recently unveiled by the EU. This stipulation was included in the initial proposal for the bloc's sweeping Digital Markets Act, or DMA, which came one step closer to being signed into law this week, and an EU spokesperson confirmed that the provision is still included.
+<a href='https://www.theverge.com/2022/3/25/22996248/apple-sideloading-apps-store-third-party-eu-dma-requirement'> Source <a/>
