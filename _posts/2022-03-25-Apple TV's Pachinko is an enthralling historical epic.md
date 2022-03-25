@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d_NBXE-OgT-Xc5TBSlLPdC6xAqA=/0x0:6048x4024/1200x675/filters:focal(3780x1354:4746x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/70670998/Pachinko_Photo_010202.0.jpg' width='700px' /><br/>
+Watching Pachinko is to have an audience with something deeply sacred and profound. Adapted from Min Jin Lee's bestselling novel of the same name, Apple TV Plus' most ambitious project yet is a sublime epic that questions cultural identities, national histories, and intergenerational memory and mourning.
+<a href='https://www.theverge.com/22994343/pachinko-review-apple-tv-plus'> Source <a/>

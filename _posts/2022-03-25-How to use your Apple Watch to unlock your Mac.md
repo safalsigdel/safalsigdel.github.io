@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZmHqf8YyCNH51NwDjwcTvosYHUk=/0x0:1813x1360/1200x800/filters:focal(769x790:1059x1080)/cdn.vox-cdn.com/uploads/chorus_image/image/70666324/IMG_2741.0.jpg' width='700px' /><br/>
-When Apple introduced the ability to unlock iPhones with an Apple Watch, it was a lifesaver for anyone wearing a mask during the pandemic. But the handy feature isn't limited to your smartphone. You can also use your Apple Watch to unlock your Mac and to securely approve app requests.
-<a href='https://www.theverge.com/22993480/apple-watch-auto-unlock-mac'> Source <a/>

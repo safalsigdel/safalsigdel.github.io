@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S_MxNao6Wg-W8WCk7MTwJlgJhgs=/0x0:2040x1360/1200x675/filters:focal(1240x679:1566x1005)/cdn.vox-cdn.com/uploads/chorus_image/image/70666064/table1.0.jpg' width='700px' /><br/>
-The Freestyle could have been something really special. As Samsung's first portable projector, it immediately stood out from all of the company's other CES product announcements in January. What wasn't to like? At under two pounds, the Freestyle was hyped as tiny in form but big on features and convenience.
-<a href='https://www.theverge.com/22993263/samsung-freestyle-projector-review'> Source <a/>

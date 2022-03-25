@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xuO3UacffkqYAFtUCyEfCOSnJUM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70665920/mkelly_220318_5098_0005.0.jpg' width='700px' /><br/>
-Makena Kelly has covered politics since the onset of the Trump administration when she was living in Washington, DC; she added tech policy when she began working for The Verge in 2018. The staff here caught a glimpse of her workspace recently during a Slack discussion, and after everyone admired how attractive it was, we knew we had to feature Makena on our next “What's on your desk?”
-<a href='https://www.theverge.com/22989551/desk-makena-kelly-apple-webcam'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-I've just spent an hour spinning the gear in Windows 11's new Notepad app. Reddit users discovered this delightful addition to Windows 11 recently, and as a daily Notepad user I'm addicted. Not on the level of my 1990s Solitaire addiction, but I can't seem to stop spinning this damn gear every time I open Notepad now. Spin, spin, spin.
-<a href='https://www.theverge.com/tldr/2022/3/24/22994423/windows-11-notepad-app-spin-gear-settings'> Source <a/>

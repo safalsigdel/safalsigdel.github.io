@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hipnF5mOmETNKLjqINT-79tpxXs=/0x0:908x573/1200x800/filters:focal(382x215:526x359)/cdn.vox-cdn.com/uploads/chorus_image/image/70665961/3.Mortar_1024x576.0.jpg' width='700px' /><br/>
-Krafton, the studio behind PUBG, has announced a partnership with blockchain company Solana Labs. It says the deal will see the two companies cooperate on the development, operation, design, and marketing of “blockchain- and NFT-based games and services.” Solana Labs develops the Solana blockchain, an Ethereum-competitor designed to offer fast transaction speeds at low cost.
-<a href='https://www.theverge.com/2022/3/24/22994317/pubg-battlegrounds-nft-blockchain-krafton-solana'> Source <a/>
