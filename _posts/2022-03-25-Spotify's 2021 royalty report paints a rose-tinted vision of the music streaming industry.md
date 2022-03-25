@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cRgs27PVSwg-lSIWI8gFk6aXjJc=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70666460/2___Revenue_Generated.0.png' width='700px' /><br/>
-Spotify is continuing its effort to offer some transparency to musicians who are unhappy with its streaming rates. The company updated its “Loud & Clear” website today, providing a breakdown of some 2021 metrics for how artists, publishers, and rights holders actually make money off Spotify streams.
-<a href='https://www.theverge.com/2022/3/24/22994404/spotify-2021-royalty-report-music-streaming-industry-revenue-artists-loud-clear'> Source <a/>
