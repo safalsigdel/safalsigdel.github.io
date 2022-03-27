@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZfLRX8BAYaZmUUiY24oxhpL-kGs=/0x0:2880x1344/1200x675/filters:focal(1210x442:1670x902)/cdn.vox-cdn.com/uploads/chorus_image/image/70670840/Screen_Shot_2022_03_16_at_6.32.10_PM.0.png' width='700px' /><br/>
-You know what, I do think it's nice that the Bored Ape Yacht Club is trying to do something more ambitious than just selling people code that says they own jpegs! But I am very interested in whether its ApeCoin is going to get shot out of the sky by regulators before it has a chance to [rocket emoji] to the [moon emoji].
-<a href='https://www.theverge.com/2022/3/25/22994795/apecoin-yuga-labs-sec-regulation-utility-token'> Source <a/>

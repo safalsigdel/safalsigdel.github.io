@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jbrCKrjZU6A0b-vcJWZV4EndAfc=/0x0:1280x896/1200x800/filters:focal(538x346:742x550)/cdn.vox-cdn.com/uploads/chorus_image/image/70667905/overwatch2.0.jpg' width='700px' /><br/>
-In the wake of the Overwatch 2 beta date announcement and an apologetic video from game director Aaron Keller promising the team would give more consistent updates on progress, the Overwatch 2 news floodgates have officially opened. In this latest update, we're offered a glimpse of Overwatch 2's overhauled ping system.
-<a href='https://www.theverge.com/2022/3/24/22994901/overwatch-2-ping-system-closed-beta'> Source <a/>

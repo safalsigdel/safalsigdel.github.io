@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T7l0CHXbTWgO0z-gU6YHIviipLA=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70667173/1228187107.0.jpg' width='700px' /><br/>
-Come July, the EPA plans to retire the archive containing old news releases, policy changes, regulatory actions, and more. Those are important public resources, advocates say, but federal guidelines for maintaining public records still fall short when it comes to protecting digital assets.
-<a href='https://www.theverge.com/2022/3/24/22993628/epa-online-archive-sunset-digital-records'> Source <a/>

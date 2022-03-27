@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zyED13MH_GXQkmEReL-uU6BUiO8=/0x0:2040x1360/1200x800/filters:focal(883x784:1209x1110)/cdn.vox-cdn.com/uploads/chorus_image/image/70673099/akrales_190903_3635_0018.0.jpg' width='700px' /><br/>
+2022 is going to be a big year for Wear OS. Google's rumored to be making its own Pixel Watch (again). Older Wear OS 2 watches are expected to finally make the transition to Wear OS 3. Samsung's promised that Google Assistant will be coming to its Galaxy Watch 4 in the “coming months.” But there's something notably missing from this Wear OS lineup: Fitbit.
+<a href='https://www.theverge.com/2022/3/25/22996549/fitbit-wear-os-smartwatch-fitness-tracker'> Source <a/>

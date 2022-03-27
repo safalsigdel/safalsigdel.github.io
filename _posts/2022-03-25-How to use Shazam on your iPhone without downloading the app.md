@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SleT3d_AkGmB3w1KQ_aKWiWBtNY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70670859/akrales_210917_4760_0331.0.jpg' width='700px' /><br/>
-When Apple released iOS 14.2 in 2020, it introduced some landmark new emoji, like the “frustrated Italian hand gesture” and bubble tea. It also snuck in a very handy feature: the ability to add Shazam song identification to your iPhone Control Center. Best of all, you don't even have to download the Shazam app to use it. With just a couple of easy steps, you can access this feature right from your lock screen.
-<a href='https://www.theverge.com/22995047/how-to-use-shazam-iphone-ios'> Source <a/>

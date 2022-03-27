@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_3fCkkcknF2IuYQ2C80fSicoh2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70668743/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-Update March 24th, 8:23PM ET: Sony appears to have sold out of both the PlayStation 5 and the PS5 Digital Edition for the time being. However, you can still register with Sony for a chance to buy its next-gen console at a later date.
-<a href='https://www.theverge.com/2022/3/24/22813931/sony-ps5-playstation-console-restock-availability-disc-digital-edition'> Source <a/>

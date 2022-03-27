@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EF7AEB270psMuCPvRVSFx0_9rww=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70676172/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple Pay will no longer support Russian card payment system Mir, closing a loophole that let Russians continue to use the service amid economic sanctions put on the country, according to a report from Reuters.
+<a href='https://www.theverge.com/2022/3/26/22997758/apple-pay-google-pay-loophole-mir-cards-russia-payment-system-ukraine-war'> Source <a/>

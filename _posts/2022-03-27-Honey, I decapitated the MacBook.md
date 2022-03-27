@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8INK_f1b7_MOxwJDKJnEdyjrkUo=/0x0:3000x2000/1200x675/filters:focal(1269x863:1749x1343)/cdn.vox-cdn.com/uploads/chorus_image/image/70674774/VRG_ILLO_5107_MacBookAir_Decapitation.0.jpg' width='700px' /><br/>
+People had a lot of questions when I pulled out my M1 MacBook Air at a party over the weekend: “What is that?” “What happened to your laptop?” “Is that the new Mac?” This was to be expected, as there certainly was something different about mine. See, my MacBook Air doesn't have a screen — and I made it that way.
+<a href='https://www.theverge.com/22965732/macbook-decapitation-slabtop-mod-mac-studio-event-rumor-keyboard-computer-diy'> Source <a/>

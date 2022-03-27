@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/223i1afb1eporvJcv-CzawdvjxA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70672132/acastro_220202_1777_spotify_0001.0.jpg' width='700px' /><br/>
+Spotify is suspending its services in Russia as the country's invasion of Ukraine continues into its second month. In a statement, the company appears to reference Russia's new law that punishes spreading fake news about the military with up to 15 years in prison as the primary reason for why it's shutting down in the country.
+<a href='https://www.theverge.com/2022/3/25/22996412/spotify-russia-suspending-services'> Source <a/>

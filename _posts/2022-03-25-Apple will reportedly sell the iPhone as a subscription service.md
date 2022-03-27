@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ov5vEl5W35a-4w0FZuGlZ6nNH9k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70667382/vpavic_210916_untitled_0004.0.jpg' width='700px' /><br/>
-Apple is reportedly working on selling iPhones and iPads themselves as part of a hardware subscription service, according to a new report from Bloomberg, whose author Mark Gurman writes the service could arrive next year.
-<a href='https://www.theverge.com/2022/3/24/22994814/apple-iphone-hardware-subscription-bundle-report'> Source <a/>

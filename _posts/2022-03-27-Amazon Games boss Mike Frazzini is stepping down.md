@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZD6s6P1B4AnQ1OW2HzY72ONjVdU=/0x0:3000x2000/1200x800/filters:focal(1538x490:2018x970)/cdn.vox-cdn.com/uploads/chorus_image/image/70675265/482006519.0.jpg' width='700px' /><br/>
+Amazon Games studio head Mike Frazzini is stepping down from his role to focus on family, according to a report from Bloomberg. Frazzini has helped lead Amazon's game division since 2009 and played a role in building the company's game studio.
+<a href='https://www.theverge.com/2022/3/26/22997395/amazon-games-studio-boss-mike-frazzini-stepping-down'> Source <a/>

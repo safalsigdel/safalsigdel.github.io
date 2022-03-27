@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/67swtD9HCuiur-wUvBRASKpskwU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67347798/akrales_190515_3399_0018.0.jpg' width='700px' /><br/>
-About to buy the latest Samsung phone or are you more of a Pixel person? Whether you plan to trade in your old Android phone for a discount on your new phone, sell it on eBay, give it away to a friend, or drop it off for recycling, you're going to want to wipe it of all your data first by resetting it to factory conditions. Luckily, that's pretty easy to do.
-<a href='https://www.theverge.com/21419919/delete-data-android-phone-sell-trade-how-to'> Source <a/>
