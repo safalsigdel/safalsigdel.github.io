@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YUKP7p_T4DfJLBhg5sK7lcfDNqM=/0x0:1075x605/1200x800/filters:focal(336x56:508x228)/cdn.vox-cdn.com/uploads/chorus_image/image/70672174/Screenshot_2022_03_25_125012.0.jpg' width='700px' /><br/>
-Rockstar Games has announced it's offering a new subscription service to GTA Online players. Dubbed GTA Plus, the subscription service grants players exclusive perks for $5.99 a month. According to the announcement:
-<a href='https://www.theverge.com/2022/3/25/22996408/gta-online-rockstar-games-subscription-service'> Source <a/>
