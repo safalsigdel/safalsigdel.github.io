@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/erqcyjbqdwnXNQIKiOCBsGpX_08=/0x0:5000x3334/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70678016/1233274847.0.jpg' width='700px' /><br/>
+Crunchyroll will no longer offer free ad-supported streaming for newly-released episodes, the anime streaming service announced in an update on its site (via Gizmodo). Viewers who want to watch episodes of new or continuing series will have to upgrade to one of Crunchyroll's premium plans, which start at $7.99 / month.
+<a href='https://www.theverge.com/2022/3/27/22998591/crunchyroll-ends-free-ad-supported-streaming-new-releases-simulcasts-anime'> Source <a/>
