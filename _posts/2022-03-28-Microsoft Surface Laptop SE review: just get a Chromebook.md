@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QDYnX7-LMQ9HxwYqx6graHdsTyw=/0x0:2040x1360/1200x675/filters:focal(861x713:1187x1039)/cdn.vox-cdn.com/uploads/chorus_image/image/70672003/akrales_220311_5058_0076.0.jpg' width='700px' /><br/>
-When I review a particularly ugly Windows laptop, I'll often refer to it as having a “laptop cart” look. If you were a student at any point after the early 2000s, you probably understand why. The laptops that schools provide to elementary and middle school kids are famously ugly, old, and terrible in all kinds of ways.
-<a href='https://www.theverge.com/22996164/microsoft-surface-laptop-se-review-education'> Source <a/>

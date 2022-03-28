@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3STMPka82p6lMM_O48n55BngPhE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70681056/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit said Monday that it's bringing back its r/Place April Fools' Day experience for four days beginning April 1st. Alex Le, Reddit executive vice president for strategy and special projects said in a blog post that the move was meant to showcase “the magic of online communities, conversation, and collaboration.”
+<a href='https://www.theverge.com/2022/3/28/22999689/reddit-bringing-back-r-place-april-fools-day-experiment-public-art'> Source <a/>
