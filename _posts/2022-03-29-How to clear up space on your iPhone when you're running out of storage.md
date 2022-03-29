@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GZkDnAoeM_jeWErkMeYysgBbBbY=/0x0:2002x1335/1200x800/filters:focal(841x508:1161x828)/cdn.vox-cdn.com/uploads/chorus_image/image/70681487/vpavic_210916_4760_0240.0.jpg' width='700px' /><br/>
+Our iPhones are so much more than just phones. Sure, they're where we store our photos, books, music, and movies, but they also have the apps we use daily for work, socializing, ordering groceries, transportation, managing finances, and even our health. Used for so many different things, it's easy to quickly take up all of the phone's storage — which can become a nightmare.
+<a href='https://www.theverge.com/22990011/apple-iphone-storage-full-clear-up-space'> Source <a/>

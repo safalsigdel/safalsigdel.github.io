@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8643lCfyLPaNE3gY7zVbm5H_F54=/0x0:1920x1028/1200x800/filters:focal(807x361:1113x667)/cdn.vox-cdn.com/uploads/chorus_image/image/70672421/2022_03_25_14_26_10_Greenshot.0.jpg' width='700px' /><br/>
-Bloodborne's seventh anniversary was earlier this week, and even though FromSoftware lets fans languish without a PC port, Lilith Walther — creator of the popular Bloodborne PSX demake — continues to keep the community fed, watered, and loved with her new fan project: Bloodborne Kart.
-<a href='https://www.theverge.com/2022/3/25/22996465/bloodborne-kart-psx-demake'> Source <a/>

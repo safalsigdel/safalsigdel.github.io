@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SqsgaqLZZUgVMPIjw80W9LeEtt8=/0x0:1648x927/1200x800/filters:focal(693x333:955x595)/cdn.vox-cdn.com/uploads/chorus_image/image/70681305/intel_core_i9_12900ks_1_16x9.jpg.rendition.intel.web.1648.927.0.jpg' width='700px' /><br/>
+Intel has officially announced its new Core i9-12900KS processor, an unlocked version of its flagship Core i9-12900K that ups the maximum boosted clock speed even higher to 5.5GHz for what the company claims is “the world's fastest desktop processor” and “the ultimate gaming experience.”
+<a href='https://www.theverge.com/2022/3/28/22999926/intel-unlocked-core-i9-12900ks-processor-price-release-date-desktop-chip'> Source <a/>

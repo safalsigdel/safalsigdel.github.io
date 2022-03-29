@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nuSvhm5bP1NIanzGbUqDjNOhfyk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70675914/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Uber has secured a 30-month — or two-and-a-half-year — license to keep its ridesharing services up and running in London, according to a report from the BBC. This marks the close of a lengthy battle with the city's transportation agency, Transport for London (TfL), over Uber's safety protocols.
-<a href='https://www.theverge.com/2022/3/26/22997671/uber-granted-30-month-license-operate-london-uk'> Source <a/>

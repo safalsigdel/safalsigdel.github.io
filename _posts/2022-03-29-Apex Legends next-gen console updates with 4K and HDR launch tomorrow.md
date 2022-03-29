@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Respawn Entertainment has confirmed that Apex Legends upgrades for the PS5 and Xbox Series X / S consoles will launch tomorrow with the new Warriors collection event. Until now, the battle royale shooter has shared versions across the console generations. But when the update is released — usually around 1PM ET — console players will finally be able to join those on PC with support for natively rendered 4K (except on the Series S), HDR, better shadow maps, and greater level of detail distances.
+<a href='https://www.theverge.com/2022/3/28/22999936/apex-legends-ps5-xbox-series-x-s-warriors-update'> Source <a/>

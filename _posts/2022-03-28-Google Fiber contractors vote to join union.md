@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6udpFd0GJUJcq2SE08_8xBVPHik=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70672605/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
-A group of workers for a Google Fiber subcontractor in Missouri has voted to unionize, the first of its kind at Google's parent company Alphabet. The votes were counted Friday in a Zoom hearing with the National Labor Relations Board (NLRB).
-<a href='https://www.theverge.com/2022/3/25/22996053/google-fiber-union-contractors-workers-vote-cwa'> Source <a/>

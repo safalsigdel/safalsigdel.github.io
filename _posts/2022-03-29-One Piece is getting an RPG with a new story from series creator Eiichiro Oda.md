@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m0eGSSrRUZGo0UYssIJTx_P2ePw=/0x0:1864x1070/1200x800/filters:focal(775x706:1073x1004)/cdn.vox-cdn.com/uploads/chorus_image/image/70681497/Screen_Shot_2022_03_28_at_1.09.00_PM.0.png' width='700px' /><br/>
+One Piece is getting a new video game. During a video presentation celebrating the 25th anniversary of One Piece, Bandai Namco announced that the celebrated manga / anime series will be getting a new RPG with an original story written by series creator Eiichiro Oda.
+<a href='https://www.theverge.com/2022/3/28/22999913/one-piece-rpg-xbox-pc-playstation-odyssey'> Source <a/>

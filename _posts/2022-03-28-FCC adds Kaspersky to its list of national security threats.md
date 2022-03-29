@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kRAuJn36POz00kQaCrBXa5A-Iho=/0x0:3543x2362/1200x800/filters:focal(1138x863:1704x1429)/cdn.vox-cdn.com/uploads/chorus_image/image/70675586/1237483219.0.jpg' width='700px' /><br/>
-The US Federal Communications Commission has added Russian cybersecurity company Kaspersky Lab to its list of entities that pose an “unacceptable risk to US national security,” according to a report from Bloomberg. This is the first time a Russian company has been added to the list, which is otherwise made up of Chinese companies, like Huawei and ZTE.
-<a href='https://www.theverge.com/2022/3/26/22997532/fcc-kaspersky-list-national-security-threats-huawei-zte'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/orMMGNktUrvdb9jcOIw2fo6NxNg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70675110/hhavlak_220324_5104_0011.0.jpg' width='700px' /><br/>
-If you've got a pet, it's likely you have something cool that you use to either feed the pet, amuse the pet, watch the pet, track the pet, or travel with the pet. Well, the folks here at The Verge are no different: many have animal companions whom they feed, pamper, worry about — even obsess about — and totally enjoy.
-<a href='https://www.theverge.com/22995069/pet-tech-dogs-cats-gps'> Source <a/>

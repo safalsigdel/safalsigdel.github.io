@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ux-gle38kMUn0LHfZDKT2cwBkro=/0x0:4752x3168/1200x800/filters:focal(3014x1457:3774x2217)/cdn.vox-cdn.com/uploads/chorus_image/image/70674983/174824948.0.jpg' width='700px' /><br/>
-Collecting satellite data for research is a group effort thanks to this app developed for Android users. Camaliot is a campaign funded by the European Space Agency, and its first project focuses on making smartphone owners around the world part of a project that can help improve weather forecasts by using your phone's GPS receiver.
-<a href='https://www.theverge.com/2022/3/26/22992890/camaliot-storm-forecast-gps-satellite-tracking-citizen-science'> Source <a/>

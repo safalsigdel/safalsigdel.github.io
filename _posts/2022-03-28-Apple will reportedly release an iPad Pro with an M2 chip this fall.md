@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rdAKZoS2pnA_eNGbLRS__kaglRE=/0x0:2040x1360/1200x800/filters:focal(609x509:935x835)/cdn.vox-cdn.com/uploads/chorus_image/image/70677728/vpavic_210512_4592_0192.0.jpg' width='700px' /><br/>
-Apple is reportedly planning to release an iPad Pro with the rumored M2 chip sometime between September and November of this year, according to Apple tracker Mark Gurman's Power On newsletter. Gurman expects Apple to issue a major update for the upcoming generation of iPad Pros, which will supposedly include support for MagSafe charging.
-<a href='https://www.theverge.com/2022/3/27/22998512/apple-reportedly-release-ipad-pro-m2-chip-magsafe-fall-rumor'> Source <a/>

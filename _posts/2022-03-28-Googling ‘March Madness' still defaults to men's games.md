@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2h4_-cKgJyJTlrFeR_OI3IBme3Y=/0x0:3900x2610/1200x800/filters:focal(1638x993:2262x1617)/cdn.vox-cdn.com/uploads/chorus_image/image/70672259/1239416138.0.jpg' width='700px' /><br/>
-Sweet Sixteen games in this year's March Madness tip off tonight and tomorrow — all exciting games (like reigning national champions Stanford vs. Maryland) and one that is going to be deeply stressful for me personally (Connecticut vs. Indiana — go Huskies).
-<a href='https://www.theverge.com/2022/3/25/22996358/google-march-madness-womens-sports-basketball'> Source <a/>

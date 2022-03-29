@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ekmbFlnPQvSMu7BfJRbW1cVSIl8=/0x0:2880x1344/1200x800/filters:focal(1210x442:1670x902)/cdn.vox-cdn.com/uploads/chorus_image/image/70682238/Screen_Shot_2022_03_16_at_6.32.10_PM.0.png' width='700px' /><br/>
+Bored Ape Yacht Club NFT holders can buy new merchandise items from Yuga Labs — but they can only use the newly-launched ApeCoin to do it, according to an announcement in the BAYC Discord server. Yuga Labs, which has a large stake in the organization backing ApeCoin, will get more ApeCoin (and more control over the organization) as NFT holders pay for their merch.
+<a href='https://www.theverge.com/2022/3/28/23000264/apecoin-bored-ape-yacht-club-bayc-merch-dao'> Source <a/>

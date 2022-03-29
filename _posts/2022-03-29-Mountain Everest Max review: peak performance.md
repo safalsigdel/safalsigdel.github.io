@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_IRFMWBpKo4TAatrb0InCPiL9Mw=/0x0:2040x1360/1200x675/filters:focal(869x867:1195x1193)/cdn.vox-cdn.com/uploads/chorus_image/image/70681741/anbeill_220322_5105_0004.0.jpg' width='700px' /><br/>
+With just about every gaming keyboard I've tested, there's always something missing — a feeling of “if this keyboard only had this or that, it would be perfect.” The Mountain Everest Max feels like an answer to this exact conundrum. It's like the designers of this keyboard were tired of dealing with all the dumb oversights and omissions in mainstream gaming keyboards and decided to take something of a kitchen sink approach.
+<a href='https://www.theverge.com/22996700/mountain-everest-max-keyboard-review-gaming'> Source <a/>

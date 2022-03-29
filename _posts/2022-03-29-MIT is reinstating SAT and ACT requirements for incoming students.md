@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HlCFa-q5xYQt9dI5DbIdX7tL1nc=/0x0:5095x3397/1200x800/filters:focal(1832x1276:2646x2090)/cdn.vox-cdn.com/uploads/chorus_image/image/70682896/1255079629.0.jpg' width='700px' /><br/>
+The Massachusetts Institute of Technology (MIT) said Monday it's reinstating requirements that students provide scores from the SAT or ACT standardized tests for future admissions. At the start of the pandemic, many schools waived standardized test requirements for incoming students or, like MIT, made reporting them optional.
+<a href='https://www.theverge.com/2022/3/28/23000545/mit-sat-act-standardized-test-coronavirus-pandemic'> Source <a/>
