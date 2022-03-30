@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UY_JrXrTIiChMIJfNOlMRt0NRrw=/0x0:2040x1360/1200x480/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70685804/vpavic_220210_5030_0090.0.jpg' width='700px' /><br/>
-Love it or hate it, fail or succeed, the Steam Deck will go down in gadget history. It's a bold attempt to make PC gaming more portable and affordable than ever before, an ultimate gadget with exotic features and infinitely customizable controls, and perhaps the most powerful gaming PC ever sold for a mere $400.
-<a href='https://www.theverge.com/22960536/steam-deck-faq-valve-one-month-later'> Source <a/>

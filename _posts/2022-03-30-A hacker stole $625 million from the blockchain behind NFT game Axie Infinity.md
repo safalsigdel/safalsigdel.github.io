@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/czjJWiyj576fQnbtvHNpYMO_rzc=/0x0:2000x1125/1200x800/filters:focal(780x447:1100x767)/cdn.vox-cdn.com/uploads/chorus_image/image/70685894/Starter_Axies__3_.0.png' width='700px' /><br/>
-Roughly $625 million worth of cryptocurrency has been stolen from Ronin, the blockchain underlying popular crypto game Axie Infinity. Ronin and Axie Infinity operator Sky Mavis revealed the breach on Tuesday and froze transactions on the Ronin bridge, which allows depositing and withdrawing funds from the company's blockchain.
-<a href='https://www.theverge.com/2022/3/29/23001620/sky-mavis-axie-infinity-ronin-blockchain-validation-defi-hack-nft'> Source <a/>
