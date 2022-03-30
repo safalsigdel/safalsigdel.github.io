@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PUytoaIQEb3n3bazrHyDq7S_pqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70682737/mdoying_180419_1777_0454_2.0.jpg' width='700px' /><br/>
-2A US lawmaker has proposed a large-scale trial of government-backed digital cash. The Electronic Currency and Secure Hardware (ECASH) Act, introduced by Rep. Stephen Lynch (D-MA), would direct the Secretary of the Treasury to publicly test an “electronic version” of the US dollar. While the bill's odds of passing likely remain low, it demonstrates governments' increasing interest in launching alternatives to cryptocurrency.
-<a href='https://www.theverge.com/2022/3/28/22999894/ecash-act-digital-currency-us-congress-bill'> Source <a/>

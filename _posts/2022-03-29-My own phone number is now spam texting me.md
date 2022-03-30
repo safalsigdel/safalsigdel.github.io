@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sP7J6W1wFm9J6DXefNVRf-_BDMg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70681209/DSCF7482_2.0.jpg' width='700px' /><br/>
-This morning, I received a very blatant spam text offering me “a little gift” for supposedly paying my phone bill. Normally I'd groan, roll my eyes, and quickly delete such a thing, but there was something different about this particular message: it was spoofed as coming from my own phone number. As best my iPhone could tell, it was a legitimate message from me to myself. Tapping into the sender details took me to my own contact card.
-<a href='https://www.theverge.com/2022/3/28/22999719/spam-texts-own-phone-number-verizon-att-tmobile'> Source <a/>

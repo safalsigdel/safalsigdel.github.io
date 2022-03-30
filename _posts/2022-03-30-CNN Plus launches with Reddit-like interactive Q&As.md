@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zQAp9uGws-qVMqjlOaLX6BGesHo=/0x0:3066x1760/1200x800/filters:focal(1288x635:1778x1125)/cdn.vox-cdn.com/uploads/chorus_image/image/70685117/CNNPlus_Featured_Homepage.0.jpg' width='700px' /><br/>
+CNN's premium streaming service launches today. The service, CNN Plus, will debut with about a dozen weekly shows, more than a thousand hours of on-demand content, and a Reddit-like interactive tool for asking reporters and guests questions about the day's biggest news. It's a major bet on viewers being willing to pay not just for news but for more news — and that the CNN brand can beat out other often freely available options.
+<a href='https://www.theverge.com/2022/3/29/23000627/cnn-plus-streaming-service-launch'> Source <a/>

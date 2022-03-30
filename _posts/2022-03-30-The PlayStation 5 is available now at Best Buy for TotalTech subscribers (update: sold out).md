@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ckoidh5YMGmwN-39FyPCmSsX1aI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70685101/acastro_210511_1777_psRestock_0005.0.jpg' width='700px' /><br/>
+Update 5:45PM ET, March 29th: Best Buy has sold out of PlayStation 5 consoles on its site at this time.
+<a href='https://www.theverge.com/2022/3/29/22877142/sony-playstation-5-is-available-now-at-best-buy-totaltech-subscribers'> Source <a/>

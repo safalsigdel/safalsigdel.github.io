@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WMjiv5MmKinZSRA_hSDjeXv_tD4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70682691/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-TikTok appears to be testing a new Watch History feature that should save you from the mental anguish of trying to locate that video you could've sworn you saved, as reported by TechCrunch. It looks like TikTok may finally give us a straightforward way to browse through a running list of the videos we've seen on the app.
-<a href='https://www.theverge.com/2022/3/28/23000480/tiktok-testing-watch-history-find-videos'> Source <a/>

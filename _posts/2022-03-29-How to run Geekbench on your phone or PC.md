@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SSMw9joYv9rdNV4J9x31vKhK4ms=/0x0:1378x968/1200x800/filters:focal(579x374:799x594)/cdn.vox-cdn.com/uploads/chorus_image/image/70680293/Screen_Shot_2022_03_25_at_4.49.33_PM.0.png' width='700px' /><br/>
-For the next few weeks, we're showing you how to run various commonly used benchmarks on your PC. Reviewers like myself find these very helpful in comparing laptops we test to each other. But you don't have to rely on us — you can easily run these benchmarks yourself on your own PC. Geekbench is one of the easiest and fastest ones to run and will show you how your device stacks up against the competition in a few key areas.
-<a href='https://www.theverge.com/22996451/how-to-run-geekbench-mac-windows-ios-android'> Source <a/>

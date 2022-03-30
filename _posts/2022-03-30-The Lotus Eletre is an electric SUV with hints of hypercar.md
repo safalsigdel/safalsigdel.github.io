@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZusELm3pv0PGae93YhKu2gLzW-8=/0x0:7952x5304/1200x800/filters:focal(3340x2016:4612x3288)/cdn.vox-cdn.com/uploads/chorus_image/image/70686208/04_Lotus_Eletre_Yellow_Studio_Profile.0.jpg' width='700px' /><br/>
+British sports car maker Lotus is jumping on the electric bandwagon with the reveal of the Eletre, a plug-in crossover SUV with design language inspired by the automaker's Evija hypercar. The Eletre will also be the first of three new EVs that Lotus plans to roll out over the next four years, including a sports car (natch), a coupe-sedan, and another SUV.
+<a href='https://www.theverge.com/2022/3/29/23001370/lotus-eletre-electric-suv-type-132-specs-range'> Source <a/>

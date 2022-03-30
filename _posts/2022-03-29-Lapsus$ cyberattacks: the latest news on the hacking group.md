@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ilFDqtpMnvrSQQuPG1UkbVQ8SvM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70680512/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
-The Lapsus$ hacking group first made headlines when it waged a ransomware attack against the Brazilian Ministry of Health in December 2021, compromising the COVID-19 vaccination data of millions within the country.
-<a href='https://www.theverge.com/22998479/lapsus-hacking-group-cyberattacks-news-updates'> Source <a/>

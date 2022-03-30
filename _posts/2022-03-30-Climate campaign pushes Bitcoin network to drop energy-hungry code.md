@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/du7Qwri-VVjpnnt0yabHveeHz8k=/0x0:5976x3984/1200x800/filters:focal(2510x1514:3466x2470)/cdn.vox-cdn.com/uploads/chorus_image/image/70685588/1234051655.0.jpg' width='700px' /><br/>
+Greenpeace and other environmental groups launched a new campaign today to push the Bitcoin network to slash its growing greenhouse gas emissions. The goal of the campaign, dubbed “Change the code, not the climate,” is to switch up the energy-hungry process of verifying transactions and mining new Bitcoins.
+<a href='https://www.theverge.com/2022/3/29/22999715/climate-change-bitcoin-drop-energy-hungry-software-code-proof-of-work'> Source <a/>

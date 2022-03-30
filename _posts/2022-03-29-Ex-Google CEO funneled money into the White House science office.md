@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/14ASBv-Pv9cRV6dnJ05gc4ROzvY=/0x0:5169x3441/1200x800/filters:focal(2172x1308:2998x2134)/cdn.vox-cdn.com/uploads/chorus_image/image/70681360/1328571726.0.jpg' width='700px' /><br/>
-Former Google CEO Eric Schmidt's foundation poured money into the White House Office of Science and Technology Policy over the past year, according to a report from Politico. The foundation's close ties with the office raised ethics concerns with internal watchdogs.
-<a href='https://www.theverge.com/2022/3/28/22999754/eric-schmidt-google-money-white-house-science-ai-lander'> Source <a/>

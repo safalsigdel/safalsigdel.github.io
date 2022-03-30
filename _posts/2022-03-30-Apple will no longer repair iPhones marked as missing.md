@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eCiboaqfsJJpgMuZ7WdUj3i6t_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70687251/acastro_170731_1777_0003_v2.0.jpg' width='700px' /><br/>
+Apple Stores and authorized service providers will no longer repair iPhones that have been reported as missing through the GSMA device registry, according to an internal memo obtained by MacRumors. The company now requires repair technicians to deny users a repair if they're notified of its missing status in the MobileGenius or GSX systems they use to service customers.
+<a href='https://www.theverge.com/2022/3/29/23002123/apple-store-repair-iphone-stolen-missing-flagged'> Source <a/>

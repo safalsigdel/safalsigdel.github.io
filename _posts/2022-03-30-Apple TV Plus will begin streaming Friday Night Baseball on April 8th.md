@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7aCsIS-Vckrct0HM6TghP9QT66o=/0x0:7398x4932/1200x800/filters:focal(3108x1875:4290x3057)/cdn.vox-cdn.com/uploads/chorus_image/image/70686917/1239503237.0.jpg' width='700px' /><br/>
+Apple TV Plus has announced an April 8th start date for Friday Night Baseball alongside a streaming schedule for the first half of the season. The revised 2022 season schedule was announced by Major League Baseball (MLB) earlier in March after players and team owners negotiated an end to a lockout, setting a date for the regular season to begin on April 7th.
+<a href='https://www.theverge.com/2022/3/29/23001613/apple-tv-plus-friday-night-baseball-mlb-sports'> Source <a/>

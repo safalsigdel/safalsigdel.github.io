@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2E2KOhC4kQhZPcRX8CSc3gjald4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70682383/etsy18_2040.0.0.jpg' width='700px' /><br/>
-Russia's invasion of Ukraine is affecting an unexpected community: cross-stitchers who buy patterns on Etsy. Slate published a piece describing how American cross-stitchers have been “devastated” by Etsy's recent suspension of Russian storefronts, including cross-stitch patterns shops that are — to the surprise of some crafters — heavily concentrated in Russia.
-<a href='https://www.theverge.com/2022/3/28/23000278/slate-russia-etsy-cross-stitch-stores-ban'> Source <a/>

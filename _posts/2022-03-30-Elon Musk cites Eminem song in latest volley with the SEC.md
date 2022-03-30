@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1cZASONV6RDgo9MS8A87b46_cAA=/0x0:2040x1360/1200x800/filters:focal(791x305:1117x631)/cdn.vox-cdn.com/uploads/chorus_image/image/70685789/REC_ASA_CODE2016-20160601-220020-4523.0.0.jpeg' width='700px' /><br/>
+The latest court filing in Elon Musk's battle to wrest back control of his Twitter account from the Securities and Exchange Commission (SEC) includes a citation of the 2002 song Without Me by rapper Eminem. Yes, really (see the filing embedded below).
+<a href='https://www.theverge.com/2022/3/29/23001516/elon-musk-eminem-tesla-sec-tweets'> Source <a/>

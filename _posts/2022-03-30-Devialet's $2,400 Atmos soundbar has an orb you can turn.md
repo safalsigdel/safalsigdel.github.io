@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WrXI7L8Z4-LyOxDiLoKVSJjqj5w=/805x720:2303x1876/1200x800/filters:focal(541x456:1069x984)/cdn.vox-cdn.com/uploads/chorus_image/image/70687143/Copy_of_PALAST_2021_05_10_60780_copie.0.jpeg' width='700px' /><br/>
+Devialet today announced the Dione, a $2,400 Dolby Atmos 5.1.2 soundbar with built-in subwoofers and a central “ORB” speaker that can rotate depending on the soundbar's installed position (via Gizmodo). The French audio company calls it the “ultimate all-in-one soundbar” since it completely forgoes satellite speakers in favor of a virtual surround solution and has built-in subwoofers.
+<a href='https://www.theverge.com/2022/3/29/23002137/devialet-dione-soundbar-orb-preorder'> Source <a/>

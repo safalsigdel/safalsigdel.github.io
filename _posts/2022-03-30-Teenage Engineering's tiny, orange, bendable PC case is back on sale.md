@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M4-OmIn1ipJfMo4CNIlRhBGc3Xw=/0x0:4096x2730/1200x800/filters:focal(1721x1038:2375x1692)/cdn.vox-cdn.com/uploads/chorus_image/image/70687626/tec1line.0.jpg' width='700px' /><br/>
+You can finally get your hands on Teenage Engineering's absolutely tiny and absolutely orange Computer-1 PC case again, months after it initially went on sale and sold out. If you were really hoping to buy the $195 build-it-yourself mini-ITX case, you can head over to the company's website and add it to your cart — though before you do, it's probably worth refreshing yourself on the Computer-1's... particularities.
+<a href='https://www.theverge.com/2022/3/29/23002304/teenage-engineering-computer-1-pc-case-available'> Source <a/>
