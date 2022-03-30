@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7_ZOpJNpQuI_2wQaK54ventO42Q=/0x0:2768x1848/1200x800/filters:focal(1163x703:1605x1145)/cdn.vox-cdn.com/uploads/chorus_image/image/70689294/RISE_2_02.0.jpg' width='700px' /><br/>
+Music hardware startup Roli says it's not giving up on the line of squishy Seaboard keyboards that launched its brand. Despite reports last year that the company was pivoting to focus on educational and subscription products, Roli today announced the Seaboard Rise 2 — an upgrade to the more compact model in its Seaboard range.
+<a href='https://www.theverge.com/2022/3/30/23002833/roli-luminary-seaboard-rise-2-price-pre-order-details'> Source <a/>

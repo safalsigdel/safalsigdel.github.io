@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nG-R_7IzhVoyZ9eCrHNdbdVYiYg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70685410/DSCF1194.0.0.jpg' width='700px' /><br/>
-Yesterday, I wrote about receiving a spam text that bizarrely looked as though it came from my own phone number. But what initially seemed like a random, spoofed spam message is increasingly starting to look like a focused effort targeting Verizon Wireless, one of the largest telecoms in the United States. Today, the carrier confirmed it's aware of the situation and is investigating the matter with the help of US law enforcement.
-<a href='https://www.theverge.com/2022/3/29/23001528/verizon-spam-texts-own-number-confirms-statement'> Source <a/>
