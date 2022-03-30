@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_ovVEriBUI17SusBCqq4VUG5Qig=/0x0:3778x2125/1200x800/filters:focal(1587x761:2191x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/70689301/SF_Fully_Autonomous.0.jpg' width='700px' /><br/>
-Waymo plans to start offering rides in its fully autonomous vehicles — without human safety drivers behind the wheel — in San Francisco. The Google spinoff says its driverless vehicles will only be available to employees at first but will soon grow to include members of the company's “Trusted Tester” program.
+Waymo plans to start offering rides in its fully autonomous vehicles — without human safety drivers behind the wheel — in San Francisco. The Google spinoff says its driverless vehicles are now only available to employees but will soon grow to include members of the company's “Trusted Tester” program.
 <a href='https://www.theverge.com/2022/3/30/23002082/waymo-driverless-san-francisco-downtown-phoenix'> Source <a/>

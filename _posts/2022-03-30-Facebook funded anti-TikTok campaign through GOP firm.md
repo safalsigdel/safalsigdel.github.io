@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zn0HviK30WCcv9irlAGYXotGfJA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70689740/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook's parent company, Meta, has been paying one of the most prominent Republican consulting firms to run a nationwide campaign to sow distrust about one of the company's top competitors, TikTok, according to a new report from The Washington Post on Wednesday.
+<a href='https://www.theverge.com/2022/3/30/23003168/facebook-tiktok-targeted-victory-news-column-campaign-gop'> Source <a/>

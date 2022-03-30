@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NqNTXPflBNmY6GWZE6-aIaLO4QI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70686186/akrales_210917_4760_0331.0.jpg' width='700px' /><br/>
-Social media use is more strongly linked to bad mental health for adolescents and teenagers during years around puberty and when they're probably about to leave home, according to a new study. Teenagers who used social media more frequently in those periods scored lower on measures of life satisfaction one year later.
-<a href='https://www.theverge.com/2022/3/29/23000460/social-media-mental-health-window-puberty'> Source <a/>

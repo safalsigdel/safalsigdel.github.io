@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y5c9Tcl_IsaRXxAn5fXsrz--qOA=/0x0:768x509/1200x800/filters:focal(323x194:445x316)/cdn.vox-cdn.com/uploads/chorus_image/image/70686127/Silent_Shortcut.0.jpeg' width='700px' /><br/>
-Meta, the parent company of Facebook, is introducing Slack-like shortcuts to Messenger that let you do things like send a message silently or quickly call up a GIF while you're chatting with your friends.
-<a href='https://www.theverge.com/2022/3/29/23001776/messenger-shortcuts-commands-silent-replies-everyone-pay-gif-shrug-table'> Source <a/>

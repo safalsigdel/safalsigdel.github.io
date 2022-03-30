@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hEO-e0B_9N_2zSoGokwvpmrdHvc=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70689697/sottr_review01.0.jpg' width='700px' /><br/>
+If you've just acquired a new game and you're not sure what settings or resolution your PC can run it at without stutter and lag, a benchmark is a good way to try out various profiles before you dive in. Shadow of the Tomb Raider is one title with a built-in benchmark that's easy to run.
+<a href='https://www.theverge.com/23001732/shadow-of-the-tomb-raider-benchmark-how-to-pc-gpu'> Source <a/>
