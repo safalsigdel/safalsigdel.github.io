@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ks1yCWgWJ0OgIPI6KX-TQb1tKY4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70690215/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.5.jpg' width='700px' /><br/>
-After a short “vacation,” the Lapsus$ hacking gang is back. In a post shared through the group's Telegram channel on Wednesday, Lapsus$ claimed to have stolen 70GB of data from Globant — an international software development firm headquartered in Luxembourg, which boasts some of the world's largest companies as clients.
-<a href='https://www.theverge.com/2022/3/30/23003194/lapsus-gang-new-hack-apple-facebook-globant'> Source <a/>
