@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HU3yKZjXiWue4n5iKjpPIyleKmo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70690096/twarren_180507_2536_0001.0.jpg' width='700px' /><br/>
-Microsoft's annual Build developer conference is back as a virtual event for 2022. Much like the past two Builds, this year's event will be hosted online from May 24th to May 26th. Microsoft hosts Build every year as an event for developers, engineers, IT professionals, students, and startups to learn the latest about Microsoft technologies, Windows, Office, and more.
-<a href='https://www.theverge.com/2022/3/30/23003277/microsoft-build-2022-may-24th-26th-dates'> Source <a/>
