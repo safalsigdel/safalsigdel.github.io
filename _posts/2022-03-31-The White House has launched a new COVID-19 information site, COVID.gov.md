@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8hjZazVj928-A4geGLPnSmGJcDU=/0x0:2100x1326/1200x800/filters:focal(840x391:1176x727)/cdn.vox-cdn.com/uploads/chorus_image/image/70689268/covid_19_info_white_house.0.png' width='700px' /><br/>
-The Biden administration has launched COVID.gov, a website geared toward connecting Americans with more information about COVID-19 spread, prevention, and treatment in their communities.
-<a href='https://www.theverge.com/2022/3/30/23002916/white-house-covid-19-information-site-coronavirus'> Source <a/>
