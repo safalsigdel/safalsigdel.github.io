@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z-eXyJSPdNlAU9feeA5Sev6nfQ8=/0x0:7348x4899/1200x800/filters:focal(3087x1863:4261x3037)/cdn.vox-cdn.com/uploads/chorus_image/image/70693453/BFARSACE_220330_5117_6.0.jpg' width='700px' /><br/>
+GoPro is announcing a new accessory for its action cameras that's a jack of all trades — the Volta acts as a grippable handle / tripod, a wired or wireless remote, and has a 4,900mAh battery that the company says can triple your camera's battery life, providing four hours of record time when paired with a completely charged internal battery if you're shooting 5.3K footage.
+<a href='https://www.theverge.com/2022/3/31/23003735/gopro-volta-tripod-handle-external-battery'> Source <a/>

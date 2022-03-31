@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lhNvFezsa_j1oQKPECTg-nOawUI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70689627/acastro_180504_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-Microsoft will reveal how the company is building Windows for the future of hybrid work next week. A special event, Windows Powers the Future of Hybrid Work, will take place on April 5th and feature Windows and Surface chief Panos Panay and Microsoft CEO Satya Nadella. It's expected to cover a variety of new Windows 11 features for security, productivity, and management, both in the client and cloud.
-<a href='https://www.theverge.com/2022/3/30/23002966/microsoft-event-windows-11-future-hybrid-work-rumors'> Source <a/>

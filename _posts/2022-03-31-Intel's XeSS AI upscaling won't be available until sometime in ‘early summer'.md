@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Aiq4WzbbKyS4pa7RNtNOHCLOyk=/0x0:2790x1512/1200x800/filters:focal(1172x533:1618x979)/cdn.vox-cdn.com/uploads/chorus_image/image/70689536/Screen_Shot_2022_03_29_at_1.58.16_PM.0.png' width='700px' /><br/>
-Intel's first Arc GPUs are launching today, but one of the biggest features for the new discrete graphics cards will be absent when the first Arc-powered laptops arrive: the company's XeSS AI-powered upscaling technology, which Intel says won't be available until sometime in “early summer.”
-<a href='https://www.theverge.com/2022/3/30/23001801/intel-xess-ai-upscaling-arc-gpu-release-date'> Source <a/>
