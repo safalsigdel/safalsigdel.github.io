@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z6bFqYX9QETwqgjOp41yG-PMQtQ=/0x0:1228x938/1200x800/filters:focal(516x371:712x567)/cdn.vox-cdn.com/uploads/chorus_image/image/70690394/Text_Dictation_Editing.0.png' width='700px' /><br/>
+Like its Chrome browser counterpart, Chrome OS has finally reached its 100th version. Google fully updates its operating system every four weeks or so. The new release comes with a new design for Chrome OS's launcher meant to make it more intuitive and customizable for Chromebook users.
+<a href='https://www.theverge.com/2022/3/30/23003295/chrome-os-100-version-features-google'> Source <a/>

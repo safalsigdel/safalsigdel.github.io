@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gccYpE6ATMCXLmmLJHK7ThXBHVU=/0x0:1080x720/1200x800/filters:focal(474x295:646x467)/cdn.vox-cdn.com/uploads/chorus_image/image/70692067/wyze_cam_6.0.jpg' width='700px' /><br/>
+I just threw my Wyze home security cameras in the trash. I'm done with this company.
+<a href='https://www.theverge.com/23003418/wyze-cam-v1-vulnerability-no-patch-bitdefender-responsible-disclosure'> Source <a/>

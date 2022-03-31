@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z5vsU2omPtU6QGQ3YThMvTiXRLI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70689464/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-T-Mobile is reportedly delaying its planned shutdown of Sprint's 3G network again to May 31st (via The T-Mo Report). If the report is accurate, it would be the second time the company has pushed the date back; originally, it was going to phase out the network in January but said in October that it would extend the deadline to March 31st.
-<a href='https://www.theverge.com/2022/3/30/23002956/tmobile-shutdown-date-push-back-sprint-3g-dcma-network-dish'> Source <a/>

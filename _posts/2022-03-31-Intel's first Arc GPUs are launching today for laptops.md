@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hBJyHNvamBil7j1X6r_z6Gxlako=/0x0:2788x1528/1200x800/filters:focal(1171x541:1617x987)/cdn.vox-cdn.com/uploads/chorus_image/image/70689541/Screen_Shot_2022_03_29_at_2.01.04_PM.0.png' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/JSJQ1CjpciQgSvfsUzVnqeKh360=/0x0:1713x1472/1200x800/filters:focal(609x634:883x908)/cdn.vox-cdn.com/uploads/chorus_image/image/70689541/Untitled.10.jpg' width='700px' /><br/>
 Intel's discrete GPU revolution is finally beginning after months of previews and teasers, with the company launching its first Arc A-series GPUs for laptops today. They bring support for DirectX 12, dedicated ray-tracing hardware, and — at least for the first batch of GPUs — only around twice the power of Intel's integrated Xe graphics.
 <a href='https://www.theverge.com/2022/3/30/23000576/intel-arc-gpu-a-series-laptop-gaming-release-date'> Source <a/>

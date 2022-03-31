@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2mzKVWiXQ4bvMl2WKYaULDn8zSQ=/0x0:2284x1272/1200x0/filters:focal(0x0:2284x1272):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23355320/Screen_Shot_2022_03_30_at_11.02.14_AM.png' width='700px' /><br/>
+Intel's Arc GPUs debuted today for laptops, but the company hasn't forgotten its highly anticipated re-entry into the world of desktop graphics cards, either: the company showed off a first look at the final Arc hardware, along with a reveal that the first GPUs will arrive this summer as a “limited edition” release.
+<a href='https://www.theverge.com/2022/3/30/23003097/intel-arc-desktop-gpu-release-date-preview-summer-2022'> Source <a/>

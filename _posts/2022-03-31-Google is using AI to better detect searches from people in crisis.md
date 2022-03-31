@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_XJFmxihyiWdLAp2ot5oufvfryk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70689887/akrales_180508_2553_0015.0.jpg' width='700px' /><br/>
+In a personal crisis, many people turn to an impersonal source of support: Google. Every day, the company fields searches on topics like suicide, sexual assault, and domestic abuse. But Google wants to do more to direct people to the information they need, and says new AI techniques that better parse the complexities of language are helping.
+<a href='https://www.theverge.com/2022/3/30/23001468/google-search-ai-mum-personal-crisis-information'> Source <a/>

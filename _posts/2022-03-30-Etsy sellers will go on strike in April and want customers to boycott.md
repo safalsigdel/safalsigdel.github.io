@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BrpyY1sSMJbfG6MGnTLEcykqGrE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70688991/VRG_Illo_5112_L_Park_Etsy_Strike.0.jpg' width='700px' /><br/>
-In February, Etsy CEO Josh Silverman had good news to share with investors: sales and revenue were at an all-time high, sending Etsy stock soaring. At the same time, Silverman had less welcome news for sellers, delivered via email: transaction fees were going up, from 5 percent to 6.5 percent, or a 30 percent increase, beginning April 11th.
-<a href='https://www.theverge.com/2022/3/30/23001727/etsy-seller-strike-boycott-fee-increase'> Source <a/>

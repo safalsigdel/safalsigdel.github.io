@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_06_0NPTRs0Xlk-BkfctqEZhsbA=/0x0:5483x3727/1200x800/filters:focal(2304x1426:3180x2302)/cdn.vox-cdn.com/uploads/chorus_image/image/70688344/1369304697.0.jpg' width='700px' /><br/>
-The National Football League is working on its own subscription streaming service for mobile devices, according to a report in The Athletic. The league is said to have briefed teams on the project at its annual meeting of owners, which has been held over the past few days in Palm Beach, Florida. The Athletic says that presentations included slides with “NFL+” branding and a hypothetical $5-a-month price point.
-<a href='https://www.theverge.com/2022/3/30/23002742/nfl-plus-mobile-streaming-service-planned-report'> Source <a/>

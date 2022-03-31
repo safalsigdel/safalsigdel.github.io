@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J7pULsybCCQL7rEOZKrqG5lCp4s=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/70687516/1384845468.0.jpg' width='700px' /><br/>
-Lionel Messi has signed a $20 million deal with Socios to become the fan token site's global brand ambassador, according to a report from Reuters. Messi, who plays for the Paris-Saint Germain soccer club and captains Argentina's national team, will promote the exchange for the next three years.
-<a href='https://www.theverge.com/2022/3/29/23001448/lionel-messi-20-million-deal-promote-socios-fan-token-site-cryptocurrency-soccer-football'> Source <a/>

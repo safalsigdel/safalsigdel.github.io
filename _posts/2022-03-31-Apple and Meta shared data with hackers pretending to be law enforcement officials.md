@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/stP1Cjiv3qggbi4_Z3KT_41NdtA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70691632/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Apple and Meta handed over user data to hackers who faked emergency data request orders typically sent by law enforcement, according to a report by Bloomberg. The slip-up happened in mid-2021, with both companies falling for the phony requests and providing information about users' IP addresses, phone numbers, and home addresses.
+<a href='https://www.theverge.com/2022/3/30/23003600/apple-meta-shared-data-hackers-pretending-law-enforcement-officials'> Source <a/>

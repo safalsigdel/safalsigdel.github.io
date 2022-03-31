@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FXfN_0KyX8Q-5DyekEiCDNV95WU=/0x0:3500x2338/1200x800/filters:focal(1470x889:2030x1449)/cdn.vox-cdn.com/uploads/chorus_image/image/70687275/138903655.0.jpg' width='700px' /><br/>
-The Federal Trade Commission (FTC) said Tuesday that Intuit's “ubiquitous” advertising claiming its TurboTax tax prep software is free to use is misleading, and has asked a federal court to order Intuit to stop “disseminating the deceptive claim that consumers can file their taxes for free using TurboTax.”
-<a href='https://www.theverge.com/2022/3/29/23002219/ftc-turbo-tax-irs-free-tax-prep-software-intuit-misleading'> Source <a/>

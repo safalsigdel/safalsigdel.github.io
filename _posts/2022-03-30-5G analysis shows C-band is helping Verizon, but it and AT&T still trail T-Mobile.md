@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rvey1PeQbzOJCwvMjiJTnbsKbB4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70686303/acastro_180430_1777_5G_0001.0.0.0.jpg' width='700px' /><br/>
-Verizon and AT&T's recent 5G rollout could put them in a better position to compete with T-Mobile, which has had similar tech rolled out for years, according to data from Opensignal. The company's analysis showed that when Verizon turned on its C-band equipment in January, its average 5G speeds jumped — and where carriers have their new tech rolled out, they're all achieving similar speeds.
-<a href='https://www.theverge.com/2022/3/29/23001716/5g-analysis-verizon-t-mobile-att-speeds-c-band-mid'> Source <a/>

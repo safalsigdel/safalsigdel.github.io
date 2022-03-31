@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1wosp21zP3Yv7W9tJzE4cf-epWs=/0x0:3222x1748/1200x800/filters:focal(1354x617:1868x1131)/cdn.vox-cdn.com/uploads/chorus_image/image/70688265/Screen_Shot_2022_03_29_at_4.32.01_PM.0.png' width='700px' /><br/>
-Dyson is getting into headphones in the most Dyson way possible: the Zone, a pair of noise-canceling Bluetooth headphones with air purification technology built in, thanks to a bizarre-looking magnetic face visor. It's both the strangest and most ambitious product that the company has ever made.
-<a href='https://www.theverge.com/2022/3/30/23000577/dyson-zone-noise-cancellation-headphones-built-in-air-purifier'> Source <a/>
