@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/of-XW98LWvMfVYyt8zWobaLQ-VI=/0x0:1100x763/1200x800/filters:focal(408x272:584x448)/cdn.vox-cdn.com/uploads/chorus_image/image/70694287/shutterstock_51858178.1419979512.0.jpg' width='700px' /><br/>
+US citizens will have the option to choose the gender-neutral X marker on passports beginning April 11th, the Department of State announced. The agency said the X option will be available for other forms of documentation next year, according to a statement from Secretary of State Antony Blinken.
+<a href='https://www.theverge.com/2022/3/31/23004639/us-gender-neutral-x-option-non-binary-transgender-passports-april-11th'> Source <a/>
