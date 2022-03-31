@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p4_qOuqSRK8J85bbMAVfJsOp-KY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70692927/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+A Twitter user from the UK named Joseph Kelly has been sentenced to 150 hours of community service for posting a “grossly offensive” tweet about Captain Sir Tom Moore, a British Army officer who raised money for the NHS during the pandemic.
+<a href='https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly'> Source <a/>

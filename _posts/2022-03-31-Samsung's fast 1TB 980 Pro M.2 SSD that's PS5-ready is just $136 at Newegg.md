@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qEoSsFeFvu4Nfj0rxuugk93s9XQ=/0x0:2000x1325/1200x800/filters:focal(840x503:1160x823)/cdn.vox-cdn.com/uploads/chorus_image/image/70689218/ps5ssd1_1.0.jpg' width='700px' /><br/>
-It's not usually affordable to add a speedy M.2 SSD to your PS5, but at Newegg, you can get the biggest discount yet on Samsung's 1TB 980 Pro drive that has a heatsink pre-installed. It costs just $135.99 with the offer code SSBQ3Z25 applied at checkout, down from its typical $170 price that Amazon is currently selling it for. In fact, this model is cheaper right now than the version that omits the heatsink.
-<a href='https://www.theverge.com/good-deals/2022/3/30/23002896/samsung-980-pro-heatsink-ps5-razer-gaming-1password-apple-tv-4k-deal-sale'> Source <a/>
