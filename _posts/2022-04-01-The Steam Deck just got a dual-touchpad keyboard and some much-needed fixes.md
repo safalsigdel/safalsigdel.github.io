@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xZ0h5YTCx-VMEROr2umNDdpWAXY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70695131/vpavic_220210_5030_0096.0.jpg' width='700px' /><br/>
+Did I speak too soon? Two days after my one-month check-in with the Steam Deck portable gaming PC, Valve has already addressed a few of the most annoying issues I pointed out.
+<a href='https://www.theverge.com/2022/3/31/23004969/steam-deck-keyboard-dual-touchpad-wi-fi-disconnect-patch-client-update-fix'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jHfTELoUZdAZJRZlq1-g9aFMCYI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70690406/WA_VoiceMessages_NewFeatures_English.0.png' width='700px' /><br/>
-WhatsApp announced on Wednesday that it will roll out some improvements to voice messages over the coming weeks, including the ability to listen to a message while reading other chats and play messages at 1.5 or 2 times speed (yes, please, put this feature everywhere).
-<a href='https://www.theverge.com/2022/3/30/23003304/whatsapp-voice-message-update-pause-recording-speed-control-outside-chat'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rv3EEbL17TZdILUVhFIsnOH1hss=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70695107/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+A group of Facebook engineers identified a “massive ranking failure” that exposed as much as half of all News Feed views to potential “integrity risks” over the past six months, according to an internal report on the incident obtained by The Verge.
+<a href='https://www.theverge.com/2022/3/31/23004326/facebook-news-feed-downranking-integrity-bug'> Source <a/>

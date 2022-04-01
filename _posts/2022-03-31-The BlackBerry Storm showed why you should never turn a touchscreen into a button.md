@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KkyA7MzBjbDVuDCx1U6N0YBvipo=/0x0:2040x1360/1200x800/filters:focal(761x176:1087x502)/cdn.vox-cdn.com/uploads/chorus_image/image/70693485/akrales_220328_5025_0006.0.jpg' width='700px' /><br/>
-In 2007, the iPhone ushered in an era of touchscreen gadgets that caused most buttons to vanish from our phones forever. But there was one brief moment in the gray, transitory haze between buttons and touchscreens that an unlikely company tried to fuse the two together. BlackBerry split the difference by boldly asking, “What if a touchscreen was also a hardware button?”
-<a href='https://www.theverge.com/23002238/blackberry-storm-surepress-screen-button-touchscreen-technology'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/No2_ZCvAtRr0B95zOC9xb05tlyQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70693580/dseifert_220211_5018_0009.0.jpg' width='700px' /><br/>
-Smart locks have allowed us to ditch the keys and unlock our front doors via our phones for years. But while smart locks can be quite convenient, especially if they have pin pads or fingerprint scanners, using your phone to unlock the door can be as cumbersome as fumbling for the right key in the dark. You have to pull out your phone, unlock it, find the right app, tap the unlock button, and wait for the lock to respond.
-<a href='https://www.theverge.com/22964521/schlage-smart-lock-review-encode-plus-apple-home-key-test'> Source <a/>

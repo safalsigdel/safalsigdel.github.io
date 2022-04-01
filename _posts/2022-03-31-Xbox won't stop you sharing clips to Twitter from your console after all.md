@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rdh_7tnYR94XaHqEfDrBKeORLpo=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/70692981/twarren_200908_4177_0011.0.0.jpg' width='700px' /><br/>
-Microsoft's latest Xbox beta software reverses a potentially controversial change to how the console shares gameplay captures to Twitter. Rather than having to use a phone to post content to the social media network, as a previous Xbox Insider build forced users to do, the update restores the ability to share it directly from the console. The change was confirmed by Microsoft's Brad Rossetti on Twitter.
-<a href='https://www.theverge.com/2022/3/31/23004370/xbox-wont-stop-you-sharing-clips-to-twitter-from-your-console-after-all'> Source <a/>

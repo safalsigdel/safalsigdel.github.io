@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TGS-CRLzJ8mMHjnzqUykBH-psUk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70695166/openpublicdocument.do.0.jpeg' width='700px' /><br/>
+Dell's latest laptop dock adds a little something extra: a Qi wireless charging stand that lets you see and charge your phone while also connecting your laptop to monitors and peripherals (via Ars Technica). The Dual Charge Dock can provide 90W to your computer over USB-C and 12W of power to your phone via the fabric-covered wireless charger.
+<a href='https://www.theverge.com/2022/3/31/23004860/dell-dual-charge-laptop-dock-qi-wireless-charging-two-monitors'> Source <a/>

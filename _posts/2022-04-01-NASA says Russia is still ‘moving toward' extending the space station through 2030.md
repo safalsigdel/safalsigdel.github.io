@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UqPF8bE6awsvHpNXZUxhMNqCBqk=/0x0:5150x3148/1200x800/filters:focal(2163x1162:2987x1986)/cdn.vox-cdn.com/uploads/chorus_image/image/70694712/51750549427_63b21c49b5_o__1_.0.jpg' width='700px' /><br/>
+Despite the United States and Russia's deteriorating relationship here on Earth, Russia is still considering extending its participation on the International Space Station through 2030, according to NASA. However, it could be a few months before there is a solid update on Russia's official stance.
+<a href='https://www.theverge.com/2022/3/31/23004797/nasa-russia-roscosmos-international-space-station-partnership-2030'> Source <a/>

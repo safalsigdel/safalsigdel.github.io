@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OXv68ZrQRfSUWGjCUiTNU4-Ck3E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70692304/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
-It's starting to look like the upcoming version of TweetDeck, the power-user-focused version of the Twitter app, won't be free. Security researcher Jane Manchun Wong has discovered a work-in-progress sign-up page for the app, which boasts that it's a “powerful, real-time tool for people who live on Twitter” and offers an ad-free experience.
-<a href='https://www.theverge.com/2022/3/30/23003897/tweetdeck-paid-feature-twitter-blue-subscription-pro-power-user'> Source <a/>
