@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sCHx7CKR2W-pHWlaHqvdt7gTMP0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70694013/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
-Update March 31st, 4:45PM ET: Despite language on Amazon indicating a forthcoming restock event, the retailer has yet to open up its listing for the PlayStation 5. The Xbox Series X, on the other hand, is still available for Amazon Prime subscribers at this time.
-<a href='https://www.theverge.com/2022/3/31/22883760/sony-playstation-5-ps5-microsoft-xbox-series-x-amazon-prime-console-restock-availability-price-check'> Source <a/>
