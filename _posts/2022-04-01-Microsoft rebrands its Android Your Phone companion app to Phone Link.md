@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FXFkEgNdfAAq1H9BrAI3wuuwuLk=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70694043/phonelink.0.png' width='700px' /><br/>
-Microsoft is rebranding its Your Phone app to Phone Link and updating it with a Windows 11 design overhaul. Your Phone launched more than three years ago as a key way to link an Android phone to Windows and avoid picking up your device to check calls or notifications. Phone Link is naturally a better description for the app, and it has now been updated to match the Windows 11 design changes.
-<a href='https://www.theverge.com/2022/3/31/23004352/microsoft-phone-link-rebranding-windows-11-design-update'> Source <a/>
