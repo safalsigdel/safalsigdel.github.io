@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xoc_xXAfYhj81p7Tg_n-LmMPMdg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70700023/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-The House Committee on Oversight and Reform has launched an investigation into Amazon's labor practices around severe weather events, focusing on the company's Illinois warehouse where six people died in a tornado strike last winter.
-<a href='https://www.theverge.com/2022/4/1/23006449/amazon-investigation-oversight-reform-committee-us-house-edwardsville-tornado'> Source <a/>

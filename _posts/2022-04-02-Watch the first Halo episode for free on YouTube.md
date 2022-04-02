@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U2S5tVGrhKi1YnazguxRrg1uX30=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70697432/Halo_101_5450_RT.0.jpeg' width='700px' /><br/>
-The live-action Halo show on Paramount Plus is already onto its second episode this week, but the first one is now available for free on YouTube. As long as you're in the US, you can access the first episode of Halo on YouTube.
-<a href='https://www.theverge.com/2022/4/1/23006019/halo-tv-show-first-episode-free-youtube'> Source <a/>

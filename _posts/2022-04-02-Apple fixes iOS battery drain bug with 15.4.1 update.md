@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/PoY5yK-_lEoE_uh2ofWvhgxlrZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70695543/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
 Apple has released iOS and iPadOS 15.4.1, an update that fixes some accessibility bugs, improves security, and fixes a battery drain bug that plagued some people's phones and iPads after they updated to iOS 15.4.
-<a href='https://www.theverge.com/2022/3/31/23005192/apple-iphone-ios-ipad-battery-drain-bug-15-4-1-update-security'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/PoY5yK-_lEoE_uh2ofWvhgxlrZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70695543/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple has released iOS and iPadOS 15.4.1, an update that fixes some accessibility bugs, improves security, and fixes a battery drain bug that plagued some people's phones and iPads after they updated to iOS 15.4.
 <a href='https://www.theverge.com/2022/3/31/23005192/apple-iphone-ios-ipad-battery-drain-bug-15-4-1-update-security'> Source <a/>

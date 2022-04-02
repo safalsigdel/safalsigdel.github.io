@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9QUq7HZNnDV-Pm1ZFEgQ8Gu0wq4=/0x0:6048x4032/1200x800/filters:focal(2541x1533:3507x2499)/cdn.vox-cdn.com/uploads/chorus_image/image/70702244/iss056e201248.0.jpg' width='700px' /><br/>
+Russia says it will end cooperation with other nations on the International Space Station until the sanctions put on the country are lifted. Dmitry Rogozin, the head of Russian space agency Roscosmos, announced in a thread on Twitter that the “restoration of normal relations between partners” on the ISS and other projects is only possible with the “complete and unconditional lifting of illegal sanctions.”
+<a href='https://www.theverge.com/2022/4/2/23007575/russia-suspend-iss-cooperation-sanctions-lifted-ukraine-space-nasa'> Source <a/>

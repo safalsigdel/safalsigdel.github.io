@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3pMtWAjYThioBq-0nt4u5szzZRA=/0x0:1242x828/1200x800/filters:focal(522x315:720x513)/cdn.vox-cdn.com/uploads/chorus_image/image/70697546/FMaEEKZXEAAm8Nf.0.jpg' width='700px' /><br/>
-Twitter has confirmed it's “exploring” a new feature that would allow two account to co-author a single tweet, TechCrunch reports. App researcher Alessandro Paluzzi has been posting evidence of the feature's development since at least December, but more recently discovered what appears to be an official dialog box from Twitter about how these tweet collaborations could work.
-<a href='https://www.theverge.com/2022/4/1/23006050/twitter-co-author-tweets-experiment'> Source <a/>
