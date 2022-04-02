@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C8G3kqLjsOctK9gcwplXM3-5DlE=/0x0:3744x2496/1200x800/filters:focal(1573x949:2171x1547)/cdn.vox-cdn.com/uploads/chorus_image/image/70694289/1383091481.0.jpg' width='700px' /><br/>
-The Biden administration plans to use the Defense Production Act (DPA) to ramp up the mining and processing of key minerals used in batteries for renewable energy and electric vehicles. That could include nickel, lithium, cobalt, graphite, and manganese, according to the White House fact sheet.
-<a href='https://www.theverge.com/2022/3/31/22996690/joe-biden-defense-production-act-ev-batteries'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rt3YwotJAeC5S5i8rcbr1CXFB8U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70694318/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google is announcing a whole bunch of Workspace updates intended to improve virtual collaboration. But as a big fan of emoji, I have to say the new feature I'm most excited about is in-meeting emoji reactions in Google Meet.
-<a href='https://www.theverge.com/2022/3/31/23002320/google-workspace-meet-emoji-reactions-picture-in-picture-livestream-youtube-spaces'> Source <a/>

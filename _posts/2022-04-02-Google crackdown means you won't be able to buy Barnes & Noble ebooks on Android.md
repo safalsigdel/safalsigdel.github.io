@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JbnEn6EpAIsSSvgEM8lbg4cQzPk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70700386/wjoel_180413_1777_android_002.0.jpg' width='700px' /><br/>
+Starting next week, users of Barnes & Noble's Android app will no longer be able to buy digital books in the app, and it seems to be due to a Google Play policy deadline that's been more than a year and a half in the works. And it's not just Barnes & Noble that's affected; you aren't able to buy Amazon's Audible titles with a debit or credit card in the latest version of its Android app, either.
+<a href='https://www.theverge.com/2022/4/1/23006695/audible-barnes-noble-in-app-purchases-google-android'> Source <a/>

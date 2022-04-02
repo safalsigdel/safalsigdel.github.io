@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GtS45ULrmzbG-fiZvqmBBSS0Uug=/0x0:2130x1420/1200x800/filters:focal(895x540:1235x880)/cdn.vox-cdn.com/uploads/chorus_image/image/70694633/VRG_ILLO_1777_AK_body_data.0.0.jpg' width='700px' /><br/>
-At-home health testing company LetsGetChecked has acquired the genetic testing company Veritas Genetics and spinoff Veritas Intercontinental, it announced Tuesday. It's the latest pivot for a direct-to-consumer genetics company, most of which have spent the past few years struggling to sell DNA test kits to consumers more and more concerned about genetic privacy.
-<a href='https://www.theverge.com/2022/3/31/23002953/home-testing-letsgetchecked-genetic-sequencing-veritas'> Source <a/>

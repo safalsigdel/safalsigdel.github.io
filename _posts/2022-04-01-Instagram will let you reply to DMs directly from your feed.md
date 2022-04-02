@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/COaZKHM6x9Qbfa1RWeObtjVmFxk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70694322/15._Q1_Bundle___1_A__1200x675_.0.jpg' width='700px' /><br/>
-Instagram is giving users a host of new options when sending direct messages (or DMs to you and I) on its platform. The most useful is a new option to quickly reply to a DM directly from your feed without having to go into your inbox and lose your place. There are also new share options as well as the ability to send song previews and conduct polls in group chats.
-<a href='https://www.theverge.com/2022/3/31/23004407/instagram-dms-update-reply-feed-song-previews-messenger-integration'> Source <a/>
