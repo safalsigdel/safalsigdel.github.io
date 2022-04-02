@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ruBGTrXaefmulocNFryEq8Kg2SQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70694842/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
-Microsoft is reportedly planning to introduce an Xbox Game Pass family plan this year. Windows Central reports that Microsoft has been contemplating a family plan for Xbox Game Pass for quite some time and that the company is now in the position to announce one in the “near future.”
-<a href='https://www.theverge.com/2022/3/31/23004950/xbox-game-pass-family-plan-rumors'> Source <a/>

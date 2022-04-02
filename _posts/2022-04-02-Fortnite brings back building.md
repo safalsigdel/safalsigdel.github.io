@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GfoJ4Uq-bC-6XHay1cvdNCCPnPg=/0x0:1500x896/1200x0/filters:focal(0x0:1500x896):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23362359/fortnite_menu.jpg' width='700px' /><br/>
+Building has returned. This morning, Fortnite has re-enabled queues for its signature building feature; it was temporarily removed as part of the game's latest season, which launched on March 20th.
+<a href='https://www.theverge.com/2022/4/2/22999741/fortnite-chapter-3-season-2-building-returns-zero-build-mode'> Source <a/>
