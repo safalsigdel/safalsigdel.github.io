@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/06FCobGnsNn0tJDX5k4L4TqX9vk=/0x0:5624x3749/1200x800/filters:focal(2363x1426:3261x2324)/cdn.vox-cdn.com/uploads/chorus_image/image/70698634/1387672919.0.jpg' width='700px' /><br/>
+Workers at an Amazon warehouse in New York City have voted to unionize, an historic first for workers at the e-commerce company. The final tally was 2,654 yes votes, and 2,131, with 67 challenges. The workers at the JFK8 fulfillment center in Staten Island will join the Amazon Labor Union, as the number of challenges is not sufficient to affect the outcome.
+<a href='https://www.theverge.com/2022/4/1/23004524/amazon-workers-vote-union-jfk8-staten-island-new-york-warehouse-win'> Source <a/>

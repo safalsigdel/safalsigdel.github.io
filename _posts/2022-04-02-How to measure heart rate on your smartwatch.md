@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gzZ_7jjH3-2KJglMv1Okjs55t7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70697850/dseifert_200930_4217_0013.0.0.jpg' width='700px' /><br/>
+Modern smartwatches have a wide array of heart-rate monitoring features. That includes passive all-day monitoring as well as spot checks for specific metrics. Some will even alert you if your heart rate suddenly spikes when it shouldn't. The most advanced devices also have FDA-cleared electrocardiograms that may help detect atrial fibrillation.
+<a href='https://www.theverge.com/23004703/heart-rate-ekg-smartwatch'> Source <a/>
