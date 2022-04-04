@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_qhEDaIHdHDQ6GFUC8q6g9gamu0=/0x0:2040x1360/1200x800/filters:focal(825x217:1151x543)/cdn.vox-cdn.com/uploads/chorus_image/image/70702647/vpavic_201214_4405_0360.0.jpg' width='700px' /><br/>
+The rumored DJI Mini 3 Pro may come with some substantial upgrades over its non-Pro predecessor, including obstacle avoidance sensors and a larger battery, as indicated by leaked images and a video of the new drone (via TechRadar).
+<a href='https://www.theverge.com/2022/4/2/23007680/dji-mini-3-pro-leak-obstacle-avoidance-sensors'> Source <a/>

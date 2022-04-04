@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hvRywMLlCNeLD0N1Atf9XX5D_UU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70703308/snapchat_youtube_links_sticker.0.jpg' width='700px' /><br/>
+Snapchat is making it easier to share YouTube videos within your snap or story, letting you bypass the process of copying, pasting, and attaching the video as a link (via Android Police). The feature is available on both Android and iOS.
+<a href='https://www.theverge.com/2022/4/2/23007949/snapchat-share-youtube-videos-sticker'> Source <a/>

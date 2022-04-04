@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CT_GBYJg9e7a8Lea1Zhxty87NV8=/0x0:5154x3436/1200x800/filters:focal(2963x1336:3787x2160)/cdn.vox-cdn.com/uploads/chorus_image/image/70695829/1232001976.0.jpg' width='700px' /><br/>
-The votes for the union drive at Amazon's warehouse in Bessemer, Alabama, have been counted, but the final result is so close that it will depend on a court hearing yet to come.
-<a href='https://www.theverge.com/2022/3/31/23004479/amazon-workers-vote-results-union-bessemer-warehouse-challenged-ballots-results'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UBoy8nlPjZ60yRLD4a_c4bWHRi4=/0x0:4000x3000/1200x800/filters:focal(1701x1444:2341x2084)/cdn.vox-cdn.com/uploads/chorus_image/image/70704725/1311107789.0.jpg' width='700px' /><br/>
+Tesla's Shanghai factory will remain closed for another day as the city deals with strict lockdown measures brought on by an uptick in COVID-19 cases, as first reported by Bloomberg. In a company memo obtained by Bloomberg, Tesla reportedly told employees on Sunday to stay home to comply with the city's COVID restrictions.
+<a href='https://www.theverge.com/2022/4/3/23008668/tesla-shanghai-factory-closed-lockdown-covid-china'> Source <a/>

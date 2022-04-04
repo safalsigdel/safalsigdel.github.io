@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7PVWHBx0FVtQeKsKxtMZdGo1n1Q=/0x0:2048x1383/1200x800/filters:focal(711x406:1037x732)/cdn.vox-cdn.com/uploads/chorus_image/image/70705877/nasa_artemis_i_dress_rehearsal.0.jpg' width='700px' /><br/>
+Today, NASA suspended the last major test of its Space Launch System (SLS) rocket after pressurization issues prevented technicians from safely loading propellants into the rocket. The test — known as a wet dress rehearsal — has been postponed until Monday, April 4th at the earliest, NASA announced in a post on the Artemis I live blog.
+<a href='https://www.theverge.com/2022/4/3/23009017/nasa-dress-rehearsal-delay-artemis-space-launch-system-megarocket'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pQmEmBuu4WbwLLmWBidm-EDfc8s=/0x0:4600x2985/1200x800/filters:focal(1932x1125:2668x1861)/cdn.vox-cdn.com/uploads/chorus_image/image/70695305/539920386.0.jpg' width='700px' /><br/>
-Microsoft started testing Minecraft ray tracing on the Xbox earlier this week, and now the software giant says it was mistake and will be removed. A preview version of Minecraft appeared for Xbox testers with optimizations for Xbox Series X / S consoles and the ability to enable ray tracing.
-<a href='https://www.theverge.com/2022/3/31/23005173/microsoft-xbox-minecraft-ray-tracing-preview-removal-mistake'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xoM-e5xIXg5jKyDuH1TCoEYi-z8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70702884/tesla_model_y_3543.0.jpg' width='700px' /><br/>
+Tesla delivered 310,048 vehicles in the first quarter of 2022, despite what Tesla CEO Elon Musk says was an “exceptionally difficult quarter,” citing global supply chain issues and a brief closure at Tesla's Shanghai factory, as reported by CNBC.
+<a href='https://www.theverge.com/2022/4/2/23007804/tesla-deliveries-310000-vehicles-exceptionally-difficult-quarter-elon-musk-shanghai-supply-chain'> Source <a/>
