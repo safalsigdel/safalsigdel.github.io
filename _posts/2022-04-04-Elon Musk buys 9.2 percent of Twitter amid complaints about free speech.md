@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oFMvcF13ecdoKj8ZOVTDa9KqWcE=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70706871/1239417462.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk now owns 9.2 percent of Twitter according to a 13G filing released today, Bloomberg News reports. According to the filing, Musk purchased the stake on March 14th. Musk has long been one of Twitter's highest profile users and recently polled his over 80 million followers about the platform's adherence to free speech. Twitter's share price was up over 25 percent in pre-market trading on the news.
+<a href='https://www.theverge.com/2022/4/4/23009622/elon-musk-twitter-shares-free-speech'> Source <a/>

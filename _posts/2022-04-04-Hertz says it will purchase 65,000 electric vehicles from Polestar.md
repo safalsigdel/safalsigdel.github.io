@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sd637oEOMFXDQGcFmOwY0DR-k9M=/0x0:2700x1518/1200x800/filters:focal(1134x543:1566x975)/cdn.vox-cdn.com/uploads/chorus_image/image/70707661/HTZ00094_social__1_.0.jpg' width='700px' /><br/>
+Rental car company Hertz announced plans to purchase up to 65,000 electric vehicles from Polestar, a sub-brand of Volvo and its Chinese parent company Geely. The announcement follows a similar move by Hertz to purchase 100,000 Tesla vehicles in a bid to electrify its global fleet.
+<a href='https://www.theverge.com/2022/4/4/23009781/hertz-polestar-ev-purchase-car-rental-deal'> Source <a/>

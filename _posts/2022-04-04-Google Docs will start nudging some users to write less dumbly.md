@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JtD2ACFrjXwQgqJ7MnzlIL4HXLw=/0x0:1355x903/1200x800/filters:focal(570x344:786x560)/cdn.vox-cdn.com/uploads/chorus_image/image/70697232/Untitled_4.0.jpg' width='700px' /><br/>
-Google Docs could soon suggest ways to improve the quality of your writing in addition to fixing straightforward grammar and spelling errors, the company has announced. A purple squiggly line will appear under suggestions to help make your writing more concise, inclusive, active, or to warn you away from inappropriate words.
-<a href='https://www.theverge.com/2022/4/1/23005972/google-docs-assisting-writing-active-voice-concise-inclusive-language-inappropriate-words'> Source <a/>

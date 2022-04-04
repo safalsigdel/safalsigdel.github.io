@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DYuFZIJH9MxUb7fPQpvg91X6uz0=/0x0:1820x1024/1200x800/filters:focal(765x367:1055x657)/cdn.vox-cdn.com/uploads/chorus_image/image/70707201/DSCF3875_2.0.0.jpg' width='700px' /><br/>
+Picture-in-picture mode has been an option on Apple's streaming media device, the Apple TV, for a couple of years now. But with the recent tvOS 15.4 update, Apple has made it easier to view a live feed from HomeKit cameras in a small window on top of any other content you're playing on your Apple TV.
+<a href='https://www.theverge.com/23004787/apple-tv-how-to-use-picture-in-picture-to-view-homekit-camera'> Source <a/>
