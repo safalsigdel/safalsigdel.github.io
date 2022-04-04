@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fy4IT4ic8HQGoBw1K3sSrqtkNWo=/0x0:1170x780/1200x800/filters:focal(492x297:678x483)/cdn.vox-cdn.com/uploads/chorus_image/image/70707997/IMG_2190.0.jpg' width='700px' /><br/>
+As Russia's war with Ukraine continues, horrific images are starting to emerge of the civilian casualties of President Vladimir Putin's invasion. Images of bodies lying in the streets or inside shelled-out homes have been widely shared on Twitter, in addition to being published in major news outlets.
+<a href='https://www.theverge.com/23009802/twitter-content-warning-violence-sensitive-content-nudity-how-to'> Source <a/>
