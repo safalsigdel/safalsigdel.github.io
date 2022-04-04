@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jz4Ir16olA6I6pf21M6P6Flejm4=/0x0:2040x1360/1200x800/filters:focal(655x474:981x800)/cdn.vox-cdn.com/uploads/chorus_image/image/70699366/lgrush_220318_5079_0054.0.jpg' width='700px' /><br/>
-For the next three days, NASA is staging an elaborate dress rehearsal with its massive new rocket, the Space Launch System — practicing all of the major steps the agency will have to perform when the vehicle launches for the very first time. It's a major milestone for the rocket's development and one of the last major tests it must undergo before the vehicle can be cleared to fly sometime this summer.
-<a href='https://www.theverge.com/2022/4/1/23004668/nasa-space-launch-system-rocket-wet-dress-rehearsal'> Source <a/>
