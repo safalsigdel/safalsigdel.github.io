@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JF8875OOB9uCc4OGd6IMS9UFYcQ=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/70712629/Apple_WWDC22_announcement_hero.0.jpg' width='700px' /><br/>
+This year Apple's Worldwide Developers Conference (WWDC) will once again be an online-only event when it takes place from June 6th through June 10th. However, Apple said it will host an in-person session at Apple Park on June 6th, with some developers and students watching the keynote and State of the Union videos together, along with the online community.
+<a href='https://www.theverge.com/2022/4/5/22984508/apple-wwdc-2022-event-date-software-updates-ios-ipados-macos'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mkXsOnmmKCoizA7oNCeajAOZ528=/0x0:2700x2700/1200x800/filters:focal(1134x1134:1566x1566)/cdn.vox-cdn.com/uploads/chorus_image/image/70709159/DeLorean.0.jpeg' width='700px' /><br/>
-The DeLorean is an iconic vehicle — stainless steel body, gull-wing doors — and maybe the most famous movie car of all time. It's also a brand name that many people have tried to resurrect over the years, with varying degrees of success.
-<a href='https://www.theverge.com/2022/4/4/23010039/delorean-electric-concept-reveal-pebble-beach-date'> Source <a/>
