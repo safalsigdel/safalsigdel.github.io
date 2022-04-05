@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2n7FkR244GVK-8zhWxb7IoEFq0E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70707689/vpavic_4261_20201023_0028.0.jpg' width='700px' /><br/>
-So you bought something from the PlayStation Store, and you changed your mind? Whether you purchased a game by mistake or just decided that you'd rather have your money back, getting a refund is now as simple as chatting with a representative for a few minutes. Sony's refund policy, which it established in 2019, covers preorders, games, DLC, subscriptions, and movies and allows 14 days from the date of the purchase to request a return.
-<a href='https://www.theverge.com/23005156/playstation-store-refund-how-to-sony'> Source <a/>

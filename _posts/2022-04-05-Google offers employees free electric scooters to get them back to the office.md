@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7HLV1tmu7DKPyfUt8dbLBJhSKig=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70707433/jbareham_181112_3077_0009.0.jpg' width='700px' /><br/>
-Google is preparing to bring its employees back to the office this week, and as an added bonus, it'll be offering them free electric scooters to help ease the transition.
-<a href='https://www.theverge.com/2022/4/4/23004667/google-unagi-electric-scooter-subscription-return-office'> Source <a/>

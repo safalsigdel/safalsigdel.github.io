@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LH2XrP-QHd_H7QPNjNTW8gLlXGk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70707806/Chapter3Season2_Still002.0.jpg' width='700px' /><br/>
-In two weeks, Fortnite has raised a total of $144 million for Ukraine relief efforts. Ahead of its most recent season, developer Epic Games said that it would be donating all of its proceeds from the game, along with those from Microsoft, to humanitarian efforts following Russia's invasion of Ukraine for a period of two weeks.
-<a href='https://www.theverge.com/2022/4/4/23009838/fortnite-ukraine-relief-fundraising-total'> Source <a/>
