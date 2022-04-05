@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9rlKoA0S92Lk_cAC_7XzJ51mHF0=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70712232/qpIxOti.0.png' width='700px' /><br/>
+Microsoft is bringing tabs to the File Explorer in Windows 11 soon, alongside a refreshed design that makes it easier to quickly access folders or find favorite files. The highly requested tabs feature was first spotted in Windows 11 test builds last month, and now Microsoft is making it official at a hybrid work event for Windows 11 today.
+<a href='https://www.theverge.com/2022/4/5/23011175/microsoft-windows-11-file-explorer-tabs-favorites-features'> Source <a/>
