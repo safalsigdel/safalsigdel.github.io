@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U5GDabrIaSHIcv01KH1bYj8ySkc=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/70707076/Wing_2.0.jpg' width='700px' /><br/>
-Wing, the drone delivery company operated by Google-parent Alphabet, will launch its first commercial service in the US on April 7th. The company's quadcopters will be available to “tens of thousands” of homes in the suburban towns of Frisco and Little Elm, both of which are part of the Dallas-Fort Worth metro area, the company said.
-<a href='https://www.theverge.com/2022/4/4/23006894/alphabet-wing-drone-delivery-dallas-kick-off'> Source <a/>

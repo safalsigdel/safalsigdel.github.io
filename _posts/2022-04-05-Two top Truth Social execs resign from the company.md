@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sOnUFvLjzHC9o_ZI4D91d_c-LvE=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70708374/1238704347.0.jpg' width='700px' /><br/>
+Two executives building former President Donald Trump's alternative social networking platform Truth Social have left the company, according to a new report from Reuters.
+<a href='https://www.theverge.com/2022/4/4/23010005/truth-social-billy-boozer-josh-adams-donald-trump-social-media-rumble-tmtg'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QyDekXqEhgdBFkOlM4ZH64sd130=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70710171/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Amazon reportedly plans to add a content filter to an internal messaging app in the making and would ban words that reflect the company's working conditions or pertain to organizing a union, according to internal documents obtained by The Intercept.
+<a href='https://www.theverge.com/2022/4/4/23010608/amazon-worker-social-app-banned-words-union-living-wage'> Source <a/>

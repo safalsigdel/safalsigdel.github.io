@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dlMndexyPfv8-SWNG1OyzbmL9Io=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70708955/acastro_180329_1777__brains_science_0002.0.jpg' width='700px' /><br/>
+A former employee at DeepMind, the Google-owned AI research lab, accuses the company's human resources department of intentionally delaying its response to her complaints about sexual misconduct in the workplace, as first reported by the Financial Times.
+<a href='https://www.theverge.com/2022/4/4/23003311/deepmind-ai-sexual-misconduct-google-alphabet-fire-researcher-accused'> Source <a/>

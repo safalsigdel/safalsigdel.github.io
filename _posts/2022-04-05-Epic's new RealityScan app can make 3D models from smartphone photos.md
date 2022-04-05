@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/29sDKg8lRbM1b42eWf9OMuQu8ik=/0x0:743x597/1200x0/filters:focal(0x0:743x597):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23367202/Screen_Shot_2022_04_04_at_1.29.00_PM.png' width='700px' /><br/>
+Epic Games has announced a new smartphone app that can construct 3D models of objects from a series of smartphone photos. The idea is that you'll be able to use the app, called RealityScan, to scan an object in the real world — say, a chair — and then bring the scan of that object into your game or project.
+<a href='https://www.theverge.com/2022/4/4/23010382/epic-games-realityscan-app-3d-models-smartphone-photos'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/366rMY4tcs26AQ66v6gf0lsGig4=/0x0:2040x1351/1200x675/filters:focal(924x702:1250x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/70701592/Apple_Magic_Mouse_Bad_Design_2.0.0.jpg' width='700px' /><br/>
-We may never know why Apple doggedly insists on you charging its mouse upside down, like a beetle with its legs in the air, year after year after year.
-<a href='https://www.theverge.com/23005435/magic-mouse-apple-logitech-powerplay'> Source <a/>

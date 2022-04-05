@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CggieCTqEKAvqJImIOQjYYVcGXI=/0x0:2835x1890/1200x800/filters:focal(1192x719:1644x1171)/cdn.vox-cdn.com/uploads/chorus_image/image/70705184/1205021532.0.jpg' width='700px' /><br/>
-A massive data leak from Russian food delivery service Yandex Food revealed the delivery addresses, phone numbers, names, and delivery instructions belonging to those associated with Russia's secret police, according to findings from Bellingcat.
-<a href='https://www.theverge.com/2022/4/3/23008658/data-leak-russian-delivery-app-dining-habits-secret-police-yandex-food'> Source <a/>
