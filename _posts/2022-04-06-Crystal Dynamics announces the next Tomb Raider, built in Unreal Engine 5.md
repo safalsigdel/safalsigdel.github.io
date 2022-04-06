@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UjgdaUrZsWctKJPWOjjaruACjVE=/0x0:1200x600/1200x800/filters:focal(504x204:696x396)/cdn.vox-cdn.com/uploads/chorus_image/image/70713075/Rise-of-the-Tomb-Raider-header.0.0.jpg' width='700px' /><br/>
-Buried at the tail end of Epic Games' State of Unreal presentation was the news that Crystal Dynamics is working on a new entry in the Tomb Raider series.
-<a href='https://www.theverge.com/2022/4/5/23011603/tomb-raider-new-crystal-dynamics-unreal-engine-5'> Source <a/>

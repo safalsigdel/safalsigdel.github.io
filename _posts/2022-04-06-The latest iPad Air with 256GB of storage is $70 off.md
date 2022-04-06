@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4qO09TAow5Mu-q6k_FH_KAap0vc=/0x0:2040x1360/1200x800/filters:focal(819x562:1145x888)/cdn.vox-cdn.com/uploads/chorus_image/image/70716414/akrales_220314_5071_0193.0.jpg' width='700px' /><br/>
+Discounts don't usually arrive quickly for the latest Apple tech, but you can enjoy a steep price cut on Apple's latest iPad Air, which has the M1 processor and a generous 256GB of storage. It normally costs $749 for that tablet configuration, but Walmart and Amazon are selling it for $679. It's worth noting that this price cut is limited to the space gray colorway at both retailers.
+<a href='https://www.theverge.com/good-deals/2022/4/6/23011443/ipad-air-2022-apple-fitbit-oneplus-buds-pro-ipad-macbook-deal-sale'> Source <a/>

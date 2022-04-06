@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eN0qAhqKadvZI5ey4sKDd_tLbcU=/0x0:2000x1333/1200x800/filters:focal(1215x458:1535x778)/cdn.vox-cdn.com/uploads/chorus_image/image/70716802/1335977295.0.jpg' width='700px' /><br/>
+Isabella Lewis was driving for Lyft on a Sunday in Plano, Texas, last August when she was carjacked and killed by her passenger. As her family tried to piece together what happened, they kept receiving calls from an insurance company they didn't recognize, but finally realized it was Lyft's insurer, who wanted to inspect Lewis' car in order to determine whether it would pay to fix the damaged windshield and clean up her blood.
+<a href='https://www.theverge.com/2022/4/6/23012229/rideshare-delivery-drivers-killed-gig-workers-death'> Source <a/>

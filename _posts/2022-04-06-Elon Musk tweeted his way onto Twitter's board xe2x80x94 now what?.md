@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Oo2NHNniI-7iaT2u42vu8qmvJGs=/0x0:3142x2104/1200x800/filters:focal(1320x801:1822x1303)/cdn.vox-cdn.com/uploads/chorus_image/image/70713252/1239416791.0.jpg' width='700px' /><br/>
-Ahahahahahaha fine. Longtime shitposter Elon Musk, who has a side gig as the CEO of Tesla, is on the board of Twitter, a newly minted meme stonk, after filing the wrong form with the Securities and Exchange Commission. Tremendous content.
-<a href='https://www.theverge.com/2022/4/5/23011810/elon-musk-twitter-sec-board-member-moderation'> Source <a/>

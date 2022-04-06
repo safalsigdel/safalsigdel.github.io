@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LBaRtILBY-KKipkyunCdKqZXwRU=/0x0:3678x2706/1200x675/filters:focal(1160x1044:1748x1632)/cdn.vox-cdn.com/uploads/chorus_image/image/70716421/1234651136.0.jpg' width='700px' /><br/>
+Today, let's talk about what Elon Musk means for the future of Twitter.
+<a href='https://www.theverge.com/2022/4/6/23012831/twitter-elon-musk-parag-agrawal-ceo-board-seat-what-next'> Source <a/>

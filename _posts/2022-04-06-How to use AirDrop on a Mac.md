@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p1z9KiMq1KeBmf1Fj5kUd6oMTlU=/0x0:2040x1360/1200x800/filters:focal(766x556:1092x882)/cdn.vox-cdn.com/uploads/chorus_image/image/70716476/akrales_211027_4820_0360.0.jpg' width='700px' /><br/>
+Ask anyone with a Mac, iPhone, or iPad, and they'll probably be able to attest that AirDrop is often a lifesaver. The ability to wirelessly and easily transfer files between Apple devices takes the friction out of sharing.
+<a href='https://www.theverge.com/23012088/mac-airdrop-apple-macos-iphone-ipad-how-to'> Source <a/>
