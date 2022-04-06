@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dhC7c_MFl7f3XvXD_Vo-Ljdh_tg=/0x0:7000x3938/1200x800/filters:focal(2940x1409:4060x2529)/cdn.vox-cdn.com/uploads/chorus_image/image/70712818/RZ_Teaser_1_16x9.0.jpg' width='700px' /><br/>
+Lexus, the luxury automaker owned by Toyota, announced that it will reveal its first electric vehicle on Wednesday, April 20th, at 6AM ET. And it released two teaser images, one of which — we regret to inform you — features a steering yoke.
+<a href='https://www.theverge.com/2022/4/5/23011587/lexus-rz-ev-date-reveal-tease-steering-yoke'> Source <a/>

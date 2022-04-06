@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/woIE-8vPzqo-L9IaWCMPPUd6N-k=/0x0:4233x3214/1200x800/filters:focal(2949x802:3625x1478)/cdn.vox-cdn.com/uploads/chorus_image/image/70711107/1387431806.0.jpg' width='700px' /><br/>
-Update April 5th, 8:55AM ET: On Tuesday morning, Twitter announced Elon Musk will join its board of directors. Musk said in a tweet that he plans on working with Twitter's CEO and board “to make significant improvements to Twitter in coming months!”
-<a href='https://www.theverge.com/2022/4/5/23011134/twitter-elon-musk-edit-button'> Source <a/>

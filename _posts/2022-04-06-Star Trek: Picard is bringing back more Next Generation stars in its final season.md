@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3loAELlvP06Hkr4DYmJ-G0OG9jg=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70713284/Picard_201_TP_2707_RT.0.jpg' width='700px' /><br/>
+To answer the question of why we should care about Paramount Plus, the service is going back to the well of nostalgia and snagging some of our favorite Star Trek: The Next Generation characters to be featured in season 3 of Star Trek: Picard.
+<a href='https://www.theverge.com/2022/4/5/23011773/star-trek-paramount-plus-tng-picard-data-william-riker'> Source <a/>

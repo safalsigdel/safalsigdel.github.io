@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VJGx0ElIH65XR8NkOl_FggXTo-Q=/0x0:1440x840/1200x800/filters:focal(355x461:585x691)/cdn.vox-cdn.com/uploads/chorus_image/image/70715002/Discovery_Blog_hero_image_1440x840.0.jpg' width='700px' /><br/>
+Plex's latest beta features are a modern solution to a modern problem — having to search through HBO Max, Netflix, Disney Plus, and like, three other services to find something to watch. The company announced a new “Discover” feature, which aggregates and recommends content from various streaming services and a universal watchlist that gathers everything you want to watch all in one place.
+<a href='https://www.theverge.com/2022/4/5/23012425/plex-discover-source-watchlist-cross-streaming-service-compatibility-beta'> Source <a/>

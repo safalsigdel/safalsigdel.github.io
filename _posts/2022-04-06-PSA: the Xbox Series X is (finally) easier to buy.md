@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-WpsdPAo-ks60HWKFwtdjW3kY58=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70713633/vpavic_201103_4275_0196.0.jpg' width='700px' /><br/>
+The Xbox Series X has been one of the most challenging-to-find gaming gadgets since its late 2020 release. While always a little easier to get a hold of than Sony's PlayStation 5, getting one has all but required keeping track of restocks from multiple retailers on a day-to-day basis — lest you turned to purchasing one from price gougers.
+<a href='https://www.theverge.com/2022/4/5/23011418/microsoft-xbox-series-x-console-in-stock-stores-walmart-newegg-costco-availability-check-restock'> Source <a/>

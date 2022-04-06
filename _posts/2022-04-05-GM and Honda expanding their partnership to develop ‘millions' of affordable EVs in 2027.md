@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sn5NWv3jlJzd8Jn7hgvNo0vi3zE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70711418/gm_honda_16x9.0.jpg' width='700px' /><br/>
-General Motors and Honda announced an expansion of their two-year-old partnership to include “a series of affordable electric vehicles” built on GM's flexible EV platform with its Ultium-branded improved battery packs. The companies say they will begin production of “millions” of these affordable EVs, including crossover SUVs, in 2027.
-<a href='https://www.theverge.com/2022/4/5/23011201/gm-honda-ev-partnership-millions-affordable-2027'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6WcZwBjH7oqt0bjEsEQrmWEPw5c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70709513/cwelch_211015_4802_0003.0.jpg' width='700px' /><br/>
-It's only been a couple of weeks since Pixel 6 and Pixel 6 Pro devices started receiving Google's March Pixel drop of new features, improvements, and fixes, and now the company has started the rollout of an April update (via 9to5Google).
-<a href='https://www.theverge.com/2022/4/4/23010237/google-pixel-6-pro-april-android-12l-update'> Source <a/>

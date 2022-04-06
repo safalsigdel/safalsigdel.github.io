@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nCvet1-HZDjcK8NONDJtiXx2LxM=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70711311/maxresdefault.0.jpeg' width='700px' /><br/>
-Project Kuiper — Amazon's planned internet-from-space initiative — announced today that it has booked dozens of new launches on three different rockets to get its future satellites into orbit. The satellites will fly on powerful rockets currently being developed by European launch provider Arianespace, US-based United Launch Alliance, and Blue Origin — Amazon founder Jeff Bezos' space company.
-<a href='https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin'> Source <a/>

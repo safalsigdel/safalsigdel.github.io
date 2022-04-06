@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iQDB9q12uBn4XHW5h-lcPb0XZnA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70709241/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
-We've got a pair of excellent deals to start things off at The Verge this week. If you've been holding out for Apple's true wireless earbuds to drop in price, both the second-gen AirPods and the AirPods Pro have received a sizable discount at Amazon and Walmart.
-<a href='https://www.theverge.com/good-deals/2022/4/4/23009765/apple-airpods-pro-lg-c1-oled-tv-macbook-air-laptop-sony-wf-1000xm3-earbuds-deal-sale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VqEWL1n9XTTTJFwSutSqhKaAx20=/0x0:838x559/1200x800/filters:focal(352x213:486x347)/cdn.vox-cdn.com/uploads/chorus_image/image/70712231/Messaging_end_user.0.png' width='700px' /><br/>
-If you're an IT admin and you've always wanted to send messages to your Windows users, Microsoft is opening up a new option soon. IT admins will soon be able to send organizational messages to Windows 11 PCs, and they can appear on a lock screen, desktop, or above the taskbar.
-<a href='https://www.theverge.com/2022/4/5/23011254/microsoft-windows-11-it-admins-send-messages-desktop-taskbar'> Source <a/>

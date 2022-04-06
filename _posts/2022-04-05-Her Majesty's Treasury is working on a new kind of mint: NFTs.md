@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/11hI_vISrErYUpxNE4QhtTKgkBE=/0x0:1920x1005/1200x800/filters:focal(568x297:874x603)/cdn.vox-cdn.com/uploads/chorus_image/image/70710060/FPgAoYsXMAE8laZ.0.jpeg' width='700px' /><br/>
-The United Kingdom's treasury minister has tasked the Royal Mint with creating an NFT as “an emblem of the forward-looking approach” Her Majesty's Treasury says it'll take toward cryptocurrencies and blockchains. The project was announced in a speech by John Glen, the Economic Secretary to the Treasury, who said at a summit that more details on the mint's mint would be coming “very soon.”
-<a href='https://www.theverge.com/2022/4/4/23010457/uk-royal-mint-nft-her-majestys-treasury-crypto-regulation-legislation'> Source <a/>

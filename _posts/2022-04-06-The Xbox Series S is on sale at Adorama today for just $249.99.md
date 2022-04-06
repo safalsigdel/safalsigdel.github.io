@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hJPivfFOf5qn1lyTQ8XCgCuGSTk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70713625/vpavic_201103_4275_0252.0.jpg' width='700px' /><br/>
+If you'd prefer a more affordable console to the Xbox Series X — or one that's more readily available than the PlayStation 5 and PS5 Digital Edition — you can once again buy Microsoft's Xbox Series S at its lowest price to date. Regularly $299.99, Adorama is currently selling the entry-level Xbox for $249.99 when you use the promo code XBOXS2250 at checkout.
+<a href='https://www.theverge.com/good-deals/2022/4/5/23011844/microsoft-xbox-series-s-adorama-deal-sale'> Source <a/>

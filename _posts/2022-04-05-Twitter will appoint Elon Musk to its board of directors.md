@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9mqOdCAQ5h7GAUl-M8mB97qvy-E=/0x0:6048x4024/1200x800/filters:focal(3208x678:4174x1644)/cdn.vox-cdn.com/uploads/chorus_image/image/70711599/1238367618.0.jpg' width='700px' /><br/>
-Twitter is appointing Tesla CEO Elon Musk to its board of directors, according to a filing with the US Securities and Exchange Commission. Musk will serve as a class II director until 2024. Twitter's classified board system places members in overlapping terms, helping to prevent a newly-appointed board member from gaining control of the company right away.
-<a href='https://www.theverge.com/2022/4/5/23011256/elon-musk-twitter-board-of-directors-ownership'> Source <a/>

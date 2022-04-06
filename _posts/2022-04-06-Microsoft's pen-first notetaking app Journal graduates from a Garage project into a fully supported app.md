@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/korQEA8KhFO24fTUR7_kgFVEDZ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70714471/acastro_180226_0001.0.jpg' width='700px' /><br/>
+Microsoft has elevated its Garage project Journal, a notetaking app designed for styluses and pens, into a full-fledged product now called Microsoft Journal, the company announced Tuesday.
+<a href='https://www.theverge.com/2022/4/5/23012164/microsoft-journal-garage-pen-first-notetaking-fully-supported-app'> Source <a/>

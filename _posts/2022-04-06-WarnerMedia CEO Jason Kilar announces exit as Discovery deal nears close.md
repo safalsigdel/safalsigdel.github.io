@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y9iPMMrcGka5Mey8rUhbTGmKjno=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70712907/1358703137.0.jpg' width='700px' /><br/>
+The chief executive of WarnerMedia, Jason Kilar, has announced that he is leaving the company.
+<a href='https://www.theverge.com/2022/4/5/23011678/warnermedia-ceo-jason-kilar-exit-discovery-deal'> Source <a/>

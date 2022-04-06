@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IeR8Bne9k4Gayv59Fgm9PxJrXUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70714443/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter announced on Tuesday that it will “require the removal of Tweets posted by government or state-affiliated media accounts” if they contain images or videos that show prisoners of war from the Russian invasion of Ukraine. The company also said it would “drastically” reduce the chances of people seeing posts from Russian government accounts.
+<a href='https://www.theverge.com/2022/4/5/23012046/twitter-prisoner-of-war-pow-photos-rules-russian-government-accounts'> Source <a/>

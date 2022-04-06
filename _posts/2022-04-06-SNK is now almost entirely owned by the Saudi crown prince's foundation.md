@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2qjX1AK1f9G-9LeBftrkABAtTJw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70713697/1175945544.0.jpg' width='700px' /><br/>
+SNK Corporation, the developer of games like Metal Slug and Fatal Fury, is now nearly entirely owned by a subsidiary of the Saudi crown prince's foundation. Electronic Gaming Development Company (EGDC), which is owned by the Mohammed bin Salman Foundation (MiSK Foundation), holds 96.18 percent of SNK's shares, according to a February 15th filing on SNK's website (PDF).
+<a href='https://www.theverge.com/2022/4/5/23011757/snk-corporation-mohammed-bin-salman-misk-foundation'> Source <a/>

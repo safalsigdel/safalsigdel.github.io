@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yEa1QBEtYoWLtdV8R8zyyGN_Ps8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70712234/acastro_180504_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-Microsoft is building new intelligent meetings features directly into Windows 11. Four new features are coming soon that will improve background noise suppression, eye contact, framing, and background blur. These new features will arrive first on Qualcomm devices and take advantage of neural processing unit (NPU) chips to improve video and audio in meetings.
-<a href='https://www.theverge.com/2022/4/5/23011228/microsoft-windows-11-eye-contact-automatic-framing-background-blur'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O2LxMyNiwRTKzy8eY0HVoFK2RWI=/0x0:4933x3168/1200x800/filters:focal(2073x1190:2861x1978)/cdn.vox-cdn.com/uploads/chorus_image/image/70713381/841564696.0.jpg' width='700px' /><br/>
+Smart devices have a role to play in the move from dirty to clean energy, according to a major new climate report released this week. People need tools that help them better understand where their energy comes from, see how much they're using, and pitch in to make a more resilient power grid.
+<a href='https://www.theverge.com/2022/4/5/23011341/smart-devices-climate-change-report'> Source <a/>
