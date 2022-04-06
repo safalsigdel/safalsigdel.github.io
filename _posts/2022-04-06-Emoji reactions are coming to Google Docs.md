@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ce9gDVy9VN8ByjroDtzR8tyh4Vg=/0x0:542x361/1200x800/filters:focal(375x24:461x110)/cdn.vox-cdn.com/uploads/chorus_image/image/70715587/Screen_Shot_2022_04_06_at_8.32.15_AM.0.jpg' width='700px' /><br/>
+Google Docs is getting support for emoji reactions, allowing you to respond to text with a simple symbol rather than a fully written comment. In an announcement post, the company says the feature supports all the emoji available in the latest release, which includes gender-neutral options and sillier symbols like melting face and biting lip.
+<a href='https://www.theverge.com/2022/4/6/23012839/google-docs-emoji-reactions'> Source <a/>
