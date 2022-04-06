@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TGB_hnQyl6VHkhl5IFf1jifAt5I=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70716993/Severance_Photo_010101.0.jpg' width='700px' /><br/>
+Severance, the creepy Apple TV Plus drama about workers who find work-life balance by surgically altering their brains, has been renewed for a second season, the streamer announced Wednesday. The show starring Adam Scott as Mark S., a grieving widower who willingly forgets who he is for the entirety of his workday, has found an audience with its portrayal of the horrors of capitalism in a large but claustrophobic office.
+<a href='https://www.theverge.com/2022/4/6/23013116/severance-apple-workplace-drama-ben-stiller-streaming'> Source <a/>
