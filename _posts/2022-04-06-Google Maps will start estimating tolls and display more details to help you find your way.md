@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8GI3BnnRW15bsSU-NBohi1xFrNw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70712594/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google is announcing a handful of updates to Google Maps, including one that will show toll prices before you start navigating to where you want to go.
-<a href='https://www.theverge.com/2022/4/5/23010726/google-maps-toll-cost-route-navigation-detail-traffic-lights-stop-signs'> Source <a/>
