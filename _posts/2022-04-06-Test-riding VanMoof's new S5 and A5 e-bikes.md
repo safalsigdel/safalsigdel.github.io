@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XPeCyEjn6cBSztpzNiVEFHUoYgg=/0x0:2048x1152/1200x675/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/70712271/423443_2022_LyraVega_BC_Product_Lyra_Master_16x9_Packshot_Clean_01_0a3614_original_1648817812.0.png' width='700px' /><br/>
-VanMoof just announced its latest premium electric bikes: the full-sized S5 with 27.5-inch wheels and the smaller A5 with 24-inch wheels and, in a first for the company, a step-through frame. They bring a host of refinements as VanMoof attempts to capitalize on surging demand for e-bikes from first-time buyers, even as it raises prices above the emotional $2,000 threshold.
-<a href='https://www.theverge.com/23009595/vanmoof-s5-a5-electric-bike-price-date-specs'> Source <a/>
