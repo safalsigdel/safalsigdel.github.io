@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3c__J2rB8rVTcNmUkp7KCwPXw0w=/0x0:624x416/1200x800/filters:focal(263x159:361x257)/cdn.vox-cdn.com/uploads/chorus_image/image/70715893/Screen_Shot_2022_04_06_at_11.24.58_AM.0.jpg' width='700px' /><br/>
-Twitter has made a small but significant change to how deleted tweets are shown when they're embedded in third-party websites. Since at least the end of March the social media network has started showing a blank box on external sites when an embedded tweet has been deleted. The change was detailed in a blog post from Kevin Marks.
-<a href='https://www.theverge.com/2022/4/6/23012913/twitter-tweet-embeds-deleted-tweets-empty-iframe-broken'> Source <a/>
