@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AQnQ14k5P1aKKuAMULdt-LxDf-Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70717719/acasto_180123_1777_0003_v2.0.jpg' width='700px' /><br/>
-Meta won't be holding its F8 developer conference in 2022, the company announced Wednesday.
-<a href='https://www.theverge.com/2022/4/6/23013527/facebook-meta-f8-conference-pause-2022'> Source <a/>
