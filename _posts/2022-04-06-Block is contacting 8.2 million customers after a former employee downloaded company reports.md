@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FHyRvE_fnArK-nyrdeQf_ujAybc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70714700/Block_lockup_reverse_black_1920x1080.0.jpg' width='700px' /><br/>
-Block, the parent company of products like Cash App and Tidal, said in an SEC filing that a former employee downloaded “certain reports” that “contained some US customer information” without permission from Cash App Investing (via Protocol).
-<a href='https://www.theverge.com/2022/4/5/23012328/block-reports-cash-app-investing-contacting-customers-sec-filing'> Source <a/>

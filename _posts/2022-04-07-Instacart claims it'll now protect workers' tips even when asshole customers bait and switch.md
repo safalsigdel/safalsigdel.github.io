@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sSBDgjoH5xTfv-JHX7rzEmjEoAc=/0x0:5760x3840/1200x800/filters:focal(2593x1372:3513x2292)/cdn.vox-cdn.com/uploads/chorus_image/image/70718302/1322110929.0.jpg' width='700px' /><br/>
+It takes a special kind of asshole to promise a big cash tip to your grocery delivery worker, only to snatch it away at the last minute. But as we reported in 2020, tip-baiting is a real problem for Instacart — and the company has introduced a new policy where it claims it will protect some of those tips.
+<a href='https://www.theverge.com/2022/4/6/23013604/instacart-tip-baiting-protection-policy-refund'> Source <a/>

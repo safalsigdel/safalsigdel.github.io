@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4dh7LUh2dZOpN64SAAfK8PF9RIs=/0x0:4000x2498/1200x800/filters:focal(1680x929:2320x1569)/cdn.vox-cdn.com/uploads/chorus_image/image/70714267/Starlight_Cam.0.png' width='700px' /><br/>
-Wi-Fi is excellent for connecting battery-powered security cameras so you can have wire-free surveillance of your property. But there are plenty of places Wi-Fi can't go where you still might want some digital eyes. Eufy Security's latest smart security camera, the 4G Starlight Camera, is designed to solve this problem.
-<a href='https://www.theverge.com/2022/4/5/23006481/eufy-4g-starlight-camera-specs-price-release-date'> Source <a/>

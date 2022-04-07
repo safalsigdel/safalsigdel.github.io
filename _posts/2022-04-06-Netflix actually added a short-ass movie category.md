@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1gSdpnLczZR3YeJZQiD2Fh3c7vk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70714465/acastro_211025_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Yes, Netflix actually added a “short-ass” movie category in response to Pete Davidson's Saturday Night Live ode to movies shorter than an hour and 30 minutes. Netflix quote-tweeted the SNL rap on Twitter, casually saying “good idea” and linking to the new short-ass movie category on Netflix.
-<a href='https://www.theverge.com/2022/4/5/23012129/netflix-actually-added-short-ass-movie-category-snl-pete-davidson'> Source <a/>

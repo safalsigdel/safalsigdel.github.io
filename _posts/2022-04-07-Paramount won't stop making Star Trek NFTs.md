@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G6nf7HqCjb5EVRFcGTomkcC_PBg=/0x0:2632x1454/1200x800/filters:focal(1106x517:1526x937)/cdn.vox-cdn.com/uploads/chorus_image/image/70718490/Screen_Shot_2022_04_06_at_12.24.04.0.png' width='700px' /><br/>
+Paramount is launching its NFT marketplace / metaverse / annoying marketing stunt that fans are already angry about with Star Trek non-fungible tokens (or NFTs.) The company partnered with Recur to create a platform called Paramount.xyz, which it says will “bring Paramount's beloved entertainment entities, brands and characters to the metaverse.”
+<a href='https://www.theverge.com/2022/4/6/23013716/paramount-nft-marketplace-star-trek-collectable-ships'> Source <a/>

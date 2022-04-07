@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B-O7w5CHsmYbKWZFHYokhuPsTdI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70713731/acastro_170621_1777_0001_fin.5.jpg' width='700px' /><br/>
-German authorities shut down the server infrastructure for the Russian darknet marketplace Hydra, seizing xe2x82xac23 million (~$25.2 million USD) worth of Bitcoin in the process, Germany's Federal Crime Police Office (BKA) announced on Tuesday (via Bleeping Computer).
-<a href='https://www.theverge.com/2022/4/5/23011377/germany-servers-russian-darknet-site-hydra-bitcoin'> Source <a/>

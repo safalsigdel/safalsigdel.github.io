@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VbwOpqhck3jq_JH2EuPKN9Q6mcI=/0x0:2554x1628/1200x800/filters:focal(1050x611:1480x1041)/cdn.vox-cdn.com/uploads/chorus_image/image/70718067/Tom_Clancy_s_Ghost_Recon_Breakpoint__Official_Announce_Trailer___Ubisoft__NA__2_51_screenshot.0.png' width='700px' /><br/>
+Ubisoft is no longer creating new content for Ghost Recon Breakpoint, the company announced Tuesday. The game gained some notoriety for its heavily criticized Digits NFTs from Ubisoft's Quartz platform, and the end of content creation means that there won't be any new NFTs for the game, according to Ubisoft's announcement tweet.
+<a href='https://www.theverge.com/2022/4/6/23013346/ubisoft-ghost-recon-breakpoint-content-nft-digits-quartz'> Source <a/>

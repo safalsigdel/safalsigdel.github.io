@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uRwdT0OTMbkgo-z-Sme4YqieTfM=/0x0:6528x4352/1200x800/filters:focal(1704x2074:2748x3118)/cdn.vox-cdn.com/uploads/chorus_image/image/70719154/1235602272.0.jpg' width='700px' /><br/>
+Ford and Chevrolet are reportedly halting production on their respective flagship performance cars, the Mustang and the Camaro, for a week thanks to supply chain issues (via Jalopnik). While the pauses probably won't make it that much harder to get a muscle car, they are just the latest in a string of automotive delays caused by shortages of chips and other supplies.
+<a href='https://www.theverge.com/2022/4/6/23013377/ford-chevy-supply-chain-factory-halt-mustang-camaro'> Source <a/>

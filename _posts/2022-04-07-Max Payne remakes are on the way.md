@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OXd3ugaND27elh-DiLHoT9lOfZw=/0x0:1600x1200/1200x800/filters:focal(1046x427:1302x683)/cdn.vox-cdn.com/uploads/chorus_image/image/70718922/0000003260.0.jpeg' width='700px' /><br/>
+Remedy Entertainment is remaking Max Payne and Max Payne 2: The Fall of Max Payne. The company is establishing “a new development agreement” with Rockstar Games for the remakes, which will be released as a single title for PC, PS5, and Xbox Series X / S.
+<a href='https://www.theverge.com/2022/4/6/23013920/max-payne-1-2-remakes-remedy-rockstar-take-two'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mrkDox9kdj1jwREOjepSP7ZuK58=/0x0:4274x2849/1200x800/filters:focal(1790x222:2472x904)/cdn.vox-cdn.com/uploads/chorus_image/image/70714571/1239417516.0.jpg' width='700px' /><br/>
-Within the news of Elon Musk taking a significant ownership stake in Twitter — and the revelation that it really is working on an edit button for tweets — many people noticed a wrinkle that seemed small at first but could cause problems later.
-<a href='https://www.theverge.com/2022/4/5/23012266/elon-musk-sec-twitter-stock-acquisition-13d-tesla'> Source <a/>

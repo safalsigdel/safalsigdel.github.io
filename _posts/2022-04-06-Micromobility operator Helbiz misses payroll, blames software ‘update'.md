@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T4-YcyB5d_PwKP7owhOgK_yKQug=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70713873/1276437584.0.jpg' width='700px' /><br/>
-Helbiz, a shared electric scooter and bike provider that operates in the US and Europe, failed to pay its US-based employees this past week, The Verge has learned. In an email to employees, the company's CEO blamed “an error in our payroll system” and promised each employee a $100 bonus to make up for the snafu.
-<a href='https://www.theverge.com/2022/4/5/23010392/helbiz-missed-payroll-micromobility-cryptocurrency'> Source <a/>
