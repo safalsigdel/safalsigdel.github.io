@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YmT3hbNR-nEfrHIVvYno2ya3PXw=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70720876/Fortnite_20210807141447.0.jpg' width='700px' /><br/>
-Two of the biggest names in entertainment are coming together to create a virtual space aimed at kids, through a new partnership between Fortnite developer Epic Games and Lego. “We are excited to come together to build a space in the metaverse that's fun, entertaining, and made for kids and families,” Epic CEO Tim Sweeney said in a statement.
-<a href='https://www.theverge.com/2022/4/7/23014616/epic-lego-metaverse-partnership'> Source <a/>

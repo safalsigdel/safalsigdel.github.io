@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U-WAx6_XSS6dOoRX7lVWtr2kvuk=/0x0:3196x2140/1200x800/filters:focal(1586x1044:2096x1554)/cdn.vox-cdn.com/uploads/chorus_image/image/70725161/Screen_Shot_2022_04_06_at_19.54.21.0.png' width='700px' /><br/>
+Coke recently announced that it was making a limited-edition soda, called Coca-Cola Zero Sugar Byte. The flavor, according to the company, was “born in the metaverse” and “inspired by the playfulness of pixels, rooted in the experiences that gaming makes possible.” It's hard to imagine better bait for The Verge, so I asked Coke if it could send me a can. And it delivered.
+<a href='https://www.theverge.com/23014905/coke-byte-pixel-flavored-soda-review-fortnite-metaverse'> Source <a/>

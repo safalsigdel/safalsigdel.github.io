@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BPU9SoYEZQUIO4-786tX4S5DIaQ=/0x0:2040x1360/1200x675/filters:focal(839x375:1165x701)/cdn.vox-cdn.com/uploads/chorus_image/image/70725750/dseifert_220305_5067_0001.0.jpg' width='700px' /><br/>
+If you've been looking for a tablet to complement your Android phone, for many years, your choices have been few and far between. In fact, the Android tablet market has provided so few compelling options that even many Android enthusiasts would recommend that you just buy an iPad if you want a tablet.
+<a href='https://www.theverge.com/23014720/samsung-galaxy-tab-s8-s8-plus-tablet-android-review'> Source <a/>

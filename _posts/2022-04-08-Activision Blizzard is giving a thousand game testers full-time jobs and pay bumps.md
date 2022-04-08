@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bt4vJW-N-wU-anYQa8PM_5kCTq0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70722176/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
-Activision Blizzard has just announced that all temporary and contingent QA workers of its Activision Publishing and Blizzard divisions are being converted to full-time employees — meaning nearly 1,100 temp game testers are getting full-time jobs with benefits. They'll be making higher wages, too, with a new minimum hourly rate of $20.
-<a href='https://www.theverge.com/2022/4/7/23015033/activision-blizzard-full-time-qa-game-tester-20-dollars-hourly'> Source <a/>

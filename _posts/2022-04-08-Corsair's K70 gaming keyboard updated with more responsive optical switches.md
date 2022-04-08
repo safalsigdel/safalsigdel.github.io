@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LgZJD_lT0Su6Jl5y-lnMjUea4mE=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/70720827/K70_RGB_TKL_OPX_PBT_31.0.jpg' width='700px' /><br/>
-Corsair is announcing an updated version of its K70 mechanical keyboard today that comes with more responsive OPX optical mechanical switches. It costs $149.99, $10 more than the standard K70 released last year with more traditional Cherry mechanical switches. Aside from the switch change, the new K70 is broadly identical to last year's model, with a detachable USB-C cable, RGB lighting, and a tenkeyless layout.
-<a href='https://www.theverge.com/2022/4/7/23014554/corsair-k70-mechanical-gaming-keyboard-opx-optical-switches-price'> Source <a/>

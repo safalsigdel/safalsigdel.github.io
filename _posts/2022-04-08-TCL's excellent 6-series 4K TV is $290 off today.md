@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UuR4nJ3StRWyroYD1fgx9MQf9_8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70721791/cwelch_220130_4998_0007.0.jpg' width='700px' /><br/>
-OLED may be the pinnacle of TV panels, but they're still pricey — even after discounts. One very good alternative, the Mini LED-backlit TCL 6-Series with HDMI 2.1 ports, has dropped to a new low price today.
-<a href='https://www.theverge.com/good-deals/2022/4/7/23013741/tcl-6-series-r646-google-tv-cyberpunk-gaming-xbox-ps4-amazfit-gtr2e-apple-watch-deal-sale'> Source <a/>
