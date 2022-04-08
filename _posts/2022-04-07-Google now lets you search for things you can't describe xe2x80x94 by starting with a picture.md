@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zryTiyJJf0CVBTAo9LDjOHy5Fe4=/0x0:957x694/1200x800/filters:focal(403x271:555x423)/cdn.vox-cdn.com/uploads/chorus_image/image/70720770/Multisearch_in_Lens_dress.0.jpg' width='700px' /><br/>
-You like the way that dress looks but you'd rather have it in green. You want those shoes but prefer flats to heels. What if you could have drapes with the same pattern as your favorite notebook? I don't know how to Google for these things, but Google Search product manager Belinda Zeng showed me real-world examples of each earlier this week, and the answer was always the same: take a picture, then type a single word into Google Lens.
-<a href='https://www.theverge.com/2022/4/7/23014141/google-lens-multisearch-android-ios'> Source <a/>

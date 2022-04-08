@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MhwTL38LCyglve57NvVuQFowsrI=/0x0:2125x1270/1200x800/filters:focal(893x465:1233x805)/cdn.vox-cdn.com/uploads/chorus_image/image/70718334/iphone_x_kinect.0.jpg' width='700px' /><br/>
-Apple reportedly will soon provide a new Face ID repair option for iPhone X that doesn't involve replacing the whole device (via MacRumors). The option comes after Apple's recent shift to soon provide a TrueDepth Camera service option that can fix the face unlock feature of the 2018 iPhone XS and newer models but didn't previously include the 2017 iPhone X.
-<a href='https://www.theverge.com/2022/4/6/23013661/apple-iphone-x-truedepth-camera-face-id-repair-fix-service'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/636LFT3fvcTVwS2Mxj-kcpG0VZw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70719214/VRG_ILLO_3512_001.0.jpg' width='700px' /><br/>
-Meta may have given up on its Diem cryptocurrency, but the company is still exploring finance products, according to a new Financial Times report. The parent company of Facebook and Instagram reportedly has a few irons in the fire, including virtual currency employees have apparently taken to calling “Zuck Bucks.”
-<a href='https://www.theverge.com/2022/4/6/23013896/meta-facebook-zuck-bucks-finance-financial-services-products'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IvkJs26p1ubKYN-4cabHWH125Rw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70722962/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
+Twitter is experimenting with an “unmentioning” feature that will allow users to remove themselves from conversations. It's limited to some users and only on the web version for now but looks like a very useful way to clean up your mentions.
+<a href='https://www.theverge.com/2022/4/7/23015291/twitter-unmentioning-features-conversations'> Source <a/>

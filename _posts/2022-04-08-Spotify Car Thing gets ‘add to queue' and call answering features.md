@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9fCmaepVN7QVIZ8MNclW2juvC08=/0x0:815x544/1200x800/filters:focal(343x207:473x337)/cdn.vox-cdn.com/uploads/chorus_image/image/70722652/Car_Thing_Image_3.0.jpg' width='700px' /><br/>
+Spotify announced Thursday it was adding the ability to respond to phone calls and other new features to its Car Thing infotainment system. Owners of the $90 device, which went on sale in February, also will now be able to add songs and podcasts to a queue, control other media, and use voice commands.
+<a href='https://www.theverge.com/2022/4/7/23015144/spotify-car-thing-add-to-queue-calls-podcasts'> Source <a/>

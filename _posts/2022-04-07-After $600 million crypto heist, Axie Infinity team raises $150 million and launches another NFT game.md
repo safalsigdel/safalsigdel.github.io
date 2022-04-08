@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1HcVyDMBdh9PSKrX7pqxQfjxlOI=/0x0:984x692/1200x800/filters:focal(414x268:570x424)/cdn.vox-cdn.com/uploads/chorus_image/image/70720013/axie_infinity_oorigin_pic.0.jpg' width='700px' /><br/>
-Last week Sky Mavis, the Vietnam-based company behind the crypto game Axie Infinity, revealed that a hacker stole hundreds of millions of dollars worth of crypto from its blockchain. Sky Mavis realized it had been attacked when a user could not make a withdrawal six days after the breach, and the company froze transactions on its compromised Ronin Network bridge.
-<a href='https://www.theverge.com/2022/4/7/23013134/axie-infinity-ronin-network-crypto-theft-origin-launch'> Source <a/>

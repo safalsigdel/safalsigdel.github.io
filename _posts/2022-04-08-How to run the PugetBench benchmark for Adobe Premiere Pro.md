@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UNYj7Gk-pAlxxichY7K0IX_fFtw=/0x0:2065x1428/1200x800/filters:focal(868x549:1198x879)/cdn.vox-cdn.com/uploads/chorus_image/image/70722196/puget_3.0.png' width='700px' /><br/>
+If you're currently a video creator or are interested in trying it out, you may want to know how well your PC can perform various tasks in Adobe Premiere Pro. One of the best ways to do that is the Puget Systems benchmark for Premiere Pro.
+<a href='https://www.theverge.com/23013592/puget-systems-benchmark-premiere-pro-how-to'> Source <a/>

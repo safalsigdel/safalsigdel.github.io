@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X1eJPdKk6PL7VhW-k7LFlqZGxBk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70723955/snapChatPattern_BW.0.jpg' width='700px' /><br/>
+Snap is launching a new Snapchat lens that can help you learn American Sign Language (ASL). It's called ASL Alphabet Lens, and Snapchat is launching it in partnership with SignAll, a company that has built technology that can translate sign language.
+<a href='https://www.theverge.com/2022/4/7/23015676/snapchat-american-sign-language-asl-alphabet-lens'> Source <a/>

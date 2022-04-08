@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9qDDiWsdeuADeBM6Aaun7YWfz0w=/0x0:1134x765/1200x800/filters:focal(477x293:657x473)/cdn.vox-cdn.com/uploads/chorus_image/image/70717917/Lepore_History_Lurking_Behind_Orphan_Black.0.jpeg' width='700px' /><br/>
-Though the original Orphan Black series seemingly brought the story of Sarah Manning (Tatiana Maslany) and her sprawling family tree of sister clones to a close, AMC's gearing up to return to their world with an all-new live-action series.
-<a href='https://www.theverge.com/2022/4/6/23013449/orphan-black-echoes-amc'> Source <a/>

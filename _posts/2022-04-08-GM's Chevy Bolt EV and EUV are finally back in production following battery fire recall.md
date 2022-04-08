@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RHlGOY5w61S0GFyM6wDaSFzTiA8=/0x0:1920x1080/1200x800/filters:focal(909x640:1215x946)/cdn.vox-cdn.com/uploads/chorus_image/image/70724143/bolt_euv.0.png' width='700px' /><br/>
+GM has resumed production of the 2022 Chevrolet Bolt EV and EUV and now has access to a supply of new battery packs that should be safe from fire hazards. This comes after the Chevrolet Bolt was recalled due to potential battery fires affecting all model years, which led to a complete production freeze on the Bolt EV and EUV vehicles since last August.
+<a href='https://www.theverge.com/2022/4/7/23013855/chevy-bolt-ev-euv-production-resumes-battery-fix-recall'> Source <a/>

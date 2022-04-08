@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-LYLc7Mv_GtAn0yVgBpzOOkQQ9o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70723850/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter said Thursday that its ALT badge and improved image descriptions are now available globally, accessibility features that will make alt text descriptions more prominent for all users. Images that have text descriptions will get a badge that reads “alt,” and clicking on the badge will bring up the description. Twitter first announced changes were coming last month.
+<a href='https://www.theverge.com/2022/4/7/23015669/twitter-alt-badge-improved-image-descriptions-accessibility'> Source <a/>

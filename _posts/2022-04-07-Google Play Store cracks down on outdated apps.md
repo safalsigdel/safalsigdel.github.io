@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gb-sek5nNujvsUy55DKLUgd8p5w=/0x0:1197x798/1200x800/filters:focal(504x304:694x494)/cdn.vox-cdn.com/uploads/chorus_image/image/70720265/Android_New_policy_update_to_strengthen_Google_Play_social.0.jpg' width='700px' /><br/>
-Google is preparing to limit the availability of outdated apps on the Play Store, the company has announced. From November 1st, all existing apps in the store should aim to target an API level within two years of the latest major Android OS release. If they don't, Google says it'll place limits on which users are able to discover or install them.
-<a href='https://www.theverge.com/2022/4/7/23014518/google-play-store-cracks-down-on-outdated-apps'> Source <a/>

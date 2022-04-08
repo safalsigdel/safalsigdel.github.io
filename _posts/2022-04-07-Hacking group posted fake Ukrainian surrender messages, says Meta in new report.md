@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SHlzqDpIXP9YMqNsO-IB19dofRc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70720567/acastro_211101_1777_meta_0003.0.jpg' width='700px' /><br/>
-A Belarus-aligned hacking group has attempted to compromise the Facebook accounts of Ukrainian military personnel and posted videos from hacked accounts calling on the Ukrainian army to surrender, according to a new security report from Meta (the parent company of Facebook).
-<a href='https://www.theverge.com/2022/4/7/23013983/fake-ukrainian-surrender-messages-meta-threat-report'> Source <a/>

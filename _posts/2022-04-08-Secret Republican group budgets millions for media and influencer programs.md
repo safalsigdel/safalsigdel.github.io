@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V64-Oj57Rijm_U1EbIMaFYfx-LU=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70722856/1167013929.0.jpg' width='700px' /><br/>
+There's a new group of affluent conservatives planning to revamp the American right by investing more than $30 million into new legal, policy, and media ventures, including “influencer programs,” according to a recent report from The New York Times.
+<a href='https://www.theverge.com/2022/4/7/23015307/rockbridge-network-peter-thiel-donald-trump-influencers-turning-point-usa'> Source <a/>

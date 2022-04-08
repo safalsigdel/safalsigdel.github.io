@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0sJKlEq3EHQYEQ6X9F0afOfHNXY=/0x0:5221x3667/1200x800/filters:focal(2358x2063:3192x2897)/cdn.vox-cdn.com/uploads/chorus_image/image/70722254/1239799842.0.jpg' width='700px' /><br/>
+The National Labor Relations Board's general counsel plans to ask the board to rule that mandatory meetings about organizing are a violation of the National Labor Relations Act, a significant potential victory for labor groups. Sometimes called “captive audience” meetings, mandatory meetings are often used by company management to present anti-union rhetoric at meetings that employees are required to attend while at work.
+<a href='https://www.theverge.com/2022/4/7/23014893/nlrb-counsel-captive-audience-meetings-union-labor-amazon'> Source <a/>

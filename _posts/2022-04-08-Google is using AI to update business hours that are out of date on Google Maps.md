@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/au4N-N01vb8kKhiQG2P53YQJtU0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70722265/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google has shared how it's using artificial intelligence, including its restaurant-calling Duplex tech, to try and keep business hours up to date on Google Maps. The company says that if it is confident enough in the AI's prediction of what a business's hours should be, it will update the information in Maps.
+<a href='https://www.theverge.com/2022/4/7/23014122/google-maps-ai-business-hours-speed-limit-signs'> Source <a/>

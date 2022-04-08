@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wrl0QizbXTm2ErE5HbWUYvEMmxs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70718369/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
-Creators making money using Instagram Reels say their payouts have been slashed in recent weeks and target metrics for monetization have ballooned, according to the Financial Times. Payments are down as much as 70 percent per view and videos need millions more views for creators to get paid.
-<a href='https://www.theverge.com/2022/4/6/23013399/instagram-reels-payments-cuts'> Source <a/>

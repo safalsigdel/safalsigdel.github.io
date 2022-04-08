@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R3X0ngLid3zIq9iMF6AcaCe0uLY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70720143/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
-A voting app run by supporters of prominent Putin critic Alexei Navalny is once again available for download on Apple's Russian App Store, The Washington Post reports, citing independent researchers and Navalny's chief of stall Leonid Volkov. Both Apple and Google removed the app last year after the Kremlin threatened to criminally prosecute company employees in the country.
-<a href='https://www.theverge.com/2022/4/7/23014486/apple-russia-smart-voting-app-store-navalny'> Source <a/>
