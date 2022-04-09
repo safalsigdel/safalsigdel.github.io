@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/KN6pOvxAc0tYH_iqHiCBRq7dUjM=/0x0:2250x1200/1200x800/filters:focal(945x420:1305x780)/cdn.vox-cdn.com/uploads/chorus_image/image/70728474/WBD_VerticalLogo_OnLight_CMYK.10.jpg' width='700px' /><br/>
 The parents of HBO Max and Discovery Plus have officially completed their merger, allowing WarnerMedia and Discovery to build what the companies have said will be “the most differentiated content portfolio in the world.”
-<a href='https://www.theverge.com/2022/4/8/22972247/warnermedia-discovery-complete-merger-streaming-hbo-max'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/KN6pOvxAc0tYH_iqHiCBRq7dUjM=/0x0:2250x1200/1200x800/filters:focal(945x420:1305x780)/cdn.vox-cdn.com/uploads/chorus_image/image/70728474/WBD_VerticalLogo_OnLight_CMYK.10.jpg' width='700px' /><br/>
-The parents of HBO Max and Discovery Plus have officially completed their merger, allowing WarnerMedia and Discovery to build what the companies have said will be “the most differentiated content portfolio in the world.”
 <a href='https://www.theverge.com/2022/4/8/22972247/warnermedia-discovery-complete-merger-streaming-hbo-max'> Source <a/>
