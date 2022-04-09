@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ZnvOy4wT9UYAQQ9q2Vdm3sJcv6A=/0x0:2040x1360/1200x675/filters:focal(831x766:1157x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/70725722/dseifert_220305_5068_0001.0.jpg' width='700px' /><br/>
 Tech demos are fun. They give us a look at what might one day be a commonplace, accessible technology in a package that some brave souls can choose to buy today.
+<a href='https://www.theverge.com/23015091/samsung-galaxy-tab-s8-ultra-tablet-android-review'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ZnvOy4wT9UYAQQ9q2Vdm3sJcv6A=/0x0:2040x1360/1200x675/filters:focal(831x766:1157x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/70725722/dseifert_220305_5068_0001.0.jpg' width='700px' /><br/>
+Tech demos are fun. They give us a look at what might one day be a commonplace, accessible technology in a package that some brave souls can choose to buy today.
 <a href='https://www.theverge.com/23015091/samsung-galaxy-tab-s8-ultra-tablet-android-review'> Source <a/>
