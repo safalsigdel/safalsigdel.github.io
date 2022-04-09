@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/xr7xfM3XgxxyjpA74BYRMv4e3H8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70726202/this_week_in_elon_lede_img.0.png' width='700px' /><br/>
 Every Friday, The Verge publishes our flagship podcast, The Vergecast, where we discuss the week in tech news with the reporters and editors covering the biggest stories.
+<a href='https://www.theverge.com/2022/4/8/23016337/elon-musk-twitter-stock-oneplus-10-review-alienware-aw3423dw-vergecast-podcast-492'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/xr7xfM3XgxxyjpA74BYRMv4e3H8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70726202/this_week_in_elon_lede_img.0.png' width='700px' /><br/>
+Every Friday, The Verge publishes our flagship podcast, The Vergecast, where we discuss the week in tech news with the reporters and editors covering the biggest stories.
 <a href='https://www.theverge.com/2022/4/8/23016337/elon-musk-twitter-stock-oneplus-10-review-alienware-aw3423dw-vergecast-podcast-492'> Source <a/>

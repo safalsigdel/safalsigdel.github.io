@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/D7WWfzpjnK5mCFpC7H5QwxjwPDA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70727562/disneyplus.0.5.jpg' width='700px' /><br/>
 Wildly popular celebrity competition series Dancing With the Stars is heading to Disney Plus, marking the first live series to debut exclusively on the streaming service.
+<a href='https://www.theverge.com/2022/4/8/23016891/dancing-with-the-stars-disney-plus-exclusive-abc'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/D7WWfzpjnK5mCFpC7H5QwxjwPDA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70727562/disneyplus.0.5.jpg' width='700px' /><br/>
+Wildly popular celebrity competition series Dancing With the Stars is heading to Disney Plus, marking the first live series to debut exclusively on the streaming service.
 <a href='https://www.theverge.com/2022/4/8/23016891/dancing-with-the-stars-disney-plus-exclusive-abc'> Source <a/>
