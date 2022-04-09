@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e5oUP9jhezlmLvUOkvwTvQ30tgw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70722642/GettyImages_1186605531.0.jpeg' width='700px' /><br/>
-To get climate change under control, experts say, we're going to have to start sucking a whole lot more planet-heating carbon dioxide out of the air. And we need to start doing it fast.
-<a href='https://www.theverge.com/2022/4/7/23013822/carbon-dioxide-removal-direct-air-capture-climate-change'> Source <a/>

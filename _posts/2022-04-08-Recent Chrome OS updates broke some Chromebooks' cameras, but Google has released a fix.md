@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5lFOTisE_WyDlHEadXwFdo0Nb90=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70723759/vpavic_180904_2924_0029.0.jpg' width='700px' /><br/>
-Recent Chrome OS updates have broken the camera on some Chromebooks for some users, as reported by About Chromebooks, but Google said Thursday it released a fix.
-<a href='https://www.theverge.com/2022/4/7/23015583/google-chrome-os-updates-chromebooks-cameras'> Source <a/>

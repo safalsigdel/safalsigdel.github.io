@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0CZFiDEtd76i3SKBa0UoSZYiii8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70724252/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
-The Retail, Wholesale and Department Store Union (or RWDSU) has filed objections against Amazon to the National Labor Relations Board, saying that the company has again interfered with its election in Bessemer, Alabama (via CNBC).
-<a href='https://www.theverge.com/2022/4/7/23015822/union-objections-amazon-bessemer-alabama-election-redo'> Source <a/>

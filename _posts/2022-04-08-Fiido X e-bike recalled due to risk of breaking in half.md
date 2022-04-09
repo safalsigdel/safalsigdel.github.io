@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bpSBo2_7dTPVL8Lbe2EbfNZb7l4=/0x0:818x559/1200x800/filters:focal(274x258:404x388)/cdn.vox-cdn.com/uploads/chorus_image/image/70725070/IMG_7DEE90C3F5A7_8.5.jpeg' width='700px' /><br/>
-Fiido, maker of cheap direct-to-consumer electric bikes, has suspended sales of its Fiido X and is preparing a recall after discovering a fault that could cause the folding e-bike to break in two. Fiido spokesperson Jennifer Sun confirmed the issue to The Verge and says the company will release more details by April 12th. The recall was first reported by Electrek.
-<a href='https://www.theverge.com/2022/4/8/23016232/fiido-x-break-in-two-recall'> Source <a/>

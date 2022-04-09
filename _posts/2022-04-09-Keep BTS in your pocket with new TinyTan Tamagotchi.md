@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UgsCE7GzkLTi57tL1YS1R_qCrO8=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/70726689/1389467259.0.jpg' width='700px' /><br/>
+If you've ever wished you could spend all day long serving food to BTS... well, you probably can't. But you'll soon be able to do the next best thing: be solely responsible for keeping miniature versions of them alive on a Tamagotchi device. Bandai America has opened preorders for the TinyTan Tamagotchi, a version of the handheld game featuring the South Korean band. (BTS's full name is Romanized as Bangtan Sonyeondan.)
+<a href='https://www.theverge.com/2022/4/8/23016467/bts-tinytan-tamagotchi-bandai-handheld-game-preorder'> Source <a/>
