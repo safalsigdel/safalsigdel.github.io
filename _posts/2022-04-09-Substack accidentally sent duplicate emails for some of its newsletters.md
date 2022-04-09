@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YUUEJ_6JuOh3XHKxqNm3fKO-YY4=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70728568/Untitled_1.0.jpg' width='700px' /><br/>
-In especially bad news for those who try to reach Inbox Zero, Substack had a problem today that sent out some of the platform's newsletters for a second time. Verge contributing editor Casey Newton noted it sent out a second copy of the free edition for his Platformer newsletter (which you can subscribe to here), and several of us have seen additional copies for some of the emails we subscribe to in our inboxes.
-<a href='https://www.theverge.com/2022/4/8/23017190/substack-bug-duplicate-email-newsletter-subscription'> Source <a/>

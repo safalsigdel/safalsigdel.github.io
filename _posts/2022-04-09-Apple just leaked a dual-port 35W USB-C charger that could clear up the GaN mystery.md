@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HmmFiniqQd8h_y8A1agu1Tis5dU=/0x0:800x534/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/70727564/MY1W2_AV2.0.jpg' width='700px' /><br/>
-See this white brick? It puts out a measly 30W of power to a single device, yet Apple charges $50 for it. Please do not buy one because we now have firm evidence that Apple is about to replace it with something much, much better — a 35W charger with two ports, likely powered by gallium nitride (GaN) technology that might also make it smaller.
-<a href='https://www.theverge.com/2022/4/8/23016867/apple-dual-port-35-watt-usb-c-charger-power-adapter-leak'> Source <a/>
