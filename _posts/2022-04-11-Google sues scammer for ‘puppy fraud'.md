@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dmPGd_q8UwjEFOPy5Ekg0dzLvWQ=/0x0:4000x2711/1200x800/filters:focal(1680x1036:2320x1676)/cdn.vox-cdn.com/uploads/chorus_image/image/70735511/650432264.0.jpg' width='700px' /><br/>
+On Monday, Google sued a scammer for allegedly running an online “puppy fraud scheme,” defrauding vulnerable people, including the elderly, out of thousands of dollars with false promises of purebred puppies.
+<a href='https://www.theverge.com/2022/4/11/23019726/google-puppy-fraud-aarp-scammer-basset-hound-dog'> Source <a/>

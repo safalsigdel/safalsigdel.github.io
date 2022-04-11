@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9MTI07RwqI39Pz4y-OoxnBYLo1Q=/0x0:3840x2160/1200x800/filters:focal(430x991:1044x1605)/cdn.vox-cdn.com/uploads/chorus_image/image/70735497/Fortnite_20210912161644.0.jpg' width='700px' /><br/>
+Epic's plans to build a metaverse just got a huge cash injection: today the Fortnite developer announced a $2 billion round of funding, which it says will be used “to advance the company's vision to build the metaverse and support its continued growth.”
+<a href='https://www.theverge.com/2022/4/11/23020134/epic-2-billion-funding-metaverse-sony-lego'> Source <a/>
