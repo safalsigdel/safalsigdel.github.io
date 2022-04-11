@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZCrwi4UcOWqO6p0Fb4Jm9Y1jgak=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70730932/acastro_170726_1777_0012.0.jpg' width='700px' /><br/>
+Twitter has confirmed it reversed a change that altered the appearance of deleted tweets embedded on websites outside of Twitter (thanks to @RuinDig on Twitter for pointing this out). Instead of leaving a blank gap in place of the deleted tweets, the site will go back to displaying the tweet's original text.
+<a href='https://www.theverge.com/2022/4/9/23018126/twitter-reverts-change-left-blank-spaces-websites-embedded-tweets'> Source <a/>

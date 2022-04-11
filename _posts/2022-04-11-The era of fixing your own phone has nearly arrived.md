@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pmgQVdcbWw_9QdvkAM2CAOxCWmw=/0x0:4763x3572/1200x675/filters:focal(1857x1462:2619x2224)/cdn.vox-cdn.com/uploads/chorus_image/image/70730460/ZMAy1r2nNBMo5WNf.0.jpg' width='700px' /><br/>
+When I called up iFixit CEO Kyle Wiens, I figured he'd be celebrating — after years of fighting for right-to-repair, big name companies like Google and Samsung have suddenly agreed to provide spare parts for their phones. Not only that, they signed deals with him to sell those parts through iFixit, alongside the company's repair guides and tools. So did Valve.
+<a href='https://www.theverge.com/23017361/ifixit-right-to-repair-parts-google-samsung-valve-microsoft'> Source <a/>
