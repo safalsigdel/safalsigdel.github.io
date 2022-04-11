@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cBphGXHViW5FnHAbGBiSVV-Rukk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70736117/VRG_Illo_STK010_K_Radtke_Ukraine_Glitch.0.jpg' width='700px' /><br/>
+The US Department of the Treasury is exempting telecommunications services from ongoing sanctions against Russia. The move, confirmed late last week in an order, follows requests from advocacy groups who feared a disruption would cut off Russian activists' access to the outside world. It may not, however, cause companies that voluntarily cut off access to restore it.
+<a href='https://www.theverge.com/2022/4/11/23020221/us-russian-sanctions-treasury-department-exemption-internet-services'> Source <a/>
