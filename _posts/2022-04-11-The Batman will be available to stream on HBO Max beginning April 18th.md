@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ea6nEAq_AIqvRZhfXTpaZVdaEjc=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70736135/rev_1_TBM_56056JOrv4_High_Res_JPEG.0.jpeg' width='700px' /><br/>
+The Batman, the new Batman movie starring Robert Pattinson as the Caped Crusader, will be available to stream on HBO Max starting April 18th, WarnerMedia announced Monday. The film first debuted in theaters on March 4th.
+<a href='https://www.theverge.com/2022/4/11/23020361/the-batman-hbo-max-streaming-date'> Source <a/>
