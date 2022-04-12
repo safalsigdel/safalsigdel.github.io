@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1J4YUQQjSJkWlpzRpyvqYqPvwIs=/0x0:2040x1360/1200x800/filters:focal(790x509:1116x835)/cdn.vox-cdn.com/uploads/chorus_image/image/70740107/ajohnson_210813_4713_0002.0.jpg' width='700px' /><br/>
+Last year's Pixel 5A was a fantastic product, but like the Pixel 4A before it, the phone's August release didn't do it any favors. Google's original A-series budget phones — the Pixel 3A and 3A XL — shipped around the same time as the company's I/O conference in May, a more sensible mid-year release that gave them more time to shine before the next flagship Pixel arrived.
+<a href='https://www.theverge.com/2022/4/12/23021861/google-pixel-6a-fcc-may-release-io'> Source <a/>
