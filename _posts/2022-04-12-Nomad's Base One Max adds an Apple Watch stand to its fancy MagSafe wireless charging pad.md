@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vPPLRtXUtdC-8ZrEHAhuEoH4b-c=/0x0:4990x3469/1200x800/filters:focal(2096x1336:2894x2134)/cdn.vox-cdn.com/uploads/chorus_image/image/70740303/856500011745_03.0.jpg' width='700px' /><br/>
+Nomad is expanding the range of its MagSafe charging accessories with the new Base One Max. The Max follows the Base One from March and adds an Apple Watch charger to the heavily weighted MagSafe pad. It retails for a similarly heavy $149.95 and is available to purchase starting on April 12th.
+<a href='https://www.theverge.com/2022/4/12/23020947/nomad-base-one-max-magsafe-wireless-charger-apple-watch-price-specs-features'> Source <a/>
