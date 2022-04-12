@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3pOxveAIShpQ35Tr7QufAKbmBYE=/0x0:3142x2104/1200x800/filters:focal(1320x801:1822x1303)/cdn.vox-cdn.com/uploads/chorus_image/image/70734329/1239416791.0.jpg' width='700px' /><br/>
-Elon Musk is no longer going to join Twitter's board, Twitter CEO Parag Agrawal has announced in a message to the company. Last week, Agrawal confirmed that Musk would be appointed to the board following his purchase of 9.2 percent of the company's shares but now says that Musk has decided against taking up the seat.
-<a href='https://www.theverge.com/2022/4/10/23019802/elon-musk-not-joining-twitter-board-announced'> Source <a/>

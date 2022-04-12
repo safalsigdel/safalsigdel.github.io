@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NJTFl9MCQe13S05mNJOy8xbaUxQ=/0x0:1448x1134/1200x800/filters:focal(609x452:839x682)/cdn.vox-cdn.com/uploads/chorus_image/image/70739023/ujNEA6I.0.png' width='700px' /><br/>
+On Friday, Plex will end support for podcasts, a feature it added in 2018. Plex is also removing the dedicated Web Shows section, but most of this content will still appear elsewhere in the app.
+<a href='https://www.theverge.com/2022/4/12/23021599/plex-podcast-opml-export-quit-date'> Source <a/>
