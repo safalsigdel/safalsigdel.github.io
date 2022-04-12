@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QbOp_1Yhaq4uEVQhTSr_FHDEUP8=/0x0:2846x1608/1200x800/filters:focal(1196x577:1650x1031)/cdn.vox-cdn.com/uploads/chorus_image/image/70736713/Screen_Shot_2022_04_11_at_09.13.17.0.png' width='700px' /><br/>
+Lincoln, Ford's luxury brand, has announced that it'll show off a “fully electric concept vehicle” on April 20th as a way to tease upcoming electric offerings. In a short video, the company shows off a partial outline of the vehicle, which will likely be a smaller SUV or crossover, as the company currently doesn't make any sedans (sad news for anyone like me who would love a Hyundai-esque '80s Continental revival).
+<a href='https://www.theverge.com/2022/4/11/23020491/lincoln-ev-concept-announcement-date-electric-ford'> Source <a/>

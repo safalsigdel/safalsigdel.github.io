@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i0a-oaE2b267GSYUXmTTf8lanBY=/0x0:5541x3694/1200x800/filters:focal(2328x1404:3214x2290)/cdn.vox-cdn.com/uploads/chorus_image/image/70736429/1346217396.0.jpg' width='700px' /><br/>
+Starting today, customers in the US can donate $1 to plant one tree by telling Alexa-enabled devices, “Alexa, grow a tree,” Amazon announced today. Customers will be able to keep track of how many trees they've planted in their Amazon Pay account.
+<a href='https://www.theverge.com/2022/4/11/23020190/amazon-alexa-tree-planting-climate-debate'> Source <a/>

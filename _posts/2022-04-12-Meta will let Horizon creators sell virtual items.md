@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UVDmtxn5dr78pAVKPNML23c0PZ8=/0x0:799x585/1200x800/filters:focal(337x230:463x356)/cdn.vox-cdn.com/uploads/chorus_image/image/70737827/273679953_1143087219766144_8853510490766117219_n.0.jpeg' width='700px' /><br/>
+Meta is testing new features to let creators make money within Horizon Worlds, the company's social metaverse platform for Quest VR headsets that is soon coming to mobile phones and possibly game consoles.
+<a href='https://www.theverge.com/2022/4/11/23020684/meta-horizon-worlds-test-creators-sell-virtual-items-monetization'> Source <a/>

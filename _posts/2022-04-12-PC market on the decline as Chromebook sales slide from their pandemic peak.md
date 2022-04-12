@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CMJF_Ca834xzNypgzjbN4iB0mdg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70738010/mchin_181029_4126_0006.0.0.jpg' width='700px' /><br/>
+Global shipments of PCs declined in the first quarter of 2022 as pandemic-related purchases begin to taper off, according to reports from research firms Gartner and International Data Corporation (IDC). While IDC reports a total of 80.5 million PC shipments last quarter, Gartner cites a lower 77.5 million figure, a 7.7 percent drop when compared to the first quarter of 2021.
+<a href='https://www.theverge.com/2022/4/11/23021029/pc-market-decline-chromebooks-post-pandemic-hit-idc-gartner'> Source <a/>

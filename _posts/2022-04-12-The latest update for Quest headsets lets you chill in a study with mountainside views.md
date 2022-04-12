@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ems0pPWmGlbAo8qqhoEehZLZkhs=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/70737398/mountainsidestudy.0.jpg' width='700px' /><br/>
+Meta is delivering a new virtual office environment for all of you out there who work in VR. As part of the v39 software update coming to Meta Quest and Quest 2 VR headsets, you can be transported to the “Mountain Study” environment, which positions you within a house in a valley surrounded by mountains.
+<a href='https://www.theverge.com/2022/4/11/23020783/oculus-meta-quest-2-vr-headset-update-v39-studio-mountainside'> Source <a/>

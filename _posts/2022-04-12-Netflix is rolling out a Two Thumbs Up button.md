@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/krlXae9RsLKIrkKm7J199xsazP4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70736266/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Netflix is introducing a new button to help the streaming service curate your homepage with even better recommendations: Two Thumbs Up.
+<a href='https://www.theverge.com/2022/4/11/23017274/netflix-double-thumbs-up-button-recommendation-curation'> Source <a/>

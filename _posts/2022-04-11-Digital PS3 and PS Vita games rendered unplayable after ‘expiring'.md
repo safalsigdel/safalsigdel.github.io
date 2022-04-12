@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N8uEuIhsVjUA7t9kmjr9lEbHduA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70733664/vpavic_191205_untitled_0018_Edit.0.jpg' width='700px' /><br/>
-Players on PlayStation 3 and PlayStation Vita are having trouble accessing their digital purchases after a strange expiration date suddenly appeared on certain games, as first reported by Kotaku. The problem seems to mostly affect classic titles, preventing users from playing Chrono Cross, Chrono Trigger, and Final Fantasy VI, as the games are now “expired.”
-<a href='https://www.theverge.com/2022/4/10/23019235/playstation-digital-games-ps3-ps-vita-expiring-sony-chrono-trigger'> Source <a/>

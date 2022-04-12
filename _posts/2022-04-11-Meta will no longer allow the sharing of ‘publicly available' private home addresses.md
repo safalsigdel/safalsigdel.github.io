@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3GgCdUSEwbXbIARlVCkRYCl_Pgc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70732955/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
-Meta is following the Oversight Board's recommendation to remove an exception that permitted users to share a person's residential address as long as it's “publicly available,” the Facebook parent company announced in an updated post (via Engadget).
-<a href='https://www.theverge.com/2022/4/10/23019046/meta-no-longer-allow-private-residential-address-doxxing-facebook-instagram-oversight-board'> Source <a/>

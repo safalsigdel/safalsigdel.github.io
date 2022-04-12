@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HgyBOoqJ9AOU0vIv6yNsJTJ_y3U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70734721/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube is preparing to officially launch picture-in-picture support on iOS devices “in the coming days,” its support account has confirmed on Twitter. The tweet was posted in response to a user asking about a previous test of the feature, which was available to YouTube Premium subscribers. The account did not specify whether availability will continue to be limited to YouTube Premium subscribers.
-<a href='https://www.theverge.com/2022/4/11/23019960/youtube-premium-picture-in-picture-test-ended-april-8'> Source <a/>
