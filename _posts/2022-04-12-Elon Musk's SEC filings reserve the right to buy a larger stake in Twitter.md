@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8DQb5kEa1H8a_Nx_DG8UFrnDHb4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70736812/VRG_Illo_STK022_K_Radtke_Musk_Money.0.jpg' width='700px' /><br/>
-Now that Elon Musk will not be the new member of Twitter's board of directors, it means more speculation about his true intentions and, yes, more paperwork. Musk has, again, updated the required filing (pdf) for investors buying a significant chunk of a publicly traded company, in which investors must explain their intentions.
-<a href='https://www.theverge.com/2022/4/11/23020118/elon-musk-twitter-schedule-13d-social-media-board-of-directors-sec'> Source <a/>
