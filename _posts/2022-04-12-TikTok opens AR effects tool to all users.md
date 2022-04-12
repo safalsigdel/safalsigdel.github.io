@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DTkKOEJkFYMP5QRD8amjts7m1vc=/0x0:2040x1360/1200x800/filters:focal(790x603:1116x929)/cdn.vox-cdn.com/uploads/chorus_image/image/70740217/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+TikTok is rolling out its augmented reality effects tool to all creators and developers after launching a closed beta test last fall.
+<a href='https://www.theverge.com/2022/4/12/23021780/tiktok-ar-effect-house'> Source <a/>
