@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_4gfy5bt1tzThB9rhQxninuX_pI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70735320/Copy_of_screenshot_character7.0.png' width='700px' /><br/>
-Astra Fund, a venture fund that supports developers making “thinking games,” revealed the first batch of games it's funding, including an unannounced title from Good Sudoku developer Zach Gage.
-<a href='https://www.theverge.com/2022/4/11/23014096/astra-fund-six-thinking-games-zach-gage-indie-developers'> Source <a/>

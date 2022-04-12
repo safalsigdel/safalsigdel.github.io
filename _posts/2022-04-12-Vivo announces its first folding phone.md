@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZXGOpYK-M9FSW0woyBz2TDqmDwM=/0x0:1818x1212/1200x800/filters:focal(522x365:812x655)/cdn.vox-cdn.com/uploads/chorus_image/image/70735662/Screen_Shot_2022_04_11_at_12.41.09_PM.0.jpg' width='700px' /><br/>
-Vivo has announced the X Fold, its first folding phone. The X Fold takes a similar approach to Samsung's Galaxy Z Fold series and its competitors, with a large 8.03-inch folding screen on the inside for tablet-style use and a more conventional phone-sized screen — in this case, 6.53 inches — on the outside.
-<a href='https://www.theverge.com/2022/4/11/23019954/vivo-x-fold-folding-phone-price-specs'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V0qL1I5G8L8y5M3VrVsdmaTDqpo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70735637/awhite_200403_3968_5.0.jpg' width='700px' /><br/>
-A Fitbit feature that passively monitors users' heart rhythms was cleared by the Food and Drug Administration, the company announced today.
-<a href='https://www.theverge.com/2022/4/11/23020143/fitbit-google-fda-clearance-heart-rhythm-afib'> Source <a/>

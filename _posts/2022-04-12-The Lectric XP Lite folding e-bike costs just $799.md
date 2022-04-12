@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OftBcz_Q_k_YyLGId8a6nbaQkBM=/0x0:1500x775/1200x800/filters:focal(630x268:870x508)/cdn.vox-cdn.com/uploads/chorus_image/image/70739110/image.0.png' width='700px' /><br/>
+Lectric, the US-based maker of budget electric bikes, has a new foldable that costs just $799, before taxes. That's incredibly inexpensive at a time when transportation costs, combined with chip and component shortages, are driving up prices across the e-bike industry. Better yet, it's apparently not junk.
+<a href='https://www.theverge.com/2022/4/12/23021623/cheap-folding-ebike-price-specs-date'> Source <a/>

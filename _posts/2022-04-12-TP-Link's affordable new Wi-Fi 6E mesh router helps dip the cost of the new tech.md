@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nHt36RjrYpIILr4RgoTk8fpeYug=/0x0:3508x3508/1200x800/filters:focal(1479x1559:2039x2119)/cdn.vox-cdn.com/uploads/chorus_image/image/70735246/lifestyle_01.0.jpg' width='700px' /><br/>
-TP-Link has a new “cheap” router. The Deco XE75 is a tri-band Wi-Fi 6E mesh router that should lower the cost barrier for the new 6GHz wireless technology standard. The new two-pack mesh whole home router is available now for $299.99. It's certainly one of the first signs of Wi-Fi 6E technology reaching affordable pricing, and, best of all, the Deco XE75 seems to cut very few features.
-<a href='https://www.theverge.com/2022/4/11/22979247/tp-link-xe75-affordable-wifi-6e-mesh-router'> Source <a/>

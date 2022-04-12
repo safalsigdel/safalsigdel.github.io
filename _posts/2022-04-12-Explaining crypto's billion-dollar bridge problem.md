@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NEmgsjuCar9nABGHE2hlvZeG_M4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70735131/acastro_220531_5120_00002.0.jpg' width='700px' /><br/>
-On March 23rd, the Ronin blockchain network underlying the popular NFT-driven game Axie Infinity was hit with a hack that saw the attackers walk away with an eye-popping $625 million in cryptocurrency.
-<a href='https://www.theverge.com/23017107/crypto-billion-dollar-bridge-hack-decentralized-finance'> Source <a/>
