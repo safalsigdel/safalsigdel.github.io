@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xFPcVvVfoSXnjZynJLUhDSm0w1o=/0x0:2158x1258/1200x800/filters:focal(907x457:1251x801)/cdn.vox-cdn.com/uploads/chorus_image/image/70743485/ecf9f64b_8b98_4e6f_97c7_4404dcda3884.0.png' width='700px' /><br/>
+The pandemic sparked a running boom, with one study finding that roughly 28 percent of current runners got their start during quarantine. To cater to this new crowd, Polar announced today that it's launching two new GPS watches designed to help runners get better at the sport. The $199.90 Pacer is aimed at novices, while the $299.90 Pacer Pro is meant to help serious runners up their game.
+<a href='https://www.theverge.com/2022/4/13/23022409/polar-pacer-pro-running-smartwatch'> Source <a/>
