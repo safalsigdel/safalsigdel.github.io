@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-og6cbEQGbooOpmawCHAslr11zs=/0x0:2040x1360/1200x675/filters:focal(1140x650:1466x976)/cdn.vox-cdn.com/uploads/chorus_image/image/70744766/cwelch_220410_5136_0007.0.jpg' width='700px' /><br/>
+Wireless Bluetooth speakers have become ubiquitous, indispensable gadgets. Everyone's got one somewhere, and the use cases vary from person to person. Maybe you use your speaker around the house or as a shower soundtrack. Maybe you bring it along to the park or beach. And then there are those people who take a portable speaker practically everywhere they go — sharing their music from a bike or backpack with everyone nearby.
+<a href='https://www.theverge.com/23022617/best-bluetooth-speakers'> Source <a/>

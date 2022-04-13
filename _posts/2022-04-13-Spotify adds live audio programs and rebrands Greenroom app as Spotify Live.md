@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sMW4lBk6nCmwfNrms1vBo0D_uvQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70740381/acastro_201110_4286_spotify_0001.0.jpg' width='700px' /><br/>
-Spotify is rebranding its Greenroom live audio app as Spotify Live and will bring its features into the main Spotify app, the company announced Tuesday. Spotify Live will be available as both a standalone app and a livestream feature in the main app. At present, the main app will include select live content from original programming, and the standalone Spotify Live app will be open to all independent creators.
-<a href='https://www.theverge.com/2022/4/12/23022006/spotify-live-audio-programs-greenroom-podcasts'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TlJ-bVO2JliEG2dwNDbIn3fWgco=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70740642/Dynamic_Stories_US.0.png' width='700px' /><br/>
-A new feature from Snap will let publishers on Snapchat automatically create posts based on stories published to a website. According to Axios, more than 40 publishers from the US, the UK, France, and India will begin using Dynamic Stories to automatically share published content to Snapchat.
-<a href='https://www.theverge.com/2022/4/12/23022005/snap-dynamic-stories-newsrooms-rss'> Source <a/>

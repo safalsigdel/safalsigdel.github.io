@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MFy8ZJzzpq3fv6Y06mFJ_tINgkU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70740697/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
-Twitter announced Tuesday that it has acquired OpenBack, a push notifications company. OpenBack offers “device-side control of push notifications,” according to Twitter's head of consumer product Jay Sullivan, and Twitter could use the team to pull up timely information even when you're away from the app.
-<a href='https://www.theverge.com/2022/4/12/23022066/twitter-openback-acquisition-improve-push-notifications'> Source <a/>
