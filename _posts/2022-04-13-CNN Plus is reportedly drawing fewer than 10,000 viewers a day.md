@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kk_V5gQozTo5WLLQSU-ebT3mJqM=/0x0:640x360/1200x800/filters:focal(269x129:371x231)/cdn.vox-cdn.com/uploads/chorus_image/image/70741581/cnn_plus_3d_whiteplus_redbg_pr_email_logo_640x360.0.jpg' width='700px' /><br/>
+CNN Plus is reportedly struggling to gain viewers just two weeks out from its launch, according to a report from CNBC. People familiar with the matter told the outlet the platform is only raking in fewer than 10,000 viewers per day.
+<a href='https://www.theverge.com/2022/4/12/23022359/cnn-plus-viewership-rates-streaming-warnermedia'> Source <a/>

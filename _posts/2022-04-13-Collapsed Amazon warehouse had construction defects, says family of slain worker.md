@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dCG23FuxZiZcoDRwhisoF7SqUNo=/0x0:4200x2445/1200x800/filters:focal(1764x887:2436x1559)/cdn.vox-cdn.com/uploads/chorus_image/image/70740783/1237195057.0.jpg' width='700px' /><br/>
+The Amazon warehouse that collapsed with employees inside during a December tornado outbreak might have harbored a “grave violation” of building code that made the structure extremely vulnerable, according to an attorney representing the family of a worker who died there.
+<a href='https://www.theverge.com/2022/4/12/23021839/amazon-warehouse-tornado-collapsed-construction-defects-slain-worker'> Source <a/>

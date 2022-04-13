@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/26yepSL58pYyTVgwsZKjA1kHg60=/0x0:6000x4000/1200x800/filters:focal(3420x1736:4380x2696)/cdn.vox-cdn.com/uploads/chorus_image/image/70742422/866218082.0.jpg' width='700px' /><br/>
+Starting next month, Yelp says it will cover the costs of travel if an employee or their dependent needs to leave the state to access abortion services, as first reported by The New York Times. The company employs around 200 people in Texas, where legislators passed the strictest abortion law in the country last September.
+<a href='https://www.theverge.com/2022/4/12/23022695/yelp-travel-reimburse-employees-travel-abortion-access-texas-law'> Source <a/>

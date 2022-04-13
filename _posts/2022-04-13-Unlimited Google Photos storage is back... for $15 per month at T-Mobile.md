@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2kGIwFw5lH9ABS9TC76otgt7vCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70741004/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
+T-Mobile is introducing a new Google One membership option for its customers that revives Google's unlimited photo storage backup service... for a price, of course. For $15 per month, it includes 2TB of cloud storage, all of the benefits of Google One membership, and unlimited original resolution photo and video backups to Google Photos.
+<a href='https://www.theverge.com/2022/4/12/23022223/google-photos-unlimited-storage-t-mobile-google-one-2-tb'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MIGFr93bXUh0DG6NFlVjNTyw6wM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70737469/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
-As Activision Blizzard continues to struggle under the weight of multiple PR disasters regarding sexual harassment and union busting, the company has appointed Kristen Hines as its new diversity, equity, and inclusion officer.
-<a href='https://www.theverge.com/2022/4/11/23020687/activision-blizzard-diversity-equity-inclusion-officer'> Source <a/>

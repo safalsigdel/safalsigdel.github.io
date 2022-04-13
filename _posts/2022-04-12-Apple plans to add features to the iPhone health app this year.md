@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-jF1hG9Nmk9pYcuPcTKx2Bl9Kr4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70739663/vpavic_211006_4796_0110.0.jpg' width='700px' /><br/>
-Apple is planning an expansion to the iPhone health app this year that would include additional sleep tracking and a tool to remind people to take medication, Bloomberg reported. The company could also add body temperature sensing to the Apple Watch this year and is still working on developing a blood pressure monitor.
-<a href='https://www.theverge.com/2022/4/12/23021696/apple-health-app-new-features-tracking-iphone-watch-blood-pressure'> Source <a/>

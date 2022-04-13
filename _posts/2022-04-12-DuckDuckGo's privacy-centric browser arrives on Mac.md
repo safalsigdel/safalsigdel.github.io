@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fjUmpsBe3dgMKf2c-qNi0OcN2es=/0x0:1704x937/1200x800/filters:focal(716x333:988x605)/cdn.vox-cdn.com/uploads/chorus_image/image/70740131/duckduckgo_mac_beta.0.png' width='700px' /><br/>
-DuckDuckGo's privacy-focused browsing app is available in beta on Mac, but you'll have to join a private waitlist to gain access. Just like the mobile browsing app, DuckDuckGo on Mac uses the DuckDuckGo search engine by default, automatically blocks web trackers, and comes with the famous “Fire” button that burns up your browsing history and tabs in a single click.
-<a href='https://www.theverge.com/2022/4/12/23021682/duckduckgo-for-mac-desktop-browser-privacy'> Source <a/>

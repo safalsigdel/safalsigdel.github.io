@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4lZ6Xk0ZD9w1C2B80dFSALnf6OQ=/0x0:2112x1404/1200x800/filters:focal(888x534:1224x870)/cdn.vox-cdn.com/uploads/chorus_image/image/70737614/Screen_Shot_2021_08_03_at_11.54.11_AM.0.png' width='700px' /><br/>
-A report from Bloomberg details the obstacles hampering Amazon's efforts to get its delivery drone program off the ground, citing a high employee turnover rate and potential safety risks.
-<a href='https://www.theverge.com/2022/4/11/23020549/amazon-struggling-drone-deliveries-prime-air-bezos'> Source <a/>

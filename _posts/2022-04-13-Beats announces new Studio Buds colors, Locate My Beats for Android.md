@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UI4G-Tu1CjyyKxYwzlkjniemCnw=/0x0:2004x1284/1200x800/filters:focal(842x482:1162x802)/cdn.vox-cdn.com/uploads/chorus_image/image/70740584/beats.0.jpg' width='700px' /><br/>
+Beats has announced new colors of its Studio Buds earbuds that will go on sale beginning tomorrow: blue, gray, and pink. They join the existing black, white, and red options that have been available since last year. The price remains unchanged at $149.99.
+<a href='https://www.theverge.com/2022/4/12/23022096/beats-studio-buds-new-colors-blue-gray-pink-android'> Source <a/>

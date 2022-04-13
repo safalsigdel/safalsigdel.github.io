@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SRUnne6bd2jry4dwJ9hfrDGwVsk=/0x0:2850x1600/1200x800/filters:focal(1197x572:1653x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/70739506/Screen_Shot_2022_04_11_at_13.26.35.0.png' width='700px' /><br/>
-Adobe announced on Tuesday that Creative Cloud subscriptions will now include Frame.io, its software made for collaborating on video projects. It's building the software into the latest versions of Premiere Pro and After Effects, which have some updates of their own — the company gave its video editing software a visual refresh, and its compositing software will finally be Apple Silicon native.
-<a href='https://www.theverge.com/2022/4/12/23005191/adobe-after-effects-apple-silicon-premiere-pro-refresh-frame-io'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8L-yM6OlQc4KRtgerLd5yzaCr98=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/70739355/THERAFACE_LIFESTYLE_KELSEY_BEDROOM_0081_copy.0.jpg' width='700px' /><br/>
-Skincare gadgets are all over Instagram and TikTok, and now the company behind the Theragun body massage gun wants in on the action. Today, Therabody announced it's launching the TheraFace Pro — a facial massage gun that can also deliver microcurrent and light therapy with interchangeable magnetic attachments.
-<a href='https://www.theverge.com/2022/4/12/23020395/theraface-pro-massage-gun-facial-microcurrent'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8PsZfCzD2Ztvn3qaAEb0bmAejD8=/0x0:1960x1400/1200x800/filters:focal(824x544:1136x856)/cdn.vox-cdn.com/uploads/chorus_image/image/70740902/Apple_iMovie_features_storyboards.0.jpg' width='700px' /><br/>
+Apple's new iMovie 3.0 update for iPhone and iPad has a major new Storyboards feature that's designed to make it easier to create videos in the app with pre-built templates.
+<a href='https://www.theverge.com/2022/4/12/23022253/apple-imovie-3-0-update-storyboards-templates-magic-movie'> Source <a/>

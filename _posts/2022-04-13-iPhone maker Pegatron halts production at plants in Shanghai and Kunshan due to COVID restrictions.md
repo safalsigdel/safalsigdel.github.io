@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xs4s3TaJl7776tEMCHqqK5W5liE=/0x0:1995x1330/1200x800/filters:focal(839x506:1157x824)/cdn.vox-cdn.com/uploads/chorus_image/image/70741669/vpavic_210916_untitled_0031.0.jpg' width='700px' /><br/>
+Pegatron, a Taiwanese company that is one of a few companies that assemble the iPhone, has halted production at two plants in Shanghai and one in Kunshan to comply with the Chinese government's stringent COVID-19 regulations, according to Nikkei Asia. China has put strict policies in place in response to a recent resurgence of COVID-19 in the country.
+<a href='https://www.theverge.com/2022/4/12/23022470/apple-pegatron-iphone-manufacturing-shanghai-kunshan-covid-19'> Source <a/>

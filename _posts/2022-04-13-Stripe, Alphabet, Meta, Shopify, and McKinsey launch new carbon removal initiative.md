@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uBwpBtBjojIan5Tux6sh55q9KZ4=/0x0:6974x3736/1200x800/filters:focal(2930x1311:4044x2425)/cdn.vox-cdn.com/uploads/chorus_image/image/70741677/1236290818.0.jpg' width='700px' /><br/>
+Big names in tech and consulting just made a $925 million commitment to purchase captured carbon between now and 2030. The pledge — made by Stripe, Alphabet, Meta, Shopify, and McKinsey — marks a big investment in carbon removal technologies.
+<a href='https://www.theverge.com/2022/4/12/23022343/stripe-alphabet-meta-shopify-mckinsey-launch-carbon-removal-initiative-frontier'> Source <a/>
