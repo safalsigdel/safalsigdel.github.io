@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eAw1yFyDOiUSiljMXsJLFK-fvqc=/0x0:1635x1075/1200x800/filters:focal(688x408:948x668)/cdn.vox-cdn.com/uploads/chorus_image/image/70752880/Fortnite_Zero_Build_Gameplay_Trailer___No_Build_Battle_Royale_0_21_screenshot.0.png' width='700px' /><br/>
+Fortnite's latest season kicked off a big shakeup: developer Epic Games removed building, perhaps the game's most iconic feature, from the core battle royale modes. It was a risky move that had the potential to lessen interest in the game. Instead, it appears to have had the opposite effect — especially for some big streamers.
+<a href='https://www.theverge.com/2022/4/15/23024470/fortnite-zero-build-mode-player-return-twitch-the-fierce-diva-sypherpk'> Source <a/>

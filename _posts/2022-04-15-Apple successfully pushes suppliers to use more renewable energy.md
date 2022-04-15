@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TUNMmpdPAgXvWV6bR1vyzjKZzfk=/0x0:4768x3280/1200x800/filters:focal(2003x1259:2765x2021)/cdn.vox-cdn.com/uploads/chorus_image/image/70749185/539620514.0.jpg' width='700px' /><br/>
-Apple suppliers have more than doubled their clean power over the past year, the company announced today. The renewable energy projects they support prevented 13.9 million metric tons of carbon dioxide pollution from entering the atmosphere. That has almost the same impact as taking 3 million cars off the road for a year, the company says.
-<a href='https://www.theverge.com/2022/4/14/23025064/apple-supply-chain-pollution-renewable-energy-climate-goals'> Source <a/>

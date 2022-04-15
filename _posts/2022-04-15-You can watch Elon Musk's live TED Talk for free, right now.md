@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J8hcQORagQWFmiZp4OXsNG-2FcQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70749147/VRG_Illo_STK022_K_Radtke_Musk_Tesla.0.jpg' width='700px' /><br/>
-Elon Musk just blew up the entire tech news cycle this morning with his offer to buy 100 percent of Twitter at $54.20 in cash, days after quietly becoming one of its largest shareholders and then rejecting a previously accepted seat on the board. And amazingly, he's also giving a TED Talk this morning, right now, which the TED organizers have graciously decided to make public.
-<a href='https://www.theverge.com/2022/4/14/23025410/elon-musk-ted-talk-free-live-post-twitter-announcement'> Source <a/>

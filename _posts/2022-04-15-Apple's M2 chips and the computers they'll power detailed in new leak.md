@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/COIGrRQ7WTPaMHy_2pyCSXXxP3k=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70751207/2022_3_8_apple_177_10_17_28.0.jpg' width='700px' /><br/>
-Apple is reportedly working on nine new Macs featuring its upcoming M2 processors, according to Bloomberg's Mark Gurman. These rumors come hot on the heels of Apple releasing the Mac Studio, and its announcement that the the M1 Ultra would be the last chip in its current-gen lineup.
+Apple is reportedly working on nine new Macs featuring its upcoming M2 processors, according to Bloomberg's Mark Gurman. These rumors come hot on the heels of Apple releasing the Mac Studio and its announcement that the M1 Ultra would be the last chip in its current-gen lineup.
 <a href='https://www.theverge.com/2022/4/14/23026073/apple-m2-silicon-macbook-air-pro-mac-mini-rumors'> Source <a/>

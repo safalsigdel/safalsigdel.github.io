@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0S0qvVIKdtZ6meFDjr9BZt3Hqtc=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70753034/iPad_Core_MiniGolf.0.png' width='700px' /><br/>
+Core, a free PC-based app built on Unreal Engine that lets you create and play games, is expanding to iOS and Mac this summer, developer Manticore Games announced Friday. The app is currently available only on Windows from the Epic Games Store, so the move to Apple's platforms could mark a significant expansion for Core.
+<a href='https://www.theverge.com/2022/4/15/23026063/core-game-creation-tool-pc-ios-mac-this-summer-epic-games-store'> Source <a/>

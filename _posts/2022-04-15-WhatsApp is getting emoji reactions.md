@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PnLAqOIp5XEXP7HfGDoaO49t9sA=/0x0:2880x1618/1200x800/filters:focal(1210x579:1670x1039)/cdn.vox-cdn.com/uploads/chorus_image/image/70749187/Screen_Shot_2022_04_14_at_09.08.11.0.png' width='700px' /><br/>
-WhatsApp announced on Thursday that it's adding emoji reactions to its chat app, letting you express your feelings toward a message without having to send an individual emoji as a message. Although the company announced reactions alongside its new communities feature, Meta spokesperson Joshua Breckman told The Verge that reactions will be available on all chats when they launch, which will be “soon.”
-<a href='https://www.theverge.com/2022/4/14/23025334/whatsapp-emoji-reaction-announcement-file-size-voice-calls'> Source <a/>
