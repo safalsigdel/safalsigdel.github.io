@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eOWOA90xPuPCmhsXssFdxN4uE3I=/0x0:2040x1360/1200x800/filters:focal(1000x299:1326x625)/cdn.vox-cdn.com/uploads/chorus_image/image/70749475/elon_musk_tesla_3225.0.jpg' width='700px' /><br/>
+This morning, Elon Musk, the current wealthiest man in the world, offered to buy Twitter outright for $43 billion and take the company private. That is quite a lot of money to spend on a company that allows users to post their thoughts in 280-character increments.
+<a href='https://www.theverge.com/2022/4/14/23025330/elon-musk-twitter-offer-43-billion'> Source <a/>

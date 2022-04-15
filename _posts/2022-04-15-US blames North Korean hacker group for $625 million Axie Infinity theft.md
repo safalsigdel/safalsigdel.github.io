@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S0dzX-b73v98SWrt12GVaZyPem4=/0x0:1018x636/1200x800/filters:focal(428x237:590x399)/cdn.vox-cdn.com/uploads/chorus_image/image/70750590/Screen_Shot_2022_03_30_at_10.10.00_AM.0.png' width='700px' /><br/>
+The US Treasury Department blames North Korean hacking group Lazarus for stealing $625 million in cryptocurrency from the Ronin network, the blockchain backing the Axie Infinity play-to-earn crypto game, according to a report from Vice. On Thursday, the Department of Treasury updated sanctions to include the wallet address that received the funds and attributed it to the Lazarus group.
+<a href='https://www.theverge.com/2022/4/14/23025739/north-korean-hacker-lazarus-axie-infinity-cryptocurrency-hack-theft-us-blames'> Source <a/>

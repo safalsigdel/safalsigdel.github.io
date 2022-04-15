@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/97wsG2mquQ-P996ZQ6sVRvN_fY8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70749623/akrales_211222_4945_0011.0.jpg' width='700px' /><br/>
+ASUS has officially launched the Zenbook 14X OLED Space Edition, and it's available for $1,999.99 on Newegg and Amazon. The laptop comes with a 12th Gen Intel i9-12900H plus integrated Intel Iris Xe graphics — but its futuristic design is what really makes it stand out.
+<a href='https://www.theverge.com/2022/4/14/23025096/asus-space-edition-zenbook-14x-oled-laptop-launch'> Source <a/>

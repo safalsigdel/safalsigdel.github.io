@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AXo_Fe4R6aEDiKH3_rmbWGRr8S4=/0x0:1999x1122/1200x800/filters:focal(841x402:1159x720)/cdn.vox-cdn.com/uploads/chorus_image/image/70744583/dnd_acquires_dnd_beyond.0.jpeg' width='700px' /><br/>
-Hasbro, the parent company of Dungeons & Dragons publisher Wizards of the Coast, is acquiring D&D Beyond for $146.3 million in cash. The popular tabletop role-playing game has licensed D&D Beyond as its official subscription-based digital toolset since 2017.
-<a href='https://www.theverge.com/2022/4/13/23023426/dungeons-and-dragons-wizards-of-the-coast-hasbro-fandom-dnd-beyond-acquisition'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OsDaqVpvj_F5ReuI2x6SC7XRJTU=/0x0:2040x1338/1200x800/filters:focal(857x506:1183x832)/cdn.vox-cdn.com/uploads/chorus_image/image/70750530/twitter-logo-stock-new-york-stock-exchange1_2040.0.jpg' width='700px' /><br/>
+Twitter CEO Parag Agrawal told employees Thursday that the company was still evaluating a $43 billion offer by Elon Musk to buy the company and take it private, setting the stage for a potentially drawn-out feud with the world's richest person.
+<a href='https://www.theverge.com/2022/4/14/23025903/twitter-ceo-board-elon-musk-takeover-still-evaluating'> Source <a/>

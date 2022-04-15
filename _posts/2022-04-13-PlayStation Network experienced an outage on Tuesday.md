@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JCsxU89WiA5ZwgTcZVbT2_6Zz28=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70742420/vpavic_4278_20201030_0301.0.jpg' width='700px' /><br/>
-PlayStation Network had a bit of a rough patch Tuesday evening. For about 45 minutes, Sony's PlayStation Network status page showed that all of its services were experiencing issues in some way, which affected things like signing into your account and connecting to PlayStation Now and the PlayStation Store. Now, however, the site is showing that everything is “up and running.”
-<a href='https://www.theverge.com/2022/4/12/23022843/sony-playstation-network-outage-is-down-error-store-ps5-ps4'> Source <a/>

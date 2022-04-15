@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gQS793EuvhOI4Oj9w0BC27hxTEI=/0x0:1920x1293/1200x800/filters:focal(807x494:1113x800)/cdn.vox-cdn.com/uploads/chorus_image/image/70742374/gt_gray_desert.0.jpg' width='700px' /><br/>
-Lucid has a new high-performance version of its luxury all-electric sedan. The new Lucid Air Grand Touring Performance announced today (via CNBC) can be selected as a variant via the company's online configurator, which tops the standard Grand Touring's 819 horsepower with 1,050.
-<a href='https://www.theverge.com/2022/4/12/23022720/lucid-air-grand-touring-performance-1050hp'> Source <a/>

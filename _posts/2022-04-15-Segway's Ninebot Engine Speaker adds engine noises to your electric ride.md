@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UlnfzBHrAAGP1igknqj8g3lzHQM=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/70749969/Screen_Shot_2022_04_14_at_2.31.45_PM.0.jpeg' width='700px' /><br/>
+Segway has a new speaker accessory attachment for its electric scooters that makes V8 engine noises. The Ninebot Engine Speaker is a Bluetooth wireless speaker that straps onto a number of Segway's personal transport vehicles. It can not only get rowdy with your favorite beats but also cause a ruckus like there's a neighborhood drag race (via Gizmodo).
+<a href='https://www.theverge.com/2022/4/14/23025585/segway-ninebot-engine-wireless-speaker-engine-noise-v8'> Source <a/>

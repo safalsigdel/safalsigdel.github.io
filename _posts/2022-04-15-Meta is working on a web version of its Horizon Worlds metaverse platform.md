@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7mp_zIaoRkLrM9VnFOlITfBZwdI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70750742/acastro_211101_1777_meta_0001.0.jpg' width='700px' /><br/>
+Meta is planning to bring its Horizon Worlds social metaverse platform to the web, Meta CTO Andrew “Boz” Bosworth said in a tweet on Thursday. Being available on the web would mark a major expansion for the platform, which is currently only available on its Quest VR headsets.
+<a href='https://www.theverge.com/2022/4/14/23025899/meta-horizon-worlds-web-version-metaverse-platform'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SG4NT6zSn1DclJutz0gvnoVzi0k=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70744471/acastro_220411_5130_0001.0.jpg' width='700px' /><br/>
-Mark Zuckerberg has a grandiose vision for the metaverse, and he hopes that you'll one day see the same thing, too — quite literally, through a pair of augmented reality glasses.
-<a href='https://www.theverge.com/23022611/meta-facebook-nazare-ar-glasses-roadmap-2024'> Source <a/>

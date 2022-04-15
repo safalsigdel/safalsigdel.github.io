@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vgdMsTArhkm6keffVMFtaGybUJE=/0x0:1200x675/1200x800/filters:focal(118x87:310x279)/cdn.vox-cdn.com/uploads/chorus_image/image/70743456/F__FIFA_com_PressRelease_16x9_Lockup.0.jpeg' width='700px' /><br/>
-FIFA launched its free streaming service — named FIFA Plus, of course — that includes a mix of live soccer matches, archived content, original features, and much more. It's available globally on the web and mobile devices, in five languages (English, French, German, Portuguese, and Spanish) with more to follow.
-<a href='https://www.theverge.com/2022/4/13/23023300/fifa-plus-free-40000-live-matches-original-content'> Source <a/>

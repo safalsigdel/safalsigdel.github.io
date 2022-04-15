@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-OCXiy8JGvIcvubfhx4qezkiul0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70749610/acastro_191204_1777_elon_legal_0001.0.0.jpg' width='700px' /><br/>
+Elon Musk took the Securities and Exchange Commission to task during a TED appearance Thursday, claiming he had the funding to take Tesla private despite the agency concluding that he had not.
+<a href='https://www.theverge.com/2022/4/14/23025511/elon-musk-sec-funding-secured-tesla-twitter-ted'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WJ47-MhOK6E6w1k0gVoA1l5rJp4=/0x0:1716x1200/1200x800/filters:focal(260x486:534x760)/cdn.vox-cdn.com/uploads/chorus_image/image/70743748/risk_groups.0.jpg' width='700px' /><br/>
-A new study from VeiligheidNL, a Dutch organization focused on the prevention of injuries, concludes that e-bike riders have a greater risk of injury than riders on ordinary bicycles. It concedes, however, that more research is needed to identify the underlying causes.
-<a href='https://www.theverge.com/2022/4/13/23023361/e-bike-injuries-increased-risk-netherlands'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iVYVJ2pwiaf5Ioak7KSimTaCoCY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70744714/akrales_20210526_4595_0284.0.jpg' width='700px' /><br/>
-Ford has made a lot of promises about its first electric F-150, and now the battery-powered pickup truck will begin deliveries in a couple of weeks. Ford CEO Jim Farley tweeted “it's time,” announcing that the F-150 Lightning “strikes” on April 26th at 1:30PM ET.
-<a href='https://www.theverge.com/2022/4/13/23023664/ford-f-150-lightning-ev-launch-date-event'> Source <a/>
