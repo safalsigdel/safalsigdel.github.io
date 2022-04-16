@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tcbQWPjjlsS409ko_-MfSdQ8cnA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70757466/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Editing a tweet using Twitter's upcoming edit button could leave a digital trace of your tweet's history, according to reverse engineer Jane Manchun Wong. In a tweet, Manchun Wong explains that the edit function appears to have an “immutable” quality, which means Twitter may create an entirely new tweet when one is edited, all while preserving the previous versions of that tweet.
+<a href='https://www.theverge.com/2022/4/16/23028111/twitter-upcoming-edit-button-tweet-history'> Source <a/>
