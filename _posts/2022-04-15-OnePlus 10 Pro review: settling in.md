@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vwZi110CUpp6tvFP-trervfKrL4=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23355505/ajohnson_220321_5096_0004_squ.jpg' width='700px' /><br/>
-The 10 Pro is OnePlus all grown up. The days of a scrappy upstart challenger are gone — that much was clear with last year's 9 and 9 Pro, with true flagship specs and prices to match.
-<a href='https://www.theverge.com/23003212/oneplus-10-pro-review-screen-price-specs-battery'> Source <a/>

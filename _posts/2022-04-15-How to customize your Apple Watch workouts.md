@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/758oIcKd968EqOVQcmj6IFF9GWw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70749556/verge-2016-09-12_16-10-26.0.0.jpg' width='700px' /><br/>
-While you can use any compatible fitness app to track activities on the Apple Watch, the native Workout app gives you a ton of options. That said, the default settings may not always be to your liking. This is especially true if you're following a training plan, have specific targets you'd like to hit, or want to choose which metrics you see on screen during your activity.
-<a href='https://www.theverge.com/23025352/apple-watch-workout-app-how-to'> Source <a/>

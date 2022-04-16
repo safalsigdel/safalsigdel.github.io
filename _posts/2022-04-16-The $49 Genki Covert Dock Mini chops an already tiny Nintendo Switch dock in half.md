@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y84N7_gqTGdxU_IasXDIxwx81MI=/0x0:680x453/1200x800/filters:focal(286x173:394x281)/cdn.vox-cdn.com/uploads/chorus_image/image/70753970/genki_covert_dock_mini_2.0.jpg' width='700px' /><br/>
+If you wanted a quality Nintendo Switch docking station you could actually slip into a pocket, the $70 Genki Covert Dock was your best bet — 30W of USB-C power, 1080p60 HDMI output, and a USB 3.1 port for peripherals all stuffed into a tiny folding prong charger thanks to the power of GaN.
+<a href='https://www.theverge.com/23026929/genki-covert-dock-mini-nintendo-switch-tv-gan-steam-deck'> Source <a/>

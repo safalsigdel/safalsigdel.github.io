@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JwuOeHU34Rvjk9z3S8C-Ivux7c4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70753918/vpavic_4275_20201030_0082.0.jpg' width='700px' /><br/>
+The Xbox Series X is sometimes a little easier to buy than Sony's PlayStation 5, but that doesn't mean it's a simple endeavor. The good news is that Best Buy has a restock of the flagship Xbox Series X consoles for its usual price of $499.99. The bad news is that this round of inventory is restricted to subscribers of Best Buy's Totaltech, which costs $199.99 per year.
+<a href='https://www.theverge.com/2022/4/15/22946258/microsoft-xbox-series-x-console-restock-best-buy-totaltech-check-availability'> Source <a/>

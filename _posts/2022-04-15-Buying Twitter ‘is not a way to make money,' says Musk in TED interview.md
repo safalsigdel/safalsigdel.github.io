@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u2A3dOK78IzZbOgomKF7DrRKWIw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70749352/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg' width='700px' /><br/>
-Speaking for the first time since news broke of his attempts to buy all of Twitter, Tesla CEO Elon Musk said his offer had been made for the public good.
-<a href='https://www.theverge.com/2022/4/14/23025343/elon-musk-twitter-takeover-ted-talk-quote-stock-buyout'> Source <a/>

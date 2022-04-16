@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4XGVmBb7dzlIufcf8KNmPJRp6tE=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70749991/snapshot.0.jpg' width='700px' /><br/>
-Google's Snapshot feature, which was introduced back in 2018 and occasionally (but not often) updated, is finally gone, according to an article at 9to5Google.
-<a href='https://www.theverge.com/2022/4/14/23025356/google-assistant-snapshot-android'> Source <a/>

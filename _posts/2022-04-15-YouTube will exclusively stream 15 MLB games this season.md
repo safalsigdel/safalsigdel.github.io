@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DWbcPrE0i7UytF73P6rT6J-av_E=/0x0:4827x3134/1200x800/filters:focal(2256x804:3028x1576)/cdn.vox-cdn.com/uploads/chorus_image/image/70749794/1239925388.0.jpg' width='700px' /><br/>
-YouTube and Major League Baseball have renewed their streaming pact for the 2022 season, which will result in 15 regular-season games being shown exclusively on the platform. The first will be streamed on May 15th between the Washington Nationals and Colorado Rockies.
-<a href='https://www.theverge.com/2022/4/14/23025552/youtube-mlb-game-of-the-week-2022-15-games'> Source <a/>

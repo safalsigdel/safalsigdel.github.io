@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cu-CyBjUDZamIRpbwsmjWi50jI8=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/70750963/razer_lambda_2.0.jpg' width='700px' /><br/>
-It's been a decade since Razer shipped its first Blade laptop, and they've all come with Windows. That isn't quite changing today — but a company called Lambda is now putting Ubuntu on a souped-up version of last year's Razer Blade 15 Advanced with Razer's full blessing, with the aim of selling it to machine learning and artificial intelligence researchers.
-<a href='https://www.theverge.com/2022/4/14/23025968/razer-first-linux-laptop-lambda-tensorbook-tensorflow'> Source <a/>

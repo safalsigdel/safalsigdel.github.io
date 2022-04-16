@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/654cdKAMMoywYA8F8MOy3eU2iUg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70754271/akrales_220311_5028_0009.0.jpg' width='700px' /><br/>
+I recently reviewed the Gigabyte Aero 16, a 16-inch Intel-powered workstation with a powerful GPU. It was hot, heavy, expensive, and hadxe2x80xa6 little in the way of battery life. The 16-inch laptop category has traditionally been dominated by those sorts of desktop replacements.
+<a href='https://www.theverge.com/23020736/lenovo-ideapad-slim-7-pro-amd-laptop-review'> Source <a/>

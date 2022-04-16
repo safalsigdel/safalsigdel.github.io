@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SMuTzDcfKxnMM8Qgcfz9UX7TJoA=/0x0:963x688/1200x800/filters:focal(405x267:559x421)/cdn.vox-cdn.com/uploads/chorus_image/image/70755674/Screen_Shot_2022_04_15_at_3.50.54_PM.0.png' width='700px' /><br/>
+I just finished Friday's Wordle — which I am reminding you now is owned by The New York Times for reasons you'll understand shortly — and when I did, I was surprised to see an addition to the results screen. Under the usual stats, the “next Wordle” countdown, and the share button, there was something new: a small banner advertising another puzzle, the NYT's Spelling Bee.
+<a href='https://www.theverge.com/2022/4/15/23027502/wordle-spelling-bee-ad-finish-puzzle'> Source <a/>
