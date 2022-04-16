@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
 Are a Final Fantasy VII fan? Tired of oversleeping? Don't want to use your phone as an alarm lest you get sucked into doomscrolling? Well, do I ever have the solution for you: a standalone digital clock fashioned after Final Fantasy VII's iconic Buster Sword.
-<a href='https://www.theverge.com/tldr/2022/4/15/23027432/final-fantasy-vii-7-remake-buster-sword-digital-alarm-clock'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Are a Final Fantasy VII fan? Tired of oversleeping? Don't want to use your phone as an alarm lest you get sucked into doomscrolling? Well, do I ever have the solution for you: a standalone digital clock fashioned after Final Fantasy VII's iconic Buster Sword.
 <a href='https://www.theverge.com/tldr/2022/4/15/23027432/final-fantasy-vii-7-remake-buster-sword-digital-alarm-clock'> Source <a/>
