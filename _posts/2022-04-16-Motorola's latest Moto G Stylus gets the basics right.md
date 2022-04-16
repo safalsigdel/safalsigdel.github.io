@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/21noYjp9srD5RHf8sB3w0cJFnbk=/0x0:2040x1360/1200x675/filters:focal(801x515:1127x841)/cdn.vox-cdn.com/uploads/chorus_image/image/70752762/ajohnson_220411_5138_0001.0.jpg' width='700px' /><br/>
-The 2022 edition of the Moto G Stylus has a clearance rack vibe, since it's probably one of the last new phones to be sold in the US without 5G. But if Motorola is clearing out space for a new season of 5G devices, then it makes the 2022 G Stylus a heck of a good bargain.
-<a href='https://www.theverge.com/23025548/motorola-moto-g-stylus-2022-review-specs-screen-battery-price'> Source <a/>
