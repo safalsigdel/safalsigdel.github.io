@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/zepJC-lAuxa0ljVgqMhxX8Q87MI=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70754496/1239583955.0.jpg' width='700px' /><br/>
 “If Elon takes over Twitter, he is in for a world of pain,” writes Yishan Wong, the former CEO of Reddit. “He has no idea.”
+<a href='https://www.theverge.com/2022/4/15/23026971/reddit-elon-musk-moderation-yishan-wong'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/zepJC-lAuxa0ljVgqMhxX8Q87MI=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70754496/1239583955.0.jpg' width='700px' /><br/>
+“If Elon takes over Twitter, he is in for a world of pain,” writes Yishan Wong, the former CEO of Reddit. “He has no idea.”
 <a href='https://www.theverge.com/2022/4/15/23026971/reddit-elon-musk-moderation-yishan-wong'> Source <a/>

@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/zygwJCBhZ69oa2PIsr_ss0wGBLg=/0x0:2040x1360/1200x800/filters:focal(825x439:1151x765)/cdn.vox-cdn.com/uploads/chorus_image/image/70755631/vpavic_220210_5030_0054_Edit.0.jpg' width='700px' /><br/>
 Valve's Steam Deck handheld gaming PC has been the #2 top grossing product on Steam for five weeks in a row, according to SteamDB.
+<a href='https://www.theverge.com/23027375/steam-deck-sales-numbers-figures-best-selling'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/zygwJCBhZ69oa2PIsr_ss0wGBLg=/0x0:2040x1360/1200x800/filters:focal(825x439:1151x765)/cdn.vox-cdn.com/uploads/chorus_image/image/70755631/vpavic_220210_5030_0054_Edit.0.jpg' width='700px' /><br/>
+Valve's Steam Deck handheld gaming PC has been the #2 top grossing product on Steam for five weeks in a row, according to SteamDB.
 <a href='https://www.theverge.com/23027375/steam-deck-sales-numbers-figures-best-selling'> Source <a/>

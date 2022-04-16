@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/2dgDy904zdRaNg7ha6zEYZP016o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70754760/dbohn_211105_4864_0003.0.jpg' width='700px' /><br/>
 After years of rumors and false starts, it seems like we're close to finally, finally seeing a Pixel Watch running Wear OS.
+<a href='https://www.theverge.com/2022/4/15/23026915/pixel-watch-wear-os-wearables-smartwatch'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/2dgDy904zdRaNg7ha6zEYZP016o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70754760/dbohn_211105_4864_0003.0.jpg' width='700px' /><br/>
+After years of rumors and false starts, it seems like we're close to finally, finally seeing a Pixel Watch running Wear OS.
 <a href='https://www.theverge.com/2022/4/15/23026915/pixel-watch-wear-os-wearables-smartwatch'> Source <a/>
