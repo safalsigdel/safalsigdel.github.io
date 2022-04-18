@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2n1CBZE-w9aBU5IGRGfhZT1ZPdA=/0x0:2040x1360/1200x800/filters:focal(556x346:882x672)/cdn.vox-cdn.com/uploads/chorus_image/image/70762340/akrales_190913_3628_0327.0.jpg' width='700px' /><br/>
+Apple's AirDrop is a hugely convenient feature for transferring photos, videos, documents, and other files between the company's devices, including iPhones, iPads, and Macs. You can easily send something to a friend — or use AirDrop as a handy way of transferring files between your own products.
+<a href='https://www.theverge.com/23030163/airdrop-iphone-ipad-how-to-use-apple'> Source <a/>
