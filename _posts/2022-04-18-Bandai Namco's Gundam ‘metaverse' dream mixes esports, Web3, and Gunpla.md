@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w8aps9DaLuYBalJ0YbDyl01rUSw=/0x0:600x450/1200x800/filters:focal(252x177:348x273)/cdn.vox-cdn.com/uploads/chorus_image/image/70754080/Gundam_Metaverse_Project_600x450.0.png' width='700px' /><br/>
-Bandai Namco is making some big investments into the vaguely-defined idea of the metaverse, and it's starting first with what it's calling the “Gundam Metaverse Project.”
-<a href='https://www.theverge.com/2022/4/15/23026813/bandai-namco-gundam-metaverse'> Source <a/>
