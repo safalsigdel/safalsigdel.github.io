@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hs5_-8lGJVykmuCjXJXiUQMIffM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70764181/acastro_190228_1777_vpn_0003.0.jpg' width='700px' /><br/>
+Today I learned (TIL) there's an 83-page FBI “guide” to internet slang filled with abbreviations entered either by a complete troll or someone totally clueless, as recently reported by Input. And yes, TIL is actually included in the guide, but so are thousands of other abbreviations that I'm convinced someone just made up. Because no one actually uses BTDTGTTSAWIO (been there, done that, got the T-shirt and wore it out) ...right?
+<a href='https://www.theverge.com/2022/4/18/23030750/fbi-83-page-guide-internet-speak'> Source <a/>

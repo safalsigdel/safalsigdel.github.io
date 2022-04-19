@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a2Wevq1uTz6q0jz-6FNU_lq6QY8=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/70757658/1237405952.0.jpg' width='700px' /><br/>
-This spring, the University of Central Florida's (UCF) football team will don QR codes instead of numbers on the back of their jerseys (via SportsLogos.net). The team showed off their new garb on Twitter, sporting large custom QR codes beneath their last names that you can scan to access players' biographies on UCF's website.
-<a href='https://www.theverge.com/2022/4/16/23028087/ucf-qr-codes-numbers-spring-game-football-uniforms'> Source <a/>

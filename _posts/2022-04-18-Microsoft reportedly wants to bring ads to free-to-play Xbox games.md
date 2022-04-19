@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_YWXjiSQLxH_5P8jnCJEd-0R7x8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70757092/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Microsoft is reportedly working on a program that will let brands showcase advertisements within free-to-play Xbox games, according to a report from Insider. Sources familiar with the situation told Insider that the ads wouldn't disrupt gameplay and may appear on a billboard in a racing game, for example.
-<a href='https://www.theverge.com/2022/4/16/23027934/microsoft-report-ads-free-to-play-xbox-games'> Source <a/>

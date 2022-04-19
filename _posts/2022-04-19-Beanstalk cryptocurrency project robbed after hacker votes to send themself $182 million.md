@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1GdRKhAEscohOOo3iNfQNEVOV_A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70763873/acastro_210106_4957_0001.0.jpg' width='700px' /><br/>
+On Sunday, an attacker managed to drain around $182 million of cryptocurrency from Beanstalk Farms, a decentralized finance (DeFi) project aimed at balancing the supply and demand of different cryptocurrency assets. Notably, the attack exploited Beanstalk's majority vote governance system, a core feature of many DeFi protocols.
+<a href='https://www.theverge.com/2022/4/18/23030754/beanstalk-cryptocurrency-hack-182-million-dao-voting'> Source <a/>

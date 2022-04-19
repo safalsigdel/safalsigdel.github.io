@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ix_tPQmCnxGkdZi_Yb_y4QsmIpM=/0x0:2560x1707/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/70755428/Metis_12_WIFI_US_Silver_005_L_Perspective_RGB_4500x3000_4cf3e1a_scaled.0.jpg' width='700px' /><br/>
-It's been over a year since Samsung released its shiny red Galaxy Chromebook 2. Its next shot at this device is now available for purchase, and it's something, well, a bit different.
-<a href='https://www.theverge.com/2022/4/15/23027218/samsung-galaxy-chromebook-2-360-chrome-os'> Source <a/>

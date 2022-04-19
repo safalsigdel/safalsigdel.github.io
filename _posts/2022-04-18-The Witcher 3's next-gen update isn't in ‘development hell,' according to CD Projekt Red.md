@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fGLWTSDd_ETvR2n_Zy8Y4jtpksU=/0x0:979x551/1200x800/filters:focal(412x198:568x354)/cdn.vox-cdn.com/uploads/chorus_image/image/70754586/thewitcher.com_en_1920x1080_579891865c9a2.0.jpg' width='700px' /><br/>
-CD Projekt Red (CDPR) announced on Wednesday that the next-gen update for The Witcher 3: Wild Hunt would be delayed, but the company insists it's not in “some sort of development hell” (via Polygon).
-<a href='https://www.theverge.com/2022/4/15/23027123/the-witcher-3-next-gen-update-cd-projekt-red-development-hell'> Source <a/>

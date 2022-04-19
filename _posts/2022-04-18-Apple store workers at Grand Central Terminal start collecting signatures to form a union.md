@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AabtS8WKPXAVjHoBZBSjThpk5Hs=/0x0:4876x3251/1200x800/filters:focal(2048x1236:2828x2016)/cdn.vox-cdn.com/uploads/chorus_image/image/70758152/1258358037.0.jpg' width='700px' /><br/>
-Retail Apple employees at a New York City store in Grand Central Terminal have started collecting signatures to form a union, according to a report from The Washington Post.
-<a href='https://www.theverge.com/2022/4/16/23028356/apple-store-workers-grand-central-terminal-new-york-union-signatures'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6aCvKF5OLsuZv_b92R7d8RDdOLg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70762870/vpavic_220415_5149_0038.0.jpg' width='700px' /><br/>
+Panic's Playdate, its quirky Game Boy-like handheld with a crank, will finally begin shipping today, April 18th, the company announced.
+<a href='https://www.theverge.com/2022/4/18/22955640/panic-playdate-handheld-ship-date-launch'> Source <a/>
