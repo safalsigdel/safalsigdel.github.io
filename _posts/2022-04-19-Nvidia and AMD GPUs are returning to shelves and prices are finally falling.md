@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iEMDPQNMOTCdV0S5S4oL-UvFIwY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70766261/shollister_201117_4303_0003.0.0.jpg' width='700px' /><br/>
+For nearly two years, netting a PS5, Xbox Series X, or AMD Radeon and Nvidia RTX graphics cards without paying a fortune has been a matter of luck (or a lot of skill). At its peak, scalpers were successfully charging double or even triple MSRP for a modern GPU. But it's looking like the great GPU shortage is nearly over.
+<a href='https://www.theverge.com/2022/4/19/23031309/nvidia-amd-gpu-price-in-stock-retail-ebay'> Source <a/>

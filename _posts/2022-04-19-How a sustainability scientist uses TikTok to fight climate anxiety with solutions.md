@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JY7DZg-9h-yeZZwBYr_fKyJARM0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70766057/VRG_Illo_5122_M_Mathieson_Tik_Tok.0.jpg' width='700px' /><br/>
+When Alaina Wood started posting to TikTok in 2020, her videos mostly had to do with strange things around her “historic” apartment, such as issues with leaks and doors. Eventually, Wood, a climate communicator and a sustainability scientist, began seeing videos from users expressing guilt and hopelessness about climate change.
+<a href='https://www.theverge.com/23030924/tiktok-alaina-wood-climate-change-sustainability'> Source <a/>
