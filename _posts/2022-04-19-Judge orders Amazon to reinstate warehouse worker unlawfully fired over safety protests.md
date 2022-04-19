@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sGYaiGH88iopWREves0WL4cTcpY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70765677/ngarun_181114_1777_amazon_0001.0.jpg' width='700px' /><br/>
+Amazon has been ordered to reinstate an employee unlawfully fired by the company two years ago for his involvement in safety protests at a Staten Island warehouse.
+<a href='https://www.theverge.com/2022/4/19/23031665/amazon-warehouse-worker-gerald-bryson-jfk8-reinstate-job-protest-safety'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sW29eA5TL9fGzlH6UMGNXtgSl0k=/0x0:4961x3720/1200x800/filters:focal(2085x1464:2877x2256)/cdn.vox-cdn.com/uploads/chorus_image/image/70765778/A221601_large.0.jpg' width='700px' /><br/>
+Audi completed its luxury concept car triptych with the unveiling of the Urbansphere, a massive, fully autonomous people mover that somehow manages to be entirely too large for the streets it's designed to travel.
+<a href='https://www.theverge.com/2022/4/19/23029320/audi-urbansphere-concept-electric-size-specs'> Source <a/>
