@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wjuyb9B5mpWndY-6J_6DOjSDLL0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70763016/acastro_180417_1777_telegram_0001.0.jpg' width='700px' /><br/>
-In a new update, Telegram announced it's letting users set any sound as their notification tone. You can use short audio files uploaded from your phone and save voice messages as notification tones from a chat.
-<a href='https://www.theverge.com/2022/4/18/23030356/telegram-messaging-app-set-any-sound-notifications-update'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Wjuyb9B5mpWndY-6J_6DOjSDLL0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70763016/acastro_180417_1777_telegram_0001.0.jpg' width='700px' /><br/>
-In a new update, Telegram announced it's letting users set any sound as their notification tone. You can use short audio files uploaded from your phone and save voice messages as notification tones from a chat.
-<a href='https://www.theverge.com/2022/4/18/23030356/telegram-messaging-app-set-any-sound-notifications-update'> Source <a/>
