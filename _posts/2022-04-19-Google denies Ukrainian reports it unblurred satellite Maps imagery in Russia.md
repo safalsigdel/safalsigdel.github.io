@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/WyyqugZnTOqfY4VQKAveBia4Jw4=/0x0:2556x1422/1200x800/filters:focal(1074x507:1482x915)/cdn.vox-cdn.com/uploads/chorus_image/image/70763950/Screen_Shot_2022_04_18_at_11.50.19.0.png' width='700px' /><br/>
 Google says it hasn't made changes to how it censors satellite imagery of Russia, contrary to widely circulated claims on Twitter that it “opened access to Russia's military and strategic facilities.”
+<a href='https://www.theverge.com/2022/4/18/23030753/google-maps-russian-military-satellite-images-russia-ukraine'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/WyyqugZnTOqfY4VQKAveBia4Jw4=/0x0:2556x1422/1200x800/filters:focal(1074x507:1482x915)/cdn.vox-cdn.com/uploads/chorus_image/image/70763950/Screen_Shot_2022_04_18_at_11.50.19.0.png' width='700px' /><br/>
+Google says it hasn't made changes to how it censors satellite imagery of Russia, contrary to widely circulated claims on Twitter that it “opened access to Russia's military and strategic facilities.”
 <a href='https://www.theverge.com/2022/4/18/23030753/google-maps-russian-military-satellite-images-russia-ukraine'> Source <a/>
