@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kLDSVqoXN44YKO8aan99Rz9C14A=/0x0:1192x972/1200x800/filters:focal(510x280:700x470)/cdn.vox-cdn.com/uploads/chorus_image/image/70763293/Screen_Shot_2022_04_18_at_09.30.50.0.png' width='700px' /><br/>
+Google seems to be working on bringing Wallet back in some form after it made the app part of Google Pay (via Android Police). According to Mishaal Rahman, the company is creating a Wallet interface for Google Play Services that will act as a way to access and manage your payment and transit cards, passes, rewards memberships, and more.
+<a href='https://www.theverge.com/2022/4/18/23030464/google-wallet-return-pay-screen-manage-cards-passes'> Source <a/>

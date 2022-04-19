@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-d5zxPo3MUii9IUheGkte_5cSmI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70763219/acastro_200512_1777_faceMask_0001.0.0.jpg' width='700px' /><br/>
+A federal judge said Monday that the Biden administration could not require masks be worn on airplanes and public transportation. The Centers for Disease Control and Prevention does not have the authority to introduce a mask mandate and did not follow the proper rules to implement a mandate, US District Judge Kathryn Kimball Mizelle wrote in the ruling.
+<a href='https://www.theverge.com/2022/4/18/23030626/mask-mandate-transportation-unlawful-judge'> Source <a/>
