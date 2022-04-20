@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/buvpwqto-w_62ZZaclnOmgZZ3ew=/0x0:3000x2000/1200x800/filters:focal(1376x731:1856x1211)/cdn.vox-cdn.com/uploads/chorus_image/image/70771484/1336158138.0.jpg' width='700px' /><br/>
+Best Buy's offering to take away and recycle your unwanted tech and appliances for a $199 fee. The standalone haul-away service includes the pickup of two large items, like a TV or washing machine, as well as an unlimited number of smaller products, from laptops to printers. Best Buy will then send your products off to a “trusted recycling partner,” where they will be repurposed, repaired, or recycled.
+<a href='https://www.theverge.com/2022/4/20/23033495/best-buy-haul-away-old-tv-appliances-199'> Source <a/>

@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/oUxm3fJSd_mbNDnKMlIt8ebGzkE=/0x0:2040x1529/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70768552/bfarsace_181116_3101_gigafactory_0040.0.jpg' width='700px' /><br/>
 Tesla is asking a judge to delay a lawsuit filed by California's civil rights agency that accuses the company of racial discrimination and harassment at its factory in Fremont, California.
+<a href='https://www.theverge.com/2022/4/19/23032585/tesla-racial-harassment-lawsuit-eeoc-dfeh-california-turf-war'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/oUxm3fJSd_mbNDnKMlIt8ebGzkE=/0x0:2040x1529/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70768552/bfarsace_181116_3101_gigafactory_0040.0.jpg' width='700px' /><br/>
+Tesla is asking a judge to delay a lawsuit filed by California's civil rights agency that accuses the company of racial discrimination and harassment at its factory in Fremont, California.
 <a href='https://www.theverge.com/2022/4/19/23032585/tesla-racial-harassment-lawsuit-eeoc-dfeh-california-turf-war'> Source <a/>

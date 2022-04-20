@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X57QpLHWEetGh8loC_EkGfKw_zY=/0x0:4961x3307/1200x800/filters:focal(2085x1258:2877x2050)/cdn.vox-cdn.com/uploads/chorus_image/image/70770514/P90458174_The_new_BMW_i7_xDrive60._European_model_shown.0.jpg' width='700px' /><br/>
+BMW announced a new electric 7 series luxury sedan, the i7 xDrive60. The upcoming EV will have an estimated range of “up to 300 miles” and a starting price of $120,295. Interested car buyers can pre-order the i7 starting today and deliveries are expected to start later this year.
+<a href='https://www.theverge.com/2022/4/20/23032951/bmw-i7-electric-sedan-announce-specs-price'> Source <a/>

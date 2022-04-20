@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4KeTqWlu6gxFZ158mdGXgWBQteU=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/70770368/1192521419.0.jpg' width='700px' /><br/>
+Tesla is restarting production at its massive Shanghai factory as the city of 25 million begins to ease lockdown restrictions following a substantial COVID outbreak.
+<a href='https://www.theverge.com/2022/4/20/23033394/tesla-shanghai-factory-sleep-eat-factory-closed-loop-covid'> Source <a/>

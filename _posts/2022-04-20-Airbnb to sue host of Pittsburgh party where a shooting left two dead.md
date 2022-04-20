@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6FnwpU9o9rjEMt1F16WHrjFr89I=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/70771872/1240049125.0.jpg' width='700px' /><br/>
+After a shooting at an Easter weekend house party at an Airbnb in Pittsburgh left two teenagers dead and another eight people with gunshot wounds, Airbnb says it plans to pursue legal action against the person who booked the party.
+<a href='https://www.theverge.com/2022/4/20/23033547/airbnb-sue-host-pittsburgh-easter-party-shooting'> Source <a/>

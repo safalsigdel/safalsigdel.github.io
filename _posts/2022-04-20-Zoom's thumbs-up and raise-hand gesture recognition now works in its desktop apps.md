@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PmO60MihWrqGvwGuE72xv0Slozs=/0x0:1131x595/1200x800/filters:focal(476x208:656x388)/cdn.vox-cdn.com/uploads/chorus_image/image/70771220/Screen_Shot_2021_06_21_at_2.30.07_PM.0.png' width='700px' /><br/>
+Zoom's reaction emoji are one of the platform's handiest features, letting you quickly applaud a co-worker or send a heart to a friend. With the latest update to its desktop apps, Zoom is making a couple of those reactions easier to find. Its gesture recognition feature will show a thumbs-up emoji in the meeting when you give one to your webcam, or flag a raised-hand emoji when you raise your hand.
+<a href='https://www.theverge.com/2022/4/20/23033545/zoom-gestures-raise-hand-thumbs-up'> Source <a/>

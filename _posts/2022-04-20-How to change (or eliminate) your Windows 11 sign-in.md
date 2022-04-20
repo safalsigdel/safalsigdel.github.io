@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vEWugL10EiQ8NDVkV_ORERFwqYQ=/0x0:2560x1696/1200x800/filters:focal(1076x644:1484x1052)/cdn.vox-cdn.com/uploads/chorus_image/image/70771019/twarren__windows11main_1.0.jpg' width='700px' /><br/>
+If you mainly use your Windows 11 computer at home, and you don't have curious children or roommates who might mess with it, then having to sign in with a password can be a pain in the neck — especially if you have a long, secure, and complicated password.
+<a href='https://www.theverge.com/23032097/windows-11-sign-in-password-biometrics-how-to-change'> Source <a/>
