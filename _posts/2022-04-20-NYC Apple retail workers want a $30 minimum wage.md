@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZvXgCnc3VJgvFettEndJXfmK09E=/0x0:4597x3064/1200x800/filters:focal(1932x1165:2666x1899)/cdn.vox-cdn.com/uploads/chorus_image/image/70768291/1392181848.0.jpg' width='700px' /><br/>
+Fruit Stand Workers United, the union attempting to organize Apple's Grand Central Terminal store, says that if its drive succeeds it plans on pushing for a $30 an hour minimum wage for the location's employees (via CNBC). The union updated its website on Monday with its goals, including the wage increase, health and safety research, and better education and retirement benefits.
+<a href='https://www.theverge.com/2022/4/19/23032222/apple-retail-fruit-stand-workers-united-minimum-wage'> Source <a/>

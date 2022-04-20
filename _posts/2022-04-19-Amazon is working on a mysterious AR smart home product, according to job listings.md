@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7Y48IHr0DUspqZDdqtk0atQarzE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70763999/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
-Amazon might be the next big tech company to get into augmented reality, as the company is hiring for a “new-to-world smart-home product” that uses “XR” technology in some fashion, according to job listings reported on by Protocol.
-<a href='https://www.theverge.com/2022/4/18/23030776/amazon-ar-vr-xr-smart-home-product-job-listings'> Source <a/>

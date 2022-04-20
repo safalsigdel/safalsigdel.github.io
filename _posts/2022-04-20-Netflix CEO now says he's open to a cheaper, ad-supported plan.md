@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z0YCbdnYQ1sNmuVS1yvWli7mnRo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70769091/acastro_211025_1777_netflix_0001.0.jpg' width='700px' /><br/>
+After years of rejecting calls for an ad-supported streaming tier, Netflix co-founder and co-CEO Reed Hastings said on Tuesday's earnings call that the company is “quite open to offering even lower prices with advertising, as a consumer choice.”
+<a href='https://www.theverge.com/2022/4/19/23032869/netflix-ads-streaming-reed-hastings-lower-price'> Source <a/>

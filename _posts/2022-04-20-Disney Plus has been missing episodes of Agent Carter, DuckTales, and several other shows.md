@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EI1ip3JT_tSTXPkmMI98o_Ki-iA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70769412/disneyplus.0.0.jpg' width='700px' /><br/>
+Over the last day or so, Disney Plus subscribers may have noticed that certain episodes of their favorite shows are missing. The folks at What's on Disney Plus collected a list of some of the shows with known missing episodes early Tuesday, and it's a long one, including favorites like Hannah Montana, Wizards of Waverly Place, Once Upon a Time, and many others.
+<a href='https://www.theverge.com/2022/4/19/23032554/disney-plus-episodes-disappear-streaming-glitch'> Source <a/>

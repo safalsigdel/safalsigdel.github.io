@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FKoIkm6XO8G6Lk_6A4xBj_Q192A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70764597/akrales_211020_4802_0403.0.jpg' width='700px' /><br/>
-Odd issues have popped up following software updates Google's released for its latest flagship phones frequently enough for us to look into why Android 12 has been so buggy for certain phones. Now some Pixel owners report that their phones are failing to complete a fairly basic task — ringing when there's an incoming call.
-<a href='https://www.theverge.com/2022/4/18/23030139/pixel-6-phone-calls-straight-to-voicemail-declined-bug'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GU0zqqyprWkh-jkMFncxghbKYxM=/0x0:5520x3680/1200x800/filters:focal(2319x1399:3201x2281)/cdn.vox-cdn.com/uploads/chorus_image/image/70767945/875487842.0.jpg' width='700px' /><br/>
+The Pokxc3xa9mon Company has acquired Millennium Print Group, a company that prints cards for the hugely popular Pokxc3xa9mon Trading Card Game. Millennium Print Group has been working with The Pokxc3xa9mon Company since 2015.
+<a href='https://www.theverge.com/2022/4/19/23032389/the-pokemon-company-acquisition-millenium-print-group-trading-card-game'> Source <a/>

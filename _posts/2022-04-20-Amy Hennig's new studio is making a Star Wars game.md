@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nCfgESWiNK0l2Q23bzRoRuX2rts=/0x0:3000x2000/1200x800/filters:focal(1746x766:2226x1246)/cdn.vox-cdn.com/uploads/chorus_image/image/70767012/539785436.0.jpg' width='700px' /><br/>
+Amy Hennig's new video game studio is working on a Star Wars game. In a press release, Skydance New Media wrote it is working in “collaboration with Lucasfilm Games to develop and produce a richly cinematic action-adventure game featuring an original story in the legendary Star Wars galaxy.”
+<a href='https://www.theverge.com/2022/4/19/23031936/star-wars-amy-hennig-naughty-dog-skydance-new-media'> Source <a/>

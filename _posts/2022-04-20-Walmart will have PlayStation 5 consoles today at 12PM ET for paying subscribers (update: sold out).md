@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-XexmKs3fEXiwflboQZYpF8c6ZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70763089/vpavic_4261_20201023_0058.0.jpg' width='700px' /><br/>
+Update April 19th, 12:42PM ET: Walmart has sold out of PlayStation 5 consoles for now.
+<a href='https://www.theverge.com/2022/4/18/22988835/sony-playstation-5-ps5-console-restock-walmart-plus-availability-check-inventory'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LsOKHG41_akRgJPdl7Qc8NZVsVY=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/70767232/Apple_Earth_Day_2022_new_recycling_pathways_material_recovery_lab.0.jpg' width='700px' /><br/>
+Apple products contained almost 20 percent recycled materials in 2021, the highest percentage the company has achieved to date. Apple shared new details on its recycling programs today, along with some new features it's offering customers ahead of Earth Day on April 22nd.
+<a href='https://www.theverge.com/2022/4/19/23031930/apple-recycled-materials-taz-machine-earth-day'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MVt-v7Gpo8hiXQm8aPLiWz8S_zs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70768426/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix announced in March that it plans to crack down on password sharing, and in its first quarter earnings letter to shareholders (pdf), it gave a big clue as to why.
+<a href='https://www.theverge.com/2022/4/19/23032643/netflix-password-sharing-subscribers-100-million'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xl8BJKSmIZC99M1C37vGkh6TVJg=/0x0:640x342/1200x800/filters:focal(280x160:382x262)/cdn.vox-cdn.com/uploads/chorus_image/image/70764457/large.0.0.jpg' width='700px' /><br/>
-A movie based on the classic Streets of Rage game series is in the works, according to a report from Deadline. John Wick creator Derek Kolstad reportedly wrote the script on spec (without a studio deal), while the production company behind the Sonic the Hedgehog films will produce the adaption. Escape Artists, the studio behind The Equalizer franchise, is also on board to produce the film, Deadline reports.
-<a href='https://www.theverge.com/2022/4/18/23031065/streets-of-rage-movie-sega-john-wick-derek-kolstad'> Source <a/>
