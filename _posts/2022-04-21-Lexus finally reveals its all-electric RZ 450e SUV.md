@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uUykKc0ePHzJPXss2DW_Tu7FXSU=/0x0:1500x1001/1200x800/filters:focal(630x381:870x621)/cdn.vox-cdn.com/uploads/chorus_image/image/70773903/2023_Lexus_RZ_Exterior_16_1500x1001.0.jpg' width='700px' /><br/>
+Lexus gave us a glimpse at the 2023 RZ 450e today: an all-electric SUV with an estimated 225-mile range and a 71.4kWh battery. The company's first-ever electric vehicle (EV) will also come with Direct4. That's its new all-wheel-drive system that automatically calibrates weight distribution on all four wheels, leading to “improved start-up acceleration, handling stability and low power consumption.”
+<a href='https://www.theverge.com/2022/4/20/23034490/lexus-rz-450e-electric-suv-direct4-awd'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VVppOCdHjeFsz2A0vHdtUcbdEGk=/0x0:1000x800/1200x800/filters:focal(420x320:580x480)/cdn.vox-cdn.com/uploads/chorus_image/image/70770208/91_mobiles_evan_blass_google_pixel_watch_render_leak.0.jpg' width='700px' /><br/>
-We've been hearing rumors about Google's Pixel Watch for years now, but it does finally seem like pieces for the project are finally falling into place. A purported render of the device shared by Evan Blass over at 91Mobiles lines up with past leaks and rumors, showing a device with a familiar circular design, physical crown, and Fitbit integration.
-<a href='https://www.theverge.com/2022/4/20/23033341/google-pixel-watch-leak-render-rumors-lg-style'> Source <a/>

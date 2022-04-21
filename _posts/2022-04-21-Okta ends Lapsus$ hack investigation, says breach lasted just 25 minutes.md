@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/22w1JQpb7s8SUYV-PZwSHulcmRs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70773308/akrales_220309_4977_0014.0.jpg' width='700px' /><br/>
+Three months after authentication platform Okta was breached by hacking group Lapsus$, the company has concluded its internal investigation after finding that the impact was less serious than initially believed.
+<a href='https://www.theverge.com/2022/4/20/23034360/okta-lapsus-hack-investigation-breach-25-minutes'> Source <a/>

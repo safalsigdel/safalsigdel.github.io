@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LnfqpPBC3sFETw1pwxDCdIuTmeM=/0x0:1400x787/1200x800/filters:focal(289x161:513x385)/cdn.vox-cdn.com/uploads/chorus_image/image/70773490/0_4vIJoTJYsHCt2b0x.0.png' width='700px' /><br/>
+Coinbase announced on Wednesday that its NFT marketplace is now in beta and accessible to “a small set of beta testers who'll be invited based on their position” on its waitlist. The company is looking to take on established players in the space by adding social features, like a comment system (with upvotes and downvotes) and an algorithmic feed.
+<a href='https://www.theverge.com/2022/4/20/23034269/coinbase-nft-marketplace-social-platform-sales-opensea'> Source <a/>

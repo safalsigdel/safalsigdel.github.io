@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NL9lcEDElg4RTjbjao8ORbVfw_k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70772169/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+First, a necessary disclaimer: don't use artificial intelligence language generators to solve your ethical quandaries. Second: definitely go tell those quandaries to this AI-powered simulation of Reddit because the results are fascinating.
+<a href='https://www.theverge.com/2022/4/20/23033694/are-you-the-asshole-ai-reddit-clone-art-project-ethics-aita'> Source <a/>

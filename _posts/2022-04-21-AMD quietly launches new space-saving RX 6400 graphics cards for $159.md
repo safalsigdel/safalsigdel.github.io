@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1aoWCyOCWd7_Ln2lMLQrk_RLESo=/0x0:1280x960/1200x800/filters:focal(538x378:742x582)/cdn.vox-cdn.com/uploads/chorus_image/image/70772679/sapphire_pulse_6400_rx.0.jpg' width='700px' /><br/>
+If you're looking for a serious gaming graphics card, look elsewhere — reviewers absolutely dragged the $199 AMD Radeon RX 6500 XT in January, and today's GPU entry is even weaker. But if you absolutely, positively need to fit a miniature graphics card in a very small PC, the new RX 6400 might be worth a look.
+<a href='https://www.theverge.com/2022/4/20/23034016/amd-rx-6400-desktop-gpu-price-release-date-low-profile'> Source <a/>

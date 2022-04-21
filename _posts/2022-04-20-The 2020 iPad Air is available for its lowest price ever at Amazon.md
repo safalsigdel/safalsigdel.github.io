@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JS_Mk79T1fFagN-Ytk6b8Du-JcM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70771215/vpavic_210512_4592_0192.0.jpg' width='700px' /><br/>
-You came to the wrong house if you're shopping for weed jokes — we only distribute good wholesome content here on Verge Deals. For instance, both the 2020 version of the iPad Air and the 2021 model of the 11-inch iPad Pro are discounted to their lowest prices ever.
-<a href='https://www.theverge.com/good-deals/2022/4/20/23031992/apple-ipad-air-pro-jbl-bluetooth-speaker-polk-soundbar-irobot-roomba-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W5k6WL5rjTnDZVjqHt783_PRHIo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70771812/vpavic_4275_20201030_0082.0.jpg' width='700px' /><br/>
+Update April 20th, 4:08PM ET: After several hours of availability, the listing for the Xbox Series X at Best Buy has gone offline and is no longer for sale. Remember to check Best Buy's app to see if any stores in your area might have available stock for walk-ins.
+<a href='https://www.theverge.com/2022/4/20/22946437/microsoft-xbox-series-x-console-restock-availability-check'> Source <a/>

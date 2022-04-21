@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QVR798l5UNUuGW3EcMQkr4GEAkc=/0x0:4800x2400/1200x800/filters:focal(2016x816:2784x1584)/cdn.vox-cdn.com/uploads/chorus_image/image/70774439/Lincoln_Star_Concept_exterior_03.0.jpg' width='700px' /><br/>
+Lincoln, Ford's luxury brand, says it will release four new electric vehicles by 2026, by which point 50 percent of its global sales will be EVs. The company also revealed its Lincoln Star Concept as a way to introduce the new design language that will come to define its upcoming electrified lineup.
+<a href='https://www.theverge.com/2022/4/20/23034812/lincoln-electric-ev-2025-star-concept-reveal'> Source <a/>

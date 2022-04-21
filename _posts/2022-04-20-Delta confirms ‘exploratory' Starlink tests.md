@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sVU_NDAEdA0sisaC77b5THqyIlA=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/70767283/1239950469.0.jpg' width='700px' /><br/>
-Delta CEO Ed Bastian said the airline has tested out SpaceX's Starlink technology, according to a report by The Wall Street Journal. The report calls the tests “exploratory” and says there weren't any further details, but it does seem like one of the major US airlines is at least interested in Elon Musk's satellite internet service.
-<a href='https://www.theverge.com/2022/4/19/23031241/delta-airlines-starlink-internet-wi-fi-flights-spacex'> Source <a/>

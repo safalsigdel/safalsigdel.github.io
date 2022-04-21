@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gba9MJ3GEItP7P4KuOU3dIvIuGY=/0x0:4349x2899/1200x800/filters:focal(1828x1103:2522x1797)/cdn.vox-cdn.com/uploads/chorus_image/image/70766513/1391632725.0.jpg' width='700px' /><br/>
-A number of transportation providers, including Uber, Amtrak, and all three major airlines, said they wouldn't require employees or customers to wear masks anymore after a federal judge struck down the Biden administration's mask mandate.
-<a href='https://www.theverge.com/2022/4/19/23031870/mask-rule-transportation-airlines-trains-uber-cdc'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WV1SiOmB_LoiImkH9epiJENc2og=/0x0:2880x1800/1200x800/filters:focal(1049x694:1509x1154)/cdn.vox-cdn.com/uploads/chorus_image/image/70773239/brave_search_dark_mode_discussions.0.png' width='700px' /><br/>
+Brave Search has rolled out a new feature that makes it easier to find conversations from forums like Reddit in your search results. This means you'll no longer have to add “Reddit” to your searches when you're looking for thoughts from actual humans, not empty answers from websites just trying to get clicks.
+<a href='https://www.theverge.com/2022/4/20/23034024/brave-search-feature-discussions-append-reddit'> Source <a/>

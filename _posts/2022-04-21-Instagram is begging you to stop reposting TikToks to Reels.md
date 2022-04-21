@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bCfq_ABxMiJLe8_DjErzCNWnoOk=/0x0:3206x2032/1200x800/filters:focal(1347x760:1859x1272)/cdn.vox-cdn.com/uploads/chorus_image/image/70773347/Reels_IOSX_3.0.png' width='700px' /><br/>
+Instagram is making a few new creator-focused changes to its platform, which Instagram head Adam Mosseri said are meant to “make sure that credit is going to those who deserve it.”
+<a href='https://www.theverge.com/2022/4/20/23034356/instagram-ranking-reels-original-content-tiktok'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1BrjcTXdQqE2C9QbLCkA2unRbmo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70772623/ajohnson_220405_5129_0005.0.jpg' width='700px' /><br/>
+Just over a year ago, LG announced that it was leaving the smartphone business. It wasn't an entirely surprising move since the company's mobile division had been posting huge losses for years. All the same, it left a significant void in the US smartphone market, especially in the prepaid device space where LG had a strong presence.
+<a href='https://www.theverge.com/23033944/lg-mobile-samsung-galaxy-a32-5g-motorola-oneplus-us-market-share'> Source <a/>

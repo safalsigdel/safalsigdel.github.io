@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i11-v5YvBmjymROBQl7MPxrYrGs=/0x0:2002x1335/1200x800/filters:focal(841x508:1161x828)/cdn.vox-cdn.com/uploads/chorus_image/image/70770834/vpavic_210916_4760_0240.0.jpg' width='700px' /><br/>
-When will we see a new iPhone with a totally unimpeded display? In 2024, according to a prediction from well-known Apple analyst Ming-Chi Kuo. By then, says Kuo, Apple could be happy to move both its front-facing camera and Face ID under the screen for its high-end devices, which would make the iPhone 16 Pro the likely first candidate for such an upgrade.
-<a href='https://www.theverge.com/2022/4/20/23033437/apple-full-screen-iphone-16-camera-2024-ming-chi-kuo'> Source <a/>

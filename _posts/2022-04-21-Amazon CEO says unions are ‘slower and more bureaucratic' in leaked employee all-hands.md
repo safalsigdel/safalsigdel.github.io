@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mM452j-QXXIIzm9QRWDJcbMBIIA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70772685/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+In an all-hands meeting with employees on Tuesday, Amazon CEO Andy Jassy addressed the mounting efforts to unionize the company's fulfillment centers. The discussion was sparked by an employee who asked about the company's position on unions, per a recording of the meeting obtained by The Verge.
+<a href='https://www.theverge.com/2022/4/20/23033881/amazon-ceo-andy-jassy-union-coments-elections-all-hands'> Source <a/>

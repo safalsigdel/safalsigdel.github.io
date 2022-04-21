@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W5k6WL5rjTnDZVjqHt783_PRHIo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70771812/vpavic_4275_20201030_0082.0.jpg' width='700px' /><br/>
-If you've been trying to land an Xbox Series X for a while now, today may be your lucky day. Right now, Best Buy is selling the elusive next-gen console for its usual price of $499.99. Even better, anybody can queue up for the Xbox Series X xe2x80x93 not just Totaltech subscribers. However, supply is limited to what your local stores have on hand, so results may vary.
-<a href='https://www.theverge.com/2022/4/20/22946437/microsoft-xbox-series-x-console-restock-availability-check'> Source <a/>

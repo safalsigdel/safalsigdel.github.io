@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qf9jZPOsAcLZiIfBdxb5Sx1MDco=/0x0:1920x1080/1200x800/filters:focal(408x326:714x632)/cdn.vox-cdn.com/uploads/chorus_image/image/70767408/ss_7edc3de6db0e6391158863f766c334c6eab1dbaa.0.jpeg' width='700px' /><br/>
-Ubisoft's Assassin's Creed Origins (the one set in Ancient Egypt) is headed to Xbox Game Pass, Microsoft's Megan Spurr said in a blog post on Tuesday. Spurr said the game will arrive sometime “in the next two months” and will be available to play on console, over cloud streaming, and on PC via the Ubisoft Connect app.
-<a href='https://www.theverge.com/2022/4/19/23032104/assassins-creed-origins-xbox-game-pass'> Source <a/>

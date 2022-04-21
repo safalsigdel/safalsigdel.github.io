@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HTL4-Qsm00jwUL2WWvGEtcQb9ak=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70772153/acastro_220415_5148_0001.0.jpg' width='700px' /><br/>
+In the breathless world of conservative online politics, Arsenal Media is here to help you go viral. Co-founded by gadfly meme enthusiast Benny Johnson, the firm lists clients like Rep. Madison Cawthorn and Dana Loesch and takes credit for more than doubling Donald Trump Jr.'s Facebook following.
+<a href='https://www.theverge.com/2022/4/20/23033650/arsenal-media-group-campaign-marketing-firm-madison-cawthorn-kari-lake-benny-johnson'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zOTIO0gWmC8pNopXdNkU1qKu2Wg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70767461/vpavic_200930_4216_0258.0.jpg' width='700px' /><br/>
-If you've been hunting for a new smartwatch, you've probably come across the terms SpO2 sensors, pulse ox, or blood oxygen levels. SpO2 sensors measure your blood oxygen saturation — or, put more simply, the amount of oxygen you have in your blood. In fact, these sensors and metrics are included in most modern smartwatches and fitness trackers. The only issue is that not every wearables maker uses these sensors in the same way.
-<a href='https://www.theverge.com/23031829/how-to-measure-spo2-smartwatch'> Source <a/>

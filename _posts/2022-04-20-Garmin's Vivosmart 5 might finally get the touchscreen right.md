@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cSWQV9KTHgM0LaXGzVPQBhnV064=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/70770420/20220119_Social_FIT_1230.0.jpg' width='700px' /><br/>
-If there's one thing that Garmin seems to understand better than other wearables companies, it's that athletes like buttons. And, it looks like the company's finally added a practical button to its latest fitness tracker, the $149.99 Vivosmart 5.
-<a href='https://www.theverge.com/2022/4/20/23030327/garmin-vivosmart-5-fitness-tracker-wearables'> Source <a/>

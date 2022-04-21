@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NiaKMm9aESEipEuWPVZ5Bm6XlPQ=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70767765/alexstrasza.0.png' width='700px' /><br/>
-World of Warcraft is bringing back the dragons. In a livestream, World of Warcraft developers announced Dragonflight, WoW's ninth expansion in 18 years.
-<a href='https://www.theverge.com/2022/4/19/23032231/dragonflight-world-of-warcraft-new-expansion-blizzard'> Source <a/>

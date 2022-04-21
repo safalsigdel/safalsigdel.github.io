@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bdDawoqdy7mBMmLdgOrNLpih35k=/0x0:2040x1360/1200x800/filters:focal(860x515:1186x841)/cdn.vox-cdn.com/uploads/chorus_image/image/70768288/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Netflix's struggle to boost its subscriber count took a dire turn in the first quarter of 2022. The company reported a loss of 200,000 subscribers globally compared to Q4, and it's forecasting even bigger losses to come. Netflix estimates it could lose up to 2 million subscribers in the second quarter.
-<a href='https://www.theverge.com/2022/4/19/23032399/netflix-lost-subscribers-q1-2022-earnings'> Source <a/>

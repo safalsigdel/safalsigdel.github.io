@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CnY4u1rR-kVo_K5Psa005PGtFUk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70773302/acastro_190530_1777_nintendo_0002.0.0.jpg' width='700px' /><br/>
+Nintendo is the latest video game developer hit with allegations of union busting. In a report from Axios, a former employee alleges that Nintendo and its staffing and recruiting partner Aston Carter fired them after engaging in protected organizing activities.
+<a href='https://www.theverge.com/2022/4/20/23034323/nintendo-employee-fired-unionization-nlrb'> Source <a/>

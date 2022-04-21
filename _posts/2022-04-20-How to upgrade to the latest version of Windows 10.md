@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H_VRNgJUBjgZ7I3y7ODTOtnEhpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70767477/akrales_211207_4904_0053.0.jpg' width='700px' /><br/>
-If you're like me and are using an old-school desktop PC, you probably haven't been able to install Windows 11. You may also still be running Windows 10 if you're a business user with a workflow still optimized for Windows 10 or a leisure user who just prefers it. Motives aside, there are a lot of us. And, fortunately, we now have an update available.
-<a href='https://www.theverge.com/23032107/microsoft-windows-10-21h2-how-to'> Source <a/>

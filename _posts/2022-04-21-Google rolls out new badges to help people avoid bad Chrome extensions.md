@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qRhcDWqWhc_tPO68u88cDNyKKMc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70772825/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Google is trying to make it easier for Chrome users to install useful extensions without having to scrutinize where they come from. The company says it has begun applying two new badges to extensions. The first, Featured, looks like a prize ribbon and will be displayed on extensions that “follow our technical best practices and meet a high standard of user experience and design.”
+<a href='https://www.theverge.com/2022/4/20/23034208/google-chrome-extensions-badges-featured-established'> Source <a/>

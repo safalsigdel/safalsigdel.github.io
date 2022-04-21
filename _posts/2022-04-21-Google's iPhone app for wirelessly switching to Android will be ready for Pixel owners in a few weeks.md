@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7cJM_ROSyEFuR3Xm-V0Vz6jb4U4=/0x0:2500x1489/1200x800/filters:focal(1050x545:1450x945)/cdn.vox-cdn.com/uploads/chorus_image/image/70774673/switch_to_android_ios_googleapp.0.jpg' width='700px' /><br/>
+Anyone switching from an iPhone to an Android device has more to worry about than just green bubbles, they also want to bring along as much of the data from their phone as they can. While backing things up to Google Drive or plugging in a cable are solutions that Google can walk you through, now we know Google built an iOS app called Switch to Android to get the job done wirelessly.
+<a href='https://www.theverge.com/2022/4/20/23034459/switch-to-android-google-iphone-app'> Source <a/>
