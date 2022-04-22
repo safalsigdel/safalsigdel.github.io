@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MIe5ogcWJYalhb1dCgyb0bMSU-Q=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70774983/1074386494.0.jpg' width='700px' /><br/>
-The Boring Company has raised a new round of funding worth $675 million, with Elon Musk's grand plan to “solve traffic” with tunnels now valued at $5.675 billion.
-<a href='https://www.theverge.com/2022/4/21/23035162/elon-musk-the-boring-company-675-million-funding-series-c-total-vaulation'> Source <a/>

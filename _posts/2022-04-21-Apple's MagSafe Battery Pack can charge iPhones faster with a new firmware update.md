@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kqV8sJYwwl-vWHxAZP_vB7tpbyM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70774139/DSC02727_dbohn_verge.0.jpg' width='700px' /><br/>
-My favorite kind of software update is the kind that unlocks secret hardware features, and the Apple MagSafe Battery Pack is the latest surprise — you'll be able to cordlessly charge an iPhone at a faster 7.5 watts instead of the original 5 watts, once you apply firmware update 2.7 (via 9to5Mac).
-<a href='https://www.theverge.com/23034695/apple-magsafe-battery-pack-update-faster-charge-7-5-watts'> Source <a/>

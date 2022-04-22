@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z8Pd80u4OoaRRiBJpnAGbf7Xqag=/0x0:2040x1360/1200x800/filters:focal(895x433:1221x759)/cdn.vox-cdn.com/uploads/chorus_image/image/70773111/cgartenberg_211020_4803_0006.0.jpg' width='700px' /><br/>
-An ebook subscription platform used by thousands of public libraries in the US and elsewhere is offering Holocaust denial, COVID disinformation, LGBTQ conversion therapy, and other conspiracy theory books, according to a report by Motherboard.
-<a href='https://www.theverge.com/2022/4/20/23034169/hoopla-ebooks-public-library-conspiracy-theory'> Source <a/>

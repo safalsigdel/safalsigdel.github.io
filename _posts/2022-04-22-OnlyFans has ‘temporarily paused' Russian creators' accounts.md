@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XeXVUk87m3E7oOApmxFk03L__1s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70778145/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
+OnlyFans has “temporarily paused” Russian accounts and says it can no longer serve Russian creators. The company confirmed the change to Motherboard in a statement today.
+<a href='https://www.theverge.com/2022/4/21/23036231/onlyfans-accounts-paused-russia-ukraine-war'> Source <a/>

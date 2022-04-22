@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uXoutxavmDeTGjnM2w4TszqrXnc=/0x0:2040x1360/1200x675/filters:focal(807x433:1133x759)/cdn.vox-cdn.com/uploads/chorus_image/image/70776106/cfaulkner_141231_5150_0004.0.jpg' width='700px' /><br/>
+Soundbars are typically reserved for the entertainment center, but Razer is among the few companies releasing soundbars made specifically for the desktop PC battlestation. It just announced the $249.99 Leviathan V2 sound system, following up its previous iteration that launched back in 2014.
+<a href='https://www.theverge.com/23033515/razer-leviathan-v2-pc-soundbar-system-review'> Source <a/>

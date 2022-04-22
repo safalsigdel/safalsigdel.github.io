@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wb8JpHGOOTlfsgii1mKO7lCC7XM=/0x0:3000x2328/1200x800/filters:focal(1256x594:1736x1074)/cdn.vox-cdn.com/uploads/chorus_image/image/70774199/917433500.0.jpg' width='700px' /><br/>
-Barack and Michelle Obama won't be signing a new podcast deal with Spotify, Bloomberg reports, marking a major departure for the Obamas' production company, Higher Ground Productions. “The company is instead talking to other distributors about a deal worth tens of millions of dollars, among the most-lucrative in the podcasting business,” according to the report.
-<a href='https://www.theverge.com/2022/4/20/23034638/spotify-barack-michelle-obama-higher-ground-productions-deal'> Source <a/>

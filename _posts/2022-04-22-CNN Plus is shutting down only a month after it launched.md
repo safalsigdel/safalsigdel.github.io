@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/58kCdWZFOn9G9RXuAXdfQGdYRh8=/0x0:5000x2812/1200x800/filters:focal(2100x1006:2900x1806)/cdn.vox-cdn.com/uploads/chorus_image/image/70776471/cnn.plus.header.logo.0.jpg' width='700px' /><br/>
+CNN Plus, the news network's dedicated streaming service, is shutting down before even turning a month old. Chris Licht, the new CEO of CNN, delivered the news to his new team at an all-hands meeting on Thursday, and the service will shut down entirely on April 30th.
+<a href='https://www.theverge.com/2022/4/21/23035703/cnn-plus-shutting-down'> Source <a/>

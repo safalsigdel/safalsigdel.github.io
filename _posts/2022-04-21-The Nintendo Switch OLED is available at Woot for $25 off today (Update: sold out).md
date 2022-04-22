@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/caS_aE04LqN9K_ja2AYLBZm-_9s=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/70772727/switcholedmodel.0.jpg' width='700px' /><br/>
-Update April 20th, 4:12PM ET: The Nintendo Switch OLED deal has sold out at Woot.
-<a href='https://www.theverge.com/good-deals/2022/4/20/23034142/nintendo-switch-oled-white-woot-one-day-deal-sale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B76f5capaK_7ozzfmgJjc_b04IE=/0x0:5791x3861/1200x800/filters:focal(2433x1468:3359x2394)/cdn.vox-cdn.com/uploads/chorus_image/image/70773323/1239824662.0.jpg' width='700px' /><br/>
-Amid supply chain constraints and production delays in China, Tesla reported that it earned a $3.3 billion profit in the first quarter of 2022. Tesla turned that profit on just over $18.7 billion in revenue, the company announced. That represents an 81 percent increase year over year, compared to $10.4 billion in revenue in Q1 2021.
-<a href='https://www.theverge.com/2022/4/20/23031976/tesla-q1-earnings-profit-elon-musk'> Source <a/>

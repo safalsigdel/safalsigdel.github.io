@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IgXthXaNfrYWWHotSbljOVyCQME=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70778710/acastro_200602_1777_HBOMax_0004.0.0.jpg' width='700px' /><br/>
+Earlier this week Netflix reported quarterly earnings results that showed its subscriber numbers dropping for the first time in a decade, but not every streamer is experiencing that kind of pullback. Even though AT&T has offloaded HBO and the rest of WarnerMedia to their new home with Discovery, it still had one more set of subscriber numbers to reveal with its own earnings report Thursday morning.
+<a href='https://www.theverge.com/2022/4/21/23036309/att-earnings-hbo-max-subscriber-growth-2021'> Source <a/>

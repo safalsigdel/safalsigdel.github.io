@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/apYT0it8opZVXEEB3m3Q4C8srMQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70778103/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update April 21st, 6:33PM ET: Sony has sold out of PS5 consoles for now.
+<a href='https://www.theverge.com/2022/4/21/23020823/sony-direct-playstation-ps5-digital-edition-restock-order-queue-sale'> Source <a/>

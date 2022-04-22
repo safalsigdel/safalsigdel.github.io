@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h69ZSOv7dqpv3sOW8b37WtxK480=/0x0:7001x4793/1200x800/filters:focal(1386x1406:2506x2526)/cdn.vox-cdn.com/uploads/chorus_image/image/70776475/1327685591.0.jpg' width='700px' /><br/>
+Sheryl Sandberg, chief operating officer of Meta Platforms, used her influence to bury two stories about her then-boyfriend, Activision Blizzard CEO Bobby Kotick, according to a bombshell report from The Wall Street Journal.
+<a href='https://www.theverge.com/2022/4/21/23035547/meta-sheryl-sandberg-bobby-kotick-daily-mail-reporting'> Source <a/>

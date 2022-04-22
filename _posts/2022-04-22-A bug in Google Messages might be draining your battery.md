@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zl9cBhwlM6nPqJqvkgqWQxRZK18=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/70778076/messages_otp.0.jpg' width='700px' /><br/>
+With all the apps that we tend to have running on our phones, it's a constant worry as to whether the battery will be able to make it through the day — and that's not helped when apps misfire and run power-draining features in the background. According to 9to5Google, a recent bug in Google's Messages app on Android phones left the camera running in the background — a great way to both heat up your phone and run down your battery.
+<a href='https://www.theverge.com/2022/4/21/23036246/google-messages-battery-drain-power-fix'> Source <a/>

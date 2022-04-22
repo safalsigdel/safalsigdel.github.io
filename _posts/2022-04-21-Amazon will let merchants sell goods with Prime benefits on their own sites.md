@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oBekBxzwWs5xA-A9niGyNZxYU1U=/0x0:1600x1043/1200x800/filters:focal(672x394:928x650)/cdn.vox-cdn.com/uploads/chorus_image/image/70775083/amazon_buy_with_prime.0.jpg' width='700px' /><br/>
-Amazon has announced a new initiative named Buy With Prime that extends the purview of its Prime subscription service beyond the bounds of Amazon.com — a significant change to its business strategy that could help it compete with fast-growing rival Shopify.
-<a href='https://www.theverge.com/2022/4/21/23035192/amazon-buy-with-prime-initiative-shipping-benefits'> Source <a/>
