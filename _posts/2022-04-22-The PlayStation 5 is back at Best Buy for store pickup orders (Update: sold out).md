@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/rYH3RJsGlVg4rdCod20deJ0vc44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70776533/acastro_210511_1777_psRestock_0005.0.jpg' width='700px' /><br/>
 Update April 21st, 1:20PM ET: Best Buy's site has sold out of PS5 consoles for now.
+<a href='https://www.theverge.com/2022/4/21/22899844/sony-playstation-5-ps5-console-restock-best-buy-inventory-availability-check'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/rYH3RJsGlVg4rdCod20deJ0vc44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70776533/acastro_210511_1777_psRestock_0005.0.jpg' width='700px' /><br/>
+Update April 21st, 1:20PM ET: Best Buy's site has sold out of PS5 consoles for now.
 <a href='https://www.theverge.com/2022/4/21/22899844/sony-playstation-5-ps5-console-restock-best-buy-inventory-availability-check'> Source <a/>

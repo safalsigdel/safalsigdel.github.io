@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/QIJJcaSeTulwA_UDheOfapQdq_0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70775925/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
 Google is introducing new options to reject tracking cookies in Europe after its existing dialog boxes were found to be in violation of EU data laws.
+<a href='https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/QIJJcaSeTulwA_UDheOfapQdq_0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70775925/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is introducing new options to reject tracking cookies in Europe after its existing dialog boxes were found to be in violation of EU data laws.
 <a href='https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws'> Source <a/>

@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/m5v1tgn_-432SpRUYDbU3KOfCj0=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70775781/2022_04_15_12_12_34_256__2_.0.jpg' width='700px' /><br/>
 Netflix is giving its TV interface a small refresh, refashioning its old row of categories into a “Category Hub” menu on the left rail that highlights genre recommendations tailored to your viewing habits.
+<a href='https://www.theverge.com/2022/4/21/23035224/netflix-category-hub-personalized-ui-refresh'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/m5v1tgn_-432SpRUYDbU3KOfCj0=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70775781/2022_04_15_12_12_34_256__2_.0.jpg' width='700px' /><br/>
+Netflix is giving its TV interface a small refresh, refashioning its old row of categories into a “Category Hub” menu on the left rail that highlights genre recommendations tailored to your viewing habits.
 <a href='https://www.theverge.com/2022/4/21/23035224/netflix-category-hub-personalized-ui-refresh'> Source <a/>
