@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bwqB_c-P4-cnLaBXbizgZFQD1gQ=/0x0:600x450/1200x800/filters:focal(252x177:348x273)/cdn.vox-cdn.com/uploads/chorus_image/image/70780987/RC_JDL330_feature_01_1TB.0.png' width='700px' /><br/>
+SD card slots have returned to the MacBook Pro in their 2021 iteration, which means it was only a matter of time before we started seeing MacBook-tailored SD cards hit shelves again. Today, in gadgets we've seen before but recent events have elevated in relevance, Transcend has announced a new 1TB SD card for MacBooks: the JetDrive Lite 330.
+<a href='https://www.theverge.com/2022/4/22/23037196/transcend-jetdrive-lite-330-apple-macbook-pro-sd-card-price-release-date'> Source <a/>

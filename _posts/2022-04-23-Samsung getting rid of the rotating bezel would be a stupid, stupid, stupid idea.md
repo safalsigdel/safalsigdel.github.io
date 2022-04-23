@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_SZwO-k5lLUkKrJVdBitSqN11zI=/0x0:5417x3611/1200x800/filters:focal(2276x1373:3142x2239)/cdn.vox-cdn.com/uploads/chorus_image/image/70781736/dseifert_200811_4139_0019.0.0.jpg' width='700px' /><br/>
+While we're likely months away from seeing Samsung's Galaxy Watch 5 lineup, a disturbing report is making its way around the smartwatch rumor mill. According to a SamMobile report, Samsung is considering ditching the Classic model — and possibly the physical rotating bezel along with it.
+<a href='https://www.theverge.com/2022/4/22/23037285/samsung-galaxy-watch-5-rotating-bezel'> Source <a/>

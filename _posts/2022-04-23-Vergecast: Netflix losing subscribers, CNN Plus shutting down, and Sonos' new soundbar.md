@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/npU4qs-MttrJ4AccsfMhSbTJBhY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70780852/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel discusses the week in tech news with the reporters and editors covering the biggest stories.
+<a href='https://www.theverge.com/2022/4/22/23037154/vergecast-podcast-netflix-password-sharing-cnn-plus-go90-sonos-low-cost-soundbar'> Source <a/>

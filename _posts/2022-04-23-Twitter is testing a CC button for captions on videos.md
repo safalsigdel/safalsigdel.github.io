@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FaOFAMW2G1XjFRYOv-fd8T-AdKM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70781352/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+Twitter said on Friday it's testing a new “CC” button to turn captions on and off on videos with captions available. The feature is rolling out to some users on iOS and will be coming “soon” to Android, the company says.
+<a href='https://www.theverge.com/2022/4/22/23037422/twitter-testing-cc-button-captions-video-accessibility'> Source <a/>

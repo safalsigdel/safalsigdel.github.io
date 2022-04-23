@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PRDoLFmao94cOoKOYPiai0P7MWo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70783832/acastro_1800724_1777_EU_0001.0.jpg' width='700px' /><br/>
+The EU has agreed on another ambitious piece of legislation to police the online world.
+<a href='https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising'> Source <a/>

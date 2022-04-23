@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KOkhFjY6zCbSIW0ZTGSwDRrUjI0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70756559/mdoying_180117_2249_twitter_0242stills.0.jpg' width='700px' /><br/>
-On Thursday, April 14th, Elon Musk announced an offer to buy Twitter for $54.20 a share.
-<a href='https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates'> Source <a/>

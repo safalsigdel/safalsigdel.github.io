@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j5pMMXe9yj4cli4eKeD8kO8zU00=/0x0:1865x968/1200x800/filters:focal(784x335:1082x633)/cdn.vox-cdn.com/uploads/chorus_image/image/70782868/Screen_Shot_2022_04_22_at_3.13.40_PM.0.jpg' width='700px' /><br/>
+Jack Dorsey's new title at Block is not CEO, but Block Head. No, this is not a very belated April Fools' joke. The company filed an 8-K with the US Securities and Exchange Commission (SEC) announcing the change — and of course, the new title came into effect on 4/20.
+<a href='https://www.theverge.com/2022/4/22/23037963/jack-dorsey-block-head-ceo'> Source <a/>

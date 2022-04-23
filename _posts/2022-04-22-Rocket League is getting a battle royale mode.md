@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s2yofyRBWlTnLi1RwUDk52z2-2Y=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70777195/060adc67_0c36_441b_b3ce_3b41353a4f5f.0.jpeg' width='700px' /><br/>
-Carcinization describes the evolutionary process in which a crustacean will eventually and inevitably evolve into a crab. Battle royale-ification is this process happening in video games. Rocket League, the game with the simple-yet-elegant premise of “what if soccer was soccar,” will undergo battle royale-ification with its new game mode Knockout Bash.
-<a href='https://www.theverge.com/2022/4/21/23035848/rocket-league-battle-royale-limited-time-event-knockout-bash'> Source <a/>

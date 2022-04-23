@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mlvvMD7ICn1YVUk-GZu0ysVaiy8=/0x0:1080x726/1200x800/filters:focal(452x205:624x377)/cdn.vox-cdn.com/uploads/chorus_image/image/70778283/instagram_test_hashtag.0.jpg' width='700px' /><br/>
-A new test from Instagram could make it harder for you to see recent content in the app. Though you can now look up all sorts of recent Instagram posts centered around a particular hashtag, the test will only let you see the posts with the most likes or short videos called ‘Reels' related to the hashtag. The company says this trial will mix “more recent and timely content” in the two groups, to see how people engage with it.
-<a href='https://www.theverge.com/2022/4/21/23032707/instagram-hashtag-chronological-algorithm-test-feature'> Source <a/>

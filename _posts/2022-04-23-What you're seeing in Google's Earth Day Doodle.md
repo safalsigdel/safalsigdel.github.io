@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FH3wZgVXzRGYrQglDqCzcb7kx3k=/0x0:500x200/1200x800/filters:focal(265x56:345x136)/cdn.vox-cdn.com/uploads/chorus_image/image/70780637/Glacier_retreat_Greenland.0.jpg' width='700px' /><br/>
+This Earth Day, Google is dedicating its Doodle to how badly we're messing up our beloved planet. It's actually kind of a cool Doodle. Four different GIFs show time lapses of dramatic changes driven by climate change.
+<a href='https://www.theverge.com/2022/4/22/23036176/google-earth-day-doodle-climate-change'> Source <a/>

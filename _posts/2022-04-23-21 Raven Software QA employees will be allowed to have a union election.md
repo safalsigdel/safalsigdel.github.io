@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xkNRv9Eh02DG6zzwiSW--6JOFGM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70782590/acastro_210729_1777_blizzard_0001.0.jpg' width='700px' /><br/>
+Twenty-one Raven Software QA employees have until May 20th to submit their ballots in a historic video game industry union vote. Today the National Labor Relations Board (NLRB) decreed that voting for the union would commence and that the voting unit would be composed of those 21 employees, against Activision Blizzard's argument that the voting unit should be opened to all Raven employees.
+<a href='https://www.theverge.com/2022/4/22/23037874/raven-software-qa-employees-union-election-activision-blizzard-nlrb'> Source <a/>

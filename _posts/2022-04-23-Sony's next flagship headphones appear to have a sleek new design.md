@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cS--AEobbheHGfEiO9dXrZro9Rw=/0x0:2040x1360/1200x800/filters:focal(1152x521:1478x847)/cdn.vox-cdn.com/uploads/chorus_image/image/70781794/acastro_220422_5158_00002.0.jpg' width='700px' /><br/>
+Sony's WH-1000XM4 noise-canceling headphones have been one of the best options since they debuted in 2020, but it appears the company is gearing up to release the next generation. German tech news site TechnikNews has published some images and specs of the successor, seemingly called the WH-1000XM5 (via Gizmodo).
+<a href='https://www.theverge.com/2022/4/22/23037341/sony-wh-1000xm5-anc-headphones-leak-rumor'> Source <a/>

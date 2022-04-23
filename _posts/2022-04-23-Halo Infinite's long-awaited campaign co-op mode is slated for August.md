@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CetEakydJ0iFG0NeOSuQm_0ZiK4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70783110/HaloInfinite_SpartanLineup_Header.0.jpeg' width='700px' /><br/>
+Halo Infinite developer 343 Industries is targeting a “late August” launch for the game's long-awaited network co-op campaign mode, the game's head of creative Joseph Staten says in a new Halo Waypoint blog post. As part of a new roadmap included in the post, Staten also shared that 343 is targeting an open beta for Halo Infinite's Forge mode in September.
+<a href='https://www.theverge.com/2022/4/22/23038049/halo-infinite-co-op-campaign-mode-forge'> Source <a/>

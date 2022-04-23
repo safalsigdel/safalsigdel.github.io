@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JtXefdmNg4NBIva80ArHsnOVu3A=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70782074/BL3_DLC5_s004.0.jpeg' width='700px' /><br/>
+Gearbox Software added crossplay to Borderlands 3 last year, but Sony's platforms didn't support the feature at first. That will change soon, as the company announced at PAX East that full crossplay support — including with PlayStation 4 and PlayStation 5 — will be arriving sometime in the spring, GameSpot reports. When the feature is available, PC, Xbox, PlayStation, and Stadia players will all be able to play the game with each other.
+<a href='https://www.theverge.com/2022/4/22/23037661/borderlands-3-crossplay-playstation'> Source <a/>
