@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Z9QfaaoN2MBZ0bDcJd6FvbGXxA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70781047/acastro_170731_1777_0006_v1.0.jpg' width='700px' /><br/>
-Apple Cash, formerly known as Apple Pay Cash, may be transitioning from the Discover payments network to Visa, a new report from MacRumors suggests. Visa has a much larger global network than Discover, which might account for the move.
-<a href='https://www.theverge.com/2022/4/22/23037188/apple-cash-debit-cards-discover-visa-payments'> Source <a/>

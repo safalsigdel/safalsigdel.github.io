@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EAu5zxrsF8tC1t0dVCthOLfZ97c=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70784994/ubisoft_project_q_battle_arena.0.jpeg' width='700px' /><br/>
+Ubisoft announced its upcoming “team battle arena game,” with two major disclaimers: it's not just a battle royale and there aren't any NFTs. The game company shared the news on Twitter after leakers posted footage of the game, codenamed Project Q, online.
+<a href='https://www.theverge.com/2022/4/23/23038699/ubisoft-upcoming-team-battle-arena-game-project-q-nfts'> Source <a/>

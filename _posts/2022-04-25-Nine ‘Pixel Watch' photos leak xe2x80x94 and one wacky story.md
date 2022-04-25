@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UIvg9pn4H-EotLeA48buKCfCx-g=/0x0:1024x768/1200x800/filters:focal(353x256:515x418)/cdn.vox-cdn.com/uploads/chorus_image/image/70787491/google_pixel_leaked_watch.0.jpg' width='700px' /><br/>
+Our first look at what seems to be the Google Pixel Watch comes under strange circumstances: someone supposedly found its prototype lying around at a restaurant and sent pictures of it to Android Central on the condition of anonymity. The images of the purported device match up with what we've seen from previously leaked renders, down to the circular watch face and rotating crown.
+<a href='https://www.theverge.com/2022/4/24/23039835/google-pixel-watch-leak-photos-prototype-left-at-restaurant'> Source <a/>

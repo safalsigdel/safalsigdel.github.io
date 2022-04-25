@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ac2OgoDfVhYLsq31YMK3aazgwrg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70780890/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is reportedly working on a feature that allows users to set a status, codenamed “Vibe.” The possible feature was first spotted by Jane Manchun Wong, a researcher and reverse engineer with a track record of spoiling upcoming app updates.
-<a href='https://www.theverge.com/2022/4/22/23037174/twitter-vibe-status-update-feature'> Source <a/>
