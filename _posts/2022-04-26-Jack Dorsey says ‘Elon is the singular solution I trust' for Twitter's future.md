@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3CbYIVlPcQtKjaDnY63URzsLCOY=/0x0:4993x3329/1200x800/filters:focal(2915x565:3713x1363)/cdn.vox-cdn.com/uploads/chorus_image/image/70793263/1233272334.0.jpg' width='700px' /><br/>
+You know what, I'm into it. Let's go full, unkempt beard for this one. The Gen-Xers are online and they are posting Radiohead on main.
+<a href='https://www.theverge.com/2022/4/25/23042172/jack-dorsey-elon-musk-twitter-lbo-radiohead'> Source <a/>
