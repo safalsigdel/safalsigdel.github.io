@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mOhGMNw3EzewzcY_VYHNr3cn_Kw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70784442/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Instagram's testing out a new feature, called Templates, that will let creators make Reels by borrowing formats from other videos on the platform, according to a report from Insider (via TechCrunch). The feature appears somewhat similar to TikTok's own templates tool, which allows creators to drop their own content into a premade sequence.
-<a href='https://www.theverge.com/2022/4/23/23038509/instagram-testing-templates-reels-with-other-user-formats'> Source <a/>

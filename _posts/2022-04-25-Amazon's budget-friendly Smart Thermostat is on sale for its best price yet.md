@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1d2KsDPnfcaphQNTVO4k8oldlmk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70781473/jtuohy_211115_4885_0009.0.jpg' width='700px' /><br/>
-It's Earth Day, so in honor of the occasion, we're starting today's roundup with an excellent deal on Amazon's eco-friendly Smart Thermostat. Smart thermostats such as Amazon's can reduce and, in some cases, track your energy consumption. And they're also a great buy for bargain hunters given that they can lower your monthly energy bill.
-<a href='https://www.theverge.com/good-deals/2022/4/22/23035493/amazon-smart-thermostat-apple-mac-mini-anker-google-nest-ipad-deal-sale'> Source <a/>

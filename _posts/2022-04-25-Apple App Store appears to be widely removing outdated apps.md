@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LvuJ_jAK6Ibx9xlxVdWsd1PlAGg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70785555/acastro_210831_1777_0003.0.jpg' width='700px' /><br/>
-Apple may be cracking down on apps that no longer receive updates. In a screenshotted email sent to affected developers, titled “App Improvement Notice,” Apple warns it will remove apps from the App Store that haven't been “updated in a significant amount of time” and gives developers just 30 days to update them.
-<a href='https://www.theverge.com/2022/4/23/23038870/apple-app-store-widely-remove-outdated-apps-developers'> Source <a/>

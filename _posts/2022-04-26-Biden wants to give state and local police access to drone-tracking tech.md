@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gg3zuPcy875P3fmG5lCEnxM5A6c=/0x0:2200x1467/1200x800/filters:focal(924x558:1276x910)/cdn.vox-cdn.com/uploads/chorus_image/image/70793030/DJI_Phantom_3_Skyscraper.0.0.0.jpg' width='700px' /><br/>
+President Biden's administration called for Congress's help in letting more law enforcement agencies access drone tracking systems on Monday. In recent months, government use of counter-drone systems has become more controversial after a Ukrainian government official asked drone-maker DJI to cut off Russia's access to its AeroScope drone location system.
+<a href='https://www.theverge.com/2022/4/25/23041869/white-house-biden-admin-counter-drone-legislation-plan-tracking'> Source <a/>

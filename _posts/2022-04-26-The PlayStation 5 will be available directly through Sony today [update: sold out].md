@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kQn-O8vvt8kAsHgCsOt_fgOW7CQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70792085/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update 5:30PM ET, April 25th: After over an hour (that was hopefully prosperous for you), the wave of PlayStation 5 consoles has sold through. The less expensive digital edition sold out first, but we were impressed with how long the disc version of the PS5 remained available. Hopefully, this is just one of many more restock opportunities through the spring.
+<a href='https://www.theverge.com/2022/4/25/23041685/playstation-5-ps5-restock-sony-direct-queue-april-25'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e9eKwTolXli89sjBHvaL1eFJbZo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70782819/dbohn_211105_4864_0001.0.jpg' width='700px' /><br/>
-After years of speculation, we finally know what Google's first in-house smartwatch will be called. Surprising absolutely no one, a new trademark filed with the U.S. Patent and Trademark Office reveals it is... Pixel Watch.
-<a href='https://www.theverge.com/2022/4/22/23037926/pixel-watch-google-smartwatch-trademark'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lI2m5qU_jlDO98Ju92qCZlFfmlc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70784748/acastro_180608_1777_net_neutrality_0004.0.jpg' width='700px' /><br/>
-The Lapsus$ hacking group stole T-Mobile's source code in a series of breaches that took place in March, as first reported by Krebs on Security. T-Mobile confirmed the attack in a statement to The Verge, and says the “systems accessed contained no customer or government information or other similarly sensitive information.”
-<a href='https://www.theverge.com/2022/4/23/23038570/lapsus-hackers-target-t-mobile-source-code-multiple-breaches-cybersecurity'> Source <a/>

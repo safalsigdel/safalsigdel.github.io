@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2jq4siztuIZeMHYfIwBEIk2P1U4=/0x0:2040x1360/1200x675/filters:focal(860x901:1186x1227)/cdn.vox-cdn.com/uploads/chorus_image/image/70786899/jtuohy_220314_5147_0010_1.0.jpg' width='700px' /><br/>
-There are robot vacuums and then there are home robots. Ecovacs' $1,549 Deebot X1 Omni Robot Vacuum and Mop is the latter. This bot can sweep and mop your floors, empty its own dustbin, refill its mopping reservoir, and clean and dry its mop. Plus, it can respond to your voice commands directly with its onboard voice assistant and double as a roving home security camera. I'd say we've gone way beyond “vacuum.”
-<a href='https://www.theverge.com/23037426/ecovacs-deebot-x1-omni-review-vacuum-mop-robot-voice-control'> Source <a/>

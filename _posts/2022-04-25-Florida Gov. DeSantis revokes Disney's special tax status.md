@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hWBF4hMIHKK-D0AtTsP8WU7OfHA=/0x0:5100x3402/1200x800/filters:focal(374x1623:1190x2439)/cdn.vox-cdn.com/uploads/chorus_image/image/70782345/1239734980.0.jpg' width='700px' /><br/>
-Florida Gov. Ron DeSantis on Friday signed a bill stripping the Walt Disney Company of its special tax status in the Orlando area. The move is widely viewed as retaliation against Disney for its criticism of the state's “Don't Say Gay” law, a position DeSantis took umbrage at.
-<a href='https://www.theverge.com/2022/4/22/23037754/disney-florida-governor-desantis-signs-bill-tax-lgbtq'> Source <a/>

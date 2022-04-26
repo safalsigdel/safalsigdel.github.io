@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_GrDZXf3Bkbucm4lTddMyEU6inM=/0x0:2040x1360/1200x675/filters:focal(831x486:1157x812)/cdn.vox-cdn.com/uploads/chorus_image/image/70784211/ajohnson_220419_5153_0001.0.jpg' width='700px' /><br/>
-If you find yourself face to face with the TCL 30 V 5G, chances are you're at a Verizon store or on Verizon's website contemplating its prospects as a “free” phone. Free is nice! But free may even be too steep for the 30 V 5G.
-<a href='https://www.theverge.com/23037446/tcl-30-v-5g-review-specs-screen-battery-camera-price'> Source <a/>

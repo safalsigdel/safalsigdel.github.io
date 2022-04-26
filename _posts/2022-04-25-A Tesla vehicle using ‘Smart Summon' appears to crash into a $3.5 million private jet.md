@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-KQn17n_7EC4KGUTedkOTfPs90k=/0x0:1374x759/1200x800/filters:focal(578x271:796x489)/cdn.vox-cdn.com/uploads/chorus_image/image/70782003/Screen_Shot_2022_04_22_at_2.28.37_PM.0.png' width='700px' /><br/>
-A video was posted on Reddit Thursday that appears to show a Tesla vehicle slowly crashing into a $3.5 million private jet after being “summoned” by its owner using the automaker's automatic parking feature.
-<a href='https://www.theverge.com/2022/4/22/23037654/tesla-crash-private-jet-reddit-video-smart-summon'> Source <a/>

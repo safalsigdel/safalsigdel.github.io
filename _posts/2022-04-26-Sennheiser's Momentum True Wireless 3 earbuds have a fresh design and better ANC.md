@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hL50_GYSRF8Y5AmUsDV5-6U4USg=/0x0:2040x1307/1200x800/filters:focal(857x491:1183x817)/cdn.vox-cdn.com/uploads/chorus_image/image/70792510/MTW3.0.jpg' width='700px' /><br/>
+Ever since the original pair's debut back in 2018, Sennheiser's Momentum True Wireless earbuds have received heaps of praise for their sound quality. After releasing a sequel in 2020, Sennheiser is announcing the third product in the series today — and this time, they've been given a substantial redesign. They'll be available starting May 10th in black, graphite, and white for $249.95.
+<a href='https://www.theverge.com/2022/4/25/23041127/sennheiser-momentum-true-wireless-3-features-price'> Source <a/>

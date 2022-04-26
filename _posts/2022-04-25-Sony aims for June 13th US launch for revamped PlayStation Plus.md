@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3zgXsY0n6T3aMDNoRPJRzkJwwqc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70781302/acastro_180604_1777_playstation_0001.0.jpg' width='700px' /><br/>
-Sony is aiming to launch its revamped PlayStation Plus tiers in the Americas on June 13th, the company announced Friday. Sony is targeting a launch date first in markets in Asia (with the exception of Japan) on May 23rd, followed by a Japan launch on June 1st, an Americas launch on June 13th, and a Europe launch on June 22nd.
-<a href='https://www.theverge.com/2022/4/22/23037384/sony-playstation-plus-new-tiers-launch-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nK8wmW8LpJKrIvI1kcLYoeUcbHk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70781664/acastro_210106_4957_0001.0.jpg' width='700px' /><br/>
-On April 17th, the decentralized finance (DeFi) project Beanstalk Farms was exploited for $182 million after an attacker mounted a lightning-fast hostile takeover, buying a controlling stake of tokens and immediately voting to send themself all of the funds.
-<a href='https://www.theverge.com/2022/4/22/23037325/beanstalk-dismissed-governance-attacks-lost-182-million'> Source <a/>

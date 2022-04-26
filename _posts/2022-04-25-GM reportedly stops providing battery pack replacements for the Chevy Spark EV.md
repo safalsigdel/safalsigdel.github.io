@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IabtNJgq14kX_zJYGm2o5yP5xsE=/0x0:3000x1997/1200x800/filters:focal(1260x759:1740x1239)/cdn.vox-cdn.com/uploads/chorus_image/image/70787005/157097457.0.jpg' width='700px' /><br/>
-General Motors will reportedly no longer provide battery replacements for the all-electric version of the Chevy Spark, according to a report from EV-Resource (via InsideEVs). The Chevy Spark electric vehicle (EV) was first released in 2013, and GM continued to make new models until 2016.
-<a href='https://www.theverge.com/2022/4/24/23039665/gm-chevy-spark-ev-no-longer-provide-battery-replacements'> Source <a/>

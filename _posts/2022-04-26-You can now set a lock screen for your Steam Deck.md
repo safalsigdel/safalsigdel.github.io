@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8oRK-0HVJSp1rAb4f32ymnaWyQM=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/70792904/9d5c89372b3d55a7910c158de34c7768f658f735.0.jpeg' width='700px' /><br/>
+Valve's newest Steam Deck update adds a lock screen to the handheld gaming PC, the company announced Monday. The change means you can now set a PIN when you wake the device from sleep, which could prevent people from accessing your device who shouldn't be. After you've installed the update, you can turn on the lock screen and set a PIN in the Steam Deck's settings menu from a new Security tab.
+<a href='https://www.theverge.com/2022/4/25/23041969/valve-steam-deck-lock-screen-update'> Source <a/>

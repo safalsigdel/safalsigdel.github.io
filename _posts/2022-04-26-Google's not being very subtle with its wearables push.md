@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1Xz7Y2qNIVAcNZlxGQs8Pn9pl_I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70792674/dbohn_210816_4717_0004.0.jpg' width='700px' /><br/>
+After a massive Pixel Watch leak this past weekend, you'd think that maybe Google would relax on the wearables front. Nope. With Google I/O just weeks away, a video teasing Google Assistant on the Samsung Galaxy Watch 4 has popped up on YouTube, and Google-owned Fitbit has officially started rolling out passive atrial fibrillation alerts on its suite of devices.
+<a href='https://www.theverge.com/2022/4/25/23041792/google-samsung-fitbit-assistant-galaxy-watch-4'> Source <a/>

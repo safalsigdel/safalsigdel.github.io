@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/253CEUgwB9zcEsBIDoQz6-0wMuw=/0x0:4896x3264/1200x800/filters:focal(2057x1241:2839x2023)/cdn.vox-cdn.com/uploads/chorus_image/image/70782491/1240021572.0.jpg' width='700px' /><br/>
-Twitter levied a new ban today on “misleading” advertisements “that contradict the scientific consensus on climate change.”
-<a href='https://www.theverge.com/2022/4/22/23037677/twitter-bans-climate-change-misinformation-ads'> Source <a/>
