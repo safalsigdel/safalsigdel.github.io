@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lfEJvvXwdzTlLhMY5qEU10fNxwk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70792968/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Upside_Down.0.jpg' width='700px' /><br/>
-In the moments before Elon Musk bought Twitter, the company's Slack channels were lit up with nervous anticipation. It had been days since Twitter leadership had shared anything with them, and after a weekend's worth of reports that a sale was imminent, employees were looking for answers.
-<a href='https://www.theverge.com/23042020/twitter-employees-elon-musk-buyout-slack'> Source <a/>

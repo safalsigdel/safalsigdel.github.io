@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vzJfzek24arcxsNZmGWG73q3tZ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70796615/mchin_190527_4449_0006.0.jpg' width='700px' /><br/>
+Here's the situation: you're typing a report for work, and you suddenly have to write the phrase “Jones nxc3xa9e Berkowitz.” Or you are adding a phrase in Spanish and need to use the word “axc3xb1os.” How do you add the special characters to the letters with your Windows 11 PC?
+<a href='https://www.theverge.com/23034476/windows-11-pc-how-to-type-special-characters'> Source <a/>

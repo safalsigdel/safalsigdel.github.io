@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FCa8sjpSE0ZlMaDL6z3mUTYctOg=/0x0:2446x1377/1200x800/filters:focal(1028x494:1418x884)/cdn.vox-cdn.com/uploads/chorus_image/image/70792281/Hot_Wheels.0.jpeg' width='700px' /><br/>
-J.J. Abrams' Bad Robot is partnering up with Warner Bros. for a live-action Hot Wheels movie, yet another sign that Mattel is getting quite serious about the filmmaking business.
-<a href='https://www.theverge.com/2022/4/25/23041621/hot-wheels-live-action-movie-mattel-jj-abrams-bad-robot'> Source <a/>

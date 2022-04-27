@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Oshtpi8o_tZEUz-O8DJX_FrSyaU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70791695/VRG_Illo_STK022_K_Radtke_Musk_Stock_Neutral.0.jpg' width='700px' /><br/>
-Twitter has accepted Elon Musk's offer to purchase the company for $44 billion, the company announced in a press release today. Musk purchased the company at $54.20 a share, the same price named in his initial offer on April 14th.
-<a href='https://www.theverge.com/2022/4/25/23028323/elon-musk-twitter-offer-buyout-hostile-takeover-ownership'> Source <a/>

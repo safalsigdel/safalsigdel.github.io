@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RMAy3Z1jlANscVwZBM0MJqBjVIo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70792011/acastro_220425_5163_0001_01_01.0.png' width='700px' /><br/>
-Apple is working with anti-union lawyers at Littler Mendelson in an escalating fight with retail workers in Atlanta who have filed for a union election. Though the company has not publicly stated its stance on Apple Stores unionizing, the move sends a strong signal that it plans to oppose workers organizing for better pay and working conditions.
-<a href='https://www.theverge.com/2022/4/25/23041632/apple-hires-anti-union-lawyers-littler-mendelson-union-fight-cwa'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iHDw7C-lsXbugNwQx8W0eUH54yw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70792501/acastro_211129_4896_0001.5.jpg' width='700px' /><br/>
-Twitter CEO Parag Agrawal didn't have many concrete answers for staff about what will happen once Elon Musk takes over the company later this year. During a virtual all-hands call Monday, hours after the company announced it had agreed to be bought by Musk for $44 billion, Agrawal fielded questions on the future of his job, the company's board, and possible layoffs.
-<a href='https://www.theverge.com/2022/4/25/23041753/twitter-ceo-elon-musk-no-layoffs-planned'> Source <a/>

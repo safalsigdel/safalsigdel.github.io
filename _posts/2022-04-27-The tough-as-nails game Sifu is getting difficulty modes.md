@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7kY0HT0BSHbuz60x1UkMa2uk4P8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70795527/621646306cfae63ee197fbb9_H1Saut.0.jpeg' width='700px' /><br/>
+Sifu, the tough martial arts game released earlier this year, will be getting difficulty modes on May 3rd as part of a major content update, developer Sloclap announced Tuesday. The game had received some criticism for its challenging difficulty, so, hopefully, the new modes will make the game more approachable.
+<a href='https://www.theverge.com/2022/4/26/23042872/sifu-difficulty-modes-sloclap-content-updates'> Source <a/>

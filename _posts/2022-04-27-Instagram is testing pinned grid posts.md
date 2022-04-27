@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iez1fbyfNEIgS5p_RFu2QylJzTI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70795436/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram is testing a feature that would let users pin posts to their profile grid, according to TechCrunch.
+<a href='https://www.theverge.com/2022/4/26/23042757/instagram-pinned-grid-posts-test'> Source <a/>

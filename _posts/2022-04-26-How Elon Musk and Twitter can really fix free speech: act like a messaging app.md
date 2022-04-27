@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-0qru6x0xkjqUlznusOhIsHKmn8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70792404/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
-“Free speech is the bedrock of a functioning democracy, and Twitter is the digital town square where matters vital to the future of humanity are debated” is how Elon Musk explained why he spent $44 billion to acquire Twitter.
-<a href='https://www.theverge.com/2022/4/25/23041754/elon-musk-twitter-free-speech-messaging-app'> Source <a/>

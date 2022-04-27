@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v1CLZ-JHeDEiLGHBD8glJKUnHnw=/0x0:6037x4025/1200x800/filters:focal(2537x1531:3501x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/70792190/1240191305.0.jpg' width='700px' /><br/>
-Even if Elon Musk could reinstate former President Donald Trump's Twitter account, Trump will not be returning to the platform — at least that's what he told Fox News on Monday.
-<a href='https://www.theverge.com/2022/4/25/23041703/trump-truth-social-twitter-elon-musk-free-speech-platform'> Source <a/>

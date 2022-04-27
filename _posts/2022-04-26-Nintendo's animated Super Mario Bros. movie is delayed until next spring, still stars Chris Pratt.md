@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y3pA4t0JSdWqpUGD2-aiRCrbo_Q=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70793071/Switch_SuperMario3DAllStars_SMG_screen_05.0.jpg' width='700px' /><br/>
-During a Nintendo Direct event last fall, the company revealed a release date for the animated Super Mario Bros. movie that it's making with Minions animation studio Illumination.  Now the company has revealed that the movie will not hit theaters on December 21st as planned and instead will be released in the spring of 2023.
-<a href='https://www.theverge.com/2022/4/25/23042068/mario-movie-nintendo-illumination-animated-cg'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rrYvAZ8HhHPYUUw7F5Nqdfp96GM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70796013/acastro_210329_1777_nft_0005.0.jpg' width='700px' /><br/>
+If combining NFTs with the medical industry doesn't sound the most logical, this report from BuzzFeed News will likely confirm your skepticism. An NFT project called MetaDocs assigns doctors / influencers, like Dr. Pimple Popper, to (somewhat unsightly) cartoon personifications of themselves, which users can then purchase to gain access to one-on-one conversations, question-and-answer sessions, or DMs.
+<a href='https://www.theverge.com/2022/4/26/23042736/go-read-this-nft-clinic-medical-advice-metadocs-metaverse'> Source <a/>

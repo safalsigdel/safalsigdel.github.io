@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sF58YZ50qNHvdRE2Rg934XlWU8w=/0x0:779x536/1200x800/filters:focal(328x206:452x330)/cdn.vox-cdn.com/uploads/chorus_image/image/70792243/NG_Nighthawk_M6_PRO_ATnT_779x536_G2_tcm148_137105.0.jpg' width='700px' /><br/>
-Netgear and AT&T are introducing the most impressive mobile hotspot I've ever seen: a four-inch puck that promises to turn the newest, fastest flavors of 5G and Wi-Fi into speedy internet for your laptops, tablets, and even wired PCs.
-<a href='https://www.theverge.com/23041215/netgear-nighthawk-m6-pro-att-cband-5g-wifi-6e'> Source <a/>

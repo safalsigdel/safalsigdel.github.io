@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hokcvb8SVy5RsxvTAIS0b_ZWpLM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70794992/vpavic_220415_5149_0080.0.jpg' width='700px' /><br/>
+Panic has just begun shipping the Playdate, its unusual new gaming handheld. Part of the Playdate's appeal is its quirky hardware: in an era where new handhelds have glorious OLED screens or are powerful enough to play your library of Steam games, the Playdate is a tiny device that has a crank and can only display games in black and white. But the Playdate is also interesting because of its “season” release model for games.
+<a href='https://www.theverge.com/2022/4/26/23041825/panic-playdate-season-one-two-release-model'> Source <a/>

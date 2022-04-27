@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c-erVkQP-H_ut1PMoe5vZZFiBos=/0x0:1131x930/1200x800/filters:focal(476x375:656x555)/cdn.vox-cdn.com/uploads/chorus_image/image/70791667/Screen_Shot_2022_04_25_at_1.39.45_PM.0.png' width='700px' /><br/>
-Ram teased its upcoming electric 1500 pickup truck, which is scheduled to go into production in fall 2022. The new electric truck is expected to be one of the first major long-range EVs to come out of Stellantis, the multinational conglomeration that formed last year when Fiat Chrysler merged with the French PSA Group.
-<a href='https://www.theverge.com/2022/4/25/23041381/ram-1500-ev-tease-electric-truck-ford'> Source <a/>

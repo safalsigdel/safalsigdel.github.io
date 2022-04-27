@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GBVVtSxbSZx_aiHCiRjupKq1wTY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70792902/Jeff_Bezos_Pad.0.0.1467130254.0.jpg' width='700px' /><br/>
-Just before Twitter announced it's accepting Elon Musk's $44 buyout bid, the world's richest man tweeted, “I hope that even my worst critics remain on Twitter, because that is what free speech means.”
-<a href='https://www.theverge.com/2022/4/25/23041965/jeff-bezos-twitter-troll-elon-musk-china-spacex-blue-origin'> Source <a/>

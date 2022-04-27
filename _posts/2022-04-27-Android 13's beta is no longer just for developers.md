@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RMnPrcy0N_I_CN3IMAXAE_35u6o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70795488/wjoel_180413_1777_android_001.0.jpg' width='700px' /><br/>
+The first public beta of Android 13 is now available for anyone with a compatible Pixel device to download and try out, the search giant announced today. Its release comes ahead of Google's annual developer conference next month when the company is expected to fully detail its plans for the update — due for release later this year.
+<a href='https://www.theverge.com/2022/4/26/23042395/android-13-public-beta-media-file-permissions-error-reporting-audio-routing'> Source <a/>

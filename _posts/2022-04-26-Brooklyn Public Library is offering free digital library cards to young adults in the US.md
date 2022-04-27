@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/82llCn_V2FrXgjxXuHSrmsN4s_k=/0x0:5120x3402/1200x800/filters:focal(2151x1292:2969x2110)/cdn.vox-cdn.com/uploads/chorus_image/image/70791916/849886652.0.jpg' width='700px' /><br/>
-The Brooklyn Public Library (BPL) is counteracting a ban on certain books by letting anyone in the US aged 13 to 21 apply for a digital library card. This gives teens and young adults, regardless of their location in the United States, access to the library's entire ebook collection.
-<a href='https://www.theverge.com/2022/4/25/23041346/brooklyn-library-free-digital-cards-ebook-collection-banned-books'> Source <a/>

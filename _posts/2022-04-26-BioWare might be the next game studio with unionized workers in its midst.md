@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MX2QWNRq9mqbNE1e8wxRoevRy48=/0x0:1454x818/1200x800/filters:focal(611x293:843x525)/cdn.vox-cdn.com/uploads/chorus_image/image/70792797/mele_screenshot_reveal_3840x2160_clean_04.jpg.adapt.crop16x9.818p.0.jpg' width='700px' /><br/>
-A group of staffers working for a company that supports BioWare, the studio behind hits like Mass Effect and Dragon Age, are taking the first steps toward possible unionization.
-<a href='https://www.theverge.com/2022/4/25/23041667/bioware-contractors-keywords-studios-first-steps-unionize-ea'> Source <a/>

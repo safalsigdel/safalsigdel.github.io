@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UyH2ORkYw42la9cWVxxMKhihQ9I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70791709/venmo1_2040.0.0.jpg' width='700px' /><br/>
-If you use the Venmo app, you probably recently received an email explaining that the company is making changes to its user agreement — including a fairly onerous arbitration clause that, among other things, has you agree that you will not become part of any kind of class action suit. You can opt out of it, but it's not easy.
-<a href='https://www.theverge.com/23040916/venmo-arbitration-class-action-sue-how-to'> Source <a/>
