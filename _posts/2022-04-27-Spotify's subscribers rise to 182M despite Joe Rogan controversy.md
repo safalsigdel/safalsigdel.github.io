@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SSylissc_XEAufYKwcF0_yR095o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70798640/acastro_180213_1777_0003.0.jpg' width='700px' /><br/>
+Spotify's latest earnings release suggests that the audio streaming service's subscriber numbers haven't seen much, if any, impact from the controversies that surrounded its Joe Rogan podcast just a few short months ago.
+<a href='https://www.theverge.com/2022/4/27/23044260/spotify-financial-results-q1-2022-joe-rogan-russia-suspension'> Source <a/>
