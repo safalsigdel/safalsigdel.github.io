@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LdDdsWkXC9ivwtRe_IRnCCNVSo8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70795166/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube is expanding its Super Thanks tipping program, giving more creators another way to monetize their presence on the platform.
-<a href='https://www.theverge.com/2022/4/26/23041651/youtube-expanded-super-thanks-tipping'> Source <a/>
