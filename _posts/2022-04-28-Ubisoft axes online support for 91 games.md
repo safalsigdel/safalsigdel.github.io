@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jeXEFdajv-A34jwNj8a61jsJAVM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70802040/acastro_190528_1777_ubisoft_0001.0.0.jpg' width='700px' /><br/>
+In the past year, Ubisoft has ceased online support for a list of games that has grown to 91 titles. This means that any multiplayer components associated with these games will no longer be accessible, along with any achievements or unlockables attached to the online aspect of the game. It's worth mentioning, however, that the support for these games wasn't cut off all at once and doesn't necessarily impact all platforms.
+<a href='https://www.theverge.com/2022/4/27/23044852/ubisoft-games-online-support-disabled'> Source <a/>

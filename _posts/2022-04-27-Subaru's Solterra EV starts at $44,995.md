@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uvYygL_KlxLXv4Da708LzGMcDMQ=/0x0:1920x1200/1200x800/filters:focal(807x447:1113x753)/cdn.vox-cdn.com/uploads/chorus_image/image/70796082/Prepro_Standard_AWD_1920x1200.0.jpg' width='700px' /><br/>
-Subaru has announced the pricing of its first all-electric vehicle, the Solterra SUV. The vehicle, which comes standard with all-wheel drive like most Subarus, will start at $44,995, with the “Limited” and “Touring” trims starting at $48,495 and $51,995, respectively. All models will have an extra $1,225 destination and delivery charge, bumping their cost out the door up a bit more.
-<a href='https://www.theverge.com/2022/4/26/23042924/subaru-solterra-pricing-starting-ev-tax-incentives'> Source <a/>

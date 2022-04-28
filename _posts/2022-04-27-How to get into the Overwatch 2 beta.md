@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qRMzDYddpQPqNt5gas7y1kM4hY0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70795678/OW2_2022_BETA_DoomfistBlog_1920x1080.0.png' width='700px' /><br/>
-Happy Overwatch 2 Beta Day! As many players awake to find the golden beta ticket in their inboxes, there will inevitably be those who are left without one. But take heart, heroes, for Blizzard has designed a way by which you can earn an invite to what is, essentially, Overwatch 2's soft-launch day.
-<a href='https://www.theverge.com/2022/4/26/23043073/how-to-overwatch-2-beta-access-pc'> Source <a/>

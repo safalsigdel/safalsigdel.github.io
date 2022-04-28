@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-IFq9TUlo37Jg4WKgi1XDxoEOjU=/0x0:2040x1275/1200x800/filters:focal(857x475:1183x801)/cdn.vox-cdn.com/uploads/chorus_image/image/70801389/avatar16.0.jpg' width='700px' /><br/>
+The first Avatar sequel will be called Avatar: The Way of Water, Disney announced Wednesday at CinemaCon, perhaps the biggest indication yet that the long-delayed movie is actually going to be released on December 16th. And we might have even more potential proof soon, as the first teaser trailer is set to debut alongside Doctor Strange in the Multiverse of Madness, which premieres on May 6th.
+<a href='https://www.theverge.com/2022/4/27/23045116/avatar-2-the-way-of-water-title-trailer-release-date'> Source <a/>

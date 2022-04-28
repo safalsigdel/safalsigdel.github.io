@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0yS8EwfxxKmFnTgjIreR0wzpyQk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70800454/Windows_XP__1_.0.png' width='700px' /><br/>
+The Windows XP startup sound is forever engrained in my mind, those tinkling chimes bringing back memories of AIM, Civilization III, and endless hours spent trying to download music through Napster and Kazaa followed by endless hours spent trying to remove the viruses I accidentally downloaded through Napster and Kazaa.
+<a href='https://www.theverge.com/2022/4/27/23044724/windows-startup-sound-podcast'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vV74sfzbjXuGFCPS_oYBxMGbo1k=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70797471/rev_1_TBM_11721r_High_Res_JPEG.0.jpeg' width='700px' /><br/>
-Robert Pattinson's Batman will make a return, as Warner Bros. is making a sequel to Matt Reeves' The Batman. Deadline reports Warner Bros. Motion Picture Group exec Toby Emmerich announced the new film at CinemaCon on Tuesday.
-<a href='https://www.theverge.com/2022/4/26/23043851/the-batman-2-robert-pattinson-matt-reeves'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aYiNOdjDHfPNDmtEzzP4vD7NjLo=/0x0:2118x1414/1200x800/filters:focal(890x538:1228x876)/cdn.vox-cdn.com/uploads/chorus_image/image/70800864/TikTokShorts.0.png' width='700px' /><br/>
+YouTube is starting to test advertisements on Shorts, a short-form video feature the company introduced in 2020 that's similar to what TikTok and Instagram offer.
+<a href='https://www.theverge.com/2022/4/27/23044904/youtube-shorts-ads-short-form-video-monetization'> Source <a/>

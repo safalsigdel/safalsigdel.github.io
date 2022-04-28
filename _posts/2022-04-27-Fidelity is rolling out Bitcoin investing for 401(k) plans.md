@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0_wa_Ub_BELLAY-fk6c1w2vo2QY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70797313/acastro_170726_1777_0007_v4.0.jpg' width='700px' /><br/>
-Fidelity will soon start allowing eligible individuals to save a portion of their 401(k) in Bitcoin, the company announced Tuesday. Employees will only gain access to the option if their employer signs off the option, which Fidelity says will start rolling out in mid-2022.
-<a href='https://www.theverge.com/2022/4/26/23043424/fidelity-rolling-out-bitcoin-investing-401-k-plans-cryptocurrency-microstrategy'> Source <a/>

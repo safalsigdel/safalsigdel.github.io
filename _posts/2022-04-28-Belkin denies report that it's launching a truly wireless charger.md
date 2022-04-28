@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y_cbFTDv2ZhnWSJxy6C5ACroIFg=/0x0:1000x1000/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/70802016/akrales_171024_2082_0078_squ.0.jpg' width='700px' /><br/>
+This morning, we heard some news that would be exciting if true — that Belkin is working on what could be the very first consumer gadget with truly wireless charging, the kind that actually beams a small amount of power through the air and across a room.
+<a href='https://www.theverge.com/2022/4/27/23045321/belkin-wi-charge-denial-true-wireless-spatial-charger'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wKuB7DoRO9ujzR34WafiOeTFrr8=/0x0:2880x1920/1200x800/filters:focal(1099x595:1559x1055)/cdn.vox-cdn.com/uploads/chorus_image/image/70800452/apple_studio_display_1.0.jpg' width='700px' /><br/>
+Apple's $1,599 Studio Display arrived last month with big promises about its webcam, which features a 12-megapixel sensor, an f2.4 ultra-wide lens, and the same A13 chip running the whole thing as found in the iPhone 11. Unfortunately, it shipped with buggy software that made everything look bad. Apple told us that it wasn't “behaving as expected” and promised us a software update.
+<a href='https://www.theverge.com/23044788/apple-studio-display-webcam-update-testing-comparison'> Source <a/>
