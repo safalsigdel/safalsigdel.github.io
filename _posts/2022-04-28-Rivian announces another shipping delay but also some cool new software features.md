@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WJbKWhi-sbEDQEV30GDT7MeKsOo=/0x0:6016x3384/1200x800/filters:focal(2527x1211:3489x2173)/cdn.vox-cdn.com/uploads/chorus_image/image/70799277/Screen_Shot_2022_04_26_at_4.56.52_PM.0.png' width='700px' /><br/>
-Rivian is experiencing a production issue with an interior trim option for its electric vehicles. Some reservation holders of the company's R1T electric truck and R1S SUV received emails this week saying that the Ocean Coast trim is “more challenging to produce” and will be delayed to later this fall (via Electrek).
-<a href='https://www.theverge.com/2022/4/27/23043536/rivian-ocean-coast-trim-production-delays-sand-mode-pet-dashcam'> Source <a/>
