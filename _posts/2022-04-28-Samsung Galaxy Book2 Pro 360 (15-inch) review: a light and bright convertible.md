@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BFQSQZ3P4JDqU9DoKYt4-RpVgFo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70803771/akrales_220414_5142_0006.0.jpg' width='700px' /><br/>
+Light chassis, great screen. That's the entirety of what you sign up for when you buy a Samsung Galaxy Book. They are not the most powerful laptops out there, and they're not what I'd recommend people be issued for, say, work. But for those looking for a great multimedia laptop that's a breeze to carry around, this is the one.
+<a href='https://www.theverge.com/23045104/samsung-galaxy-book2-pro-360-15-inch-review-a-light-and-bright-convertible'> Source <a/>
