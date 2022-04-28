@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HNvRNbW_52mDigxqLtYD8paSpaI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70799383/vpavic_200929_4216_0128.0.jpg' width='700px' /><br/>
-A small number of Apple Watch Series 6 models may have an issue that causes their display to go permanently blank. The good news is Apple now says you can get it fixed for free.
-<a href='https://www.theverge.com/2022/4/27/23044421/apple-watch-series-6-blank-screens-fix'> Source <a/>
