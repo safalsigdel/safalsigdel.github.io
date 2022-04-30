@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mjBVhRROq1wjnXgy38E7-sIev4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70801175/acastro_220322_5097_0001.0.jpg' width='700px' /><br/>
-Chinese drone maker DJI has confirmed to The Verge that it is halting all shipments of its products to both Russia and Ukraine and will no longer provide aftersales support because it's worried about its products being used for combat purposes during Russia's invasion.
-<a href='https://www.theverge.com/23045059/dji-halt-drone-shipments-russia-ukraine-war'> Source <a/>

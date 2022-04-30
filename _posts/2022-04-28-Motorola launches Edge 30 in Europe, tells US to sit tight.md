@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ZMbFwTxwbwZhb7nWKVj7yIIt3o=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/70802018/2022_edge_30_Aurora_Green__Hero.0.jpg' width='700px' /><br/>
-Motorola has announced the Edge 30, a pared-down version of its pricier Edge 30 Pro, coming to Europe for xe2x82xac449 (about $475) before reaching other markets in Asia and the Middle East later this year. North America is not on that list, but Motorola says the region will get another (unspecified) Edge family device later in the year.
-<a href='https://www.theverge.com/2022/4/27/23045063/motorola-edge-30-europe-price-specs'> Source <a/>

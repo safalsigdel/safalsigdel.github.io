@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wVYAcO9npfxd6YpxQNB7TonXbMM=/519x42:4363x2511/1200x800/filters:focal(2120x605:2902x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70814659/1392814994.0.jpg' width='700px' /><br/>
+Now that CNN has made the decision to shut down its new streaming baby CNN Plus less than a month after it went live, you might be wondering what went wrong. A report from Axios has a chart that shows the streaming service was far from reaching its projected year-end viewership goal, and would have burned through $400 million in 2022 alone to try to get there.
+<a href='https://www.theverge.com/23043232/cnn-plus-axios-chat-shut-down-streaming-news'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x5Gd_e1BtRQc1suBfLQTSwYori8=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70811667/stray3_3840x.0.jpeg' width='700px' /><br/>
+Stray, an upcoming game where you play as a cat, will now be released in summer 2022, according to a video in an official PlayStation tweet. Last July, publisher Annapurna Interactive said Stray would be released in early 2022 on PS5, PS4, and Steam, but it seems now we're going to have to wait just a little bit longer to play the game.
+<a href='https://www.theverge.com/2022/4/29/23048918/stray-cyberpunk-cat-simulator-summer-2022-playstation-steam'> Source <a/>

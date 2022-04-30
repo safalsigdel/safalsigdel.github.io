@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O921PpyMgv7GMoFmMF8k-BtPlxs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70812389/acastro_210120_1777_intel_0002.0.jpg' width='700px' /><br/>
+Six months after predicting the global chip shortage would last until at least 2023, Intel CEO Pat Gelsinger is now suggesting it might be 2024 before we're fully out of the woods.
+<a href='https://www.theverge.com/2022/4/29/23049114/chip-shortage-intel-ceo-2024'> Source <a/>

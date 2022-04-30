@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HY1wRAgiDpleI99jqgtVoVaa7Dc=/0x0:5000x2812/1200x800/filters:focal(2100x1006:2900x1806)/cdn.vox-cdn.com/uploads/chorus_image/image/70801565/cnn.plus.header.logo.0.jpg' width='700px' /><br/>
-While CNN Plus already accelerated through the Go90 Scale of Doomed Streaming Services in record time, it has somehow managed to shave another two days off of its lifespan. Warner Bros. Discovery originally announced that the streaming video news service would close on April 30th, but Digital Trends reports that subscribers have received an email confirming the actual end date is April 28th.
-<a href='https://www.theverge.com/2022/4/27/23045221/cnn-plus-end-date-go90-two-days-early-streaming-news'> Source <a/>

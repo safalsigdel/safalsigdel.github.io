@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9ix5i3CWG-nIg_FBQBcrvXhwis8=/0x0:1300x910/1200x800/filters:focal(546x351:754x559)/cdn.vox-cdn.com/uploads/chorus_image/image/70802363/1password2.0.jpg' width='700px' /><br/>
-Whenever we talk about password managers, especially ones that sync their data to the cloud, there's always discussion about whether or not your information is secure and what happens if the servers go down. The second thing is exactly what 1Password users in the US experienced earlier today, as a problem affecting 1Password.com kept mobile, desktop, and browser clients from syncing.
-<a href='https://www.theverge.com/2022/4/27/23045469/1password-outage-password-manager-security-cloud-storage'> Source <a/>

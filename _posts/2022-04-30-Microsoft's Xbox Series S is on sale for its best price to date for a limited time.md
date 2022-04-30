@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rEIsMLSdAslCbnil11GQE_hZ32Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70809759/vpavic_201103_4275_0252.0.jpg' width='700px' /><br/>
+Update 5:19PM ET, April 29th: Woot has sold out of consoles for now.
+<a href='https://www.theverge.com/good-deals/2022/4/29/23046380/xbox-series-s-amazon-echo-show-5-vizio-oled-tv-lenovo-chromebook-duet-deal-sale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Eqr6zEBQxtFmcwOI4vBFQrs2WU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70800094/shollister_220418_5169_0007.0.jpg' width='700px' /><br/>
-Between stints at Engadget, Gizmodo, and CNET, Sean Hollister became part of the small group that co-founded The Verge back in 2011. He has worn a lot of hats in the past decade: reviewing products, running the newsroom, training and editing new writers, putting spicy editorials on the site, starring in a few videos, liveblogging, and shaping coverage where he can. He's currently a Senior Editor.
-<a href='https://www.theverge.com/23037594/sean-hollister-desk-razer-synology-microsoft'> Source <a/>
