@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YDDtd_Fu-c6QuLBOQKWQQn_4qG8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70821119/acastro_181017_1777_brain_ai_0002.0.jpg' width='700px' /><br/>
+As a category, mental health apps have worse privacy protections for users than most other types of apps, according to a new analysis from researchers at Mozilla. Prayer apps also had poor privacy standards, the team found.
+<a href='https://www.theverge.com/2022/5/2/23045250/mozilla-mental-health-app-privacy-analysis'> Source <a/>

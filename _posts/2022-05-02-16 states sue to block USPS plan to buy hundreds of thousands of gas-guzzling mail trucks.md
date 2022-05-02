@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XNK81jUa0wy1k1FUckxYdpVSCjE=/0x0:3641x2531/1200x800/filters:focal(1530x975:2112x1557)/cdn.vox-cdn.com/uploads/chorus_image/image/70810522/1371982929.0.jpg' width='700px' /><br/>
-Sixteen states as well as several prominent climate activists sued the United States Postal Service this week over its plan to purchase 148,000 gas-guzzling delivery trucks over the next decade, alleging the agency failed to consider the environmental impact of its decision.
-<a href='https://www.theverge.com/2022/4/29/23048478/usps-mail-truck-lawsuit-gas-environment-electric'> Source <a/>
