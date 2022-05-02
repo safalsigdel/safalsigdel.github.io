@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vcq8aNwU3rl4FfUFLVvjTuTIpKU=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/70811639/Screen_Shot_2022_04_29_at_11.30.42_AM.0.png' width='700px' /><br/>
-Ubisoft's Skull and Bones finally seems to be emerging from the depths of development hell. As reported by Kotaku, test footage has leaked online, showing off the biggest glimpse of the live-service pirate adventure that's been seen since its announcement at E3 2017.
-<a href='https://www.theverge.com/2022/4/29/23048852/ubisoft-skull-and-bones-gameplay-leak'> Source <a/>

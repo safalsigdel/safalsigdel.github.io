@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EP8PPIbFgf_5VAb7nHcmE6sUuQk=/0x0:2800x2100/1200x800/filters:focal(1176x826:1624x1274)/cdn.vox-cdn.com/uploads/chorus_image/image/70815105/qRxVv6s.0.jpg' width='700px' /><br/>
-It sounds like Google's upcoming Pixel Watch will be a flagship set to compete with Samsung's latest Galaxy Watches and the Apple Watch, according to new specs leaked by 9to5Google. According to 9to5's report, you'll be able to get a cellular version of the wearable, and it will have a 300 milliamp-hour (mAh) battery.
-<a href='https://www.theverge.com/2022/4/30/23049490/pixel-watch-leaked-battery-specs-cellular-models-flagship'> Source <a/>

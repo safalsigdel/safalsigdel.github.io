@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xiNdwxZ8Gx1PPZfAAwqcit_BfTM=/0x0:1860x1274/1200x800/filters:focal(782x489:1078x785)/cdn.vox-cdn.com/uploads/chorus_image/image/70812436/MicrosoftEdge.0.png' width='700px' /><br/>
-Microsoft is adding a free built-in virtual private network (VPN) service to its Edge browser in a bid to improve security and privacy, a Microsoft support page revealed.
-<a href='https://www.theverge.com/2022/4/29/23049015/microsoft-free-built-in-vpn-edge-browser-edge-secure-network'> Source <a/>
