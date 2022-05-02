@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TIlf5SC4WxQH1QLkL9IQM_u5O2A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70810124/vpavic_220418_5168_0063.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel and editor-at-large David Pierce discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2022/4/29/23048298/vergecast-podcast-elon-musk-twitter-snapchat-pixy-studio-display'> Source <a/>

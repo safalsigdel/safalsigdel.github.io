@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dZ2bOrojSWk1bgcu1lmYZ1rqDss=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70816537/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
+Uber and Lyft have both pledged to cover legal fees in case their drivers are sued under Oklahoma's restrictive abortion bill, according to a report from CNBC. While the bill has not yet been signed into law, Republican Governor Kevin Stitt is expected to approve it within the next few days.
+<a href='https://www.theverge.com/2022/4/30/23050662/uber-lyft-extend-legal-fee-coverage-drivers-sued-over-oklahoma-restrictive-abortion-law'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_ryW5ch6Tu30RZlPYJGvejCEkZI=/0x0:1900x1166/1200x800/filters:focal(798x431:1102x735)/cdn.vox-cdn.com/uploads/chorus_image/image/70810271/rd2.0.png' width='700px' /><br/>
-One of the games we often use to test gaming laptops and PCs here at The Verge is Red Dead Redemption 2. It's a popular, demanding game that includes a wide range of effects and scenery, from snowy blizzards to sandy roads and dynamic gunfights. Its benchmark is easy to use and can help you see how well your PC can run demanding games and which settings it can handle.
-<a href='https://www.theverge.com/23047133/red-dead-redemption-2-benchmark-pc-how-to'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/anaEweNmzVmJHWZ2k2CFe4l6Gcg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70810150/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
-If you applied for financial aid through Free Application for Federal Student Aid (FAFSA) in the US in early 2022, there's a very good chance some personal information was provided to a platform that's completely irrelevant to the process: Facebook.
-<a href='https://www.theverge.com/2022/4/29/23048305/fafsa-facebook-department-of-education-us-student-financial-aid-meta-tracking-pixel'> Source <a/>

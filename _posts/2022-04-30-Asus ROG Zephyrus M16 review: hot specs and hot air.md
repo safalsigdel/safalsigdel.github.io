@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uIS-JvRlal-p7c27nF75q0DeAQs=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70810324/akrales_220426_5160_0113.0.jpg' width='700px' /><br/>
-The Asus ROG Zephyrus M16 from last year was a sharp laptop that stumbled a bit in terms of performance thanks largely to its Intel CPU. While the lightweight form factor was a plus, we were ultimately disappointed with the overall performance offered by this laptop, especially given its high price point.
-<a href='https://www.theverge.com/2022/4/29/23047212/asus-rog-zephyrus-m16-review-gaming-laptop'> Source <a/>

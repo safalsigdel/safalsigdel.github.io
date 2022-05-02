@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sWJ_JMJDiZuZ4TaEX4s91PTX6wo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70820078/acastro_170726_1777_0007_v3.0.jpg' width='700px' /><br/>
+The Wikimedia Foundation (WMF), the organization behind Wikipedia, has announced that it will no longer accept donations in cryptocurrency, as first reported by Web3 Is Going Just Great. In an update, the WMF says it “has decided to discontinue direct acceptance of cryptocurrency as a means of donating.” It also says it will close its Bitpay account, preventing any future contributions in crypto.
+<a href='https://www.theverge.com/2022/5/1/23052309/wikimedia-foundation-stops-cryptocurrency-donations-wikipedia'> Source <a/>

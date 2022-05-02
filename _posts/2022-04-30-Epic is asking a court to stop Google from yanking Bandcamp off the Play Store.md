@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CsyMVwPIPG5nw64bsWXWDyQzHkM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70808952/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
-Epic Games has filed a motion for a preliminary injunction to stop Google from removing independent music storefront Bandcamp from the Android app store — which Google has apparently threatened to do because Bandcamp is using its own billing system instead of paying Google an app store fee.
-<a href='https://www.theverge.com/2022/4/29/23048059/epic-games-google-bandcamp-play-store'> Source <a/>

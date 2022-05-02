@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4qXMQDkDvLaWHfYw-ydkGGpox08=/0x0:2110x1407/1200x800/filters:focal(887x536:1223x872)/cdn.vox-cdn.com/uploads/chorus_image/image/70816014/Baidu_Apollo_Autonomous_Driving_Car_Open_Roads_Beijing.0.jpeg' width='700px' /><br/>
+Baidu and Pony.ai have been given permission to operate their autonomous vehicles without safety drivers in Beijing, a first for robotaxi services in China (via CNBC). Although both companies now no longer need a staff member in the driver's seat, they'll still need a supervisor present somewhere in the vehicle.
+<a href='https://www.theverge.com/2022/4/30/23050493/baidu-pony-ai-first-robotaxi-services-operate-without-safety-drivers-beijing-china'> Source <a/>
