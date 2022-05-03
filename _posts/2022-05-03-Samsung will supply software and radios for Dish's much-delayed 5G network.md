@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-oVyDEhlqYnLQgLNJa_yugsYgjU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70826446/acastro_200804_1777_dish_0001.0.0.jpg' width='700px' /><br/>
+Dish Network owes us a 5G network — that was the linchpin of the deal that allowed T-Mobile to buy Sprint, bringing our wireless carrier options down to three. With Dish's first deadline fast approaching, the company has announced a new partner: Samsung. The company joins Dish as a vendor while it attempts to build a 5G network from scratch.
+<a href='https://www.theverge.com/2022/5/3/23054285/samsung-vran-dish-network-5g-oran'> Source <a/>
