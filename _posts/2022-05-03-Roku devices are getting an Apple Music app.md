@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fYsgt9B_ymGWfbGVuKESwVfMH9k=/0x0:1200x628/1200x800/filters:focal(504x218:696x410)/cdn.vox-cdn.com/uploads/chorus_image/image/70823421/Unknown_6.0.jpg' width='700px' /><br/>
-Roku users can now play songs and videos from Apple Music on their TVs, streaming players, or Roku soundbars. Roku announced on Monday that the “app will be available to download later today.”
-<a href='https://www.theverge.com/2022/5/2/23053535/roku-apple-music-app-subscriptions-tv'> Source <a/>
