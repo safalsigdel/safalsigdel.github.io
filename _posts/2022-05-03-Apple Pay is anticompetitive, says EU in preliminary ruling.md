@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sb8Q2rXSupAq7nrAKQ5U0DVF0gY=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/70821381/Apple_Apple_Pay_Transaction_big.jpg.large_2x.0.jpg' width='700px' /><br/>
-Apple has been hit with an antitrust accusation by the European Union over its exclusion of rivals from its Apple Pay mobile payment system. The EU sent Apple a formal “Statement of Objections” with the preliminary view that Apple has abused its dominant position in mobile wallets on iOS.
-<a href='https://www.theverge.com/2022/5/2/23048116/apple-pay-eu-antitrust-nfc-payment-wallet'> Source <a/>
