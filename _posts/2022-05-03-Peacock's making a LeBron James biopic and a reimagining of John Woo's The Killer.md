@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q9fpq9tHzHeCfkIbHtAtlpLkwrs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70822475/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
-In the latest phase of big plans for growth, Peacock's collaborating with Universal Pictures to produce original movies from LeBron James, John Woo, and Will Packer.
-<a href='https://www.theverge.com/2022/5/2/23053280/peacock-shooting-stars-lebron-james-john-woo-the-killer'> Source <a/>

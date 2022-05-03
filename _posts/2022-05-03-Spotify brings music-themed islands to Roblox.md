@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T_hZcESe4rUdtr8jPuqFUAS-jpI=/0x161:1080x1350/1200x800/filters:focal(454x589:626x761)/cdn.vox-cdn.com/uploads/chorus_image/image/70826929/spotify_island_k_park.0.jpeg' width='700px' /><br/>
+Spotify has launched its own digital space on Roblox, called Spotify Island, allowing players to make music, play games, and interact with virtual artists, the company announced in a press release. Although it's called Spotify Island, it's more like a virtual archipelago — players can hop between other interactive music-themed islands that change throughout the year.
+<a href='https://www.theverge.com/2022/5/3/23054915/spotify-brings-music-themed-islands-roblox-metaverse'> Source <a/>
