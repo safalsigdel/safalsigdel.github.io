@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4KQyoO2Vqe4uidbDhbn0h5ebwNQ=/0x0:5401x3648/1200x800/filters:focal(2269x1392:3133x2256)/cdn.vox-cdn.com/uploads/chorus_image/image/70811327/945287450.0.jpg' width='700px' /><br/>
-In its latest notice to shareholders, Thomson Reuters announced that it would align with the United Nations Guiding Principles on Business and Human Rights (UNGPs) and conduct an independent, company-wide human rights impact assessment of its products and services, including contracts with US Immigration and Customs Enforcement (ICE).
-<a href='https://www.theverge.com/2022/4/29/23048819/thomson-reuters-human-rights-assessment-ice-bcgeu-mijente'> Source <a/>

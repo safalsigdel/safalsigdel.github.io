@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HuVQeTLP5yx8_zuWG-fK9LML8jA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70822729/1369173795.0.jpg' width='700px' /><br/>
+Spirit Airline's board of directors has rejected JetBlue's bid to acquire the airline and will proceed with its existing merger agreement with Frontier, one of its ultra-low-cost competitors, Spirit announced in a press release. A deal with JetBlue has “a low probability of receiving antitrust clearance” and poses “an unacceptable level of closing risk” to its shareholders, Spirit notes.
+<a href='https://www.theverge.com/2022/5/2/23053292/spirit-merger-frontier-jetblue-airline'> Source <a/>

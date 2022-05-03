@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TFal_GcsPxxGBWOKi6Zwy3vnuTo=/0x0:1194x464/1200x800/filters:focal(502x137:692x327)/cdn.vox-cdn.com/uploads/chorus_image/image/70823373/Module5_3a_d2x.0.jpeg' width='700px' /><br/>
+eBay is expanding its authentication services to include single graded trading cards over $2,000, the company announced today. The company is partnering with third-party trading card authentication and grading service Professional Sports Authenticator (PSA) for the expanded service.
+<a href='https://www.theverge.com/2022/5/2/23053530/ebay-authenticity-guarantee-trading-cards-pokemon-counterfeit'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zYk1Kt6flsuZfZJoLQzR-EfsXtE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70824871/vpavic_170925_2023_0207.0.jpg' width='700px' /><br/>
+In March, Google announced it was voluntarily recalling 1.7 million Fitbit Ionic smartwatches following reports of 78 burns. Now, a recently filed lawsuit says the recall didn't go far enough, claiming that the same defect affects all of Google's Fitbit devices.
+<a href='https://www.theverge.com/2022/5/2/23054210/fitbit-ionic-recall-burns-wearable'> Source <a/>

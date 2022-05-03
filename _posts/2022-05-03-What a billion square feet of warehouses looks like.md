@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u6C9JQTHLSbIgVaxRFuxiV9ZDd4=/0x0:2040x1359/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70823023/wreel_220407_4965_0048.0.jpg' width='700px' /><br/>
+California's Inland Empire, a sprawling region just east of Los Angeles that was once known for orange groves and grape vineyards, is now ground zero of America's warehouse boom. The rise of online shopping has triggered a dramatic change in the landscape here and across the country — every $1 billion in online sales drums up demand for 1.25 million square feet of warehouse space.
+<a href='https://www.theverge.com/23053387/billion-square-feet-warehouses-california-inland-empire-online-shopping'> Source <a/>

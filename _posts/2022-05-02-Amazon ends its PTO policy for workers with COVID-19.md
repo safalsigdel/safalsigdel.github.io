@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mMy9XMN0ZRfMZTD3lBLAfOI-HPA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70818984/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
-Amazon will no longer grant up to seven days of paid time off (PTO) for workers sick with COVID-19, the company announced in an internal memo obtained by The Verge (via CNBC). Starting Monday, Amazon will offer up to five days of unpaid, excused leave, with the option for workers to use the paid sick time they've accrued.
-<a href='https://www.theverge.com/2022/5/1/23051891/amazon-ends-pto-policy-workers-covid-19'> Source <a/>

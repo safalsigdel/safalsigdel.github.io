@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X6kbKzzN3FEcDj99PdnXREqv0m0=/0x0:1023x575/1200x800/filters:focal(315x197:477x359)/cdn.vox-cdn.com/uploads/chorus_image/image/70810637/mele_screenshot_garrus_logo.jpg.adapt.crop16x9.575p.0.jpg' width='700px' /><br/>
-A group of contractors supporting EA-owned BioWare is trying to unionize. Part of the reason is because they'll be required to return to the office, even while full-time BioWare employees who work at the same location are being offered a hybrid work from home option, two employees told The Verge.
-<a href='https://www.theverge.com/2022/4/29/23047488/bioware-keywords-studios-contractors-organizing-union-office-return'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TWBR30V9PYTfUG-Ym14Cd8joIV0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70811014/80825558.0.jpg' width='700px' /><br/>
-California will investigate whether fossil fuel companies have broken the law by perpetuating myths about plastic recycling, Attorney General Rob Bonta announced yesterday.
-<a href='https://www.theverge.com/2022/4/29/23048481/california-plastic-recycling-myths-investigation-exxon'> Source <a/>

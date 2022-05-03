@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VEy_MtMONU9dr5KRa73KwNniTJ0=/0x0:1632x888/1200x800/filters:focal(686x314:946x574)/cdn.vox-cdn.com/uploads/chorus_image/image/70825378/Screen_Shot_2021_10_28_at_2.03.39_PM.0.png' width='700px' /><br/>
+Last month we took a deep dive into Mark Zuckerberg's grand metaverse plan, and some of the hardware Meta is working on to deliver it, in the form of Project Nazare augmented reality glasses. Now The Information reports on a roadmap for virtual reality hardware that runs through 2024 with four headsets on the schedule, starting with the previously-teased Project Cambria VR headset we expect to see later this year.
+<a href='https://www.theverge.com/2022/5/2/23053888/meta-virtual-reality-headset-cambria-quest-vr-mr'> Source <a/>

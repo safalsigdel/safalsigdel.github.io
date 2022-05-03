@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NwPWvh2cAXgT1QkC-RmBpe9-q0U=/0x0:900x743/1200x800/filters:focal(378x378:522x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70818601/FRamNgyaMAAww0l.0.png' width='700px' /><br/>
-Robert “Razerguy” Krakoff, the co-founder and former president of gaming hardware company Razer, died last week at the age of 81. Maybe you've never heard Krakoff's name, but it's possible you've been impacted by his far-reaching legacy.
-<a href='https://www.theverge.com/23050951/razer-co-founder-robert-krakoff-death-razerguy'> Source <a/>

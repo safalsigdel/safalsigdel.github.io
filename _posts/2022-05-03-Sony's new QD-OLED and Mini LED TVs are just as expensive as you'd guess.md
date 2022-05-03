@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wd6KOEJbow5pLXC9DnzrpENq0hI=/0x0:935x597/1200x800/filters:focal(394x225:542x373)/cdn.vox-cdn.com/uploads/chorus_image/image/70822081/Sony.0.jpg' width='700px' /><br/>
+Today, Sony announced the full pricing and availability details for its 2022 Bravia XR lineup of TVs. The range is led by the flagship 8K Mini LED series — this is Sony's first year making Mini LED sets — but also includes 4K Mini LED, QD-OLED, and more traditional OLED and LCD sets.
+<a href='https://www.theverge.com/2022/5/2/23053221/sony-qd-oled-mini-led-tvs-a95k-x95k-a90k-a80k-price-release-date'> Source <a/>

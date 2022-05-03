@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/99DonWAbcs75u1q62nnMroiQxgE=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70810819/1239417462.0.jpg' width='700px' /><br/>
-Elon Musk sold around $8.4 billion worth of his shares in Tesla this week as he seeks to line up the money to buy Twitter, according to filings with the US Securities and Exchange Commission. But the billionaire claims he won't sell any more Tesla stock “after today.”
-<a href='https://www.theverge.com/2022/4/29/23048615/elon-musk-tesla-stock-sells-twitter-takeover'> Source <a/>

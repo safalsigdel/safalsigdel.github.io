@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P6LY8JDMgkM5otEmrRdsPpUXNHg=/0x0:4000x2667/1200x800/filters:focal(1136x1285:1776x1925)/cdn.vox-cdn.com/uploads/chorus_image/image/70824736/1240309186.0.jpg' width='700px' /><br/>
+Russian troops stole almost $5 million worth of farm equipment from a John Deere dealer in the occupied city of Melitopol, Ukraine, only to discover that the machines have been shut down remotely, making them inoperable, according to a report from CNN. Some of the equipment, which comes with a remote locking feature and a built-in GPS, was tracked over 700 miles away in the Zakhan Yurt village of Chechnya.
+<a href='https://www.theverge.com/2022/5/2/23053944/russian-troops-steal-millions-farm-equipment-ukraine-disabled-remotely-john-deere'> Source <a/>

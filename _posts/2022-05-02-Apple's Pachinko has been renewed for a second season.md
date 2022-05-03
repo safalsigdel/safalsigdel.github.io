@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qbnd4vuboz17krR4sCHt1feBpdw=/0x0:3840x1745/1200x800/filters:focal(1613x566:2227x1180)/cdn.vox-cdn.com/uploads/chorus_image/image/70811216/Pachinko_Photos_010806.0.jpg' width='700px' /><br/>
-Ahead of Pachinko's season 1 finale, Apple has just renewed its adaptation of Min Jin Lee's best-selling novel for a second season.
-<a href='https://www.theverge.com/2022/4/29/23048824/pachinko-season-two-pickup-soo-hugh-apple-tv-plus'> Source <a/>

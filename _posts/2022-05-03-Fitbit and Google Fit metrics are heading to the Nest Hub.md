@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J-yI03-FhrfhVMm4u-vEKdjxZJ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70823344/dseifert_20210323_4485_0013.0.jpg' width='700px' /><br/>
+In the leadup to Google I/O, Google has been sprinkling small updates here and there that indicate its big wearables push is well underway. The latest is a new Google support page for an integration that will enable Google Fit and Fitbit users to view their activity metrics on the Nest Hub.
+<a href='https://www.theverge.com/2022/5/2/23053508/google-fit-fitbit-nest-hub-metrics'> Source <a/>

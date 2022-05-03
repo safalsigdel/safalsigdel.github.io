@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tl24MTs7VoecZ9GqoiWgPBXpY4s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70822952/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+Twitter has banned the accounts of two conservative figures — MyPillow CEO Mike Lindell and Dr. Vladimir “Zev” Zelenko — shortly after both rejoined the platform. Lindell, who was banned in 2021, rejoined Twitter over the weekend and was re-banned a few hours later. Zelenko, who was banned in 2020, also opened an account this weekend.
+<a href='https://www.theverge.com/2022/5/2/23053497/twitter-mike-lindell-zev-zelenko-rejoin-twitter-ban-musk'> Source <a/>

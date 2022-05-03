@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HRaBUor468LkrcvNoMxWR-MNQNc=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70821819/SOTTR_Preview5.0.jpg' width='700px' /><br/>
+Square Enix is selling off its three major Western game studios along with the associated video game properties — which includes big names like Tomb Raider, Deus Ex, and Thief. The studios and properties are set to be acquired by Embracer Group for an estimated $300 million; following regulatory approvals, the acquisition is set to be finalized between July and September of this year.
+<a href='https://www.theverge.com/2022/5/2/23053107/square-enix-tomb-raider-deus-ex-studio-sale-embracer-group'> Source <a/>
