@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bJpsj9zNzgcQy6MVb7nyvNmWw8A=/0x0:856x571/1200x800/filters:focal(360x218:496x354)/cdn.vox-cdn.com/uploads/chorus_image/image/70827179/google_docs_tables.0.jpg' width='700px' /><br/>
+Google has announced new dropdown and table tools for Google Docs, as it attempts to evolve its word processing software into more of a collaborative productivity tool. The search giant calls small modular features like these “smart chips,” and they're part of the “smart canvas” initiative it launched last year. The features are rolling out over the course of this month across all Google Account tiers.
+<a href='https://www.theverge.com/2022/5/3/23055090/google-docs-dropdown-table-templates-productivity-software'> Source <a/>
