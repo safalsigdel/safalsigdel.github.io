@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_V3oCBestGlGH9MTn5wyZ7u0ku0=/0x0:1892x908/1200x800/filters:focal(795x303:1097x605)/cdn.vox-cdn.com/uploads/chorus_image/image/70827817/razer_blade_15_oled.0.jpeg' width='700px' /><br/>
+Razer's new Blade 15 laptop comes with the world's first OLED QHD 240Hz display and next-gen specs, giving the Blade 15 series a minor refresh. It sports a 12th-gen Intel Core i9-129000H processor and an Nvidia RTX 3070 Ti laptop graphics card that should help you take full advantage of the device's upgraded display. Razer says the Blade 15 will go on sale in the last quarter of 2022 for $3,499.99.
+<a href='https://www.theverge.com/2022/5/3/23055336/razer-blade-15-240hz-oled-display'> Source <a/>
