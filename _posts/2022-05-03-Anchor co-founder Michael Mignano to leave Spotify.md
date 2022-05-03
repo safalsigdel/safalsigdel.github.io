@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U2n_Ee-t06Gb-V77uO7vJsX5VA0=/0x0:1420x940/1200x800/filters:focal(597x357:823x583)/cdn.vox-cdn.com/uploads/chorus_image/image/70824019/Screen_Shot_2022_02_11_at_3.40.20_PM.0.png' width='700px' /><br/>
-Michael Mignano, co-founder of Anchor and Spotify's podcasting tech chief for the past three years, submitted his resignation last week, the company confirmed Monday. He will depart at the end of June.
-<a href='https://www.theverge.com/2022/5/2/23054003/anchor-co-founder-michael-mignano-leaves-spotify'> Source <a/>
