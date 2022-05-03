@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VeI07XMudXXRuj_NdbxpDHaY3bQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70823446/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-Amazon workers at the LDJ5 facility in Staten Island, New York, have voted against organizing with the Amazon Labor Union at a count of 618 nos to 380 yeses. The facility has around 1,600 workers in total and began its election last week.
-<a href='https://www.theverge.com/2022/5/2/23053665/amazon-ldj5-union-vote-results'> Source <a/>
