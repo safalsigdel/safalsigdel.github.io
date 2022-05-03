@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fBCj06z4Z_VUIazjNokpxfZqQP8=/0x0:1456x819/1200x800/filters:focal(1215x587:1447x819)/cdn.vox-cdn.com/uploads/chorus_image/image/70826127/image.0.png' width='700px' /><br/>
+FIFA 22 will see a test of cross-play functionality in the “near future” between players on PlayStation 5, Xbox Series X and S, and Google's cloud-gaming service Stadia, EA has announced. Cross-play will be limited to Online Seasons and Online Friendlies game modes, the developer says, letting you play against friends on other platforms, or climb Online Seasons Divisions against a cross-platform playerbase.
+<a href='https://www.theverge.com/2022/5/3/23054860/fifa-22-cross-play-xbox-series-x-s-ps5-google-stadia-test'> Source <a/>
