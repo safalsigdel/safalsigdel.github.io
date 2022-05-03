@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zkkEVkVFHvCcFgj3kVEzYJ2uinA=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/70827464/halo_live_action_longer_trailer.0.png' width='700px' /><br/>
+Paramount Plus' subscriber count has ballooned to almost 40 million with the service gaining 6.8 million subscribers in the first quarter of 2022 alone, Paramount announced in its earnings report on Tuesday. An increase in subscriber count led to more money for the company as well — its direct-to-consumer revenue, which includes Paramount Plus and its free TV streaming service, Pluto TV, increased 82 percent year over year.
+<a href='https://www.theverge.com/2022/5/3/23055121/paramount-plus-subscriber-count-40-million'> Source <a/>
