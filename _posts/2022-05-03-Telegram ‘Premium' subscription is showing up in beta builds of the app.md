@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sBIf8LMiU6wqHN9LegXu6J9Ccqc=/0x0:4000x2800/1200x800/filters:focal(1680x1080:2320x1720)/cdn.vox-cdn.com/uploads/chorus_image/image/70822015/Telegrambeta.0.jpg' width='700px' /><br/>
-Telegram appears to be testing another way for the super popular messaging app to start bringing in revenue. Beta testers for Telegram's iOS app noticed something new in version 8.7.2, as first spotted by Android Police: a new set of stickers and reaction emoji that you can only unlock “by subscribing to Telegram Premium.”
-<a href='https://www.theverge.com/2022/5/2/23053104/telegram-premium-paid-subscription'> Source <a/>
