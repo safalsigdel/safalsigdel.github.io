@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pXfScTNsVct-lae7R6fuPH2CwwU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70831320/acastro_220504_STK121_0001.0.jpg' width='700px' /><br/>
-GitHub, the code hosting platform used by tens of millions of software developers around the world, announced today that all users who upload code to the site will need to enable one or more forms of two-factor authentication (2FA) by the end of 2023 in order to continue using the platform.
-<a href='https://www.theverge.com/2022/5/4/23056799/github-contributors-2fa-two-factor-authentication-2023'> Source <a/>

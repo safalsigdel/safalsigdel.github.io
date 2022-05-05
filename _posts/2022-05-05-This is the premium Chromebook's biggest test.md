@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9DeZZMnOiBzf5dqFLyV5yTANAWo=/0x0:1271x1080/1200x800/filters:focal(535x439:737x641)/cdn.vox-cdn.com/uploads/chorus_image/image/70834778/HP_Elite_Dragonfly_Chromebook_Tent_2.0.jpg' width='700px' /><br/>
+HP's Dragonfly Chromebook is the most exciting Chromebook I've seen in a while. The device, which mixes high-end specs with premium hardware design, was announced at CES back in January. And now, HP has finally revealed the price of this thing: the consumer version of the Dragonfly Chromebook is expected to ship this summer, and it will cost — brace yourselves — $1,149.
+<a href='https://www.theverge.com/2022/5/5/23057010/hp-dragonfly-chromebook-price-computex-announcement'> Source <a/>
