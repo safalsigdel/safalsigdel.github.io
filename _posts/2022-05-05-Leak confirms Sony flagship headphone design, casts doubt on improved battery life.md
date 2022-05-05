@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/54PWwkdHZszMHTbjkgye3oMavNk=/0x0:2300x1534/1200x800/filters:focal(966x583:1334x951)/cdn.vox-cdn.com/uploads/chorus_image/image/70834696/7TP4oHA.0.jpg' width='700px' /><br/>
+Pictures of the apparent retail packaging for Sony's upcoming flagship headphones, the WH-1000XM5, have leaked on Reddit, suggesting the successor to the excellent WH-1000XM4 could be just around the corner. The images appear to confirm the previously rumored design for the new headphones, which includes a thinner headband and redesigned connector with the left and right earcups.
+<a href='https://www.theverge.com/2022/5/5/23058233/sony-wh-1000xm5-retail-packaging-leak-battery-life-noise-cancelling-headphones'> Source <a/>
