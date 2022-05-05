@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h_4r_EFiyu-Pbva_Fl9sblfvL-s=/0x0:1330x729/1200x800/filters:focal(559x259:771x471)/cdn.vox-cdn.com/uploads/chorus_image/image/70830458/ray1.5.jpeg' width='700px' /><br/>
-The upcoming budget soundbar from Sonos will be marketed as the Sonos Ray, according to internal documents and people familiar with the company's plans. Expected to cost around $249 and go on sale in a matter of weeks, the Ray will be the cheapest soundbar from Sonos yet and serve as an entry-level option beneath the pricier Beam and flagship Arc.
-<a href='https://www.theverge.com/2022/5/4/23056593/sonos-ray-soundbar-name-features-price-leak'> Source <a/>

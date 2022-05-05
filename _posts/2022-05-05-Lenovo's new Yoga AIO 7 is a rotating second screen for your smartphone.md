@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ay-jerNp-mjGGu3XjDxlXS1TTa8=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/70834560/07_Yoga_AIO_7_27Inch_Tour_Front_Facing.0.png' width='700px' /><br/>
+Lenovo has refreshed the AIO 7, its 27-inch, 4K, all-in-one desktop PC with a screen that can rotate 90 degrees. The new AIO will not be sold in North America but will be available in “other select geographical markets.” Pricing has not been announced, but last year's model started at $1,599.
+<a href='https://www.theverge.com/2022/5/5/23055571/lenovo-aio-7-amd-ryzen-6000-rotating-screen'> Source <a/>
