@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FPCUDOZd0GC68MtXLuyEmWsx8pA=/0x0:8256x6200/1200x800/filters:focal(3468x2440:4788x3760)/cdn.vox-cdn.com/uploads/chorus_image/image/70832772/B2247045.0.jpg' width='700px' /><br/>
-Volkswagen's CEO, Herbert Diess, says that the company is “basically sold out on electric vehicles in Europe and in the United States” for the year, according to a report from the Financial Times. This means that anyone hoping to get an EV from VW, Audi, or any of the group's other brands may have to wait until 2023, as the company tries to navigate the chip shortage and production issues from COVID shutdowns in China.
-<a href='https://www.theverge.com/2022/5/4/23057268/volkswagen-vw-electric-cars-sold-out-supply-chain'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g3EbFP7f-Bnj4frfgoa0rAzeM3s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70832103/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikTok is opening up a new way for creators to make money. The company plans to start sharing a cut of revenue with top creators when their videos run alongside certain ads. The program mirrors how YouTube pays out creators, and it could lead to more significant payouts from the platform, which has yet to offer a substantial way for creators to make money.
-<a href='https://www.theverge.com/2022/5/4/23057016/tiktok-pulse-ad-revenue-share-creator-program'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Glo_o3tmdbPlKVM0pXU7BLir8wU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70835204/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Upside_Down.0.jpg' width='700px' /><br/>
+Elon Musk is expected to take on the CEO role at Twitter in a temporary capacity after his purchase of the company closes later this year, according to CNBC reporter David Faber. Faber says Musk detailed the plans in presentations to possible funders for the takeover.
+<a href='https://www.theverge.com/2022/5/5/23058351/elon-musk-twitter-ceo-temporary-rumor'> Source <a/>

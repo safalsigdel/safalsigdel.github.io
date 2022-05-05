@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kbXHuBXpgkpG5yx57qJQXoHcQs8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70835766/acastro_180927_1777_lyft_0003.0.jpg' width='700px' /><br/>
+Lyft Shared rides, the ride-hail company's carpooling service, is returning to more US cities this month. The return of carpooling comes as the company struggles to rein in its spending in response to an ongoing driver shortage and high gas prices.
+<a href='https://www.theverge.com/2022/5/5/23057729/lyft-shared-rides-carpool-expand-cities'> Source <a/>

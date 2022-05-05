@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q7SrFxVKnplS-6rauOUfCA-w_BU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70831975/acastro_220503_STK084_0001.0.jpg' width='700px' /><br/>
-Sonos is preparing to introduce its own voice assistant service within the next few weeks, according to people familiar with the company's plans. The voice functionality will let customers play and control music on Sonos' whole-home audio platform.
-<a href='https://www.theverge.com/2022/5/4/23056149/sonos-voice-assistant-features-release-date'> Source <a/>
