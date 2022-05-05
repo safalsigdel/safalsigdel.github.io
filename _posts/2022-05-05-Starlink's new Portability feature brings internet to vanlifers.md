@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xbYtkFyqZkJAhivuOUWPbx5WRr0=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70834408/npatel_20210512_4552_0022.0.jpg' width='700px' /><br/>
+Starlink's internet-from-SpaceX service has gone mobile with a new Portability feature. For an additional monthly fee, Starlink subscribers can now take their “dishy” anywhere on their home continent that provides active internet coverage. That opens up connectivity to remote places that will likely never be covered by 5G — a potential boon to the increasing numbers of work-from-anywhere types spawned by the COVID 19 pandemic.
+<a href='https://www.theverge.com/2022/5/5/23058181/starlink-portability-internet-price-locations'> Source <a/>
