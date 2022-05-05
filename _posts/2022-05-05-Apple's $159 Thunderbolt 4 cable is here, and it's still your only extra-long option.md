@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0eMEMUKgl7h91_TBnaPg4URKIRo=/0x0:1000x1000/1200x800/filters:focal(376x390:536x550)/cdn.vox-cdn.com/uploads/chorus_image/image/70832255/MWP02.0.jpg' width='700px' /><br/>
+The day has arrived: you can now spend $159 on a USB cable and actually feel somewhat justified! That's because Apple's three-meter Thunderbolt 4 Pro Cable isn't just any ol' cord — it's still the only Thunderbolt 4 / USB-C / USB 4 cable on the market at anywhere near its length.
+<a href='https://www.theverge.com/2022/5/4/23057158/apple-thunderbolt-4-cable-3-meter-on-sale-price-usb-4'> Source <a/>

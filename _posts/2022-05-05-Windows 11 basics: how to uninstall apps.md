@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s-RMo6SVz49fT_3IWDBGre7vxxY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70831421/akrales_220208_4997_0021.0.jpg' width='700px' /><br/>
+There are several reasons you might want to uninstall applications and / or programs from your Windows 11 PC. You may be trying to free up space, or you no longer use that application, or the program came with your PC and you don't really need it.
+<a href='https://www.theverge.com/23053353/windows-11-uninstall-apps-how-to'> Source <a/>

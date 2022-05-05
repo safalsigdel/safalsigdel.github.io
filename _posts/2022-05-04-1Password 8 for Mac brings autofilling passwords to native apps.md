@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jP4tW0Oy85-H_sdWeuXpufZCtMs=/0x0:2200x1500/1200x800/filters:focal(924x574:1276x926)/cdn.vox-cdn.com/uploads/chorus_image/image/70827875/1pass8.0.png' width='700px' /><br/>
-1Password 8 for Mac came out of beta and into public release on Tuesday, bringing a more modern redesign and a number of new features to the popular password manager. But there's one thing about the app that might be a game-changer for Mac users: a new Universal Autofill feature that means you can automatically enter passwords into apps the same as you can in browser tabs.
-<a href='https://www.theverge.com/2022/5/3/23055212/1password-8-mac-password-manager-security'> Source <a/>

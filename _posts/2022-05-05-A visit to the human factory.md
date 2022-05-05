@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J5sLs1gP635OpR_oepHLqeD2Y6o=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70830908/VRG_ILLO_5179_Robot_Factory.0.jpg' width='700px' /><br/>
+Will Jackson, CEO of robotics company Engineered Arts, says he isn't sure what's worse: the angry emails that accuse him of building machines that will one day overthrow humanity or the speculative ones enquiring if the sender can fuck the robots.
+<a href='https://www.theverge.com/23054881/engineered-arts-robotic-humanoid-ai-ameca-artificial-intelligence'> Source <a/>

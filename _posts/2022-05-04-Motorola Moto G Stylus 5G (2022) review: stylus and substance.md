@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fJwpwdvxQsC9M0A4Ln-mQTDRtj0=/0x0:2040x1360/1200x675/filters:focal(837x474:1163x800)/cdn.vox-cdn.com/uploads/chorus_image/image/70826274/ajohnson_220425_5166_0005.0.jpg' width='700px' /><br/>
-The Motorola Moto G Stylus 5G gets some significant upgrades in this year's model, taking it firmly into midrange territory. If you're looking for a well-performing stylus phone but the Samsung Galaxy S22 Ultra feels like overkill, then the G Stylus 5G is what you want.
-<a href='https://www.theverge.com/23054028/motorola-moto-g-stylus-5g-2022-price-screen-specs-battery'> Source <a/>

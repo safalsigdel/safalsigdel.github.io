@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CJKMOnQZKAe5-GEp0JGWlR8vDHc=/0x0:2040x1360/1200x800/filters:focal(977x462:1303x788)/cdn.vox-cdn.com/uploads/chorus_image/image/70831491/akrales_170802_1743_0094.0.jpg' width='700px' /><br/>
+SoundCloud has acquired audio AI company Musiio, which makes tech that can “listen” to new music and purportedly identify the hits. The acquisition, announced Tuesday, is meant to help SoundCloud sort through its immense library of amateur music and will “become core to SoundCloud's discovery experience,” the company said in a statement.
+<a href='https://www.theverge.com/2022/5/4/23056806/soundcloud-acquisition-musiio-artificial-intelligence-ai-hits'> Source <a/>

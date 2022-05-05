@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/156YpgQFeSsoeaCDV9zt-TEA-do=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70827065/VRG_ILLO_Decoder_TonyFadell.0.jpg' width='700px' /><br/>
-Tony Fadell was instrumental in the development of the iPod and iPhone at Apple and then co-founded Nest Labs, which kicked off the consumer smart home market with its smart thermostat in 2011. Tony sold Nest to Google for $3.2 billion in 2014 and eventually left Google. He now runs an investment firm called Future Shape.
-<a href='https://www.theverge.com/23053632/tony-fadell-build-decoder-apple-iphone-google-alphabet-steve-jobs'> Source <a/>

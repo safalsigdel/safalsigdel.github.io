@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iVTsgec8_5gMLZoupN3H8NHgB_g=/0x0:1894x919/1200x800/filters:focal(796x309:1098x611)/cdn.vox-cdn.com/uploads/chorus_image/image/70830922/wordle.0.png' width='700px' /><br/>
+Buying the hit puzzle game Wordle was apparently a good bit of business for The New York Times. The company announced its quarterly earnings on Wednesday and credited Wordle for a huge jump in new subscribers. “Wordle brought an unprecedented tens of millions of new users to The Times,” Times CEO Meredith Kopit Levien said in an earnings release, “many of whom stayed to play other games” and drove the company's best gaming-related quarter ever.
+<a href='https://www.theverge.com/2022/5/4/23056688/wordle-new-york-times-subscribers'> Source <a/>

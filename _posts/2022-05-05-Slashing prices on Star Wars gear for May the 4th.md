@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZJYnv7FEqpu0Cm1JCg8E1t8A4g4=/0x0:640x334/1200x800/filters:focal(269x116:371x218)/cdn.vox-cdn.com/uploads/chorus_image/image/70832089/lightsabercrop.0.jpg' width='700px' /><br/>
+The 4th of May is upon us, which means that retailers everywhere are offering discounts on all of their Star Wars-inspired wares. Everything from rugs to pet toys is available for less than MSRP today. However, we're focusing mainly on games and tech from the Star Wars galaxy. Many of these sales last only for today, so you'll have to move fast to take advantage of these savings.
+<a href='https://www.theverge.com/good-deals/2022/5/4/23056754/may-the-fourth-star-wars-gear-tech-deal-sale'> Source <a/>

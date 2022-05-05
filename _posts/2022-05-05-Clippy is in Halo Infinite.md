@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QzOds56b3HJNOJzetptZgnLuAko=/0x0:3686x1965/1200x800/filters:focal(1549x689:2137x1277)/cdn.vox-cdn.com/uploads/chorus_image/image/70832160/4da049bf_6ef3_4520_9152_0f461f16b7c7.0.png' width='700px' /><br/>
+Clippy, the beloved(?) paperclip-shaped assistant for Microsoft Office, has made an appearance in Halo Infinite as a series of unlockable items. IGN points out that it's not quite clear yet how to unlock the decals, but it seems likely that equipping them won't suddenly cover your screen in a barrage of “helpful” hints and tricks (which is unfortunate for total scrubs like me).
+<a href='https://www.theverge.com/2022/5/4/23056969/clippy-halo-infinite-emblem-charm-unlockable'> Source <a/>

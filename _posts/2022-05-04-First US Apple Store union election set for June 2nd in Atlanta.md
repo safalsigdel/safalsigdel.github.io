@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jQollhHm1pg3JCx8hGigR8xFIY4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70827801/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple Store employees in Atlanta have reached an agreement with the company to hold a union election on June 2nd, according to a copy of the stipulated election agreement obtained by The Verge. The news is an important step forward in the worker-led effort to organize with the Communications Workers of America.
-<a href='https://www.theverge.com/2022/5/3/23055452/apple-retail-store-atlanta-union-vote-date-set-june-cwa'> Source <a/>

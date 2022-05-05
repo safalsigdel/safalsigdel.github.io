@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/goDuEJM7G4hyDTL5r55Dt8zIZEo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70833434/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Today Google hardware boss Rick Osterloh confirmed that the company has acquired Raxium, a five-year-old startup with MicroLED technology that could be key in building a new generation of augmented, virtual, and mixed reality headsets.
+<a href='https://www.theverge.com/2022/5/4/23057579/google-acquires-raxium-microled-ar-vr-displays'> Source <a/>

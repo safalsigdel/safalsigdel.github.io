@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h35Q-0lyeFd7ovRoSsiIgkb8wiA=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/70828047/sec4.1419978993.0.jpg' width='700px' /><br/>
-The US Securities and Exchange Commission (SEC) announced Tuesday that it will close to double its cryptocurrency enforcement division, adding another 20 positions to the Crypto Assets and Cyber Unit — which has been newly renamed from the “Cyber Unit.” The total number of staff will rise from 30 to 50, increasing the agency's ability to prosecute securities law violations related to new crypto products.
-<a href='https://www.theverge.com/2022/5/3/23055499/sec-nearly-doubles-cryptocurrency-enforcement-unit'> Source <a/>

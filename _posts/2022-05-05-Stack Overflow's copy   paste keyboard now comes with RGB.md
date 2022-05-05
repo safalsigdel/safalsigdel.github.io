@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/omWuY2M6MERl01n4n-0UycvO9r8=/0x0:1080x720/1200x800/filters:focal(623x248:795x420)/cdn.vox-cdn.com/uploads/chorus_image/image/70831541/vSqOp9eUQNGXW4zl3EVQ_7528_copy_pdp_2.0.jpg' width='700px' /><br/>
+Last year, Stack Overflow collaborated with mechanical keyboard manufacturer Drop on The Key, a bizarre miniature 3-key keyboard designed to copy and paste text. It did exactly that, but with a level of polish that was surprising for a $29 novelty that started out life as an April Fools' gag. Now Drop, Stack Overflow, and designer Cassidy Williams are back with a follow-up — The Key V2.
+<a href='https://www.theverge.com/2022/5/4/23035377/stack-overflow-drop-the-key-v2-copy-paste-keyboard'> Source <a/>

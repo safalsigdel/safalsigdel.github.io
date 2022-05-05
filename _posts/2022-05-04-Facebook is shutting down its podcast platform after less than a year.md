@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZW0rRpOrSkp9PkUAVw-ldwlcjpQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70826051/acastro_190903_1777_podcasting_0001.0.jpg' width='700px' /><br/>
-Facebook is shutting down its podcast platform less than a year after it launched. Creators will be unable to upload new shows to the service as of this week, and the platform will close altogether on June 3rd, reports Bloomberg News. Facebook confirmed the closure of the platform to The Verge but not the specific date.
-<a href='https://www.theverge.com/2022/5/3/23054848/facebook-shutting-down-podcast-hub-simplifying-audio-services'> Source <a/>

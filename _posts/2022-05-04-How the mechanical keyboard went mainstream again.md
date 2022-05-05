@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/io7Jn2oNZ-aas1bvEvhWfo5x_SE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70827484/acastro_220428_5125__0001.0.jpg' width='700px' /><br/>
-In 2014, it was tough to be a keyboard nerd. I was using a 4-year-old keyboard I'd bought from Mattias that used Alp white switches similar to what had been found in old Mac keyboards. I desperately wanted something with the then-fabled Cherry Blue switch, but it was hard to find anything outside of a smattering of hard-to-find Corsair keyboards and imports from Ducky based in Taiwan.
-<a href='https://www.theverge.com/23053738/mechanical-keyboard-mainstream-evolution-history'> Source <a/>

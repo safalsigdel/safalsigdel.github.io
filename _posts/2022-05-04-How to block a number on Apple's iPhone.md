@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lyG8FL57h8c3EtEVSy0BH6YE5Oc=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70827929/bfarsace_201106_4269_002.0.0.jpg' width='700px' /><br/>
-Whether you're trying to get rid of spam or avoid hearing from a former friend or ex, blocking someone's phone number is a vital tool for helping to preserve your privacy. We've covered various methods of protecting yourself from robocalls, spam, and other daily annoyances. But blocking a number is often the quickest and easiest way of shutting down unwanted digital intrusions.
-<a href='https://www.theverge.com/23053288/how-to-block-number-apple-iphone'> Source <a/>

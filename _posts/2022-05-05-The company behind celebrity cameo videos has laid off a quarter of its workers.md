@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fDy_t6kv-dSsIb1W5wPZBWxq-o8=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/70833840/1231257514.0.jpg' width='700px' /><br/>
+Cameo, the company that lets you pay a celebrity to record a custom message or hop on a video call with you, has announced that it's laying off 87 people, or around a quarter of its staff, according to The Information. According to the report, employees got the news at an all-hands meeting on Wednesday.
+<a href='https://www.theverge.com/2022/5/4/23057796/cameo-layoffs-ceo-pandemic-growth-fameo'> Source <a/>
