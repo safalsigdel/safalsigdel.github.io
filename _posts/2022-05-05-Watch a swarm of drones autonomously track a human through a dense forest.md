@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cM7Lw9hreFAP93HyCTGIDm5eNyw=/0x0:1586x1000/1200x0/filters:focal(0x0:1586x1000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23439626/Screenshot_2022_05_05_at_12.08.57.png' width='700px' /><br/>
-Scientists from China's Zhejiang University have unveiled a drone swarm capable of navigating through a dense bamboo forest without human guidance.
-<a href='https://www.theverge.com/2022/5/5/23058160/drone-swarm-autonomous-navigation-dense-forest-person-tracking'> Source <a/>

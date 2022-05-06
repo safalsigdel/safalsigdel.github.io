@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wf3T_AJGJBqIC5Z09tbj-TYA_2I=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70837601/279173745_677070610232446_7949409774638306519_n.0.png' width='700px' /><br/>
+WhatsApp is now rolling out the ability to react to a message with emoji, as well as share files that are up to 2GB in size, a massive jump from the previous 100MB limit. Meta, the company behind WhatsApp, said last month that these features would be coming “soon,” and it seems like today's the day. The company also announced on Thursday that it'll be doubling the maximum size of group chats.
+<a href='https://www.theverge.com/2022/5/5/23059243/whatsapp-emoji-reaction-rollout-increased-file-size-groups'> Source <a/>

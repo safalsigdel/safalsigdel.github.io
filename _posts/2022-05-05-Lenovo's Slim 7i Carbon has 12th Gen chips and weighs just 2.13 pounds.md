@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SjuwFdk4kS_57EsnZFLELxg3W4M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70834531/mchin_200722_5194_0002.0.jpg' width='700px' /><br/>
-Lenovo has refreshed a number of models in its Slim line (known as Yoga Slim in some markets). A model I find interesting is the Slim 7i Carbon, one that Lenovo has subtitled “The Art of Mobility” in its press release.
-<a href='https://www.theverge.com/2022/5/5/23055295/lenovo-slim-7i-carbon-9i-pro-x-laptop-release-date-specs-price'> Source <a/>

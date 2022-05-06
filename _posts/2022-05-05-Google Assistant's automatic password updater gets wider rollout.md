@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2A8oT6zL1Zj4jONUJzBL74P8Gho=/0x0:2186x1457/1200x800/filters:focal(922x977:1270x1325)/cdn.vox-cdn.com/uploads/chorus_image/image/70834353/FR2QyzCUYAAqiMw.0.jpg' width='700px' /><br/>
-A Google Assistant feature designed to automate the time-consuming process of changing your passwords after a breach appears to be getting a wider rollout. That's according to a tweet from leaker Max Weinbach and a report from Android Police.
-<a href='https://www.theverge.com/2022/5/5/23058153/google-assistant-duplex-change-compromised-password-breach-update-rollout'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5YNaL8qsI2UlP2JTJ9SphbRHb-g=/0x0:1432x967/1200x800/filters:focal(602x370:830x598)/cdn.vox-cdn.com/uploads/chorus_image/image/70834936/amd_ryzen_chip_cpu.0.jpg' width='700px' /><br/>
-Believe it or not, there was no such thing as an AMD Chromebook until 2019. Also, the first ones were sluggish, and while AMD's second stab at Chromebooks was quite a bit better, they still contained rebranded CPUs whose Zen cores were years out of date. Today, AMD is putting a better foot forward — with the new Ryzen 5000 C-Series chips, including the “first 8-core high-performance x86 processor for Chromebooks.”
-<a href='https://www.theverge.com/2022/5/5/23057974/amd-chromebook-ryzen-5000-c-series-zen-3'> Source <a/>

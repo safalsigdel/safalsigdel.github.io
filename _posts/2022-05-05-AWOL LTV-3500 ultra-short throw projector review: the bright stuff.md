@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k7lFUR2uqtSWYGY0u02c6wXYf20=/0x0:2040x1530/1200x675/filters:focal(912x737:1238x1063)/cdn.vox-cdn.com/uploads/chorus_image/image/70834465/verge_IMG20220503232443_2040pxl.0.jpg' width='700px' /><br/>
-Thirty five hundred lumens is a lot of output from an ultra-short throw (UST) all-in-one 4K projector. Add Dolby Atmos support and a class-leading price and we've got plenty of reason to test an otherwise unknown brand.
-<a href='https://www.theverge.com/23056908/awol-vision-projector-review-short-throw-tv-replacement'> Source <a/>

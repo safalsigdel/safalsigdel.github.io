@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wcA2sbrIIa-FUAMUFniPtG3RJrM=/0x0:2428x1700/1200x800/filters:focal(1020x656:1408x1044)/cdn.vox-cdn.com/uploads/chorus_image/image/70836559/E70bHE6VcBQCqPU.0.jpg' width='700px' /><br/>
+Friends, the moment has arrived: the most influential first-person shooter in gaming history* has transcended the limitations of a single screen. Yes, GoldenEye 007 for the Nintendo 64 can now be played without screen cheating because a British museum rigged up $10,000 worth of hardware to give each player their very own screen. It's all in honor of the game's 25th anniversary.
+<a href='https://www.theverge.com/2022/5/5/23058787/goldeneye-007-nintendo-64-no-screen-cheating-museum-computing-history'> Source <a/>
