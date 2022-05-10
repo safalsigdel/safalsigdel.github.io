@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2PAOg6eR4uU7_oCPt8-ap8sMBkM=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70847900/VRG_ILLO_5201_HowTo_Alexa_announcements_alt.0.jpg' width='700px' /><br/>
-You may already be used to telling your Alexa smart speaker what to do: play your Spotify playlist, set a timer for the hard-boiled eggs, turn on your smart lights. But you might not know that the voice assistant has a number of proactive features — things it can do without being prompted.
-<a href='https://www.theverge.com/23059001/enable-amazon-alexa-person-package-anouncements-how-to'> Source <a/>
