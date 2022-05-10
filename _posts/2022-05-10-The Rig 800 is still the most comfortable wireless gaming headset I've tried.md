@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XEKUpHyhOQaZC1ovbATCGppBP3E=/0x0:2200x1467/1200x800/filters:focal(889x499:1241x851)/cdn.vox-cdn.com/uploads/chorus_image/image/70851495/sean_hollister_20220509_173238.0.jpg' width='700px' /><br/>
+In 2018, in a fit of insanity, I decided to review every single wireless gaming headset on the market: 32 pairs to be exact. None of them were anywhere near as comfortable as the Plantronics Rig 800. “The only one so lightweight, so comfortable, I sometimes forgot I was wearing it,” I wrote for CNET.
+<a href='https://www.theverge.com/2022/5/10/23064413/nacon-rig-800-pro-wireless-gaming-headset-ps4-ps5-xbox-pc'> Source <a/>

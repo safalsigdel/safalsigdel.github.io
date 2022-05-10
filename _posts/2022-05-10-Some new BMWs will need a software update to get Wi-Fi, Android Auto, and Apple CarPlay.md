@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jx8mCxZYJ-isEEahgs088BKVRcE=/0x0:3543x2362/1200x800/filters:focal(1727x783:2293x1349)/cdn.vox-cdn.com/uploads/chorus_image/image/70845745/1239883660.0.jpg' width='700px' /><br/>
-BMW is temporarily shipping some new vehicles without support for Android Auto, Apple CarPlay, and Wi-Fi after changing chip suppliers, according to a report from Automotive News Europe (via 9to5Google). The chips from the new supplier need a software update to make Android Auto and CarPlay accessible through the Android / Apple interface.
-<a href='https://www.theverge.com/2022/5/8/23062417/new-bmws-reportedly-come-without-android-auto-apple-carplay-chip-shortage'> Source <a/>
