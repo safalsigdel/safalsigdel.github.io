@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ukrwXRhTHGsh0kDrWSW4zCFvgIA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70836792/acastro_201005_1777_googleAntiTrust_0001.0.0.jpg' width='700px' /><br/>
-Google is hoping to make its performance reviews less of a burden to employees by making it so they only happen once a year instead of twice a year, requiring less paperwork, and changing the way employees are rated. According to a report from The Information, 47 percent of Google employees didn't think that their time was well spent with the previous performance review system.
-<a href='https://www.theverge.com/2022/5/5/23058790/google-employee-performance-review-changes-ratings-pay'> Source <a/>

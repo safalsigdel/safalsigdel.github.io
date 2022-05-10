@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sKmWyiPbhESolmW6TuxoRu7k2A8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70835202/VRG_Illo_STK022_K_Radtke_Musk_Money.0.jpg' width='700px' /><br/>
-Elon Musk has secured $7.1 billion in new financing for his takeover of Twitter — which CNBC reports will include assuming the role of “temporary CEO” — with this round of funding coming from a group of sometimes high-profile outside investors. At the top of the list is Larry Ellison, with the co-founder and current CTO of Oracle committing $1 billion to the purchase.
-<a href='https://www.theverge.com/2022/5/5/23058295/elon-musk-twitter-funding-qatar-larry-ellison'> Source <a/>

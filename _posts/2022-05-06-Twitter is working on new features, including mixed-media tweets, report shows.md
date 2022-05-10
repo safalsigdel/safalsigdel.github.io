@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vONwHTk0TqLAQ6lbvsD2onG5KwI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70836427/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is working on a handful of new features, including the ability to attach photos and videos to the same tweet, according to a report from 9to5Google. The roundup of features in the works includes news things like mixed-media tweets and also updates on previously reported features like Statuses.
-<a href='https://www.theverge.com/2022/5/5/23058661/twitter-new-features-photo-video-tweets-pronouns'> Source <a/>

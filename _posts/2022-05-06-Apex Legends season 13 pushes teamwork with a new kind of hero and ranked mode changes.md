@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C7TvhS6KfFfMi3NGJcnyGBCI2Xc=/0x0:2500x1406/1200x0/filters:focal(0x0:2500x1406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23440726/Apex_Saviors_Secondary_3840x2160_2500.jpg' width='700px' /><br/>
-Over the last few seasons, the developers of Apex Legends have worked on opening up the game, both with a massive new map and adding a temporary game mode that swaps out battle royale action for a more traditional team deathmatch. On May 10th, they're introducing another new legend to the arena with Newcastle and making changes that might help players focus on teamwork.
-<a href='https://www.theverge.com/2022/5/5/23058327/apex-legends-saviors-newcastle-ranked-battle-royale'> Source <a/>

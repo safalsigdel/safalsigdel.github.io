@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ASdA3x1OCbIgMjZDY_qDeXCZGog=/0x0:2452x1536/1200x800/filters:focal(1030x572:1422x964)/cdn.vox-cdn.com/uploads/chorus_image/image/70849453/Screen_Shot_2022_05_09_at_10.53.37.0.png' width='700px' /><br/>
+While Tesla's operating system is known for having tons of built-in features (including the ability to play AAA video games), there's one capability that's notably missing: support for Apple CarPlay or Android Auto. Michaxc5x82 Gapixc5x84ski, however, has figured out a way to hack support for both into Teslas, using a web browser, two Raspberry Pis, a handful of add-ons and cables, and Android.
+<a href='https://www.theverge.com/2022/5/9/23063771/tesla-android-carplay-hack-raspberry-pi-web-browser'> Source <a/>

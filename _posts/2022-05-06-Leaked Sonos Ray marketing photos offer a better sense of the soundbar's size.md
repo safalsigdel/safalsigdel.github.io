@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dazt07Yu6a3Ts8ebWDNpBeRG_fg=/0x0:2048x1365/1200x800/filters:focal(882x348:1208x674)/cdn.vox-cdn.com/uploads/chorus_image/image/70835140/whitestand.0.jpeg' width='700px' /><br/>
-After The Verge yesterday revealed the name of Sonos' latest soundbar and a retailer accidentally posted images of the device, the leak floodgates have now seemingly opened. Twitter user SnoopyTech has shared a number of marketing shots of the Sonos Ray, offering a closer look at the upcoming product's size and design.
-<a href='https://www.theverge.com/2022/5/5/23058306/sonos-ray-leaked-marketing-images'> Source <a/>

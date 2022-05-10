@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hN_rbC7hp8CAP0OFdoPs4OpO0sY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70848452/pcheung180509_2560_0010.0.jpg' width='700px' /><br/>
+Uber CEO Dara Khosrowshahi vowed to rein in costs at the ride-hailing company in the face of a “seismic shift” in the financial market, according to a memo sent to employees that was first reported by CNBC.
+<a href='https://www.theverge.com/2022/5/9/23063499/uber-ceo-slash-costs-hiring-slowdown-ride-hailing-profit'> Source <a/>

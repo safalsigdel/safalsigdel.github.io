@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SfWU_D8ZCCiA1YYag6KT1jws0gY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70849877/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple is giving engineers based in China more responsibility in managing its hardware manufacturing processes, according to a new report from The Wall Street Journal. Before the pandemic, Apple frequently sent US-based engineers to the country to help oversee development, but the report says the company now leans more on China-based engineers given increased border restrictions due to COVID-19.
+<a href='https://www.theverge.com/2022/5/9/23063761/apple-engineers-china-responsibility-manufacturing'> Source <a/>

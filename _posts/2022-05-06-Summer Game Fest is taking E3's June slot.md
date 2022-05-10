@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lADPr-qlhqKLPBZfkmxIiyPNVqo=/0x0:2878x1626/1200x800/filters:focal(1209x583:1669x1043)/cdn.vox-cdn.com/uploads/chorus_image/image/70836046/Screen_Shot_2022_05_05_at_08.45.40.0.png' width='700px' /><br/>
-Summer Game Fest will kick off this year on June 9th at 2PM ET / 11AM PT, with a live show hosted by, as my college Ash Parrish described him, “consummate video game hype-man Geoff Keighley.” According to a press release, the show will be streamed on basically every platform, including YouTube, Twitch, Twitter, and Facebook.
-<a href='https://www.theverge.com/2022/5/5/23058597/summer-game-fest-date-time-june-9-e3'> Source <a/>

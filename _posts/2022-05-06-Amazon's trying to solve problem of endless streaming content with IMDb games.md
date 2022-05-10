@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BvTlisxbq7hhBecw9gAuKEXc4dU=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/70837182/1_hbO5IJtYpLeUcl6J77_uBg.0.png' width='700px' /><br/>
-Amazon is throwing its hat into the ring of companies trying to solve one of streaming TV's biggest issues: endless amounts of content can make it really difficult to pick something to watch. Its approach uses an IMDb-branded app that's exclusively available to Fire TV owners, which will let you play a series of games designed to help you pick a movie.
-<a href='https://www.theverge.com/2022/5/5/23059025/amazon-imdb-app-games-fire-tv-exclusive'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zdee7B4drecGkAHEfR68nu_JYhc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70848402/Slide_16_9___2.0.png' width='700px' /><br/>
+A group of non-fungible token (or NFT) creators and collectors will soon be able to display their tokens on Instagram. Meta CEO Mark Zuckerberg confirmed in a post today that the company is testing NFTs on the platform, with “similar functionality” coming soon to Facebook.
+<a href='https://www.theverge.com/2022/5/9/23063514/nfts-coming-to-instagram-meta-digital-artwork'> Source <a/>

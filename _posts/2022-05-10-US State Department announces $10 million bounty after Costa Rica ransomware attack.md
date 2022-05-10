@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LjwC7FqlC5k-hGSYUeDUDxgP0l4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70850335/akrales_220309_4977_0232.0.jpg' width='700px' /><br/>
+In the wake of a massive ransomware attack on the Costa Rican government in April, the US government issued a notice last week declaring a bounty potentially worth millions of dollars on people involved with the Conti ransomware used in the hack. Rodrigo Chaves Robles, Costa Rica's recently sworn-in president, declared a national emergency due to the attack, according to CyberScoop.
+<a href='https://www.theverge.com/2022/5/9/23064321/costa-rica-conti-ransomware-attack-state-of-emergency-reward'> Source <a/>

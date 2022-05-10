@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kIGyqp6Eyw--aDeErWVL-dRG8-Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70850305/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
+Match Group, the company behind popular dating apps such as Tinder, Match, and OkCupid, is suing Google over its restrictive billing policies on the Play Store. In its complaint, Match Group claims Google “illegally monopolized the market for distributing apps” on Android by forcing apps to use Google's own billing system and then taking a cut of the payments.
+<a href='https://www.theverge.com/2022/5/9/23064305/match-group-suing-google-over-in-app-payment-policy'> Source <a/>

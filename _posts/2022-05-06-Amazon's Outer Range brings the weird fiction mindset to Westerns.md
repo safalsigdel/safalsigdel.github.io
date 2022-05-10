@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a8XOeAbEIHE1KlCRnQwD492LcPc=/0x0:700x468/1200x675/filters:focal(201x181:313x293)/cdn.vox-cdn.com/uploads/chorus_image/image/70835646/RNGE_S1_UT_103_210405_FORRIC_00430RC_thumb.0.jpg' width='700px' /><br/>
-When characters realize the world they know is in fact “something else,” they have permanently crossed a threshold. The thin membrane they might otherwise call normality has been punctured, and the air of stability drains out. There is some attempt to clutch their worlds close, to grab something pinned down. But it is, inevitably, too late: there is no putting normal back when it never existed in the first place.
-<a href='https://www.theverge.com/23057187/outer-range-season-1-review-amazon-prime-video'> Source <a/>

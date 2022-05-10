@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v_UPNqjTjY1LzuNfhlwkRSjsgAo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70835025/acastro_210217_1777_passwords_0002.0.jpg' width='700px' /><br/>
-On May 5th — World Password Day — we might have come one step closer to passwords being a thing of the past.
-<a href='https://www.theverge.com/2022/5/5/23057646/apple-google-microsoft-passwordless-sign-in-fido'> Source <a/>

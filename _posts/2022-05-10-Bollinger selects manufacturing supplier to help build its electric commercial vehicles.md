@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JQ1xpm9I64rjvHTIotY1bgOe-V0=/0x0:4800x2700/1200x800/filters:focal(2016x966:2784x1734)/cdn.vox-cdn.com/uploads/chorus_image/image/70848644/Bollinger_Motors_DELIVER_E_Side.0.jpg' width='700px' /><br/>
+Electric vehicle startup Bollinger said it has selected its manufacturing supplier to build its forthcoming delivery van. The company will use Detroit auto supplier Roush as a contract manufacturer to assemble its line of all-electric platforms and chassis cabs for commercial vehicles.
+<a href='https://www.theverge.com/2022/5/9/23063629/bollinger-roush-contract-manufacture-ev-commercial'> Source <a/>

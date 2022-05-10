@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_oOFsRci4nm8GDJnmVg9Ul_QIfI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70849829/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+On Monday, the Biden administration announced a new partnership with 20 broadband providers, including AT&T and Verizon, to improve their subsidized high-speed internet plans made available to low-income Americans.
+<a href='https://www.theverge.com/2022/5/9/23064233/biden-comcast-verizon-att-broadband-low-income-service-internet'> Source <a/>
