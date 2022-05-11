@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3QxoI9GhvikN08yefj5wLmAVv8Y=/0x0:2040x1360/1200x675/filters:focal(877x547:1203x873)/cdn.vox-cdn.com/uploads/chorus_image/image/70855422/ajohnson_220506_5203_0001.0.jpg' width='700px' /><br/>
+Smartphones have point-and-shoot cameras (remember those?) beat in a lot of ways, but there's one thing traditional cameras still do better than phones: zoom. The new Sony Xperia 1 IV aims to change that with a true continuous optical zoom lens. It's a technical achievement, for sure, but at this stage, it's more proof of concept than game-changer.
+<a href='https://www.theverge.com/23065641/sony-xperia-1-iv-announcement-hands-on-price-specs-zoom-screen'> Source <a/>
