@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5lp3jxn_w5D15jducGVEsTTgjuE=/0x0:1194x971/1200x800/filters:focal(517x439:707x629)/cdn.vox-cdn.com/uploads/chorus_image/image/70848908/asus_zenbook_16x_oled_3.0.jpg' width='700px' /><br/>
-In 2017, Asus wowed us with an ultra-thin gaming laptop that got thicker when you opened the lid, opening a giant hidden trapdoor to keep its uncharacteristically large GPU cool. But the original Zephyrus also committed the cardinal sin of joining the keyboard-in-the-front club — and the new $2,599 Asus ZenBook Pro 16X OLED, announced today, might finally right that wrong.
-<a href='https://www.theverge.com/23060820/asus-zenbook-pro-16x-oled-hinge-laptop-raise-keyboard-dial'> Source <a/>

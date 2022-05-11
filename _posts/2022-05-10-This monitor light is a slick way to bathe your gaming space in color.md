@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EijFDG5JDQDBWBW9GvVXtTupNFk=/0x0:2040x1361/1200x675/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/70821486/adibenedetto_220424_5164_0015.0.jpg' width='700px' /><br/>
-Govee has carved out an interesting niche in TV bias lights that use a mounted camera to match the lighting to what's on-screen. With its latest product, the Govee DreamView G1 Pro Gaming Light, it brings this formula to desktop computers and gaming monitors.
-<a href='https://www.theverge.com/23042939/govee-dreamview-g1-pro-gaming-light-review-specs-price'> Source <a/>

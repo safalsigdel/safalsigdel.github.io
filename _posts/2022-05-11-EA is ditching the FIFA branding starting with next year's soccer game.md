@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uooxgWlXzWE2VSsXtgu9v_FzehE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70852957/image002.0.jpg' width='700px' /><br/>
+EA is officially dropping the FIFA branding for its hit soccer video games starting with next year's release, the company announced Tuesday. The new title for the games will be EA Sports FC.
+<a href='https://www.theverge.com/2022/5/10/23065405/ea-sports-fc-fifa-branding'> Source <a/>

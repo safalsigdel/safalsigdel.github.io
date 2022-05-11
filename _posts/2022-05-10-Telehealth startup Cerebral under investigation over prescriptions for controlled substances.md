@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/elXUkyUGqGARtGIplTQC2qpL3jY=/0x0:3024x4032/1200x800/filters:focal(1891x2462:2373x2944)/cdn.vox-cdn.com/uploads/chorus_image/image/70848162/IMG_3048.0.jpeg' width='700px' /><br/>
-Mental health startup Cerebral is under investigation by the US Department of Justice over its prescribing of controlled substances like Adderall and Xanax. The company received a grand jury subpoena asking for documents from the US Attorney for the Eastern District of New York on May 4, Insider first reported.
-<a href='https://www.theverge.com/2022/5/9/23063356/cerebral-telehealth-prescriptions-investigation-adhd-adderall-doj-dea'> Source <a/>

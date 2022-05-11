@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wxDdgIK6dQ-meZBBA8oEnRev1Q0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70853683/COD_WZ_VGD_OPERATION_MONARCH_TOUT_HERO.0.jpeg' width='700px' /><br/>
+Activision is adding a wild crossover to Call of Duty: Warzone — the giant monsters Godzilla and Kong will appear in a new limited-time mode that kicks off tomorrow, May 11th.
+<a href='https://www.theverge.com/2022/5/10/23065586/call-of-duty-warzone-godzilla-kong'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_XHp-1-nrCB5a7icQozZWkwqN8w=/0x0:6178x3667/1200x800/filters:focal(2595x1340:3583x2328)/cdn.vox-cdn.com/uploads/chorus_image/image/70848900/Vivobook_13_Slate_OLED_Steven_Harrington_Edition_PR_photo_Smart_Cover.0.png' width='700px' /><br/>
-Computex 2022 is right around the corner, and Asus has already revealed what I'm positive will be the two most hilarious-looking laptops of the show.
-<a href='https://www.theverge.com/2022/5/9/23058543/asus-vivobook-slate-13-oled-steven-harrington-philip-colbert'> Source <a/>

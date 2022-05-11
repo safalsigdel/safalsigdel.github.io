@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zhkQ9w2rcQPigae5F34_hqzbvGA=/0x0:4000x2667/1200x800/filters:focal(1640x1078:2280x1718)/cdn.vox-cdn.com/uploads/chorus_image/image/70852356/1229316842.0.jpg' width='700px' /><br/>
+Tesla has suspended most production at its Shanghai factory once again, this time due to issues preventing the company from getting the components it needs to build vehicles, according to a report from Reuters. Sources familiar with the situation told Reuters that the company halted work on Monday because of supply shortages as well.
+<a href='https://www.theverge.com/2022/5/10/23065061/tesla-shanghai-plant-covid-19-gigafactory-china'> Source <a/>

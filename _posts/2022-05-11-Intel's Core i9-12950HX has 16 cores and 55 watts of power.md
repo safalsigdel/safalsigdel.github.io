@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vXuIZM1SrcJy20pgQJ6Y8Upr_QE=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/70852398/Intel_Image_1___Hx_55w_chip_angle01_4000pixels.0.jpg' width='700px' /><br/>
+Intel is announcing seven new mobile processors. The group, known as the “HX” line, includes two Core i5, three Core i7, and two Core i9 options.
+<a href='https://www.theverge.com/2022/5/10/23065131/intel-core-i9-12950hx-mobile-laptop-processor-16-cores-55-watts'> Source <a/>

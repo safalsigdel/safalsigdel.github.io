@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/keuev8cw6QP1uBj4Y_XbgIxiD0w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70850138/acastro_181126_1777_bitcoin_0001.0.jpg' width='700px' /><br/>
-People will say all kinds of things about what Bitcoin is: digital gold, the successor to the dollar as a reserve currency, the future of money, whatever. The thing about Bitcoin, though, is that it's volatile — and thus, risky. And right now, the market is feeling risk-averse. Bitcoin's price in dollars has fallen by more than a third since January 1st.
-<a href='https://www.theverge.com/2022/5/9/23064269/bitcoin-sell-plunge-crypto'> Source <a/>

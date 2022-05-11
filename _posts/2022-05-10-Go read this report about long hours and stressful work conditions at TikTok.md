@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P1dHPwd5xJp3tIK5ktfJWu23ea4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70848388/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-A harrowing report from The Wall Street Journal gives us a look at what happens behind the scenes at TikTok, with former employees describing unusually long work hours, stressful working conditions, and a cultural disconnect between TikTok's US and Chinese branches.
-<a href='https://www.theverge.com/2022/5/9/23063350/tiktok-work-culture-stress-investigation-united-states'> Source <a/>

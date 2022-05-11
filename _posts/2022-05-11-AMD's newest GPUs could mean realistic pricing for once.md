@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UJH1LpLFW2fEZqsHawUyw6dGHSM=/0x0:1046x541/1200x800/filters:focal(440x188:606x354)/cdn.vox-cdn.com/uploads/chorus_image/image/70851705/amd_spring_2022_gpus_rx_6950_xt.0.jpg' width='700px' /><br/>
+It seemed like AMD and Nvidia were living in a fantasy world. They'd throw out prices like $329 or $479 for a midrange graphics card, knowing you'd actually pay hundreds more by the time pandemic middlemen had their cut. But today, AMD seems to be waking up.
+<a href='https://www.theverge.com/2022/5/10/23064599/amd-radeon-rx-6950-6750-6650-xt-specs-price-gpu'> Source <a/>
