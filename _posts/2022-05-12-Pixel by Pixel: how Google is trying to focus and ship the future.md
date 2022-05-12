@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TvstbztCXynOaRpAlD2-rHZ3qT0=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70857874/VRG_ILLO_5214_GoogleIO_2022.0.jpg' width='700px' /><br/>
+The story of this year's Google I/O actually started three years ago.
+<a href='https://www.theverge.com/23065820/google-io-ambient-computing-pixel-android-phones-watches-software'> Source <a/>

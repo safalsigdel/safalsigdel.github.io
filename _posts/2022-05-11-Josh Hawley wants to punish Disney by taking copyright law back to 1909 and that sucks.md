@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l3TVPWH56R1ZfNRf_fl-GvTvo5E=/0x0:8327x5551/1200x800/filters:focal(3820x1386:5152x2718)/cdn.vox-cdn.com/uploads/chorus_image/image/70854326/1238601313.0.jpg' width='700px' /><br/>
-I have been told to blog about Senator Josh Hawley's new copyright bill, and I do this with nothing but the greatest reluctance. Normally, I love talking about copyright! I'll talk about copyright all day long! [Ed note: And she does.] But writing this post is agony, because the thought of giving this absolutely asinine piece of legislation any attention is killing me on the inside.
-<a href='https://www.theverge.com/2022/5/10/23066030/hawley-copyright-disney-mickey-mouse'> Source <a/>

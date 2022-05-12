@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5E3aG7nS5AJJdelIElCmi1b-cYE=/0x0:2040x1300/1200x800/filters:focal(857x487:1183x813)/cdn.vox-cdn.com/uploads/chorus_image/image/70858478/BudsLifestyle.0.jpg' width='700px' /><br/>
+During its annual developer conference, Google I/O, Google announced a new pair of true wireless earbuds, the Pixel Buds Pro, which will be available for preorder starting on July 21st and in stores on July 28th. The new Buds Pro offer more features than last year's Pixel Buds A-Series, however, at $199, they're also twice the price. So are they worth the extra cost or should you stick with the entry-level $99 Pixel Buds A-Series?
+<a href='https://www.theverge.com/23065279/google-pixel-buds-comparison-a-series-vs-pro-specs-price'> Source <a/>

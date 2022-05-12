@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lVBvMjTmhIiTXGJu2edy-0_JIxY=/0x0:1814x1199/1200x800/filters:focal(758x583:1048x873)/cdn.vox-cdn.com/uploads/chorus_image/image/70852391/Ej4fbuxg.0.jpeg' width='700px' /><br/>
-Jackery's Solar Generator 2000 Pro kit is here to bend nature's will to your desire to take your modern tech lifestyle off the grid. Jackery provides the Explorer 2000 Pro Portable Power Station and six SolarSaga 200W solar panels — you provide the transportation and an employer that lets your work from anywhere.
-<a href='https://www.theverge.com/2022/5/10/23059712/jackery-off-grid-solar-power-station-price-specs'> Source <a/>

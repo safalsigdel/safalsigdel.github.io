@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MUd4gdEQG7sCYYv91qcJNhNLcpA=/0x149:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70858970/2022_5_11_google_io_848_11_33_52.0.jpg' width='700px' /><br/>
+Big white bezels. Matte, looks-like-plastic back. Thick profile. 2023. Android.
+<a href='https://www.theverge.com/2022/5/11/23067679/google-pixel-tablet-tease-reaction-premium-ugly'> Source <a/>

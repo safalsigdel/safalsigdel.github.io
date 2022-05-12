@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hM21gHaN1w3Xu6jccmRAfPX6gLc=/0x0:1396x1000/1200x800/filters:focal(587x389:809x611)/cdn.vox-cdn.com/uploads/chorus_image/image/70859085/disney_plus.0.png' width='700px' /><br/>
+On an earnings call earlier today, Disney CEO Bob Chapek sounded like someone who has clear ideas of ESPN's fully streaming future. He told analysts and investors that “when it comes time to actually pull the trigger,” he believes ESPN can create “the ultimate fan offering that will appeal to the superfan who loves sports,” and “I think there's nobody but ESPN who could frankly pull that off.”
+<a href='https://www.theverge.com/2022/5/11/23067682/disney-earnings-espn-streaming-direct-to-consumer'> Source <a/>

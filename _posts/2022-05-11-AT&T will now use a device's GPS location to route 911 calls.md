@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y5ufrAayh6lYuoHIeTxeB0jLl2o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70854146/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T says it's the first carrier to deploy location-based routing for 911 calls across the country, a feature that allows the company to transmit wireless emergency calls to the correct call center based on a device's GPS location. As announced in a press release, AT&T says the feature should enable the carrier to accurately locate and route 911 calls within 50 meters of where the call was placed.
-<a href='https://www.theverge.com/2022/5/10/23065777/att-route-911-calls-gps-location-based-routing'> Source <a/>

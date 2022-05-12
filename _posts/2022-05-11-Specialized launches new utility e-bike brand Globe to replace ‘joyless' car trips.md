@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mQegjYILTmOyDXkya1_qQxpEGkg=/0x0:2880x1620/1200x800/filters:focal(1210x580:1670x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/70852706/HeroDesktop.0.jpg' width='700px' /><br/>
-Specialized launched a new sub-brand called Globe dedicated to building high-quality electric utility bikes that are designed specifically to replace car trips. Globe will be “an extension of the Specialized brand that will focus on bringing more fun to local living while reducing the number of car, truck, and SUV trips needed for everyday transportation,” the company says.
-<a href='https://www.theverge.com/2022/5/10/23063949/specialized-ebike-utility-brand-launch-globe'> Source <a/>

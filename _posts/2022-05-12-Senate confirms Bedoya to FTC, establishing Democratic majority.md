@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VITdX_608jKkLjnnGRUCQA_4_Ns=/0x0:1024x671/1200x800/filters:focal(431x255:593x417)/cdn.vox-cdn.com/uploads/chorus_image/image/70858040/capitoldome23.0.jpg' width='700px' /><br/>
+On Wednesday, the Senate voted to confirm privacy expert Alvaro Bedoya to the Federal Trade Commission. The confirmation secured a Democratic voting majority at the agency tasked by the Biden administration with investigating big tech companies like Facebook and Google over potential data privacy and competition violations.
+<a href='https://www.theverge.com/2022/5/11/23067374/alvaroy-bedoya-federal-trade-commission-ftc-lina-khan-privacy-antitrust-senate'> Source <a/>

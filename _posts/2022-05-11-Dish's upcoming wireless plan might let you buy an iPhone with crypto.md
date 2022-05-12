@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yodGBkIFflhOnb8o_fFDuvuq6QQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70854743/acastro_200804_1777_dish_0001.0.0.jpg' width='700px' /><br/>
-Dish Network seems to be taking its unconventional approach to building a wireless network all the way to the blockchain. Executives hosting an analyst event in Las Vegas today gave a few hints at their vision of this country's fourth wireless carrier, and it might involve a future where you can pay for a new iPhone in Bitcoin.
-<a href='https://www.theverge.com/2022/5/10/23066066/dish-network-boost-infinite-project-genesis-5g'> Source <a/>

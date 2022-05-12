@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/igl0_m6XjencLsVK0K6CieJ2yag=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/70858884/1232963360.0.jpg' width='700px' /><br/>
+Struggling EV company Lordstown completed the sale of its Ohio factory to Foxconn, the Taiwanese company that assembles Apple's iPhone. The factory, which sold for $230 million, will now become the site of a joint venture between the two companies.
+<a href='https://www.theverge.com/2022/5/11/23067722/lordstown-ev-factory-sale-foxconn-ohio-deal'> Source <a/>

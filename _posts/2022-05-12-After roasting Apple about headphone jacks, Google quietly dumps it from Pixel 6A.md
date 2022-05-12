@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/luieBCMgDWi4ugQ10pYrP8vVaoQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70859126/Pixel_6a_colors.0.jpeg' width='700px' /><br/>
+Google just revealed the Pixel 6A at Google I/O on Wednesday, and while it has a number of impressive specs for a midrange device, it's missing one that the company has celebrated on its A-series line for years: a 3.5mm headphone jack.
+<a href='https://www.theverge.com/2022/5/11/23067702/google-pixel-6a-headphone-jack'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CZvu8L7Wr4T-ronI9PqaSHTYpDY=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/70857832/Pixel_7_and_Pixel_7_Pro_Family.0.jpg' width='700px' /><br/>
+Google couldn't let its I/O keynote pass without teasing its next flagship phones: the Pixel 7 and 7 Pro, arriving this fall. It's a modest update of last year's design that keeps the horizontal camera bar but tones it down a little with updated camera cutouts. The 7 and 7 Pro will include a next-gen Tensor chipset and ship with Android 13.
+<a href='https://www.theverge.com/2022/5/11/23067073/google-pixel-7-pro-release-design-tensor'> Source <a/>

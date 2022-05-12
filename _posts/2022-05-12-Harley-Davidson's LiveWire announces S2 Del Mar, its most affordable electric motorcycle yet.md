@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dz1y0eBovM9fw8sccwEEPtTav68=/0x0:4800x3200/1200x800/filters:focal(2016x1216:2784x1984)/cdn.vox-cdn.com/uploads/chorus_image/image/70858453/LW_DELMAR_BOOJ_5289.0.jpg' width='700px' /><br/>
+LiveWire, the electric motorcycle company spinoff from Harley-Davidson, announced its most affordable model yet, the S2 Del Mar. The initial batch of Del Mar motorcycles, dubbed Launch Edition, will sell for $17,699, while base model versions will start at $15,000.
+<a href='https://www.theverge.com/2022/5/11/23067118/harley-davidson-livewire-s2-del-mar-electric-motorcycle-specs-price'> Source <a/>

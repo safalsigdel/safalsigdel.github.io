@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M4iP0SEHeX0FlFt6TQtxJ58Zu7Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70858446/mclark_210923_4776_0010.0.jpg' width='700px' /><br/>
+Rivian, the buzzy electric vehicle company backed by Ford and Amazon, reported a net loss of $1.59 billion in the first quarter of 2021 based on $95 million in revenue. The company said it delivered 1,227 vehicles to customers during the past three months, bringing its total number of deliveries to 2,148.
+<a href='https://www.theverge.com/2022/5/11/23067212/rivian-earnings-q1-2022-electric-truck-deliveries-stock'> Source <a/>

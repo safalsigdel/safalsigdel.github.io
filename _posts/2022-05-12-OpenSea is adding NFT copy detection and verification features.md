@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TFWjabuCV478oY0sZX47MkHjqU8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70858230/acastro_220215_STK007_0002.0.jpg' width='700px' /><br/>
+OpenSea is rolling out features to “improve authenticity” on the digital marketplace, the company announced in a series of blog posts today. The updates include a new system to detect and remove copycat NFTs and an overhaul to the account verification process.
+<a href='https://www.theverge.com/2022/5/11/23067192/opensea-nfts-copying-plagiarism-copymint-verification-bayc'> Source <a/>

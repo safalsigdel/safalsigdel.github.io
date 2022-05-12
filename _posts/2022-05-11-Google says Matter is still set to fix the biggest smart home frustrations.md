@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jp29TK50mZIRfSr-YD1clKK5a4g=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70853703/acastro_220510_STK123_0002.0.jpg' width='700px' /><br/>
-In early 2019, Michele Turner sat down for dinner with her colleague Grant Erickson. Joining them at the restaurant in Silicon Valley's Woodside were two of their counterparts from Amazon and two from Apple. Turner and Erickson both worked for Google. The hosts of this dinner party were Tobin Richardson and John Osborne from the Zigbee Alliance. The aim of the evening was simple: fix the smart home.
-<a href='https://www.theverge.com/23065031/matter-google-nest-smart-home-michele-turner-interview'> Source <a/>

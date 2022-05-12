@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oZSPIdp9_VjlDk1rshkXLlDfpDg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70852797/cfaulkner_20210326_4491_0006.0.jpg' width='700px' /><br/>
-Our deals post today has a little something for everyone, from laptops and peripherals to a soundbar that doubles as a 4K streaming device. Kicking things off, we have the 2021 LG Gram 17, a lightweight laptop with heavyweight power. Normally this configuration of the 17-inch laptop runs $1,849.99, but it's currently on sale for just $1,398.94 at Amazon, nearly matching its best price to date.
-<a href='https://www.theverge.com/good-deals/2022/5/10/23063754/lg-gram-17-laptop-roku-gaming-keyboard-mouse-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9mTx8sYzS0NBg9c4RUU0fgSJ0WM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70858349/mdoying_180419_1777_0454_6.0.jpg' width='700px' /><br/>
+Fintech is in its flop era, and it would be funny, except that it's dragging real people down with it.
+<a href='https://www.theverge.com/2022/5/11/23067404/meme-stocks-gamestop-crypto-sell'> Source <a/>
