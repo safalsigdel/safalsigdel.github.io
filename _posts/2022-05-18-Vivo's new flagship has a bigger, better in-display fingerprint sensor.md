@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AwKMDsSy0j-MXR37RpTeHW4oYzg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70881931/IMG_2875.0.jpg' width='700px' /><br/>
+Vivo has announced its latest flagship phone, the X80 Pro, and its most prominent new hardware feature is a larger in-display fingerprint sensor. The active area is far bigger than the small sensors found on most Android phones these days, meaning it's easier to unlock the phone without looking at the screen to align your thumb.
+<a href='https://www.theverge.com/2022/5/18/23070106/vivo-x80-pro-announced-specs-features-camera-fingerprint-sensor'> Source <a/>
