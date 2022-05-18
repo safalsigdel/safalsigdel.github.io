@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DMlPGAj7eFVVnf1lzxlGA8X4OdE=/0x0:2460x1650/1200x800/filters:focal(1034x629:1426x1021)/cdn.vox-cdn.com/uploads/chorus_image/image/70878570/2460x165010.0.png' width='700px' /><br/>
+Mental health startup Cerebral will no longer prescribe most controlled substances, The Wall Street Journal reported.
+<a href='https://www.theverge.com/2022/5/17/23094214/cerebral-halts-prescriptions-adderall'> Source <a/>

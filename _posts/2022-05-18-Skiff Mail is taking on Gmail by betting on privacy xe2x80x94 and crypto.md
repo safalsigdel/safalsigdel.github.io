@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NLwGiNyHk4ZuwwIMFZenia78X_M=/0x0:3703x2510/1200x800/filters:focal(1556x959:2148x1551)/cdn.vox-cdn.com/uploads/chorus_image/image/70878966/Skiff_Mail___iPhone.0.png' width='700px' /><br/>
+Skiff has spent the last couple of years developing a privacy-focused, collaborative document editing platform that you could most succinctly describe as “encrypted Google Docs.” Now, it's coming for Gmail. The company is launching an email service called Skiff Mail that aims to be, well, encrypted Gmail — and eventually much more than that.
+<a href='https://www.theverge.com/2022/5/17/23075804/skiff-mail-email-privacy'> Source <a/>

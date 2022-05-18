@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dUFLUgG0eA_fXgswWiPASy-uPA8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70880479/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Netflix is laying off around 150 employees as well as dozens of contractors following a disappointing earnings report, citing “slowing revenue growth,” as first reported by Variety.
+<a href='https://www.theverge.com/2022/5/17/23103131/netflix-layoffs-tudum-streaming-subscriber-loss-email'> Source <a/>

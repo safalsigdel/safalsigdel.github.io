@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3FqC1qAOfyCUICjwLurN7Pxc4SA=/0x0:2861x1241/1200x800/filters:focal(805x346:1261x802)/cdn.vox-cdn.com/uploads/chorus_image/image/70879201/csgo4.0.png' width='700px' /><br/>
+Unlike many of the games we use to test gaming laptops here at The Verge, such as Shadow of the Tomb Raider and Red Dead Redemption 2, CS:GO doesn't have a built-in benchmark. But not to worry — there are third-party benchmarks you can run to see what kind of frame rates your device puts up on this first-person shooter. The one we commonly use, the FPS Benchmark by Ulletical, is free and easy to install.
+<a href='https://www.theverge.com/23068848/how-to-ulletical-fps-benchmark-csgo-counterstrike-global-offensive'> Source <a/>

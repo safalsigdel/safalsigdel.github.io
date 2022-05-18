@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hZn2dZigsiuidT6WtZHViZfRiMo=/171x0:2729x1891/1200x800/filters:focal(951x1174:1427x1650)/cdn.vox-cdn.com/uploads/chorus_image/image/70879653/sony_linkbuds_s_1.0.png' width='700px' /><br/>
+Sony's follow-up to the unconventional LinkBuds could be the lightest active noise cancellation (ANC) earbuds yet. According to WinFuture, the new earbuds — supposedly called the LinkBuds S — weigh just 4.8 grams each.
+<a href='https://www.theverge.com/2022/5/17/23092889/sony-linkbuds-s-leak-smallest-lightest-anc-earbuds'> Source <a/>

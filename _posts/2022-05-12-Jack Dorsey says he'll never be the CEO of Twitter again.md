@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GLDhzaSGuxV4m-4R57brlDTSELI=/0x0:3000x2057/1200x800/filters:focal(680x595:1160x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/70859073/1321753276.0.jpg' width='700px' /><br/>
-Jack Dorsey is trying to squash rumors that he'll be reinstated as Twitter's CEO once Elon Musk takes charge. On Wednesday he tweeted “nah I'll never be CEO again” in response to someone predicting he would be returning to lead the company he co-founded, before going on to say that he doesn't want the role.
-<a href='https://www.theverge.com/2022/5/11/23067717/jack-dorsey-ceo-twitter-return-elon-musk-buyout'> Source <a/>

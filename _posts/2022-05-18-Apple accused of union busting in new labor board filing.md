@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1juqga9VHsdMUPRPFXl5TdJ2T3k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70878742/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple retail employees in Atlanta are accusing the company of violating the National Labor Relations Act by holding captive audience meetings to counter an ongoing union drive at the site. The Communications Workers of America, which is working to organize the store, filed an unfair labor practice reporting the activity earlier today.
+<a href='https://www.theverge.com/2022/5/17/23093570/apple-accused-union-busting-unfair-labor-practice-atlanta'> Source <a/>

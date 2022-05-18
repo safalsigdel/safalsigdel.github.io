@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u17DnTJGw6cRHMYPF3OU5cV8WiA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70879877/acastro_220516_5229_0001_01.0.jpg' width='700px' /><br/>
+When a gunman pulled into the parking lot at a grocery store in Buffalo, New York, on Saturday in a racist attack targeting a Black community, his camera was already rolling.
+<a href='https://www.theverge.com/2022/5/17/23100579/buffalo-shooting-twitch-livestream-viral-content-moderation'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/51_ElfGkPjVrgnci3p2dN_t-goc=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23453812/2022_5_11_google_io_762_11_31_34.jpg' width='700px' /><br/>
-Google has wrapped up its two-hour-long I/O keynote, which was absolutely packed with news. We heard about AI, Android, and, of course, a plethora of Pixel hardware. Here are the biggest announcements we saw on Wednesday.
-<a href='https://www.theverge.com/2022/5/11/23066583/google-io-2022-biggest-announcements-pixel-watch-6a-buds-tablet'> Source <a/>

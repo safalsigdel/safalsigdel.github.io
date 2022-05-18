@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nd11fWLSPylvJr1vYlGlV3qGSdU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70857838/Google_Pixel_Watch_Google_Maps.0.png' width='700px' /><br/>
-After weeks of rumors and leaked photos, Google finally confirmed that the Pixel Watch is real. Today's announcement is more of a tease than a full reveal, however, with the watch arriving later this fall alongside the Pixel 7.
-<a href='https://www.theverge.com/2022/5/11/23064072/google-pixel-watch-fitbit-io-2022'> Source <a/>

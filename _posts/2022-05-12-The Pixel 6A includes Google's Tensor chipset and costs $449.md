@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MUXOtylebM2VZ02bcdSnRKibW34=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70857830/Pixel_6a_Lifestyle_5.0.jpeg' width='700px' /><br/>
-Google is officially announcing the Pixel 6A, which embraces the company's new design language and custom chipset but keeps the 5A's $449 price tag. The announcement comes as Google kicks off its I/O developer conference, but if you're itching to snag the new device, you'll have to wait a little while longer since it won't actually ship until July 28th. (Preorders will begin a week earlier, on July 21st.)
-<a href='https://www.theverge.com/2022/5/11/23064495/google-pixel-6a-price-specs-screen-tensor-io'> Source <a/>

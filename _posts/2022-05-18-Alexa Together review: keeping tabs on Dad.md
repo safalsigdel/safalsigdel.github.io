@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/veYyi7T2tf3WbYowU2gIiRxehbY=/0x0:2040x1360/1200x675/filters:focal(861x848:1187x1174)/cdn.vox-cdn.com/uploads/chorus_image/image/70869156/jtuohy_220508_5207_0008.0.jpg' width='700px' /><br/>
+Every morning for the last four months, an alert has popped up on my phone between 4AM and 6AM, saying, “First activity of the day detected for Michael at 4:39 AM.” Thankfully, I don't see it at that time. But later, when I'm actually awake and scrolling through my notifications, it's a quick mental check telling me that my dad, who lives 300 miles away in Florida, is up and moving around.
+<a href='https://www.theverge.com/23066024/alexa-together-review-elder-care-urgent-response'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ewBdtM1oaFy-oSL4-zvDG6gKC1I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70858341/dbohn_210816_4717_0005.0.jpg' width='700px' /><br/>
-After almost a year of waiting, we finally know when Google Assistant will arrive on Samsung's Galaxy Watch 4 lineup. Kind of. In a blog, Samsung executive vice president Patrick Chomet announced the long-awaited feature will arrive this summer. As for when this summer, it's anybody's guess.
-<a href='https://www.theverge.com/2022/5/11/23067444/samsung-galaxy-watch-4-google-assistant-wear-os-3'> Source <a/>
