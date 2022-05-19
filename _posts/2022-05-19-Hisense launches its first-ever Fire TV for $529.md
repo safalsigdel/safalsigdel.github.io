@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MyV8v7CyiYGnpZPHu5GiMz4100A=/0x0:1400x777/1200x800/filters:focal(588x277:812x501)/cdn.vox-cdn.com/uploads/chorus_image/image/70883014/hisense_fire_tv.0.png' width='700px' /><br/>
-Hisense's new 4K Fire TV (50U6HF) costs $529 and has a 50-inch 60Hz display with a bezel-less design. It uses Hisense's proprietary ULED technology — a more affordable version of QLED that Hisense says boosts color, contrast, and brightness. The TV also comes with support for Dolby Vision HDR and Quantum Dot technology for color enhancement.
-<a href='https://www.theverge.com/2022/5/18/23122566/hisense-goes-against-google-makes-4k-fire-tv-amazon'> Source <a/>
