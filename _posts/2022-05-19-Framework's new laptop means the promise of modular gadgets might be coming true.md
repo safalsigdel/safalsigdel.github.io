@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Non7IlBX3ApbufGpVIlRzdrUST0=/0x0:1080x1080/1200x800/filters:focal(454x454:626x626)/cdn.vox-cdn.com/uploads/chorus_image/image/70886846/Framework_Laptop_2.0.jpeg' width='700px' /><br/>
+A little more than a year after announcing the first version of its ultra-repairable, upgradeable notebook, Framework is launching the second-generation Framework Laptop. It's meant to be substantially faster and a little more sturdy but mostly it's a signal that Framework is serious about building truly long-lasting devices and might actually be fulfilling the often promised and rarely delivered dream of upgradeable, modular gadgets.
+<a href='https://www.theverge.com/23125965/framework-laptop-upgrade-intel-12th-gen'> Source <a/>
