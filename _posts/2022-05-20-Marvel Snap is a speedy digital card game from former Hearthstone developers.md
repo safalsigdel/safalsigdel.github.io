@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kV6vtQaBKEE004kS8Zkh4PotNFk=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23574920/marvel_snap.png' width='700px' /><br/>
+Hot off the heels of Dr. Strange and the Multiverse of Madness comes a new game from Marvel Entertainment that offers the same flavor of throwing everybody from everywhere in a big ole pot, shaking, and seeing what kind of shenanigans come out.
+<a href='https://www.theverge.com/2022/5/19/23130792/marvel-snap-annoucement-second-breakfast'> Source <a/>

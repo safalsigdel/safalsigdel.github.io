@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kzV_44KX9389ZZ5jbCV28VLEiBI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70889880/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+Reuters reports TikTok is testing games for the app in Vietnam ahead of a “major push” into the space. A company representative confirmed tests of HTML5 mini-games, saying, “We're always looking at ways to enrich our platform and regularly test new features and integrations that bring value to our community.”
+<a href='https://www.theverge.com/2022/5/19/23131385/tiktok-gaming-tests-livestream-zynga-html5-bytedance'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vrYl5i00CDkYsH3B4QF6Ub-S9vw=/0x0:2040x1360/1200x675/filters:focal(1047x462:1373x788)/cdn.vox-cdn.com/uploads/chorus_image/image/70887476/jporter_220516_5224_0001.0.jpg' width='700px' /><br/>
+In 2022, there are two radically different sides to Oppo's sub-brand OnePlus. On the premium end, it has the OnePlus 10 Pro: a flagship-priced, flagship-specced handset that struggles to offer truly flagship-level performance. But things are going a lot better for its Nord lineup, whose few shortcomings are justified by their midrange price tags.
+<a href='https://www.theverge.com/23123355/oneplus-nord-2t-review'> Source <a/>

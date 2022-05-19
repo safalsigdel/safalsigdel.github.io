@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JnpfuvPsyuQ52rYrAKadq-Ty_U4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70887095/ajohnson_220517_5232_0002.0.jpg' width='700px' /><br/>
+The formula for a good $400 phone is a tough one to solve for, and Motorola hasn't gotten it quite right with the Moto G 5G.
+<a href='https://www.theverge.com/23125471/motorola-moto-g-5g-phone-review-price-specs-screen-battery'> Source <a/>

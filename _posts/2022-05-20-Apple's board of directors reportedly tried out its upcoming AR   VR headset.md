@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kPLpC4sHjZ5FLYyuXBfYLeHdObs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70888806/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Apple showed a mixed reality headset capable of both augmented and virtual reality to its board of directors last week and has engineers hard at work on an operating system for the device, according to a report from Bloomberg. The story notes that while this doesn't necessarily mean we'll see a headset announced at WWDC next month, it may indicate that an announcement is drawing closer.
+<a href='https://www.theverge.com/2022/5/19/23131051/apple-vr-ar-headset-prototype-board-of-directors-demo'> Source <a/>

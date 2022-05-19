@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zmnbfLYD3B_thzeB-z2t4TSbOko=/0x0:3275x2465/1200x0/filters:focal(0x0:3275x2465):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23568328/Varia_RCT715_hero_image.jpg' width='700px' /><br/>
-For the first time since Varia devices launched seven years ago, Garmin has added a built-in camera to its much-loved rearview radar lineup. The Varia RCT715 not only makes road cyclists more visible and warns them of approaching vehicles, it automatically records any incidents that might occur. That means safety-minded bicyclists now only have to worry about mounting and charging a single device instead of two.
-<a href='https://www.theverge.com/2022/5/19/23129229/garmin-varia-rct715-camera-radar-taillight-price-specs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3F4UhhXVOAYsH_Z-P3S2MGZ1rYw=/0x0:2040x1360/1200x800/filters:focal(784x609:1110x935)/cdn.vox-cdn.com/uploads/chorus_image/image/70889766/vpavic_220210_5030_0046.0.jpg' width='700px' /><br/>
+The Steam Deck just spent five weeks at number one on Valve's top seller list — on top of the five weeks it spent at number two. As one of the most affordable gaming PCs ever made, the $400-plus machine has clearly captured the attention of those who'd been waiting for a Switch-like portable gaming PC. But what of the companies that were already making Switch-like portable gaming PCs? They now have their chance at revenge.
+<a href='https://www.theverge.com/2022/5/19/23125695/steam-deck-onexplayer-aya-neo-gpd-win-max-2'> Source <a/>

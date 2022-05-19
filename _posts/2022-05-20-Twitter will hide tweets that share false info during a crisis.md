@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eRgtWc3UPTnLwhR2lgWQiFvan88=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70888191/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
+On Thursday, Twitter announced a new policy for dealing with misinformation during a period of crisis, establishing new standards for gating or blocking the promotion of certain tweets if they are seen as spreading misinformation.
+<a href='https://www.theverge.com/2022/5/19/23130961/twitter-crisis-misinformation-policy-moderation-speech-hoax-elon'> Source <a/>

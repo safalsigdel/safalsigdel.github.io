@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M0L5lE476Gn9uouDVhgBtNSqduE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70886720/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok is offering users a new way to credit videos that kick off viral trends.
-<a href='https://www.theverge.com/2022/5/19/23129437/tiktok-credit-tag-individual-video-feature'> Source <a/>

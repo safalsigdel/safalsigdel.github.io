@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3t960gHqIJ7lf9krDEKitdoSiBQ=/0x0:2560x1440/1200x800/filters:focal(1080x860:1488x1268)/cdn.vox-cdn.com/uploads/chorus_image/image/70889367/Kids_mystery_box_hover_.0.jpeg' width='700px' /><br/>
+Netflix is introducing a new “mystery box” feature that's intended to help kids discover new shows. Basically, it sounds like a kids-themed take on Netflix's “Play Something” button, and it seems to take inspiration from the very popular trend of unwrapping toys.
+<a href='https://www.theverge.com/2022/5/19/23131244/netflix-kids-mystery-box-shuffle-button'> Source <a/>

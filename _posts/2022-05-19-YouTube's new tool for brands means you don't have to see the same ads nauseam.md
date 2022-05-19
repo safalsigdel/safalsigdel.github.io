@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aIooyYpFO0n76WRciovYTzJqPM0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70886824/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-Sometimes it's a little too obvious when a company is launching a big advertising campaign on YouTube. If you're a regular viewer, you may end up seeing the same ads over and over again. This week, though, YouTube announced that it's expanding the power of tools that let brands control how often their ads are shown to specific users.
-<a href='https://www.theverge.com/2022/5/19/23129744/youtube-advert-spam-ad-frequency-tool-brand-ctv-apps-mobile-desktop'> Source <a/>

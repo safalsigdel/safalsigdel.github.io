@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eMjaVj0sssZ4h2LYeTHWa1BCnNU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70886468/searchbox_desktop_NEW.0.png' width='700px' /><br/>
-Microsoft is adding an optional web search to the Windows 11 desktop in the operating system's latest Insider Preview Build. The company describes the feature as “lightweight interactive content” — the first, it says, of many such tools it's considering adding to Windows 11 — but let's call the thing what it really is: a widget.
-<a href='https://www.theverge.com/2022/5/19/23128319/microsoft-windows-11-widget-preview-build-test-desktop-web-search'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MkqM-46FkqtUVrAaZ9NhS0WOfX0=/0x0:720x663/1200x800/filters:focal(302x203:416x317)/cdn.vox-cdn.com/uploads/chorus_image/image/70887370/Samsung_Bespoke_Olive_Mannella.0.jpg' width='700px' /><br/>
+Samsung is adding a new and extremely exploitable customization option to its line of Bespoke refrigerators. Sling the company $500 and you can have any photo or image you like printed on the unit's double doors. You could choose a favorite piece of artwork, a child's doodles, or just put your own face on your own fridge for no good reason at all.
+<a href='https://www.theverge.com/2022/5/19/23128417/samsung-bespoke-fridge-range-print-custom-door-panel-photo-artwork'> Source <a/>

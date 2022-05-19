@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7iG-X8dLcRPUstDveXpuFkVsLe0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70888117/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+On Thursday, a group of Senate Republicans and Democrats introduced a new bill that could force Google and Facebook's parent company, Meta, to spin off their online ads businesses, as first reported by The Wall Street Journal.
+<a href='https://www.theverge.com/2022/5/19/23130963/google-facebook-antitrust-digital-advertising-competition-bill-senate'> Source <a/>

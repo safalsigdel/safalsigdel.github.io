@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3V2i7zgZzkhYyyJ9fLKredVWq4Y=/0x0:571x461/1200x800/filters:focal(241x186:331x276)/cdn.vox-cdn.com/uploads/chorus_image/image/70883947/ipad_pro_group_facetime_10302018_inline.jpg.large.0.jpg' width='700px' /><br/>
-Whenever possible, I like to use FaceTime Audio or WhatsApp instead of making regular phone calls. The people I'm calling see it like a normal phone call, but the audio quality is leaps and bounds better than a good old-fashioned phone call.
-<a href='https://www.theverge.com/23123578/apple-voice-isolation-facetime-calls'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-JmwRKAj5Rk_MWIB4S2VgMnudkg=/0x0:7087x4725/1200x800/filters:focal(2978x1797:4110x2929)/cdn.vox-cdn.com/uploads/chorus_image/image/70885446/1239009221.0.jpg' width='700px' /><br/>
-Tesla is expanding its open Supercharger pilot program in Europe that lets owners of non-Tesla EVs take advantage of the company's extensive charging network. Previously, the pilot consisted of select stations in The Netherlands, Norway, and France, but now it's also available in the UK, Spain, Sweden, Belgium, and Austria.
-<a href='https://www.theverge.com/2022/5/18/23125391/tesla-supercharger-electric-vehicle-charging-pilot-expansion-uk-spain'> Source <a/>
