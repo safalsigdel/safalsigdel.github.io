@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fV9Pff_RVSLwRYbZPO6-8y_xhuo=/0x0:2040x1530/1200x800/filters:focal(708x322:1034x648)/cdn.vox-cdn.com/uploads/chorus_image/image/70882753/ushakir_220212_5204_0002.0.jpg' width='700px' /><br/>
-Power adapters have been getting smaller over the years thanks to gallium nitride (GaN) semiconductor technology, but Ugreen's $179.99 Nexode 200W charger is using the tech for big power. This hefty four-by-four-inch square brick can be placed on your desk and could power three, maybe even four, laptops simultaneously — or power a combination of up to six mobile devices.
-<a href='https://www.theverge.com/23105351/ugreen-nexode-200-watt-usb-c-power-delivery-charging-station-review'> Source <a/>

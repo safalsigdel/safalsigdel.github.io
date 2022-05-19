@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mOuGT-4cHGgIdUV4n7GOYHC5-fE=/0x0:1440x806/1200x800/filters:focal(605x288:835x518)/cdn.vox-cdn.com/uploads/chorus_image/image/70886452/R654.0.jpeg' width='700px' /><br/>
+Apple has been accused of union-busting at its flagship World Trade Center store in New York City. According to a complaint filed by the Communications Workers of America (CWA), the iPhone-maker violated federal labor laws by interrogating workers about union activity, prohibiting employees from posting union flyers in shared spaces, and forcing workers to attend anti-union presentations.
+<a href='https://www.theverge.com/2022/5/19/23128247/apple-accused-union-busting-nyc-world-trade-center-stores-cwa'> Source <a/>
