@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BBAmXb0jUI03mLZbFhBP5lPWtrc=/0x0:2040x1360/1200x800/filters:focal(845x503:1171x829)/cdn.vox-cdn.com/uploads/chorus_image/image/70882899/wjoel_180319_2394_facebook_006.0.5.jpg' width='700px' /><br/>
-Today, let's talk about Facebook's latest effort to make the platform more comprehensible to outsiders — and how its findings inform our current, seemingly endless debate over whether you can have a social network and free speech, too.
-<a href='https://www.theverge.com/2022/5/18/23115281/facebook-transparency-report-understanding-moderation-elon-musk'> Source <a/>
