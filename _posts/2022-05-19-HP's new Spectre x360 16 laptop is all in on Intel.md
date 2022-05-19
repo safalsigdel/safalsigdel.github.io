@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gMRJJWUSbNWN4xv9s1baf8qQK1k=/0x0:1650x1403/1200x800/filters:focal(693x570:957x834)/cdn.vox-cdn.com/uploads/chorus_image/image/70886855/HP_Envy_x360_15.6_image_10.0.jpg' width='700px' /><br/>
+HP has made a number of minor refreshes across its Spectre and Envy lines. Several of these consumer devices, at a variety of price points, have been updated with new processors — 12th Gen Core chips on the Intel side and Ryzen 5000 chips on the AMD side.
+<a href='https://www.theverge.com/2022/5/19/23125915/hp-spectre-x360-16-intel-arc-gpu-15-envy-17'> Source <a/>

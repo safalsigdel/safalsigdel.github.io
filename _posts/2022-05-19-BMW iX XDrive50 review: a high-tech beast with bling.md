@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KHoA7amP02M3vXy6bhA_8VERpWY=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70886881/abassett_220410_5188_0001.0.jpg' width='700px' /><br/>
+As I climb into the Aventurin Red Metallic BMW iX XDrive50 parked in front of my house, a woman in a current generation BMW X3 rolls up next to me. “I want that car,” she exclaims out the window. I laugh and agree as she reiterates, “No. Seriously. I want that car.”
+<a href='https://www.theverge.com/23074741/bmw-ix-xdrive50-review-ev-specs-price-photos'> Source <a/>
