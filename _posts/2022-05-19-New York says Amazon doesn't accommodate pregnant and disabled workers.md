@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z30AfKDcpjX4NlNRsZyM5WTkYUk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70884149/acastro_181114_1777_amazon_hq2_0001.0.jpg' width='700px' /><br/>
+The New York State Division of Human Rights has filed a complaint against Amazon for failing to accommodate reasonable changes requested by workers who were pregnant or disabled, according to a Wednesday press release from Governor Kathy Hochul.
+<a href='https://www.theverge.com/2022/5/18/23124882/amazon-pregnant-disabled-workers-complaint-managers-new-york-governor'> Source <a/>

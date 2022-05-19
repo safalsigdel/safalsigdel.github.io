@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lRo7gLX3XVuEe4MK6ddn61dpnEQ=/0x0:2254x1394/1200x800/filters:focal(808x563:1168x923)/cdn.vox-cdn.com/uploads/chorus_image/image/70879965/ps5_console_covers_galaxy.0.png' width='700px' /><br/>
-The PlayStation 5 is getting three new console cover colors — starlight blue, galactic purple, and nova pink — on June 17th, but preorders are open on PlayStation Direct right now. All three colors are available in the US, UK, France, Belgium, the Netherlands, and Luxembourg.
-<a href='https://www.theverge.com/2022/5/17/23099616/sony-ps5-console-covers-blue-purple-pink-june-17'> Source <a/>

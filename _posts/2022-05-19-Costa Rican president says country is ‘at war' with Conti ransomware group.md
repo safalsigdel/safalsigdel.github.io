@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/60bJr4AuRTosSxxKsn_6QBoARrw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70885207/acastro_170621_1777_0004_fin.0.jpg' width='700px' /><br/>
+Ransomware — and particularly the Conti ransomware gang — has become a geopolitical force in Costa Rica. On Monday, the new Costa Rican president Rodrigo Chaves xe2x80x93 who began his four-year term only ten days ago xe2x80x93 declared that the country was ”at war” with the Conti cybercriminal gang, whose ransomware attack has disabled agencies across the government since April.
+<a href='https://www.theverge.com/2022/5/18/23125958/costa-rica-president-says-country-at-war-conti-ransomware-cybercrime'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cn8p7NOVqd1H38c9_4NFclrvV3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70883326/IMG_2990.0.jpg' width='700px' /><br/>
+While smartwatches have always been able to relay notifications, the ability to make emergency calls was a big step forward in making them standalone devices.
+<a href='https://www.theverge.com/23123590/smartwatch-emergency-sos-how-to-apple-samsung-google-garmin'> Source <a/>

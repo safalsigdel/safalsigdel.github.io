@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xGn8oc5YcmiRXRLnRQkf7g4G6xI=/0x0:6181x4955/1200x800/filters:focal(2428x2039:3416x3027)/cdn.vox-cdn.com/uploads/chorus_image/image/70878542/apple_accessibileduo.0.jpg' width='700px' /><br/>
-On Tuesday morning, Apple announced a new wave of accessibility features for its various computing platforms, which are set to roll out later this year as software updates for the iPhone, iPad, Mac, and Apple Watch.
-<a href='https://www.theverge.com/2022/5/17/23077908/apple-live-captions-door-detection-gesture-ios-macos-watchos-accessibility-day'> Source <a/>

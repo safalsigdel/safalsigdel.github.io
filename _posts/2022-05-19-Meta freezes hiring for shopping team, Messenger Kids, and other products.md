@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gn2BZqv8cd_lR_qB2evkiRm1YnM=/0x0:6056x4038/1200x800/filters:focal(2544x1535:3512x2503)/cdn.vox-cdn.com/uploads/chorus_image/image/70885584/verge_vjeran_pavic_meta_3_20211028.0.jpg' width='700px' /><br/>
+Meta is pulling back its investments in a number of products, including the teams it spun up early in the pandemic to compete with Zoom and build shopping features, The Verge has learned. In addition to a hiring freeze for certain engineering roles, the company also recently paused the hiring of recruiters and low-level data scientists.
+<a href='https://www.theverge.com/2022/5/18/23125571/meta-hiring-freeze-commerce-messenger-kids-facebook-gaming'> Source <a/>

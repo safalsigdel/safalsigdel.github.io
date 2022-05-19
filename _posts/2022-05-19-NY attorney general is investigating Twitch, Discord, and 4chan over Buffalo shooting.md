@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1x0QTXitnIuUPlGMwvadM56F4bU=/0x0:6138x4094/1200x800/filters:focal(1250x1127:2232x2109)/cdn.vox-cdn.com/uploads/chorus_image/image/70885131/1240716680.0.jpg' width='700px' /><br/>
+New York Attorney General Letitia James announced Wednesday that her office has launched an investigation into Twitch, Discord, 4chan, 8kun (previously 8chan), and other web and social media platforms in response to the racist attack in Buffalo, New York. The investigation will focus on “platforms that may have been used to stream, promote, or plan the event.”
+<a href='https://www.theverge.com/2022/5/18/23125783/ny-attorney-general-launches-investigation-twitch-discord-buffalo-shooting'> Source <a/>

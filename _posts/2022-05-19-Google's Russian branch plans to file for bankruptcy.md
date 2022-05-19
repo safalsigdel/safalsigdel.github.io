@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2KTnv2-UWCPIFVnlhLxg7BQaJeo=/0x0:6829x4553/1200x800/filters:focal(2937x2428:4029x3520)/cdn.vox-cdn.com/uploads/chorus_image/image/70883865/1317337382.0.jpg' width='700px' /><br/>
+Google's Russian subsidiary will file for bankruptcy, according to a report from Reuters, with the company stating it can no longer keep the branch. The Russian branch reported making 134.3 billion roubles (about $2.086 billion USD) in Russia in 2021 and employed over 100 workers.
+<a href='https://www.theverge.com/2022/5/18/23124143/google-russian-branch-bankruptcy-ukraine'> Source <a/>

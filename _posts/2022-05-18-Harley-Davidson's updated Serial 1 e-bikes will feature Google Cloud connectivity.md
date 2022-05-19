@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gTvz03R1mef8u2mhmlyz495LzzE=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/70878388/MOSH_Blue_10.0.jpg' width='700px' /><br/>
-Serial 1, the electric bike company spun out of Harley-Davidson, launched its second-generation lineup of premium e-bikes — but the biggest changes will be coming to the company's app.
-<a href='https://www.theverge.com/2022/5/17/23076653/harley-davidson-serial1-second-generation-ebike-google-cloud'> Source <a/>

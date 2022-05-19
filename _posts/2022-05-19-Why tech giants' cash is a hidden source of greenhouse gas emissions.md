@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Obr11kuB6ZFFY068vqt1pSaBbBo=/0x0:4000x2668/1200x800/filters:focal(1870x1226:2510x1866)/cdn.vox-cdn.com/uploads/chorus_image/image/70884393/1234653684.0.jpg' width='700px' /><br/>
+Even tech companies that have promised to slash their greenhouse gas emissions have a big climate-related blind spot, according to a new report published by three environmental groups. With their cash and investments, Google, Apple, Meta, and other tech giants are indirectly financing fossil fuel companies.
+<a href='https://www.theverge.com/2022/5/18/23124241/big-tech-financing-fossil-fuels-cash-investments-climate-change-emissions'> Source <a/>

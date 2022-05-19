@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/90TjVYFjVPhToPaw8sshxg5V7j0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70881010/disneyplus.0.0.jpg' width='700px' /><br/>
-When Disney Plus' ad-supported plan goes live later this year, it will reportedly run ads for four minutes on movies or shows that last an hour or less, according to reports from Variety and The Wall Street Journal.
-<a href='https://www.theverge.com/2022/5/17/23105023/disney-plus-ad-supported-tier-streaming-fewer-ads'> Source <a/>

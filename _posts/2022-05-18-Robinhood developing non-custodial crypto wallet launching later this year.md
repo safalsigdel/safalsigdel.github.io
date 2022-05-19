@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U7-fkmT4vFqE7cC5F7cFwkQhfLk=/0x0:5400x3600/1200x800/filters:focal(2268x1368:3132x2232)/cdn.vox-cdn.com/uploads/chorus_image/image/70879429/robinhood_ncw_product_static.5.jpg' width='700px' /><br/>
-A little over a month after Robinhood publicly released its first crypto wallet, the company has announced it's working on a second. The new wallet will be non-custodial, giving users sole custody over the private keys necessary to control their money on the blockchain. That means users won't be dependent on Robinhood if the system fails but will also risk losing their funds entirely if they misplace the private key.
-<a href='https://www.theverge.com/2022/5/17/23089655/robinhood-non-custodial-cryptocurrency-wallet'> Source <a/>

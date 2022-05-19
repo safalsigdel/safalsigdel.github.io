@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VrWYEcXJO4qj53wu1Q5sALU20PA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70879522/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg' width='700px' /><br/>
-So does Elon Musk want to buy Twitter or not? This morning, the company's prospective new owner insisted (in a tweet, of course) that the $44 billion deal he'd agreed to “cannot move forward” until he sees the proof he's looking for about its active user numbers.
-<a href='https://www.theverge.com/2022/5/17/23099317/elon-musk-twitter-sec-daily-active-users'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mxeWb_Xoe6bj0D2ltNsQzJxr99c=/0x0:1200x1169/1200x800/filters:focal(504x489:696x681)/cdn.vox-cdn.com/uploads/chorus_image/image/70883794/Honda_Prologue_Teaser_Sketch_Final_with_logo.0.jpg' width='700px' /><br/>
+Honda released a teaser image of the upcoming 2024 Prologue electric SUV, the company's first battery-electric vehicle to be sold in the US. The company also touted its hybrid vehicles as a way to address questions that it has been slow to roll out an EV strategy as compared to its rivals.
+<a href='https://www.theverge.com/2022/5/18/23075754/honda-prologue-electric-suv-ev-us'> Source <a/>

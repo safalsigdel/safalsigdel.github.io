@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CNlYVTaf4u5myUIChxOd_oN5ThA=/0x0:2992x1796/1200x800/filters:focal(1257x659:1735x1137)/cdn.vox-cdn.com/uploads/chorus_image/image/70884775/Loop.0.png' width='700px' /><br/>
+Microsoft has announced the beta for the new Outlook for Windows, which will make the desktop email client a lot more like the web version. While screenshots and an entire build of the app were recently leaked, Microsoft's announcement gives us a good look at what kind of features we can expect to see coming to our inboxes.
+<a href='https://www.theverge.com/2022/5/18/23125532/microsoft-new-one-outlook-beta-feature-details-loop-to-do-calendar'> Source <a/>

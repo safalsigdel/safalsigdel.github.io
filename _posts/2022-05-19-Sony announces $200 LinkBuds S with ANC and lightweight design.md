@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lheVrheCw3S4GwR79hvROpRGum0=/0x0:2040x1366/1200x800/filters:focal(857x520:1183x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70883389/linkbuds2.0.jpg' width='700px' /><br/>
+Sony is indeed adding a new product to its lineup of earbuds. Today, the company announced the $199.99 LinkBuds S. While they share branding with the open-design LinkBuds released earlier this year, the “S” model have a more conventional form factor and in-ear fit. Available in black, white, or beige (exclusively at Best Buy), the LinkBuds S have a compact design and weigh just 4.8 grams each.
+<a href='https://www.theverge.com/2022/5/18/23124164/sony-linkbuds-s-announced-features-price-release-date-earbuds-headphones'> Source <a/>

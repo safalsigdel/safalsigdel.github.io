@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y6R1Ha8QIxF_DKUFphPsWutpWOU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70883586/dbohn_210816_4717_0002.0.jpg' width='700px' /><br/>
+After a lengthy wait, Wear OS users can now use the YouTube Music app to stream their tunes over Wi-Fi and LTE. And, as a bonus, users can also add the app as a widget for quicker access to recently played playlists or YouTube Music's browse page.
+<a href='https://www.theverge.com/2022/5/18/23124197/google-android-wear-os-youtube-music-streaming-smartwatch'> Source <a/>

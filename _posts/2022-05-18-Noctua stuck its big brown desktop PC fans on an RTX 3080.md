@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iSj727ATupG7rjM_hY5fR4LBk7Q=/34x189:1238x869/1200x800/filters:focal(295x343:615x663)/cdn.vox-cdn.com/uploads/chorus_image/image/70879959/kv.0.jpg' width='700px' /><br/>
-Asus has teamed up with renowned fan manufacturer Noctua once again to make a large brown and tan graphics card that should pump out frames while staying relatively quiet. The two companies' last collaboration was an RTX 3070, but now they've announced a decidedly enthusiast tier card: an RTX 3080.
-<a href='https://www.theverge.com/2022/5/17/23078107/noctua-asus-rtx-3080-graphics-card-quiet'> Source <a/>

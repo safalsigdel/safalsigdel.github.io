@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nl9uCSiGf85muHwXlSZNuC3BrQA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70879227/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-Google announced a new initiative Tuesday aimed at securing the open-source software supply chain by curating and distributing a security-vetted collection of open-source packages to Google Cloud customers.
-<a href='https://www.theverge.com/2022/5/17/23097529/google-assured-open-source-software-security-vetted-libraries'> Source <a/>

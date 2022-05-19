@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vi1KbvB7lzV8Crx0Aq_9TxTQnl8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70885466/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+More long-term Netflix subscribers are canceling their subscriptions, according to a report from The Information. Survey data viewed by the outlet revealed that subscribers who have been with the service for more than three years accounted for 13 percent of cancellations in the first quarter of 2022.
+<a href='https://www.theverge.com/2022/5/18/23125424/netflix-losing-long-term-subscribers-streaming'> Source <a/>
