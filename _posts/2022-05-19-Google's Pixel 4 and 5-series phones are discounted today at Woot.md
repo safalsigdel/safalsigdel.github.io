@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MvejiMCQ1ZNHDfvoW4kYHds6-5Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70882848/akrales_201012_4137_0117.0.0.jpg' width='700px' /><br/>
-There's been a lot of talk about new Pixel phones lately, with last week's Google I/O showing off not just a new Pixel 6A but a brief glimpse of the upcoming Pixel 7 and 7 Pro. But Woot is showing love for some slightly older Pixels with a sale event that'll end later today. Somehow, Woot got its hands on phones that are all still new in the box with full one-year warranties.
-<a href='https://www.theverge.com/good-deals/2022/5/18/23122601/google-pixel-4-5-5a-new-unlocked-woot-amazon-prime-deal-sale'> Source <a/>
