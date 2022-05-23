@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BgnW3KuFLHqGCdOuiKBlwD3P8mY=/0x0:5315x3543/1200x800/filters:focal(1905x852:2755x1702)/cdn.vox-cdn.com/uploads/chorus_image/image/70900395/Odyssey_Neo_G8_lifestyle_2.0.jpg' width='700px' /><br/>
+Samsung's latest high-end gaming monitor — the curved 32-inch Odyssey Neo G8 — is now available to preorder for $1,500 and will be available to purchase on June 6th, the company has announced. The news follows its reveal back at CES in January.
+<a href='https://www.theverge.com/2022/5/23/23137590/samsung-odyssey-neo-g8-gaming-monitor-price-release-date-specs-preorder'> Source <a/>
