@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tWbHAuuuXkeLwoN6yCnDpqrqnEk=/0x0:4000x2668/1200x800/filters:focal(1709x1273:2349x1913)/cdn.vox-cdn.com/uploads/chorus_image/image/70898219/1232158409.0.jpg' width='700px' /><br/>
+Hyundai is building facilities dedicated to manufacturing electric vehicles (EVs) and batteries in Savannah, Georgia, marking Hyundai's first EV-only plant in the US (via CNBC). The South Korean automaker will spend $5.5 billion on the new facilities and will receive an additional $1 billion investment from its suppliers.
+<a href='https://www.theverge.com/2022/5/22/23136871/hyundai-building-ev-battery-production-facilities-georgia'> Source <a/>

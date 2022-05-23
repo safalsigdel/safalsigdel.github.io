@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/25GhPEJI5bcOkzcsrzRxCF6G0l0=/127x220:3524x2703/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/70894793/IMG_2347__1_.0.jpeg' width='700px' /><br/>
+The era of fixing your own gadgets has nearly arrived, and Valve's Steam Deck handheld gaming PC may be setting the best example yet — not only does it offer a repair-friendly design, but it now looks like almost every part will be sold separately at iFixit.
+<a href='https://www.theverge.com/2022/5/21/23133302/ifixit-steam-deck-repair-parts-leak'> Source <a/>

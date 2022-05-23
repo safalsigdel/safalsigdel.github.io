@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BQrg1pMkJB2RqEQRKa_o93pQ_D4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70895568/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+Google has reached an interim agreement with Match Group, the dating app provider behind Tinder, Hinge, and OkCupid, that will allow its apps to remain on the Google Play Store while offering alternate payment systems, as first reported by The Wall Street Journal.
+<a href='https://www.theverge.com/2022/5/21/23135768/google-match-alternate-payment-systems-play-store-android-2023-trial-antitrust'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PMysEH2EkgC0389Wj5H0LCNXkQc=/0x0:1064x709/1200x800/filters:focal(415x302:585x472)/cdn.vox-cdn.com/uploads/chorus_image/image/70898777/1239031149.0.jpg' width='700px' /><br/>
+Computex is just hours away and will feature keynotes from some of the biggest names in tech, including AMD, Nvidia, and Microsoft. There will almost certainly be some exciting announcements from each brand, but since Computex takes place in Taipei, Taiwan, the keynotes don't occur at the most convenient times (at least for those of us in North America).
+<a href='https://www.theverge.com/2022/5/22/23137168/how-to-watch-amd-nvidia-microsoft-computex-2022-keynotes'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aVnXFM65vtRN2ifHGP8FVEgGUZs=/0x0:1440x733/1200x800/filters:focal(605x252:835x482)/cdn.vox-cdn.com/uploads/chorus_image/image/70892942/K_Pop_Blend_FTR_Post_Header_1440x733.0.png' width='700px' /><br/>
+After introducing its Blend playlists last year, Spotify announced Friday that it's expanding the feature to include K-pop artists — and yes, that includes the mega-popular boyband BTS.
+<a href='https://www.theverge.com/2022/5/20/23132473/spotify-kpop-blend-playlists'> Source <a/>

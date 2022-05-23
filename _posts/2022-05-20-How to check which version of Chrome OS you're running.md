@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XuzXaIV8KpFfG-gybm6sD1uYxIw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70888849/vpavic_190731_3630_0080_result.0.jpg' width='700px' /><br/>
-I once picked up a Chromebook that hadn't been used for a while in order to try out what was then a relatively new Chrome OS feature: virtual desktops. But when I hit the key that was supposed to bring those desktops up on my screen, I didn't see anything. I did some checking around, and I found that the feature was expected to be available as of version 77 of Chrome OS — several iterations after the version I was running.
-<a href='https://www.theverge.com/23125531/chrome-os-chromebook-version-how-to'> Source <a/>

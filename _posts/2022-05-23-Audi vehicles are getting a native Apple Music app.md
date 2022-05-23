@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y-CbDU65vf13hf4c8z22nLXsJe0=/0x0:2988x2046/1200x800/filters:focal(1255x784:1733x1262)/cdn.vox-cdn.com/uploads/chorus_image/image/70892323/A222721_large.0.jpg' width='700px' /><br/>
+Audi is adding Apple Music into its cars' infotainment systems, giving drivers the ability to listen to their playlists and catch up on podcasts without the need for any additional device. This marks the second Volkswagen group automaker to get the integrated streaming music service, as Porsche had already added the feature into its all-electric Taycan.
+<a href='https://www.theverge.com/2022/5/20/23132360/audi-apple-music-mmi-2022-ota-update-streaming'> Source <a/>

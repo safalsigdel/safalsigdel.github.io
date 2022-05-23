@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/012ThDNwnK77F0rXgjxKAJM3nxo=/0x0:3921x2613/1200x800/filters:focal(1648x994:2274x1620)/cdn.vox-cdn.com/uploads/chorus_image/image/70898483/1163938307.0.jpg' width='700px' /><br/>
+Dota 2's annual tournament, The International, will take place in Singapore this October. While Valve has held The International in the US, Canada, China, Germany, and Romania in the past, this is the first time the global esports competition is heading to a country in Southeast Asia.
+<a href='https://www.theverge.com/2022/5/22/23137035/dota-2-the-international-singapore-southeast-asia'> Source <a/>

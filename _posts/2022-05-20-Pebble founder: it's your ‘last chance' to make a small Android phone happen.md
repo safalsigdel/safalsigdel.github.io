@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VYwkBYXp4hSuOgAjgf8h1lxo3xw=/0x0:2518x1586/1200x800/filters:focal(1401x340:1803x742)/cdn.vox-cdn.com/uploads/chorus_image/image/70888665/Screen_Shot_2022_05_18_at_16.21.21.0.png' width='700px' /><br/>
-Eric Migicovsky, who founded and helmed the Pebble smartwatch company and who's working on a chat app that will bring iMessage to Android, has a new quest: getting someone, anyone, to make an Android phone you can actually use in one hand. He wants to, as he put it in an interview with The Verge, “unionize” a community of small phone lovers to get sway with phone manufacturers and suppliers.
-<a href='https://www.theverge.com/23125959/pebble-founder-eric-migicovsky-small-android-phone-quest-iphone-mini'> Source <a/>

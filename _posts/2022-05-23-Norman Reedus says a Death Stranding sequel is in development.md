@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pB7JF5CBBZm5k0umrgyH9Bfb73M=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70892081/death_standing_e3_2018_screen_24_ps4_eu_22may19_1558518825923.0.jpg' width='700px' /><br/>
+We've known for some time that enigmatic game director Hideo Kojima was working on a new project, but there hasn't been much indication as to what it might be. Now, however, it looks like we know after actor Norman Reedus let it slip in an interview that he's working on a sequel to Death Stranding.
+<a href='https://www.theverge.com/2022/5/20/23132346/death-stranding-sequel-norman-reedus-hideo-kojima'> Source <a/>

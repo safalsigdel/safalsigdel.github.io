@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h0Ts1U8yF8022vt4AhJv6OEoXW4=/0x0:1200x630/1200x800/filters:focal(234x210:426x402)/cdn.vox-cdn.com/uploads/chorus_image/image/70887053/_Re73a9_.0.png' width='700px' /><br/>
-Fastly, a major provider of cloud services, announced today that it's acquiring Glitch, the quirky and capable web coding platform. Glitch will continue to operate within Fastly, with Fastly planning to grow the team and enable Glitch apps to tap into its edge computing services.
-<a href='https://www.theverge.com/2022/5/19/23126349/glitch-fastly-acquired-coding-anil-dash-fog-creek'> Source <a/>

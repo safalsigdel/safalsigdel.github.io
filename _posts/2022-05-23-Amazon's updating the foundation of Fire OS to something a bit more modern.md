@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lKb8mfQQxS1lpkqVeCp1HNoQhm0=/0x0:1218x848/1200x800/filters:focal(186x385:380x579)/cdn.vox-cdn.com/uploads/chorus_image/image/70892807/Screen_Shot_2022_05_20_at_08.30.29.0.png' width='700px' /><br/>
+Amazon's next Fire 7 tablet will come with a new version of the company's Fire OS operating system, called Fire OS 8 (h/t to Liliputing and AFTVNews). It's based on Android 11, which is a pretty significant upgrade to the foundational tech currently powering Amazon's tablets; the previous version, Fire OS 7, is based on Android 9, which was released in 2018.
+<a href='https://www.theverge.com/2022/5/20/23132470/amazon-fire-os-update-android-pie-10-11-tablets'> Source <a/>

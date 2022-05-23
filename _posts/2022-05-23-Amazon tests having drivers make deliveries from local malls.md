@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Uc2FQn-8JrNd9aYkWgnXzC64hw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70897677/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Amazon is piloting a program that has its contracted Flex drivers picking up and delivering packages from malls, as first reported by Bloomberg. The program, which Bloomberg says Amazon has been running since last year, could help Amazon fulfill orders for same-day or two-day deliveries.
+<a href='https://www.theverge.com/2022/5/22/23136702/amazon-tests-drivers-make-deliveries-from-local-malls-flex'> Source <a/>

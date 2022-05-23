@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RN_dxarAhRfFlEEUWoTbnZ0RUVo=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/70888887/ezgif.com_gif_maker__4_.0.jpg' width='700px' /><br/>
-In celebration of Global Accessibility Awareness Day, Santa Monica Studio is showing off a bunch of the new accessibility features for God of War Ragnarok, including a new audio descriptive version of the game's announcement trailer.
-<a href='https://www.theverge.com/2022/5/19/23131085/god-of-war-ragnarok-accessibility-sony-santa-monica-studio'> Source <a/>

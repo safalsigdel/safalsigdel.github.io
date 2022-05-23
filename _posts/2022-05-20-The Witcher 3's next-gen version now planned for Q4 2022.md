@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q3lX6FLXXID_aTiKBN_nwNnxKZg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70887763/FTIN491VEAAA7eQ.0.jpeg' width='700px' /><br/>
-The next-gen version of The Witcher 3: Wild Hunt is “planned” to release in Q4 2022, developer CD Projekt Red (CDPR) announced Thursday. Previously, CDPR was targeting a Q2 2022 launch for the free update, but it pushed the release in April without providing a new date. Alongside that April announcement, CDPR said it would be bringing development of the update in-house, meaning it would be taking the reins from Saber Interactive.
-<a href='https://www.theverge.com/2022/5/19/23130834/the-witcher-3-wild-hunt-next-gen-version-update-release'> Source <a/>
