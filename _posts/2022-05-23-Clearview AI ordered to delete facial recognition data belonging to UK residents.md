@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/untIMDIcO2fNiDIU79hNgYdZT0w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70899604/acastro_210512_1777_deepfake_0002.0.jpg' width='700px' /><br/>
+Controversial facial recognition company Clearview AI has been ordered to delete all data belonging to UK residents by the country's privacy watchdog, the Information Commissioner's Office (ICO). The ICO also fined Clearview xc2xa37.5 million ($9.4 million) for failing to follow the UK's data protection laws.
+<a href='https://www.theverge.com/2022/5/23/23137603/clearview-ai-ordered-delete-data-uk-residents-ico-fine'> Source <a/>
