@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1runUKN5mPIzvH6O5nj4H9y5jew=/0x0:2880x1612/1200x800/filters:focal(1206x952:1666x1412)/cdn.vox-cdn.com/uploads/chorus_image/image/70831803/R063.0.jpeg' width='700px' /><br/>
-Employees at Apple's Towson Town Center store in Maryland will begin their union election on June 15th, after filing a request with the National Labor Relations Board (NLRB) earlier this month. The store is the second to schedule an election. In April, employees from an Apple Store in Atlanta filed their own petition to hold a union election, which Apple recently agreed to. That vote is set to start on June 2nd.
-<a href='https://www.theverge.com/2022/5/4/23056187/apple-second-store-union-election-petition-retail'> Source <a/>

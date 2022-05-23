@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CN86FSFB4X3SV1LD455lZs00PsU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70900834/dbohn_210816_4717_0002.0.jpg' width='700px' /><br/>
+Good news for Samsung Galaxy Watch 4 owners: the wait is over. Google Assistant is finally available for download starting today.
+<a href='https://www.theverge.com/2022/5/23/23132818/google-assistant-samsung-galaxy-watch-4-wear-os-3'> Source <a/>
