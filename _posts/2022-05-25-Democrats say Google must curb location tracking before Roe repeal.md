@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d1vc4dvb6l9i9xLzmtgiYPLC4Ds=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70906529/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+A group of more than 40 Democratic members of Congress has asked Google to stop collecting and retaining “unnecessary” location data out of fear that it could be used to identify and prosecute people who have obtained abortions.
+<a href='https://www.theverge.com/2022/5/24/23140279/democrat-letter-google-location-data-abortion-surveillance-geofence-warrants'> Source <a/>

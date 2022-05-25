@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HS1VTV6ffY_cD0-sbRhXcYhlcTE=/0x0:1713x1127/1200x800/filters:focal(761x418:1035x692)/cdn.vox-cdn.com/uploads/chorus_image/image/70899443/2022_05_22_21_32_47_Sd3PKK7O7x.0.jpg' width='700px' /><br/>
-Just a few years ago, you could barely find a laptop with an AMD chip. Then, they started sprouting up in a few of the best notebooks you could buy. Now, AMD says its chips will feature in 200 different laptop models in 2022 — and with the just revealed “Mendocino,” announced at Computex 2022, it's trying to “redefine the everyday laptop” as a budget machine with decent battery life.
-<a href='https://www.theverge.com/2022/5/23/23137502/amd-mendocino-zen-2-rdna-2-6nm-battery-life-price-laptop'> Source <a/>

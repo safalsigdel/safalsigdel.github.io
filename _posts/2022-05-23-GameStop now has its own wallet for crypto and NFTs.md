@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_fiBwXaRO56TTIpEAk_KKKUJ5so=/0x0:4721x3233/1200x800/filters:focal(1950x895:2704x1649)/cdn.vox-cdn.com/uploads/chorus_image/image/70900569/1306382120.0.jpg' width='700px' /><br/>
-GameStop has launched a beta for its very own Ethereum wallet that will let users store, send, and receive both cryptocurrency and non-fungible tokens (NFTs) through their web browsers. The wallet is currently available as an extension for Google Chrome and Brave, but GameStop's wallet website indicates it will also be available as an iPhone app in the future.
-<a href='https://www.theverge.com/2022/5/23/23137703/gamestop-wallet-crypto-nft-launch-web3'> Source <a/>

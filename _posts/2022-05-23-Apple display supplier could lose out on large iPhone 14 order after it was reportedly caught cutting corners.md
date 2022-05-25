@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qAu1L7GtOBGRT6FyUZHiMqC1m0c=/0x0:1998x1332/1200x800/filters:focal(840x507:1158x825)/cdn.vox-cdn.com/uploads/chorus_image/image/70896210/akrales_210917_4760_0166.0.jpg' width='700px' /><br/>
-Chinese display manufacturer Beijing Oriental Electronics (BOE) could lose out on 30 million display orders for the upcoming iPhone 14 after it reportedly altered the design of the iPhone 13's display to increase yield rate, or the production of non-defective products, according to a report from The Elec (via 9to5Mac).
-<a href='https://www.theverge.com/2022/5/21/23136001/apple-display-supplier-lose-out-large-iphone-14-order-caught-cutting-corners'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r081JGmfI1Z6tS_5GeJthAwm1Gw=/0x0:1500x844/1200x800/filters:focal(630x302:870x542)/cdn.vox-cdn.com/uploads/chorus_image/image/70904373/2.0.png' width='700px' /><br/>
+The Lord of the Rings: Gollum, the upcoming video game starring Gollum that was first revealed in 2019, will finally be released on September 1st, developer Daedalic Entertainment announced Tuesday. The game will be available on PC, PS4, PS5, Xbox One, and Xbox Series X / S, with a Switch version in the works for “later this year,” according to a press release.
+<a href='https://www.theverge.com/2022/5/24/23138534/the-lord-of-the-rings-gollum-release-date'> Source <a/>

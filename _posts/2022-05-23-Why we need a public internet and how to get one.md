@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F-Rtgh8A7DcLv52LV3ALBRm5vec=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70900719/VRG_ILLO_5234_Ben_Tarnoff.0.jpg' width='700px' /><br/>
-For weeks, tech news has been dominated by billionaire Elon Musk's attempts to buy (and subsequently avoid buying) Twitter. And since Musk announced his plans in April, people have debated whether it's better for online social spaces like Twitter to remain publicly traded companies — where they're under pressure from shareholders — or be owned by a single wealthy figure like Musk.
-<a href='https://www.theverge.com/2022/5/23/23125917/ben-tarnoff-public-internet-interview'> Source <a/>

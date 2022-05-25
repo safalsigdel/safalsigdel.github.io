@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kvKNyDcABLd4a8Ukow1bV0DYtEQ=/0x0:1200x674/1200x800/filters:focal(504x241:696x433)/cdn.vox-cdn.com/uploads/chorus_image/image/70904620/image_002.0.jpg' width='700px' /><br/>
+Microsoft has started testing its new OneNote design refresh. The software maker first teased the visual update last year, revealing that it will unify its OneNote and OneNote for Windows 10 apps into a single OneNote app. Beta testers can now get access to some of the new OneNote design changes as part of the traditional desktop version of OneNote.
+<a href='https://www.theverge.com/2022/5/24/23139312/microsoft-onenote-design-update-build-2022'> Source <a/>

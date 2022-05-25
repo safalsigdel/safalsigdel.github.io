@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/izOT4WuHrRmYPsDvFBynP6z7txw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70907146/acastro_210831_1777_0003.0.jpg' width='700px' /><br/>
+During its WWDC 2021 event, Apple laid down a slew of policy changes for the App Store, adjusting the rules for everything from bounty hunting to whether or not Roblox is a game. Now, with the WWDC 2022 event ready to start on June 6th, Apple is reminding developers that it's ready to flip the switch on some policy updates that were previously delayed.
+<a href='https://www.theverge.com/2022/5/24/23140416/apple-app-store-policy-account-delete-events-in-app-payments'> Source <a/>

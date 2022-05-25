@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0asGypZQ_cv3rKeDr9t_6JWFuuA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70904765/acastro_180504_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Microsoft's Build developer conference is happening on Tuesday, May 24th. The keynote is set to begin at 8:15AM PT / 11:15AM ET. The conference, which will again be held virtually, will provide company updates on upcoming releases on Microsoft Office, Windows, and more.
+<a href='https://www.theverge.com/2022/5/24/23139584/microsoft-build-2022-developers-office-365-windows-conference'> Source <a/>

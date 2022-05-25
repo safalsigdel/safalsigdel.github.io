@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UJF7sS9yeEXQJrHSMs1T1EX6me4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70893176/acastro_201210_1777_gmail_0001.0.jpg' width='700px' /><br/>
-Google Chat has replaced Hangouts and will now display banners warning you against potential phishing and malware attacks coming from personal accounts, Google announced on Thursday. This tweak for Google Chat is the latest expansion of Google's attempts to prevent phishing.
-<a href='https://www.theverge.com/2022/5/20/23132300/google-chat-warning-banner-phishing-cybersecurity'> Source <a/>

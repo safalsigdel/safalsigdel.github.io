@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aU01O1-T_HeXICM3zCTzZ34ldTM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70894141/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple's rumored mixed reality headset seems like the worst-kept secret in tech, and a new report about the device from The Information (its second this week) is chock full of details about the unannounced product's turbulent development.
-<a href='https://www.theverge.com/2022/5/20/23133038/apple-mixed-virtual-augmented-reality-ar-vr-headset-self-contained-device'> Source <a/>

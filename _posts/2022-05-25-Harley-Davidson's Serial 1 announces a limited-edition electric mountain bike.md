@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6lAbMll2sfneAmIhcERzxdD_-mg=/0x0:5190x3460/1200x800/filters:focal(2180x1315:3010x2145)/cdn.vox-cdn.com/uploads/chorus_image/image/70904416/BASH_Lifestyle_20_1.0.jpg' width='700px' /><br/>
+Serial 1, the e-bike company spun out of Harley-Davidson nearly two years ago, unveiled another premium model designed to make you open your wallet in helpless surrender. The Bash/Mtn is the company's first electric mountain bike, and from the look of it, it can absolutely destroy an off-road trail.
+<a href='https://www.theverge.com/2022/5/24/23139394/harley-davidson-serial-1-electric-mountain-bike-bash-mtn-price'> Source <a/>

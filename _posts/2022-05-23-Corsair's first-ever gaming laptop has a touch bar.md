@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ab06QJn1DAikD25QdI2B_Uhdy_c=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/70899494/CORSAIR_VOYAGER_32_UK.0.png' width='700px' /><br/>
-Corsair, after having been a leader in the desktop space for decades, is releasing its first-ever gaming laptop. The new Voyager a1600 is an AMD powerhouse, equipped with both Ryzen 6000-series processors and AMD Radeon RX 6000 series. The device is Corsair's first venture into mobile hardware after acquiring the enthusiast PC builder Origin in 2019.
-<a href='https://www.theverge.com/2022/5/23/23132641/corsair-voyager-a1600-gaming-laptop-amd-advantage-announcement'> Source <a/>

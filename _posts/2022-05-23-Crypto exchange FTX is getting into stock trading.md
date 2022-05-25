@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JpoX5xjIc9FkzTBGHoROviZEVG0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70895778/acastro_170726_1777_0007_v5.0.jpg' width='700px' /><br/>
-Cryptocurrency exchange FTX will soon allow for traditional stock trading alongside its crypto offerings, the company announced in a press release (via The Wall Street Journal). The functionality is currently available to a select number of users in the US, but it's aiming to roll it out to more traders in the coming months.
-<a href='https://www.theverge.com/2022/5/21/23135897/crypto-exchange-ftx-getting-into-stock-trading'> Source <a/>
