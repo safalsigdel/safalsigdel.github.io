@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/npXSF_qVXptpZTYFh4fks7fOgbM=/0x0:1600x1300/1200x800/filters:focal(672x522:928x778)/cdn.vox-cdn.com/uploads/chorus_image/image/70905384/Lightship_VPS_Scanning_Concept_Image.0.png' width='700px' /><br/>
-Niantic made a name for itself in the mobile gaming industry through the enduring success of Pokxc3xa9mon Go. Now the company is hoping to become something else: a platform for other developers to build location-aware AR apps on top of.
-<a href='https://www.theverge.com/2022/5/24/23138313/niantic-lightship-augmented-reality-ar-platform-social-network-gaming'> Source <a/>

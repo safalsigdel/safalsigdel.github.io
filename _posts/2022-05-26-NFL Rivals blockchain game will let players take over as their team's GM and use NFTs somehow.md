@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XEwCA42UsZZvZ1SjwHcEfrCMOpQ=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70908803/NFL_Rivals_keyart.0.png' width='700px' /><br/>
+While we still don't know exactly what 2K will do with its “non-simulation” NFL license (its arcade-style game is delayed and won't be released this year), the league is filling that void by announcing a partnership to build its first blockchain game, NFL Rivals. It's hard to tell exactly what the game will be, but here's the description:
+<a href='https://www.theverge.com/2022/5/25/23141084/nfl-rivals-web3-nft-football-general-manager-game'> Source <a/>

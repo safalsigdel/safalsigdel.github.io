@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U5qENDH3_nlPTu2BMvS4_9a2DDU=/0x0:1080x720/1200x800/filters:focal(440x220:612x392)/cdn.vox-cdn.com/uploads/chorus_image/image/70908112/Screenshot_20220524_200512.0.jpg' width='700px' /><br/>
+YouTube Music will now attempt to suggest which of your Cast-enabled speakers you want to stream music to. It's a nice upgrade over the previous approach, where the app would simply list all of the Cast-enabled devices on your network in alphabetical order. If you're anything like us, that could mean having to hunt through a list of half a dozen speakers, even if there's only one you use on a regular basis.
+<a href='https://www.theverge.com/2022/5/25/23140986/youtube-music-suggested-google-chromecast-cast'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hT24-j4LAsx0VoDy2dkLXBrgipE=/0x0:2400x1350/1200x800/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/70905192/Store_Blog_Header.0.jpg' width='700px' /><br/>
-Microsoft is finally adding restore apps to the Microsoft Store on Windows 11. The software maker will soon start testing a new feature that allows you to restore apps onto a new Windows 11 PC. The existing Microsoft Store hasn't offered an automatic way to restore apps, instead forcing Windows users to manually install apps from their library.
-<a href='https://www.theverge.com/2022/5/24/23139768/microsoft-windows-11-restore-apps-microsoft-store-feature'> Source <a/>

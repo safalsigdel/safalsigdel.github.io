@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DzMrF0CwhP7Gdpg93Ei-nHDd3eo=/0x0:4029x1040/1200x800/filters:focal(913x301:1557x945)/cdn.vox-cdn.com/uploads/chorus_image/image/70908620/Metaverse_SmallFile.0.jpeg' width='700px' /><br/>
+It has been an extremely rough year for cryptocurrency projects, as crashing prices, daily revelations of scams, and the ongoing usability nightmare of blockchain-based computing has left venture capitalists' next big bet looking more like a pipe dream than anything you could reasonably call “web3.”
+<a href='https://www.theverge.com/2022/5/25/23140932/niantic-crypto-web3-nft-spotx-john-hanke'> Source <a/>

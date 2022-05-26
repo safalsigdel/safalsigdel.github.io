@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FWvxJX-VyLeeM4fJIIAwiFQmR6Y=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/70905577/CN021_010CH.0.0.jpg' width='700px' /><br/>
-Stellantis, the parent company of Dodge, Jeep, and Chrysler, has selected Kokomo, Indiana, as the site for its next electric vehicle battery factory. The plant will be built in partnership with South Korea's Samsung SDI, a leading EV battery maker. The companies made the announcement Tuesday alongside Indiana Governor Eric Holcomb and several other local officials in Kokomo.
-<a href='https://www.theverge.com/2022/5/24/23139593/stellantis-samsung-ev-battery-factory-indiana'> Source <a/>

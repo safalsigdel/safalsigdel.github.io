@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mGLBNLm4ytoTCTqGm7PJLgV5YoE=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70904795/VRG_ILLO_Decoder_Michael_Chobanian.0.jpg' width='700px' /><br/>
-The terrible, unprovoked war in Ukraine has destabilized that country's economy and banking system, leading both Ukrainian politicians and citizens to more seriously consider cryptocurrency. I'm pretty skeptical of crypto, but I want to come by that skepticism honestly, and I want to understand more about what was happening there, so I've invited Michael Chobanian to the show.
-<a href='https://www.theverge.com/23138465/decoder-ukraine-war-cryptocurrency-michael-chobanian-interview-bitcoin-usdt'> Source <a/>

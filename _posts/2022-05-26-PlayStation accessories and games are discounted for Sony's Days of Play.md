@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/48lpTBQ-NsWdxkelyTKRBS-232s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70910481/vpavic_4278_20201030_0150.0.jpg' width='700px' /><br/>
+Sony's annual Days of Play promotion has kicked off once again, offering many quality discounts on PlayStation games and accessories. In the past, this event has even seen the launch of limited edition consoles, but that feels like a distant memory now — much like easily buying a console without an online queue.
+<a href='https://www.theverge.com/good-deals/2022/5/25/23141851/sony-playstation-days-of-play-summer-2022-dualsense-headset-accessories-games-discounts-deal-sale'> Source <a/>

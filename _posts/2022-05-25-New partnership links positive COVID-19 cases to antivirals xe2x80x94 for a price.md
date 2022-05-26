@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QQBbDFmsPqSvnkJXD8osFdejJTw=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70905270/Detect_test_box.0.jpeg' width='700px' /><br/>
-The at-home molecular COVID-19 testing company Detect is partnering with healthcare provider Carbon Health to give customers who test positive easy access to antiviral treatments, the companies announced today.
-<a href='https://www.theverge.com/2022/5/24/23139695/detect-covid-test-carbon-health-antivirals-test-treat'> Source <a/>

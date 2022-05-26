@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zViWTvDwvnmzQllcidx_k0az59s=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70908947/1239417994.0.jpg' width='700px' /><br/>
+Stellantis, the parent company of Jeep, Chrysler, and Dodge, has agreed to plead guilty to criminal conduct and pay $300 million to settle a probe into its effort to illegally conceal the amount of pollution created by its diesel engine vehicles, Reuters reports.
+<a href='https://www.theverge.com/2022/5/25/23141165/stellantis-pleads-guilty-300-million-fine-emissions-fraud'> Source <a/>

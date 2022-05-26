@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oZeQtiXlLeOZ7qHJRwULy2-jz3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70909390/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Christopher “CJ” Moore, the former Tesla Autopilot software engineer who left to join Apple's secretive car project last year, has left Apple to join Luminar, an Orlando, Florida-based lidar company, as its new head of software, the company announced. Moore only lasted seven months at Apple.
+<a href='https://www.theverge.com/2022/5/25/23141370/apple-cj-moore-leave-luminar-car-project-titan'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xwvRkAPR5K38PRoh7GcNTKekjVw=/0x0:1356x910/1200x800/filters:focal(570x347:786x563)/cdn.vox-cdn.com/uploads/chorus_image/image/70910425/Screen_Shot_2022_05_25_at_13.40.28.0.png' width='700px' /><br/>
+Google Docs is getting an absolutely lovely feature that could cut down a lot of busywork when it comes to properly formatting your document: the ability to select multiple sections of text at once. If you've got two sentences separated by a heading, or want to apply the same effect to three different words throughout a paragraph, you can now do so by simply selecting the text all at once, and applying your changes.
+<a href='https://www.theverge.com/2022/5/25/23141908/google-docs-multiple-section-selection-text-formating'> Source <a/>

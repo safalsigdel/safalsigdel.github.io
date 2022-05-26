@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uw3wDCJ4H13MMCz9peDXoDarYpQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70906250/vpavic_4261_20201023_0040.0.jpg' width='700px' /><br/>
-Update May 24th, 4:59PM ET: Sony has sold out of PS5 consoles for this restock.
-<a href='https://www.theverge.com/2022/5/24/23043630/sony-playstation-5-ps5-console-direct-restock-availability-inventory-check'> Source <a/>

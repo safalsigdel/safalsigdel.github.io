@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uRD3EcCC24HQLxkKM31nzGvXjcs=/0x0:2880x1598/1200x800/filters:focal(1210x569:1670x1029)/cdn.vox-cdn.com/uploads/chorus_image/image/70904636/Screen_Shot_2021_06_24_at_9.30.02_AM.0.png' width='700px' /><br/>
-Microsoft put PCs in the cloud with Windows 365 last year, and now, it wants to entice developers to use a cloud-powered developer workstation. Microsoft Dev Box is a new cloud service that includes apps and services designed for developers to quickly access a preconfigured developer workstation.
-<a href='https://www.theverge.com/2022/5/24/23137602/microsoft-dev-box-azure-workstation-cloud-build'> Source <a/>

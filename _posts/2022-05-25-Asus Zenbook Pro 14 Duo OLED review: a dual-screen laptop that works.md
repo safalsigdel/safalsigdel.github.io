@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9868/mchin_200731_5205_0004.jpg' width='700px' /><br/>
-Asus did it. It's made a dual-screen laptop that — and there was a time when I never thought I'd be saying these words — is actually pretty good.
-<a href='https://www.theverge.com/23063863/asus-zenbook-pro-duo-14-review-screenpad-plus-dual-screen-laptop-specs-features-price'> Source <a/>

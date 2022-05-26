@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rTp_rHklzOXudxZQcCy5HKLzbEw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70909734/vpavic_191013_3731_0017.0.jpg' width='700px' /><br/>
+Chromebooks are pretty different from traditional laptops in a lot of ways — and not just because of their software.
+<a href='https://www.theverge.com/23141372/remap-chromebook-keyboard-how-to'> Source <a/>

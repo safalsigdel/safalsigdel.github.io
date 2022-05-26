@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tJj_yokg9NR8AHS5mT52mv91O4o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70908679/wjoel_180413_1777_android_002.0.jpg' width='700px' /><br/>
+It's always a good idea to keep your Android apps updated to make sure you have the latest security and bug fixes. Plus, you might be missing out on newly added features.
+<a href='https://www.theverge.com/23139417/android-apps-update-how-to'> Source <a/>

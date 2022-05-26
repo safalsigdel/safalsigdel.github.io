@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oPIkyJJIyrOz06Dx-85o4m0Tiok=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/70908555/ElliQ11.0.jpg' width='700px' /><br/>
+The state of New York will distribute robot companions to the homes of more than 800 older adults. The robots are not able to help with physical tasks, but function as more proactive versions of digital assistants like Siri or Alexa — engaging users in small talk, helping contact love ones, and keeping track of health goals like exercise and medication.
+<a href='https://www.theverge.com/2022/5/25/23140936/ny-state-distribute-home-robot-companions-nysofa-elliq'> Source <a/>

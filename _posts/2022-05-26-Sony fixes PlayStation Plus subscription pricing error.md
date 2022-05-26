@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6HK3GnN1O8WXDHVwiaQIlkmUjgQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70910402/playstation_plus_logo_blog.0.jpg' width='700px' /><br/>
+Sony's correcting what it says was a “technical error” that resulted in users being charged a higher than expected price to upgrade to one of the new PlayStation Plus tiers.
+<a href='https://www.theverge.com/2022/5/25/23141904/sony-playstation-plus-subscription-discount-pricing-overcharge'> Source <a/>

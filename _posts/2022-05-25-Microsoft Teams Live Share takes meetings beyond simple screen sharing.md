@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cR3_69O20pHVsM0P4VDpbLInlDo=/0x0:1279x740/1200x800/filters:focal(538x268:742x472)/cdn.vox-cdn.com/uploads/chorus_image/image/70904624/Hexagon_Prototype_of_Live_Share_in_Teams.0.png' width='700px' /><br/>
-Microsoft is adding a new Live Share feature to Microsoft Teams, which will allow participants to start co-editing or co-creating during Teams meetings. Live Share will be available through apps that integrate into Microsoft Teams, offering more interactive meetings that go beyond simple screen sharing.
-<a href='https://www.theverge.com/2022/5/24/23137619/microsoft-teams-live-share-developers-apps-build-2022'> Source <a/>

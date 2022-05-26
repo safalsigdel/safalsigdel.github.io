@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gG76b6t8raTHPpmJ0uRzV25LwxM=/0x0:1900x193/1200x0/filters:focal(0x0:1900x193):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23585179/Arm_native_Toolchain_logos.png' width='700px' /><br/>
-Microsoft is working on a native Arm64 version of Visual Studio 2022 and a miniature Arm PC. A preview version of an Arm native version of Visual Studio 2022 will be available “in the next few weeks” and is expected to ship fully later this year alongside Arm64 .NET support.
-<a href='https://www.theverge.com/2022/5/24/23139475/microsoft-visual-studio-2022-native-arm-vs-code'> Source <a/>

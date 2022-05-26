@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7RxnTaNqI6EM7QSHScudaFXhnEg=/0x0:1900x1069/1200x800/filters:focal(104x382:408x686)/cdn.vox-cdn.com/uploads/chorus_image/image/70904659/windows11widgets.0.png' width='700px' /><br/>
-Microsoft is planning to support third-party widgets inside Windows 11 later this year. At its annual Build developer conference today, the software giant says it will open up access to Windows 11 widgets to developers as companions to their win32 or PWA apps.
-<a href='https://www.theverge.com/2022/5/24/23137636/microsoft-windows-11-widgets-developers-apps'> Source <a/>

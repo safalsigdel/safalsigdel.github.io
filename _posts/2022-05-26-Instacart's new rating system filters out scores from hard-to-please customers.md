@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qJNqEjvAFZzqNBh5mHD_RhYkljU=/0x0:4000x2667/1200x800/filters:focal(1422x1365:2062x2005)/cdn.vox-cdn.com/uploads/chorus_image/image/70909003/496871326.0.jpg' width='700px' /><br/>
+You just can't please some people, and Instacart's new rating system for shoppers acknowledges that. It now automatically filters out ratings from hard-to-please customers who frequently rate their shoppers lower than five stars. Instacart says the new system is designed to promote a “fair experience” for the shoppers tasked with delivering groceries to users' homes.
+<a href='https://www.theverge.com/2022/5/25/23141129/instacart-new-rating-system-filters-out-difficult-customers'> Source <a/>
