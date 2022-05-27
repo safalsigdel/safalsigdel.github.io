@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YlKdjdNH_U023KibkoXwNzsjgrw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70911736/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-The UK's Competition and Markets Authority (CMA) has launched a new investigation into Google's advertising business over fears the company is unfairly freezing out competitors. It's the second open probe the CMA has on Google, following the announcement in March of a joint investigation with the EU over alleged collusion between Google and Facebook-owner Meta.
-<a href='https://www.theverge.com/2022/5/26/23142597/google-ad-tech-stack-investigation-cma-uk'> Source <a/>
