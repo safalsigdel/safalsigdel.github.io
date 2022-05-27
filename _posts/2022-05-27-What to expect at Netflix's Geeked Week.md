@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KfUTDlbJy212zzimu7_jftrXras=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70912138/SONICPRIME_B.0.jpg' width='700px' /><br/>
+We're still a few weeks out from Netflix's second annual Geeked Week event, which kicks off on June 6th through the 10th. The company already did some teasing via a trailer earlier this month, but a new poster and blog post give some more detail on what will be on display over the five-day-long event. Netflix says more than 60 projects will be featured.
+<a href='https://www.theverge.com/2022/5/26/23141205/netflix-geeked-week-preview-sandman-cyberpunk-one-piece'> Source <a/>

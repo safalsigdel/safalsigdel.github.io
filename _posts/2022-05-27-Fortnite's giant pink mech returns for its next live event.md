@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EX7bn-WB17JX5SSLkCz4Tyt4wV0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70912127/Collision___Key_Art_EN.0.jpg' width='700px' /><br/>
+We're approaching the end of Fortnite's latest season, and developer Epic is teasing the game's next live event that will bring it to a close. It's called “Collision,” and it will kick off on June 4th at 4PM ET; as with past live events, it'll be a be there or miss it kind of experience. Epic says that players will be able to queue up for the event 30 minutes before it begins.
+<a href='https://www.theverge.com/2022/5/26/23141941/fortnite-chapter-3-season-2-live-event-collision-date-time'> Source <a/>

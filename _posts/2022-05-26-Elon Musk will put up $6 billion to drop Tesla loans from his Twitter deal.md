@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V7SyrM7JbYzL2g2F5nXcIYJmccU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70910363/VRG_Illo_STK022_K_Radtke_Musk_Down_arrow.0.jpg' width='700px' /><br/>
-After a brutal month for Tesla stock, Elon Musk will no longer fund his Twitter buyout by borrowing against his Tesla ownership stake.
-<a href='https://www.theverge.com/2022/5/25/23141940/elon-musk-tesla-twitter-margin-loan-buyout-deal'> Source <a/>

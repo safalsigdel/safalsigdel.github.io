@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xl9vlkEVASjrzqA_jfITcVShW7w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70913901/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg' width='700px' /><br/>
+A new lawsuit on behalf of Twitter shareholders was filed against Elon Musk in federal district court in San Francisco on Wednesday night, alleging that the Tesla CEO has actively manipulated the company's stock for personal gain.
+<a href='https://www.theverge.com/2022/5/26/23143148/twitter-shareholder-lawsuit-elon-musk-stock-manipulation'> Source <a/>

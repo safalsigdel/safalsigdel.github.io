@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IedgxUrP3lGxkPv47Yf8hdblEZE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70910412/akrales_180620_1777_0342.0.jpg' width='700px' /><br/>
-Twitter will pay $150 million to settle a privacy lawsuit with the Department of Justice (DOJ) and Federal Trade Commission (FTC). The settlement, announced today, covers a complaint that Twitter deceptively used members' email addresses and phone numbers for targeted advertising. On top of the fine, Twitter must also accept audits of its data privacy program among other restrictions.
-<a href='https://www.theverge.com/2022/5/25/23141968/ftc-doj-twitter-settlement-phone-number-security-ad-targeting'> Source <a/>

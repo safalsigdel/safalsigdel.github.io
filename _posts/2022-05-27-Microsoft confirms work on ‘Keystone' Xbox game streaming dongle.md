@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FWclYsDUzS3oPQawLCyQ-I1yFmA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70914089/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
+Microsoft's long-in-the-works xCloud streaming device is going through some changes, as reported by Windows Central. The company first announced the dedicated streaming dongle in June 2021, but in a statement given to Windows Central, the company said it has pivoted from the “current iteration” of the device, which it says is codenamed Keystone.
+<a href='https://www.theverge.com/2022/5/26/23143181/microsoft-keystone-xbox-xcloud-game-streaming-dongle-codename'> Source <a/>

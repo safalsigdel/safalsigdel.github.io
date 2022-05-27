@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ifSNEtja6eKvDjxzYPtQXSPP8PE=/0x0:1280x824/1200x800/filters:focal(316x294:520x498)/cdn.vox-cdn.com/uploads/chorus_image/image/70914869/Screen_Shot_2022_05_26_at_15.11.18.0.png' width='700px' /><br/>
+Google has announced that it's adding the ability to use keyboard shortcuts to cut, copy, and paste files in Drive, as long as you're using Chrome. The feature will use th— okay, hold on just a minute here. Are you really trying to tell me that we couldn't already do this?
+<a href='https://www.theverge.com/2022/5/26/23143568/google-drive-cut-copy-paste-keyboard-shortcuts'> Source <a/>

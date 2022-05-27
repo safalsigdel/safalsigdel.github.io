@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dmW8ivwtHOB7MewFA3GruqDHBbU=/0x0:2040x1360/1200x675/filters:focal(832x761:1158x1087)/cdn.vox-cdn.com/uploads/chorus_image/image/70913311/jtuohy_220519_5239_0020.0.jpg' width='700px' /><br/>
+Amazon's household robot is exactly what I expected, but it's not what I wanted and it definitely isn't what anyone asked for. Instead of a multitasking mimicry of me that can empty the dishwasher, pick up my kids' shoes, feed the dog, and clean the house, Amazon's first attempt at a home bot is simply a souped-up Echo Show on wheels.
+<a href='https://www.theverge.com/23141966/amazon-astro-robot-review'> Source <a/>

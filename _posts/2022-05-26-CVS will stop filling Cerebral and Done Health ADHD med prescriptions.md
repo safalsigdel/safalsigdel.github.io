@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_WRwuWlzsubpYWoaJEXDAuKloqY=/0x0:3880x2587/1200x800/filters:focal(1630x984:2250x1604)/cdn.vox-cdn.com/uploads/chorus_image/image/70908767/1236435973.0.jpg' width='700px' /><br/>
-CVS pharmacies will no longer fill prescriptions for controlled substances like Adderall from telehealth companies Cerebral and Done Health, The Wall Street Journal reported. It's the latest blow to Cerebral, which is facing investigations from the US Department of Justice and the Drug Enforcement Administration.
-<a href='https://www.theverge.com/2022/5/25/23141069/cvs-controlled-substance-cerebral-done-prescriptions'> Source <a/>

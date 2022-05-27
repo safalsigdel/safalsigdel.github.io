@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o39RZn8WryhK66DJnhM4jRceRko=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70912418/IMG_0207.0.jpg' width='700px' /><br/>
+If you're on an iPhone, Apple Pay is the easiest way to get started with contactless payments. Not only is the digital wallet service free to use but it's also already built into your phone.
+<a href='https://www.theverge.com/23141574/apple-pay-iphone-ipad-mac-apple-watch-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_Zm8mN9yU_nx8QB5WlqHBILEQcI=/0x0:3840x1610/1200x800/filters:focal(1613x498:2227x1112)/cdn.vox-cdn.com/uploads/chorus_image/image/70914117/HUC2_FF_002658.0.jpg' width='700px' /><br/>
+Disney announced at Star Wars Celebration that The Mandalorian's third season will debut in February 2023 on Disney Plus.
+<a href='https://www.theverge.com/2022/5/26/23073135/the-mandalorian-season-3-release-date-star-wars-celebration-disney-plus'> Source <a/>

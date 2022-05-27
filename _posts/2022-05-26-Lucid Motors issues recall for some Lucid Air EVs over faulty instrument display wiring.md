@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3chBAdVtjCtnCvVQoBVFrp7O5Ds=/0x0:7102x5326/1200x800/filters:focal(2983x2095:4119x3231)/cdn.vox-cdn.com/uploads/chorus_image/image/70909304/GTLaunch_INT_Detail_PilotPanel_SantaCruz.5.jpg' width='700px' /><br/>
-Lucid Motors issued a recall notice for some of its luxury electric sedans for a faulty wiring harness connected to the instrument panel. The recall covers 1,117 model year 2022 Lucid Air sedans of all trim levels. The recall was first reported by Lucid Insider, a blog that covers the EV company.
-<a href='https://www.theverge.com/2022/5/25/23141160/lucid-motors-recall-air-ev-wiring-harness-display'> Source <a/>

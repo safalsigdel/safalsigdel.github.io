@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yA84ajgHa-ZH-xCcRfepWe2-Dio=/0x0:640x360/1200x800/filters:focal(269x129:371x231)/cdn.vox-cdn.com/uploads/chorus_image/image/70911588/playstation_vue_logo.0.jpg' width='700px' /><br/>
-Sony plans for roughly half of its game releases to be on PC or mobile by 2025, according to a presentation given during the company's annual investor day. A chart shown during the presentation suggests this would be a major increase from its releases this year, when around a quarter of the company's releases will be on PC and mobile, with the remainder split between its PlayStation 4 and PlayStation 5 consoles.
-<a href='https://www.theverge.com/2022/5/26/23142569/sony-playstation-pc-mobile-game-releases-first-party-portfolio'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/watJGnXwMktN2ZVyAD6pvi-5Iao=/0x0:5327x3398/1200x800/filters:focal(2238x1273:3090x2125)/cdn.vox-cdn.com/uploads/chorus_image/image/70912069/1321540122.0.jpg' width='700px' /><br/>
+Broadcom is acquiring VMware in a $61 billion cash-and-stock deal. It's one of the biggest tech acquisitions ever, behind Dell's $67 billion EMC deal and Microsoft's pending acquisition of Activision Blizzard for $68.7 billion. Broadcom is known for its chip business, designing and manufacturing semiconductors for modems, Wi-Fi, and Bluetooth chips across multiple devices.
+<a href='https://www.theverge.com/2022/5/26/23142653/broadcom-vmware-acquisition-deal-software'> Source <a/>

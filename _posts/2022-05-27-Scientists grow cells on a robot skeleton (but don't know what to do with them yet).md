@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/92NX4n9KpB3p2dDVs0DiYUJlxP8=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70912912/Image_4.0.jpg' width='700px' /><br/>
+The science of tissue engineering — or growing human cells for use in medicine — is very much in its infancy, with only the simplest lab-grown cells able to be used in experimental treatments today. But researchers say a new method of tissue engineering could potentially improve the quality of this work: growing the cells on a moving robot skeleton.
+<a href='https://www.theverge.com/2022/5/26/23142769/tissue-engineering-growing-cells-mobile-robot-skeleton'> Source <a/>

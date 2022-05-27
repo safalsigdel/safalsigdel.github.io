@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M8edK1Ir6WKuh7rRlk3JmPCp-8c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70911802/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+Apple is increasing the amount it pays its retail and corporate employees as it contends with a tight labor market, unionization pushes, and high inflation levels, CNBC and the Wall Street Journal are reporting. The starting hourly rate for retail workers is increasing from $20 to $22 per hour — though some regions will start higher — and starting salaries are also reportedly increasing.
+<a href='https://www.theverge.com/2022/5/26/23142607/apple-minimum-wage-increase-retail-unionization-tight-labor-market-inflation'> Source <a/>

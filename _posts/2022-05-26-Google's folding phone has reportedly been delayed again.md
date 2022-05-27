@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QBJ3Odl4pVMbLc7FT0BIT0kOVlk=/0x0:3000x2000/1200x800/filters:focal(1333x938:1813x1418)/cdn.vox-cdn.com/uploads/chorus_image/image/70910235/dseifert_4711_samsung_z_flip_3_3.0.jpg' width='700px' /><br/>
-Although the long-rumored Pixel Watch has finally arrived, there's still no sign of Google's mysterious folding phone — and we likely won't see it for another year. According to reports from Korean industry site The Elec and supply chain analyst Ross Young (via Android Central), the release of Google's rumored folding phone has been delayed until next spring.
-<a href='https://www.theverge.com/2022/5/25/23141683/folding-google-pixel-phone-reportedly-delayed-2023'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hS2RFKgUA7duNuXJ7OxBcknCdjI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70913495/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Google is highlighting how Chromebooks can work in “zero trust” corporate environments with its new Chrome Enterprise Connectors Framework. The new integration system is designed to make the Chrome browser and Chrome OS devices easier for IT departments to implement with existing security, endpoint, and authentication solutions as well as other management solutions.
+<a href='https://www.theverge.com/2022/5/26/23142956/google-chrome-os-enterprise-framework-security-endpoint'> Source <a/>

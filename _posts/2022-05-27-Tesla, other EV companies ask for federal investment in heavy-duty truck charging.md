@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mrgAARORA5Bk_Rw_h-6lw2S5K7o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70913552/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Tesla, along with other electric vehicle companies and environmental groups, asked the Biden administration to invest in charging infrastructure for electric buses, trucks, and other  medium- and heavy-duty vehicles.
+<a href='https://www.theverge.com/2022/5/26/23142938/tesla-ev-letter-charging-medium-heavy-duty-vehicles'> Source <a/>

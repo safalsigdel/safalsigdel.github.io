@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/clY2AAJjjRJwlaMLQoLAs4ZWWkA=/0x0:7478x5019/1200x675/filters:focal(3794x1829:4990x3025)/cdn.vox-cdn.com/uploads/chorus_image/image/70908124/Dirigera_2_highres.0.jpg' width='700px' /><br/>
-Ikea has a new hub and app that could bring an end to its smart home usability issues. Ikea's new Matter-ready Dirigera hub is now official after a month of leaks and is set to arrive alongside an entirely new Ikea Home Smart app. Unfortunately, both the hub and the new app aren't scheduled to arrive until October.
-<a href='https://www.theverge.com/23139703/ikea-dirigera-home-smart-hub-app-price-date-specs'> Source <a/>

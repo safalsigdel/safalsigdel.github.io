@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aKGcyJdT7wN6jpocV_V3fG_9mIM=/0x0:1454x928/1200x800/filters:focal(611x348:843x580)/cdn.vox-cdn.com/uploads/chorus_image/image/70910117/48GQ900_D9.0.jpg' width='700px' /><br/>
-Late last year, I plopped a giant 48-inch OLED television on my desk in search of the one screen to rule them all. It was fantastic, with amazing color, inky blacks, G-Sync, and FreeSync Premium on a 120Hz panel — but not exactly suited to be the perfect PC screen.  Now, LG is tailoring its television a bit more for desk use with the new LG UltraGear 48GQ900, which adds some of the features I wished I had in that review.
-<a href='https://www.theverge.com/2022/5/25/23141765/lg-48gq900-oled-tv-gaming-monitor-pc'> Source <a/>
