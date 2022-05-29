@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4PBve-1wY-UGqGPUc1X4D7ZueFY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917172/ahawkins_220504_5202_0012.0.jpg' width='700px' /><br/>
+A rural Michigan man became the first person in the nation to receive a Ford F-150 Lightning, according to Bloomberg. Nicholas Schmidt, the chief technology officer of a grid optimization startup, took delivery Thursday of a silver electric truck at Richardson Ford, a dealership in the small town of Standish, Michigan.
+<a href='https://www.theverge.com/2022/5/27/23144346/ford-delivers-first-f150-lightning-electric-truck-chevy-tesla'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0vCJGcoB3Ny1GU7ovV_b7W0zzmo=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/70916594/L_Perspective_Platinum_Titan.0.jpg' width='700px' /><br/>
+Chrome OS isn't the most option-packed operating system around, but there are some things you can do to make your Chromebook's desktop look and work the way you want.
+<a href='https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to'> Source <a/>

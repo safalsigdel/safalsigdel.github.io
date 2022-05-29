@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qZIUJLz-gpfb61PT_syIJ-flkjA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70918894/acastro_210319_1777_nft_0001.0.jpg' width='700px' /><br/>
+The recent collapse of the TerraUSD (UST) stablecoin caught the crypto market by surprise. For people who saw Terra as a more secure asset compared to other, more openly volatile cryptocurrencies, and invested heavily in the coin or its associated Anchor protocol, they are now dealing with the aftermath as they let go of assets to try and make up for their lost nest eggs.
+<a href='https://www.theverge.com/2022/5/27/23144392/terra-stablecoin-crypto-go-read-this'> Source <a/>

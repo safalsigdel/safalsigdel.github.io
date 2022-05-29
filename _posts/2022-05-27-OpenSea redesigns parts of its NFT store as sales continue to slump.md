@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2vWmArp3HZyNflMl89pkU8yFy_o=/94x94:1954x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70914396/Profile_1_1_2048x1365.0.png' width='700px' /><br/>
-OpenSea, one of the largest NFT marketplaces, has redesigned its profile and collections pages with the goal of making the site easier to navigate and making the actual NFTs themselves the center of attention. In an announcement post on Thursday, the company says these redesigns are “just the start” of the company's work to refine how its site works.
-<a href='https://www.theverge.com/2022/5/26/23143241/opensea-redesign-profile-collections-pages-nft'> Source <a/>

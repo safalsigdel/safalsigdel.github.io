@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6QRDbyvsSu0bX_NLrUqC94zqr6g=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70915853/meetthepyro.0.jpg' width='700px' /><br/>
-Valve has responded to a campaign from Team Fortress 2 players who want it to fix the game's bot infestation that has made it almost unplayable in recent years. “TF2 community, we hear you!” the company tweeted from the official Team Fortress 2 Twitter account. “We love this game and know you do, too. We see how large this issue has become and are working to improve things.”
-<a href='https://www.theverge.com/2022/5/27/23144061/valve-team-fortress-2-bot-problem-savetf2-spam'> Source <a/>

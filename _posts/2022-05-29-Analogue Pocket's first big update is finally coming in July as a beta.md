@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IAiRr16oEKUqZgLyJV-ZMQQ6i8o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917662/vpavic_211129_4897_0062.0.jpg' width='700px' /><br/>
+Analogue Pocket's long-awaited 1.1 update will finally be arriving in July, Analogue announced in a short blog post on Friday.
+<a href='https://www.theverge.com/2022/5/27/23144506/analogue-pocket-1-1-update-july-beta-library-memories'> Source <a/>

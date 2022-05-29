@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U9ZKy_bBuXb3uOl2S_DmBYGV3gg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917358/cwelch_202109_4775_5635.0.jpg' width='700px' /><br/>
+If you're planning on flying this summer, a good pair of noise-canceling headphones that can help you tune out fellow passengers like the Bose QuietComfort 45s can come in handy. Regularly $329, you can buy them right now for $279 from Amazon, Best Buy, and Bose, which matches its all-time low and is the first significant discount we've seen in months.
+<a href='https://www.theverge.com/good-deals/2022/5/27/23142897/bose-quietcomfort-45-amazfit-bip-s-lenovo-thinkpad-c13-yoga-sony-ps5-dualsense-controller-deal-sale'> Source <a/>

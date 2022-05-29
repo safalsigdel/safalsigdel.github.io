@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-025SL-moKys4PTHbv-heYgnPWU=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70917403/glowlight4e.0.jpg' width='700px' /><br/>
+Barnes & Noble hasn't completely forgotten its lineup of Nook e-readers. Starting today, you can preorder the new Nook GlowLight 4e for $119.99. That's about $30 more than Amazon's cheapest Kindle and $20 cheaper than Amazon's extremely popular Paperwhite. But, unlike Amazon's products, there are no ads you have to pay to avoid, and you can easily sideload content.
+<a href='https://www.theverge.com/2022/5/27/23144365/barnes-and-noble-nook-glowlight-4e-e-reader-kindle'> Source <a/>

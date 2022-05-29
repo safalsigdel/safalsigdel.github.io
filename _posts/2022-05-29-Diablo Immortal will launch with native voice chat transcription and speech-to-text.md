@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mXRdm0sH_DaTCwLLNv0I7MjIabc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70918393/diablo_immortal.0.png' width='700px' /><br/>
+Diablo Immortal is hell, literally, but playing it doesn't have to be. Ahead of the game's June 2nd release date, the Diablo team at Blizzard talked about some of the accessibility features they've built into Diablo Immortal to make hell that works for everyone.
+<a href='https://www.theverge.com/2022/5/27/23144457/diablo-immortal-accessibility-text-to-speech-voice-transcription'> Source <a/>

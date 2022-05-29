@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/isf5PX5cd334ANZ5JILrAdtFgWw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70918821/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Workers at the Cumberland Mall Apple store will no longer hold a union election in June, according to a report from Bloomberg. The Communications Workers of America (or CWA), the union attempting to organize the store, says it withdrew the request to hold an election because “Apple's repeated violations of the National Labor Relations Act have made a free and fair election impossible.”
+<a href='https://www.theverge.com/2022/5/27/23145034/apple-atlanta-retail-store-union-election-canceled-intimidation'> Source <a/>

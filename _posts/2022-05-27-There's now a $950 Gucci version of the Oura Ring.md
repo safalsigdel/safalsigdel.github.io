@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/isU70IM0q9ZRKyyrlb9ZY29bOtk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70912579/GUCCIxOURA_8.0.jpg' width='700px' /><br/>
-The Oura Ring was one of the buzziest gadgets during the pandemic. Not only did it spark a weird sleep competition between Gwyneth Paltrow and Kim Kardashian, but it was also featured in the NBA's COVID prevention plans, and there were several studies to see whether wearables could predict COVID-19. And now, there's a Gucci version that costs an eye-watering $950.
-<a href='https://www.theverge.com/2022/5/26/23142705/oura-ring-gucci-wearables-sleep-tracker-price'> Source <a/>

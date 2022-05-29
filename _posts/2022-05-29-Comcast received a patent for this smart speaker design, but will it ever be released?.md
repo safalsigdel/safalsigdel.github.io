@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E1IT9vOKqoK_jBBr9sIXcIcBIMI=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/70920550/comcast.1419979278.0.jpg' width='700px' /><br/>
+Comcast has received a patent for a smart speaker — one with a very unusual design, to say the least (thanks to @SteveDonohue on Twitter for pointing this out). Instead of opting for a spherical shape that comes with the Amazon Echo and Apple HomePod Mini, or even the rounded rectangular look of the Google Nest Audio device, a sketch shows what appears to be a speaker with a sloped top and a wide base.
+<a href='https://www.theverge.com/2022/5/28/23145559/comcast-smart-speaker-patent-design-release'> Source <a/>

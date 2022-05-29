@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hfZiOpIdT534PjfHO5o7oAxU6SI=/0x0:2040x1360/1200x675/filters:focal(942x829:1268x1155)/cdn.vox-cdn.com/uploads/chorus_image/image/70912577/jporter_220516_5225_0007.0.jpg' width='700px' /><br/>
-You'll often see people claim that the reason mechanical keyboards died out in the '90s was that membrane keyboards were cheaper, but that's only partially true. That's because, in the early days, a significant part of the appeal of membrane keyboards was their quietness. You could have dozens of workers tapping away on them without making an office unbearably loud for everyone else.
-<a href='https://www.theverge.com/23142689/logitech-mx-master-3s-mouse-review'> Source <a/>

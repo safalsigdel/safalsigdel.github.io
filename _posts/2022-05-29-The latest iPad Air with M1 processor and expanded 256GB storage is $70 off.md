@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gZTPblUOmWuiRsLg-l_vUqYcGFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70920521/akrales_220314_5071_0068.0.jpg' width='700px' /><br/>
+It's officially Memorial Day Weekend. Time to get the grill going, throw some drinks in the cooler, and saddle up for some hot deals. We've been covering sales and discounts for Memorial Day all week, and we've got some fresh ones for your Saturday.
+<a href='https://www.theverge.com/good-deals/2022/5/28/23144495/apple-ipad-air-2022-xbox-series-s-console-google-pixel-6-pro-lenovo-chromebook-duet-5-deal-sale'> Source <a/>

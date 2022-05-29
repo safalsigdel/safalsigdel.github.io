@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NgP8JPYOvtL41H0IaYjtHLEc7B4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917160/VRG_Illo_STK022_K_Radtke_Musk_Money.0.jpg' width='700px' /><br/>
+As concerns mount about the future of Elon Musk's buyout agreement, Twitter's board of directors has seen an unexpected shake-up.
+<a href='https://www.theverge.com/2022/5/27/23144344/elon-musk-investor-twitter-board-egon-durban'> Source <a/>

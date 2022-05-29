@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BZJtsRXR083pczCIwGzwq-HLbJQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917459/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
+Verizon is dealing with an incident where a hacker captured a database containing company employee data, including the full names of workers as well as their ID numbers, email addresses, and phone numbers. Motherboard reported that the database is legitimate, as the anonymous hacker contacted them last week, and they were able to verify the data by calling some of the numbers.
+<a href='https://www.theverge.com/2022/5/27/23144418/hacker-verizon-employee-database'> Source <a/>

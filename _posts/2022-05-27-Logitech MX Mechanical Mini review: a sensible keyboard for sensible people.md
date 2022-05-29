@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HOrbLfO8cPX8GGpZEu2Ol3X-xu4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70912569/jporter_220516_5225_0002.0.jpg' width='700px' /><br/>
-If last year's Logitech Pop Keys wireless mechanical keyboard was all style and no substance, then Logitech's newly announced MX Mechanical keyboards are the polar opposite. These are aggressively functional keyboards with sensible feature sets, sensible designs, and sensible layouts.
-<a href='https://www.theverge.com/23142714/logitech-mx-mechanical-mini-keyboard-review'> Source <a/>
