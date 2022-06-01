@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z7UprKGEugoYHX4i0pfSRJCoqN8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917650/VRG_Illo_5250_K_Radtke_Summer_Gear.0.jpg' width='700px' /><br/>
-The last few years have been incredibly hard for almost everyone, so now that summer is about here, it's a good idea to step outside and decompress a bit with whatever activity suits you best — whether it's a favorite sport, a long hike, overnight camping, bird-watching, bicycling, or just sitting on a beach and watching the waves come in.
-<a href='https://www.theverge.com/23138391/verge-favorite-summer-gear-2022'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o1j4b2fw9T0TirPYuvpd7G8Mn7w=/0x0:1208x716/1200x800/filters:focal(508x262:700x454)/cdn.vox-cdn.com/uploads/chorus_image/image/70918470/meta_privacy_policy.0.jpg' width='700px' /><br/>
-As it occasionally does, the company formerly known as Facebook has produced a new revision of its Terms of Service and updated its privacy policy. The old Facebook Data Policy is now Meta's Privacy Policy, rewritten “to make it easier to understand and to reflect the latest products we offer.”
-<a href='https://www.theverge.com/2022/5/27/23142949/meta-facebook-privacy-policy-terms-of-service-audience-control'> Source <a/>

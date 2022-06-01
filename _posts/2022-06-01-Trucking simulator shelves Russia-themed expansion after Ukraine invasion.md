@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YLTvnjMZTAV64IpOr7ZXjJUsht0=/0x0:540x360/1200x800/filters:focal(184x64:270x150)/cdn.vox-cdn.com/uploads/chorus_image/image/70926166/Socmedia_1920x1080_ETS2_Heart_of_Russia_Statement.0.jpg' width='700px' /><br/>
+Euro Truck Simulator 2 has shelved an upcoming Russia-themed expansion pack after the country's invasion of Ukraine, its developer SCS Software has announced. In a blog post, the Czech Republic-based developer said that it has cancelled the imminent release of the Heart of Russia DLC pack “so that it is not perceived in any way as being in support of or tolerance of the aggression.”
+<a href='https://www.theverge.com/2022/5/31/23148156/euro-truck-simulator-heart-of-russia-dlc-cancelled-ukraine-invasion'> Source <a/>

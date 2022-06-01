@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IPyXRzIA92NySNxRMMqySHA_JbY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70918239/ss_12c4d9a3c04d6d340ffea9335441eb2ad84e0028.0.jpeg' width='700px' /><br/>
-The servers for the Dark Souls series have been offline for PC players for months due to a remote code execution (RCE) exploit that could let hackers take over your computer, but developer FromSoftware is in the process of restoring the servers, according to a PC Gamer article published Friday.
-<a href='https://www.theverge.com/2022/5/27/23144740/fromsoftware-restoring-dark-souls-online-servers'> Source <a/>

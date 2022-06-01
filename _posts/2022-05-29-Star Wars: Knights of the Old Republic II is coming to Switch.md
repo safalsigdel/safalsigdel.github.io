@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/llukTOykEOCMEfk_tdNI59Ku7nA=/0x0:1280x720/1200x0/filters:focal(0x0:1280x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23594547/star_wars_republic_gameplay.jpg' width='700px' /><br/>
-Star Wars: Knights of the Old Republic (KOTOR) II: The Sith Lords is heading to the Nintendo Switch on June 8th, as announced at this year's Star Wars Celebration event. The sequel to the classic KOTOR RPG is supposed to feature some performance enhancements and resolution upgrades, as well as a Restored Content DLC set to arrive post-launch.
-<a href='https://www.theverge.com/2022/5/28/23145825/star-wars-knights-old-republic-ii-sith-lords-nintendo-switch-restored-content-dlc'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9tbHM1KGCK8bHirwVjOfjRJoSl8=/0x0:2126x1266/1200x800/filters:focal(1152x445:1492x785)/cdn.vox-cdn.com/uploads/chorus_image/image/70928812/dell_webcam_monitor.0.png' width='700px' /><br/>
+Dell has finally revealed the $1,599.99 price attached to the UltraSharp 32-inch 4K video conferencing monitor it previewed at CES (via 9to5Mac). If that price sounds familiar, it's because Apple's 27-inch Studio Display costs almost the exact same amount — only Dell justifies the price with the monitor's size and its camera sensor, while Apple's sales pitch leans on that still-rare 5K resolution.
+<a href='https://www.theverge.com/2022/5/31/23148628/dell-ultrasharp-u3223qz-monitor-4k-webcam-microphone'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CXKXcKwPZL--FNtBGXHWxunA4xc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70920872/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter started testing Circle earlier this month with a limited group, and now it looks like it's starting to roll out to more users (via Android Police). The feature works a lot like Instagram's Close Friends, as it allows users to send out tweets to a specific group of people rather than all of Twitter.
-<a href='https://www.theverge.com/2022/5/28/23145745/twitter-circle-starting-roll-out-more-users'> Source <a/>

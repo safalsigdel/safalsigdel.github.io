@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RR5sVOLR7_Tw9Lnc5EhpJRT7Wj8=/0x0:2943x1962/1200x800/filters:focal(1237x746:1707x1216)/cdn.vox-cdn.com/uploads/chorus_image/image/70925428/1164791737.0.jpg' width='700px' /><br/>
+Epic Games has announced plans to host an in-person Fortnite competition in November, its first major in-person competitive Fortnite event since the Fortnite World Cup in 2019.
+<a href='https://www.theverge.com/2022/5/30/23147801/fortnite-in-person-competition-fncs-invitational'> Source <a/>

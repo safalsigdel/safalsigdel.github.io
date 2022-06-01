@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zh5Zq8S5fbteAZ1fp6tPevL7c5g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70922375/akrales_210917_4760_0117.0.jpg' width='700px' /><br/>
-Apple may finally bring always-on display to the upcoming iPhone 14 Pro and Pro Max. According to a report from Bloomberg's Mark Gurman, Apple could introduce the feature with iOS 16, allowing the iPhone to display a limited amount of information even when it's locked.
-<a href='https://www.theverge.com/2022/5/29/23146454/iphone-14-pro-max-always-on-display-apple-wwdc-rumors'> Source <a/>

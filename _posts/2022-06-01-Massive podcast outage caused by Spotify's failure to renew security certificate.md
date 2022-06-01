@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WOlg2hjJokdfOMDpaAyq6DyVV0Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70928150/acastro_201110_4286_spotify_0001.0.jpg' width='700px' /><br/>
+Podcast listeners could not access many of their favorite shows for more than eight hours on Monday night and early Tuesday morning due to an outage on Megaphone, a podcast hosting platform owned by Spotify. The outage stemmed from the company's failure to renew Megaphone's security certificate.
+<a href='https://www.theverge.com/2022/5/31/23148682/spotify-podcast-outage-ssl-joe-rogan-ringer-megaphone'> Source <a/>

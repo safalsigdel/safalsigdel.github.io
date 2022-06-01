@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/04RzsKUqpRGMe2lalVXAn73qSGg=/0x0:1208x805/1200x800/filters:focal(508x307:700x499)/cdn.vox-cdn.com/uploads/chorus_image/image/70927023/xm4silver.0.jpg' width='700px' /><br/>
+While Sony's WH-1000XM5 recently debuted with a higher price and just a couple of improvements, you can pick up the still very good XM4 model for a low price at Woot. Normally $348, the silver model is available new for $259.99. It's been about six months since we've seen a price beat this one. (Amazon sold them for $248 around Black Friday.)
+<a href='https://www.theverge.com/good-deals/2022/5/31/23148260/sony-wh-1000-xm4-noise-canceling-headphones-apple-magsafe-switch-sale'> Source <a/>

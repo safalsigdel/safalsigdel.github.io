@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xwzGI75nXYtXK5x6pQRZ6c5l0QU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917617/dseifert_201020_4247_0003.0.0.jpg' width='700px' /><br/>
-If you're getting tired of saying “Alexa” to get your smart speaker's attention, or if Amazon's voice assistant keeps thinking you've called on it when you haven't, it might be time to try a new name.
-<a href='https://www.theverge.com/23144484/change-alexa-echo-wake-word-name-how-to'> Source <a/>

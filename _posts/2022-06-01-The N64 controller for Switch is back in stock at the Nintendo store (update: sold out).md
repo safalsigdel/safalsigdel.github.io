@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5czZUNpNeOHOQYyorNDznt03jWo=/0x0:1194x835/1200x800/filters:focal(502x323:692x513)/cdn.vox-cdn.com/uploads/chorus_image/image/70927506/114294_switch_nso_n64_controller_lifestyle_2000x2000.0.jpeg' width='700px' /><br/>
+Update 1:05PM ET, May 31st: Nintendo's latest wave of N64 controllers has sold out. Stay tuned for a new drop in the coming days, weeks, or months. We're admittedly not sure when that will be, but hopefully soon!
+<a href='https://www.theverge.com/2022/5/31/23071094/n64-controller-in-stock-nintendo-store-switch-online'> Source <a/>

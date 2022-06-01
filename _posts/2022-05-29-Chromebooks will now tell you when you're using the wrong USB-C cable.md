@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GNcgOshh-fc-I5GqJidoC9b6PyU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70917326/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google's latest Chromebook update adds a feature that tells you if your USB-C cable has limited functionality, the company announced Friday. USB-C cables can have widely varying capabilities, offering things like different charging and data transfer speeds on a cable-by-cable basis, so this new Chromebook feature seems like it could be a useful tool to help troubleshoot issues.
-<a href='https://www.theverge.com/2022/5/27/23144411/google-chromebooks-wrong-usb-c-cable-cursive'> Source <a/>

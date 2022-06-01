@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2n366lSIDXQEGREnGCQ3uxC8OKw=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/70929803/Forerunner_255_series_family_image.0.png' width='700px' /><br/>
+Just in time for Global Running Day, Garmin is introducing two new running watches to its Forerunner lineup: the $349.99 Forerunner 255 and the $499.99 Forerunner 955. Both GPS watches sport multi-band GPS and new racing features, including a race widget. The Forerunner 955 will also come in a Solar version, which, as the name suggests, adds solar charging for even longer battery life.
+<a href='https://www.theverge.com/2022/5/31/23148570/garmin-forerunner-255-955-wearables-smartwatches'> Source <a/>

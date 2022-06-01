@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cv_8APNgkYaxGN1FLlozxn-FiyI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70926954/fujifilm_x_h1s_with_18_120_front.0.jpg' width='700px' /><br/>
+Fujifilm's latest X-Summit event is happening today in Omiya, Japan, and it brings several new announcements for its X-series of APS-C mirrorless cameras, including two cameras and two lenses. The headliner is the 26-megapixel X-H2S camera, which Fujifilm calls its new high-speed flagship model. It is the successor to 2018's X-H1 and will launch on July 7th for $2,499 (without a lens).
+<a href='https://www.theverge.com/2022/5/31/23143007/fujifilm-xh2s-xf150600-xf18120-xh2-price-specs-availability'> Source <a/>

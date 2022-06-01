@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/okx536FnlVpU2F2GIE3WDWOnXsU=/0x0:1080x610/1200x800/filters:focal(454x219:626x391)/cdn.vox-cdn.com/uploads/chorus_image/image/70920759/ayn_loki_handheld_windows.0.jpg' width='700px' /><br/>
-Ayn, the maker of the Odin Android handheld, is releasing a lineup of what it calls the “most affordable” portable Windows gaming consoles yet (via Liliputing). The cheapest of the bunch starts at just $299 — $100 less than the 64GB Steam Deck.
-<a href='https://www.theverge.com/2022/5/28/23145658/ayn-loki-handheld-runs-windows-starts-299'> Source <a/>

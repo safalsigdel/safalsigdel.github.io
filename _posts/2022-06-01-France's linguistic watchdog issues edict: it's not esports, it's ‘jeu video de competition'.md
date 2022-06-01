@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m6fA8jex2jZBqluFmgTTjbL7f9E=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70927149/1399934404.0.jpg' width='700px' /><br/>
+France's national linguistic watchdog, the Acadxc3xa9mie Franxc3xa7aise, has banned the official usage of a number of phrases borrowed from English to describe the world of gaming.
+<a href='https://www.theverge.com/2022/5/31/23148358/france-academie-francaise-esports-gaming-translations'> Source <a/>
