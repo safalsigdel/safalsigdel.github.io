@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/afIvnD5XbF3bzAs0lHJkPv64QKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70930809/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
+Getting to know your colleagues can be tricky when working remotely, but Slack is adding a handful of new features to its user profiles that should make things a little more fluid.
+<a href='https://www.theverge.com/2022/6/1/23148162/slack-name-pronunciation-user-profiles-pop-up-card'> Source <a/>

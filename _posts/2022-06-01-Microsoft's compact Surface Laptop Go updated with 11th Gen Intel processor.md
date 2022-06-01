@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MrJjzmjt67VlmNaQdW82OOD0C6M=/0x0:5062x3375/1200x800/filters:focal(2127x1284:2935x2092)/cdn.vox-cdn.com/uploads/chorus_image/image/70930819/Feature_C_05_RGB.0.jpg' width='700px' /><br/>
+The most compact and affordable entry in Microsoft's lineup of Surface Laptops — the Surface Laptop Go — is being updated with a newer chip as well as an “improved” webcam and thermals. The Surface Laptop Go 2 is powered by an 11th Gen Intel Core i5-1135G7 processor (up from 10th Gen in the previous model), with prices starting at $599.99 for a model with 4GB of RAM and 128GB of storage.
+<a href='https://www.theverge.com/2022/6/1/23149723/microsoft-surface-laptop-go-2-price-features-compact-chromebook-competitor'> Source <a/>
