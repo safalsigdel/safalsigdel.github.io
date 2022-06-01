@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QncQ65Nl5qUUQMIhjbmw9lAwgCU=/0x0:666x444/1200x800/filters:focal(280x169:386x275)/cdn.vox-cdn.com/uploads/chorus_image/image/70926287/Screen_Shot_2022_05_31_at_10.22.24_AM.0.jpg' width='700px' /><br/>
-Microsoft looks set to announce an updated version of its compact Surface Laptop Go, if an early retailer listing from Korea is to be believed.
-<a href='https://www.theverge.com/2022/5/31/23148178/microsoft-surface-laptop-go-2-korean-retailer-leak'> Source <a/>
