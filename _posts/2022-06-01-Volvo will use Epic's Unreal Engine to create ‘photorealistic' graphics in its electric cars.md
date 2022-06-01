@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GLAUha5liyHf_wXSYp9BtI70WDI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70930192/301693_Volvo_Cars_and_Epic_Games_bring_real_time_photorealistic_visualisation.0.jpg' width='700px' /><br/>
+Volvo will be the latest automaker to tap into the graphical prowess of Epic Games' Unreal Engine. The Swedish automaker said it will partner with the Fortnite creator to bring “photorealistic visualization” into its next generation of electric vehicles.
+<a href='https://www.theverge.com/2022/6/1/23144461/volvo-epic-unreal-engine-hmi-human-machine-interface-partnership'> Source <a/>
