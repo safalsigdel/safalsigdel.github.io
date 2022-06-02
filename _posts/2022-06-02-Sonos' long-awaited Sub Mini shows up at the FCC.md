@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5JKEEMdS9MZRWW7JGZr_pEWGUUI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70935130/acastro_180529_sonos_1777_0003.0.0.jpg' width='700px' /><br/>
+Even before its latest soundbar hits store shelves, Sonos is moving closer to the release of its next product — and it's an eagerly anticipated one. As noted by Redditors and Protocol's Janko Roettgers, the upcoming Sonos Sub Mini subwoofer has passed through the FCC.
+<a href='https://www.theverge.com/2022/6/2/23151437/sonos-sub-mini-budget-subwoofer-fcc-specs-design'> Source <a/>
