@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NHwfAToP2rjSFQ8C1l1cyl77Oog=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70931443/vc2s_lifestyle_4_hr.0.jpg' width='700px' /><br/>
-Focusrite, the British manufacturer of audio interfaces and recording tools, is introducing a new line of devices designed for home podcast recording. The Vocaster One and Vocaster Two take the key parts of Focusrite's popular interfaces and tailor them to amateur podcasters and other home audio creators.
-<a href='https://www.theverge.com/2022/6/1/23145083/focusrite-audio-interface-podcasting-vocaster-release-date'> Source <a/>
