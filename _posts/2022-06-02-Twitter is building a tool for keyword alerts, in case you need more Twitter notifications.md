@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OpDx_Ai-zetJpF8WrJu0QBTBzlc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70935337/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+Twitter appears to be working on a feature called “Search Subscribe,” which will let users opt to receive notifications for new tweets matching a search query. The feature was first spotted by developer Dylan Roussel, and appears to put Twitter's bell notification icon next to the search box in its app. Tap the bell, and you'll get notifications for new results.
+<a href='https://www.theverge.com/2022/6/2/23151492/twitter-keyword-alerts-notifications'> Source <a/>

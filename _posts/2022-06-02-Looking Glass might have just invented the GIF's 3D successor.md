@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7fzhum6NyN_FUj3EWfnI-z6P1DQ=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23582659/acastro_5127_220519_0001.jpg' width='700px' /><br/>
-On June 15th, 1987, CompuServe introduced the GIF, a way to share images — or animated sequences of images — anywhere. The incredible portability of the late Steve Wilhite's “graphics interchange format” made it the perfect canvas for viral memes.
-<a href='https://www.theverge.com/23132875/looking-glass-blocks-3d-vr-sharable-image'> Source <a/>
