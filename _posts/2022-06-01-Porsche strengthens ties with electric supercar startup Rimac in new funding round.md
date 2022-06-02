@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WW1Q3unBCyvEn_-45c_71L4M2bw=/0x0:2160x1441/1200x800/filters:focal(908x549:1252x893)/cdn.vox-cdn.com/uploads/chorus_image/image/70930096/rimac_nevera_0045.0.jpg' width='700px' /><br/>
-Porsche is strengthening its ties with Rimac, an electric supercar company, by participating in a $500 million investment round for the Croatia-based startup. Porsche didn't disclose the exact amount it invested in Rimac, except to say it was “eight figures.” And Porsche won't have a controlling interest in Rimac, retaining its previously disclosed 20 percent equity stake in the company.
-<a href='https://www.theverge.com/2022/6/1/23148698/porsche-rimac-investment-electric-supercar-500-million'> Source <a/>

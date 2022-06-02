@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/doTb0B0pERjko8SGF2RBkqLHKDI=/0x0:3802x2534/1200x800/filters:focal(1597x963:2205x1571)/cdn.vox-cdn.com/uploads/chorus_image/image/70930827/Titan_GT77_Scenario_photo__56_.0.jpg' width='700px' /><br/>
-MSI's Titan used to be the company's highest-performance gaming notebook, rivaled only by desktop-adjacent devices like Alienware's Area-51m in terms of performance and power. Such devices, while impressive, are a fairly niche product, and the company hasn't refreshed the Titan line in a few years.
-<a href='https://www.theverge.com/2022/6/1/23141837/msi-titan-gt77-raider-ge77-ge67-hx-intel-250w-cpu-gpu'> Source <a/>

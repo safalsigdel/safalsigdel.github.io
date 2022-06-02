@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U92VeNZcaiYv2R76fhTGgRbFP7c=/0x0:1125x1729/1200x800/filters:focal(91x1381:271x1561)/cdn.vox-cdn.com/uploads/chorus_image/image/70928832/IMG_4739.0.jpg' width='700px' /><br/>
-Some TikTok users have started noticing a “Clear Mode” option, which lets them watch a video without the UI overlay that usually shows things like the favorite and comment buttons and other info about the video. TikTok confirmed to TechCrunch that it's currently testing the feature, but it's unclear how many people have access to it.
-<a href='https://www.theverge.com/2022/5/31/23148901/tiktok-clear-mode-test-longer-videos-ui-user-interface'> Source <a/>

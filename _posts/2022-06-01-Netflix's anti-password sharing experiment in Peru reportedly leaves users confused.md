@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3wHFcPl2jsGGkIM5r0IJEuR8MjM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70929361/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix's test to crack down on password sharing has reportedly left some users confused, according to a report from Rest of World. The streaming service started experimenting with password-sharing solutions in Peru, Chile, and Costa Rica in March, prompting subscribers in these markets to pay an additional fee to enable streaming for others outside their household who use the same account.
-<a href='https://www.theverge.com/2022/5/31/23149206/netflix-password-sharing-crackdown-peru-experiment'> Source <a/>

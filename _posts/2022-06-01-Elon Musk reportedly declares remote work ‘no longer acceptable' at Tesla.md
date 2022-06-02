@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9vwFTbVJ7k-j92taTvwwQQnTqaA=/0x0:4000x2608/1200x800/filters:focal(1846x778:2486x1418)/cdn.vox-cdn.com/uploads/chorus_image/image/70930476/1395371342.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk has taken a hardline stance against his employees working from home, Electrek and Bloomberg report. In an email apparently sent to the company's executive staff with the subject line “Remote work is no longer acceptable,” the CEO said employees must spend a minimum of 40 hours per week in the office, or else “depart Tesla.” He said this should be a “main Tesla office,” and not a “remote branch office.”
-<a href='https://www.theverge.com/2022/6/1/23149784/elon-musk-tesla-remote-work-leaked-email-40-hours'> Source <a/>
