@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JwkRy13GFZQ9n_aB-_qa0BCeTiU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70935204/vpavic_4278_20201030_0041.0.jpg' width='700px' /><br/>
+Amazon is offering a new and more orderly way for shoppers to buy a PS5. You can request an invitation right here on the console's product page (it's to the right, where a “buy” button would normally be located), and the company says that if you're chosen, you'll receive an e-mail with a link to purchase one within 72 hours. What's more, you don't need to be a Prime subscriber to request an invite.
+<a href='https://www.theverge.com/2022/6/2/23151466/playstation-5-ps5-invite-amazon-buy-restock'> Source <a/>
