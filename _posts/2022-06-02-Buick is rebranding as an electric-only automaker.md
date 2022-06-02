@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qHsGtQ_vpvZ3pw39J5Ibozj4P1M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70930799/Buick_Wildcat_AP3_6412.0.jpg' width='700px' /><br/>
-Buick, the iconic American automaker owned by General Motors, announced a raft of major changes meant to underscore its shift to electric vehicles.
-<a href='https://www.theverge.com/2022/6/1/23148699/buick-ev-electric-rebrand-electra-wildcat-concept'> Source <a/>
