@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P8hte1sBdMrBSBUiN-THofOGUMA=/0x0:5000x3333/1200x800/filters:focal(2079x1620:2879x2420)/cdn.vox-cdn.com/uploads/chorus_image/image/70930968/1149746681.0.jpg' width='700px' /><br/>
-A week ago today, an 18-year-old man walked into an elementary school in Uvalde, Texas, and committed the latest in our nation's never-ending series of senseless murders. And in the aftermath of that horror — 19 children dead, two teachers dead, 18 more injured — attention once again turned to what role platforms might have played in enabling the violence.
-<a href='https://www.theverge.com/23149885/uvalde-online-threads-yubo-moderation-failure'> Source <a/>
