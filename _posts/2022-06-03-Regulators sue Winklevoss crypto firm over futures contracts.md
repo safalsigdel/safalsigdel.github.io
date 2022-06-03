@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M6fvTFcQayHmnikRTSmMigbsLlg=/0x0:3000x2091/1200x800/filters:focal(946x345:1426x825)/cdn.vox-cdn.com/uploads/chorus_image/image/70936482/1321754622.0.jpg' width='700px' /><br/>
-On Thursday, the Commodity Futures Trading Commission (CFTC) filed suit against Gemini Trust Company, a cryptocurrency business founded by Tyler and Cameron Winklevoss. The commission alleges that Gemini misrepresented key details of its exchange and futures contracts in meetings with regulators in 2017.
-<a href='https://www.theverge.com/2022/6/2/23151924/winklevoss-gemini-bitcoin-futures-contract-cftc-regulation-cryptocurrency'> Source <a/>
