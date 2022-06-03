@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_SCwNScASpCr6Pf-wuOHAc0mAMs=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70939790/0x0_KJC_5055_1.0.jpg' width='700px' /><br/>
+In a tweet that is definitely not meant to distract from the news that he's planning on laying off about 10 percent of his workforce, Tesla CEO Elon Musk said that he was shifting the company's “AI Day” event from August to September in anticipation of being able to show off a “working” Optimus prototype.
+<a href='https://www.theverge.com/2022/6/3/23153047/tesla-robot-prototype-elon-musk-ai-day-fake'> Source <a/>

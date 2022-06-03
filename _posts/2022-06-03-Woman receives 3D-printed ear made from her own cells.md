@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e3tPm2c_k766u9Fvw76H8ne7VVM=/0x0:2130x1420/1200x800/filters:focal(895x540:1235x880)/cdn.vox-cdn.com/uploads/chorus_image/image/70936034/VRG_ILLO_1777_AK_body_data.0.0.jpg' width='700px' /><br/>
-Doctors successfully transplanted a 3D-printed ear made from human cells onto a woman born with a rare ear deformity, 3DBio Therapeutics, the regenerative medicine company behind the implant announced today in a press release. The transplant was part of the first clinical trial of the technology, and its success marks a major step forward for tissue engineering.
-<a href='https://www.theverge.com/2022/6/2/23151690/3d-printed-ear-transplant'> Source <a/>

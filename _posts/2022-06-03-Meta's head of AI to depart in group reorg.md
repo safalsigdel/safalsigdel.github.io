@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O7skIAjvHqUkvPk8f0ol70cZkos=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70936195/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-A day after Sheryl Sandberg announced she is leaving as Meta's COO later this year, the company is losing another executive amid a reorganization of its artificial intelligence group.
-<a href='https://www.theverge.com/2022/6/2/23151819/meta-head-of-ai-jerome-pesenti-to-depart-in-reorg'> Source <a/>

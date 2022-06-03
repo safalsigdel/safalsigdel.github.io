@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Um3OK4mZOEWtovg0fuRZNNHsYk0=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70935970/OWL_Press_Asset_BZ66H0.0.jpg' width='700px' /><br/>
-The Overwatch League has its first official team relocation. The Paris Eternal, one of the League's two European teams, will move to Las Vegas for the 2023 season.
-<a href='https://www.theverge.com/2022/6/2/23151691/overwatch-league-paris-eternal-relocation-las-vegas'> Source <a/>

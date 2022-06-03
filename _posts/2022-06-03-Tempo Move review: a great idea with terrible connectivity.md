@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KBf15HWrnihAFbWjiOMnq4SoKmQ=/0x0:2040x1360/1200x675/filters:focal(889x632:1215x958)/cdn.vox-cdn.com/uploads/chorus_image/image/70939919/IMG_0215.0.jpg' width='700px' /><br/>
+When I first got a sneak peek of the Tempo Move last year, I was stoked. Here was a $495 smart gym that would not only fit into my tiny apartment but also wouldn't look out of place. It used the iPhone's TrueDepth camera tech to track your movements, the classes were great, and the design was so clever I was gobsmacked. And, if it weren't for annoying connectivity issues, the Tempo Move might've been my favorite connected fitness gadget that I've tested in the past year.
+<a href='https://www.theverge.com/23151591/tempo-move-review-smart-gym'> Source <a/>

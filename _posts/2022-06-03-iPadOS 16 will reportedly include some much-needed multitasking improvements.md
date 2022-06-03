@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pCx11HTX9SZmOf2bIuuBvYIa73M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70936184/vpavic_210512_4592_0203.0.jpg' width='700px' /><br/>
-With Apple's Worldwide Developers Conference only a few days away, the leaks and rumors are starting to come fast about Apple's upcoming software plans. And iPad owners may be in for a treat: Bloomberg's Mark Gurman reports that some of the biggest announcements of the year will be for iPadOS 16, including an expansion to the iPad's multitasking system.
-<a href='https://www.theverge.com/2022/6/2/23151835/ipados-16-multitasking-improvements'> Source <a/>
