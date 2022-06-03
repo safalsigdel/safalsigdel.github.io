@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t3KO6D8UBCTaJ7piVKZVArHG4bs=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70931442/discord_starfox_stretched.0.jpeg' width='700px' /><br/>
-Discord is enabling a new dedicated text chat feature for voice channels. Users of the platform can take advantage of the new feature, aptly named Text Chat in Voice Channels, by clicking on a new chat bubble icon for the voice channel they are participating in. The feature is a welcome quality of life change, similar to the chat window in Zoom calls that many are used to in this day and age.
-<a href='https://www.theverge.com/2022/6/1/23148366/discord-new-text-chat-in-voice-channels-feature'> Source <a/>

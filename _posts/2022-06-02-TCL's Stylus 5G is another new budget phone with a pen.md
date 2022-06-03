@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/va2abwD2BlAzzvRP16iBd1Y-esY=/0x0:2000x1334/1200x800/filters:focal(459x539:779x859)/cdn.vox-cdn.com/uploads/chorus_image/image/70934993/TCL_STYLUS_5G_Lifestyle_5_copy.0.jpg' width='700px' /><br/>
-Things looked grim for fans of budget stylus phones when LG dropped out of the mobile market last year, taking its Stylo devices with it. Just when it looked like Motorola was going to run the table with its Moto G Stylus phones, TCL has announced a new device with a built-in stylus: the aptly named TCL Stylus 5G. It's available starting today, June 2nd, from T-Mobile for $258.
-<a href='https://www.theverge.com/2022/6/2/23150647/tcl-stylus-5g-price-specs-screen-battery'> Source <a/>

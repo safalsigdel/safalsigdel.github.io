@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dmkpc6sAAh-bvaOur9oLqvP_kxc=/0x0:5068x2850/1200x800/filters:focal(2129x1020:2939x1830)/cdn.vox-cdn.com/uploads/chorus_image/image/70931833/Companion_UI_SeriesOne_v4.0.jpg' width='700px' /><br/>
-Google announced today that it's combining two of its video-calling apps, Duo and Meet, into a single platform. Pretty soon, there will be only Google Meet, and Google's hoping it can be the one calling app users need for just about everything in their lives.
-<a href='https://www.theverge.com/2022/6/1/23149832/google-meet-duo-combination-voice-video'> Source <a/>

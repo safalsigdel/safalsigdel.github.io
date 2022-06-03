@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vGHXfoe7VrJI7qVl-0Y2K6i-J-M=/0x0:4000x2664/1200x800/filters:focal(1680x1012:2320x1652)/cdn.vox-cdn.com/uploads/chorus_image/image/70932047/1238501355.0.jpg' width='700px' /><br/>
-Drought is forecast to slash California's supply of hydroelectricity in half this summer. That's bad news for residents' air quality and utility bills, the US Energy and Information Administration (EIA) said in its forecast. The state will likely lean on more expensive, polluting natural gas to make up for the shortfall in hydropower.
-<a href='https://www.theverge.com/2022/6/1/23149952/drought-california-hydroelectricity-energy-costs-emissions'> Source <a/>

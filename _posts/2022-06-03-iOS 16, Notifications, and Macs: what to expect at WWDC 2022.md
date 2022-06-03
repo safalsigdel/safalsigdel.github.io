@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PDZhSW7JxFurUSWAYShRrit2A4g=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70936722/VRG_Illo_5258_K_Radtke_WWDC.0.jpg' width='700px' /><br/>
+It's once again time for Apple to hold its annual Worldwide Developers Conference, or WWDC, where it shows off the latest versions of its operating systems for iPhones, Macs, watches, tablets, and TVs.
+<a href='https://www.theverge.com/2022/6/2/23140346/apple-wwdc-2022-ios-16-mac-m2-vr-ar-rumors'> Source <a/>

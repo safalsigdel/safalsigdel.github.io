@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/XfMW31qBJHlhgj1mO9T3ZvD7qAQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70887407/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-We're still seeing short or no supply of PlayStation 5 consoles at many retailers and going weeks between new nationwide restocks. Hopefully, this summer will prove more fruitful, and a good (though small) sign is that Walmart has a PS5 event coming up today.
+Update June 2nd, 4:02PM ET: Walmart has sold out of both PlayStation 5 consoles and bundles for today's restock.
 <a href='https://www.theverge.com/2022/5/19/23130194/sony-playstation-5-ps5-walmart-plus-console-restock-availability-date-time'> Source <a/>

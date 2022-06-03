@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vVt9DuEYqFc_XNDHKUHdM6sg_Sc=/0x0:1080x1080/1200x800/filters:focal(454x454:626x626)/cdn.vox-cdn.com/uploads/chorus_image/image/70936776/Mor_1x1_1080.0.jpeg' width='700px' /><br/>
+Wardens, Inquisitors, Champions, it's time to break out the whisks. Today, in a surprise announcement, BioWare revealed the name of the next installment in the Dragon Age series: Dragon Age: Dreadwolf.
+<a href='https://www.theverge.com/2022/6/2/23152050/dragon-age-dreadwolf-4-bioware-ea'> Source <a/>

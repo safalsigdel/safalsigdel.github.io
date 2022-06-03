@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y7Zr8jt12VWhuusg9TRWPKJi6Mg=/0x0:6489x4742/1200x800/filters:focal(1712x522:2750x1560)/cdn.vox-cdn.com/uploads/chorus_image/image/70932838/1327683542.0.jpg' width='700px' /><br/>
-Sheryl Sandberg will step down as the COO of Meta Platforms after 14 years as its second-ranking executive, where she helped scale Facebook into the social media juggernaut it is today. Sandberg will leave her post as the company's No. 2 leader in the fall after spending the next few months working with founder and CEO Mark Zuckerberg to transition her direct reports. She will retain a seat on Meta's board.
-<a href='https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-down-meta-facebook-coo-14-years'> Source <a/>

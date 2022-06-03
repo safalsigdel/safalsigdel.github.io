@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5B1nuBjYBmajlqZr_yZMYdkYVyo=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23603831/Mario_Kart_Ride___SNW_at_USH__logo_.jpg' width='700px' /><br/>
+Universal Studios Hollywood and Nintendo are slowly cranking up the volume about the first Super Nintendo World theme park located in the US. Now, they're narrowing its opening window to “early” 2023 while posting a few pictures and a video trailer of its signature ride: Mario Kart: Bowser's Challenge.
+<a href='https://www.theverge.com/2022/6/2/23151854/mario-kart-ride-super-nintendo-world-universal-studios-hollywood-theme-park'> Source <a/>

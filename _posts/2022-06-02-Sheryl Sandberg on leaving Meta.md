@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pUeCJ6JEYNMXbj-T92uQpEz842w=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70933266/VRG_Illo_K_Radtke_Sheryl.0.jpg' width='700px' /><br/>
-When, not if, Sheryl Sandberg leaves Meta has been one of the most speculated questions among current and former employees over the past few years. Even still, the news Wednesday that she will soon leave her position as the social media giant's No. 2 executive sent shockwaves throughout the company and the rest of Silicon Valley.
-<a href='https://www.theverge.com/2022/6/1/23150749/sheryl-sandberg-interview-stepping-down-meta-facebook-coo'> Source <a/>

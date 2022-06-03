@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x3qvpL1n3Z_rIwr5ddG5n-RaGC8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70932780/acastro_210329_1777_nft_0005.0.jpg' width='700px' /><br/>
-Former OpenSea product manager Nathaniel Chastain has been charged with wire fraud and money laundering in connection with an insider trading scheme. Chastain was arrested Wednesday morning in New York City and is expected to be presented in court later today.
-<a href='https://www.theverge.com/2022/6/1/23150429/opensea-insider-trading-nathaniel-chastain-arrested-homepage-nfts'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OdQC5NJrIigvtmy-xx_iLN4Uy-c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70932128/ahawkins_220512_5248_0013.0.jpg' width='700px' /><br/>
-General Motors is slashing prices for the 2023 Chevy Bolt EV and Bolt EUV amid high demand for electric vehicles. While other automakers are jacking up EV prices to account for rising commodity costs, GM says it wants to send the message that “affordability has always been a priority for these vehicles.”
-<a href='https://www.theverge.com/2022/6/1/23150210/gm-chevy-bolt-ev-euv-price-cut-2023'> Source <a/>

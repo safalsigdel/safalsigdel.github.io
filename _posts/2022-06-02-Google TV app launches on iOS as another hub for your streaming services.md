@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EuqW-gMW3D9kiZysWI3O1_xJUjI=/0x0:2040x1350/1200x800/filters:focal(857x512:1183x838)/cdn.vox-cdn.com/uploads/chorus_image/image/70931814/googletv.0.jpg' width='700px' /><br/>
-The Google TV app, which aggregates content recommendations from numerous streaming services and lets you create a universal watchlist of your favorites, is now available on iOS. Google says that it'll replace the previous Google Play Movies and TV app in the App Store, so if you've already got that installed, you should be able to update it to the Google TV experience sometime today.
-<a href='https://www.theverge.com/2022/6/1/23149986/google-tv-app-now-available-apple-iphone'> Source <a/>

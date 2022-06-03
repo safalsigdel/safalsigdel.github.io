@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xkaR3R2cVGOlvDoR02tAyUhg6yM=/0x0:2040x1359/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70934948/vpavic_191013_3731_0019.0.jpg' width='700px' /><br/>
-One of the first shocks that you may experience when you buy your first Chromebook probably comes when you look at the keyboard. Where is the Caps Lock key? What (if you have a Pixelbook) is that strange-looking key between the Ctrl and Alt keys? What is that key in the top row that looks like a square with two straight lines next to it?
-<a href='https://www.theverge.com/23150376/chromebook-keyboard-how-to'> Source <a/>
