@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B95_sC3b4ByK9V16VC7VbKhKork=/0x0:2040x1360/1200x675/filters:focal(895x685:1221x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/70938840/vsong_220419_5249_0013.0.jpg' width='700px' /><br/>
+When you think about getting tested for COVID-19, you're most likely picturing two types of tests: the at-home rapid antigen tests you can buy at the drugstore and the PCR test where the results are processed by a lab. What you're probably less familiar with are at-home molecular tests that you can buy online.
+<a href='https://www.theverge.com/2022/6/3/23141813/molecular-covid-19-test-otc-pcr-fda'> Source <a/>
