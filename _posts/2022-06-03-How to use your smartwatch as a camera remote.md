@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/owKlBOoZYr5pZ-vA50WI3Dzjvng=/0x0:2040x1360/1200x800/filters:focal(837x597:1163x923)/cdn.vox-cdn.com/uploads/chorus_image/image/70935685/IMG_0211.0.jpg' width='700px' /><br/>
-Most people think of a smartwatch as a fitness gadget or a way to discreetly view notifications. But did you know that you can also use your smartwatch as a camera remote? Instead of scrambling to beat the timer for your next group photo or selfie, you can instead use your smartwatch to control your phone's camera shutter.
-<a href='https://www.theverge.com/23150638/smartwatch-camera-remote-how-to'> Source <a/>

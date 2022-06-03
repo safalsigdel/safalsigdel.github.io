@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HNFkcnYIyxEnmCaHSv14g0nJAbM=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/70938636/1241039646.0.jpg' width='700px' /><br/>
+The Bitcoin mining boom in New York state hit a roadblock as the State Senate passed a bill that will halt new permits for certain fossil fuel power plants to be used in Bitcoin mining. The measure, which also initiates a study on the environmental impact mining facilities are having in the state, passed in the State Assembly earlier this year.
+<a href='https://www.theverge.com/2022/6/3/23151622/new-york-bitcoin-mining-moratorium-bill-state-senate'> Source <a/>
