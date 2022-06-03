@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9zgJSP0HVOctgRefafR47aOM9t4=/0x0:2560x1763/1200x800/filters:focal(992x412:1400x820)/cdn.vox-cdn.com/uploads/chorus_image/image/70935908/gigabyte_3070_gpu_lifestyle.0.jpeg' width='700px' /><br/>
-While the chip shortage has touched everything from appliances to cars, one segment of tech that's seen the most challenges is graphics cards. The latest GPUs have been getting bought up and resold by price gougers since the beginning of the pandemic, but now, after signs began looking up in 2022, we're getting the occasional deal.
-<a href='https://www.theverge.com/good-deals/2022/6/2/23150413/gigabyte-nvidia-geforce-rtx-3070-gpu-google-nest-mini-ember-smart-mug-powera-enhanced-deal-sale'> Source <a/>
