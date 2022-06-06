@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/24QWfp7DD394AZS5Wl8E7VDEp7A=/0x0:1384x778/1200x675/filters:focal(582x279:802x499)/cdn.vox-cdn.com/uploads/chorus_image/image/70948054/apple_wwdc_2022.0.jpg' width='700px' /><br/>
+WWDC is one of Apple's biggest events of the year, as the world's largest company tells developers, press, and the world about its latest software. Apple is one of the few companies left that still makes splashy annual software announcements, rather than doling out features as they're ready, so WWDC tends to always be a news-filled event.
+<a href='https://www.theverge.com/23155997/wwdc-2022-keynote-live-blog-announcements-ios-ipad'> Source <a/>
