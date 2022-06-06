@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jc772xLd0xCYtagp2j-iiC2jdYg=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70948110/VRG_ILLO_5271_TaserDrone_s.0.jpg' width='700px' /><br/>
+After fierce pushback, development is being halted on a Taser-wielding drone proposed as a solution to mass shootings in schools.
+<a href='https://www.theverge.com/2022/6/6/23156485/axon-halts-taser-drone-ethics-board-resigns-mass-shootings-uvalde'> Source <a/>
