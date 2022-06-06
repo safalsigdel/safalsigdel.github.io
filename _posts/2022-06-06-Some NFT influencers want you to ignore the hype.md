@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D-8Z6Fq8es0Nf3EhMpUkgAeg9Rs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70946893/VRG_Illo_5265_M_Li_NFT_influencers_scramble_to_go_viral.0.jpg' width='700px' /><br/>
+When he started a YouTube channel in 2019, Jesse Hall decided not to tell his wife and kids until he'd gained a small following. Within a few weeks, he had a few hundred people subscribing to his coding tutorials — a success, in his mind. But it wasn't until he started exploring NFTs that his audience exploded, quickly growing from thousands of subscribers to hundreds of thousands.
+<a href='https://www.theverge.com/23144374/nft-youtubers-influencers-instructional-avoiding-hype'> Source <a/>

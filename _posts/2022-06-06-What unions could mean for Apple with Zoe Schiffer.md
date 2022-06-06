@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0Ii4tSe3dgFM87LQZnhBSnloP6I=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70947413/VRG_ILLO_5270_Decoder_ZoeSchiffer.0.jpg' width='700px' /><br/>
+This week's Decoder episode is coming to you a day early because today is Apple's Worldwide Developers Conference, or WWDC. It's one of the biggest events of the year for Apple, one of the most important companies in the world. In fact, Apple is the most valuable company in the world, and it posted $18 billion in net profits in its first quarter — the most quarterly profit of any public company in history.
+<a href='https://www.theverge.com/2022/6/6/23153607/apple-unions-zoe-schiffer-decoder-podcast-interview'> Source <a/>

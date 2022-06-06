@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pM6pSQSLe1SzDdze9qf2VXnZ8NA=/0x0:2560x1600/1200x800/filters:focal(1076x596:1484x1004)/cdn.vox-cdn.com/uploads/chorus_image/image/70941438/LG_OLED_Objet_Collection_POSE_PR_1.0.jpg' width='700px' /><br/>
-LG is catching up with Samsung in “lifestyle” TV land, adding a new model to its LG OLED Objet Collection that launched last year. The new Posxc3xa9 is a slimline take on Samsung's Serif; it comes in 42-inch, 48-inch, and 55-inch screen sizes and launches in the third quarter of 2022, starting in Europe.
-<a href='https://www.theverge.com/2022/6/3/23153581/lifestyle-tvs-lg-pose-easel-oled-tv-design'> Source <a/>

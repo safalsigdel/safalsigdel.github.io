@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ey_Cl13biStTS0eqKhPAbQ42QQg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70947664/9A5F2D63_4916_4C88_8108_219AB41DDB45.0.jpeg' width='700px' /><br/>
+We're kicking off the week here at The Verge Deals with a pair of solid discounts on Sony earbuds. First off, Amazon is currently offering the first-ever discount on the Sony LinkBuds. Normally available for $179.99, you can currently get a pair for $158 at Amazon. This isn't a massive discount, but it's the lowest price we've seen yet for these unique earbuds.
+<a href='https://www.theverge.com/good-deals/2022/6/6/23154813/sony-linkbuds-earbuds-apple-watch-se-razer-kishi-sonos-roam-move-deal-sale'> Source <a/>

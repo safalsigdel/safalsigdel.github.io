@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0yMGrubvHt6NKEtLyuz0ukMrBTk=/0x0:4050x6000/1200x0/filters:focal(0x0:4050x6000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23610029/Strange_World_Teaser_World_1s_v16.0_Mech8_FS.jpg' width='700px' /><br/>
+The first trailer for Strange World, the next animated feature from Disney, looks like a pulp paperback novel cover brought to life.
+<a href='https://www.theverge.com/23156348/disney-strange-world-trailer-release-date'> Source <a/>

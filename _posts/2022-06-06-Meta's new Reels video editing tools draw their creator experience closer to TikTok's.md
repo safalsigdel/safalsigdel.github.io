@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ucCJl5fOPkhFLlo6bGtdflT8Z2w=/22x39:1898x1249/1200x800/filters:focal(788x529:1094x835)/cdn.vox-cdn.com/uploads/chorus_image/image/70941131/284059382_702752637507227_1394429011112854303_n.0.png' width='700px' /><br/>
-In a blog post on Thursday, Meta said that it's globally rolling out new creator tools for its TikTok competitor, Reels, on both Instagram and Facebook. The handful of new tools will make it easier for creators to skip using TikTok to edit short clips and help encourage people to create original content using Reels, which is something the team at Instagram really wants to happen.
-<a href='https://www.theverge.com/2022/6/3/23153037/instagram-reels-facebook-meta-creators-video-editing'> Source <a/>

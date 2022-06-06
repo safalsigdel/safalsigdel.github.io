@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JIr8_FCmYRoxJvQgOd3Vy4KnI7g=/0x0:592x444/1200x800/filters:focal(249x175:343x269)/cdn.vox-cdn.com/uploads/chorus_image/image/70940995/ifixit_teardown_iphone_13_pro.0.jpeg' width='700px' /><br/>
-The New York state legislature has passed the United States' first “right to repair” bill covering electronics. Called the Fair Repair Act, the measure would require all manufacturers who sell “digital electronic products” within state borders to make tools, parts, and instructions for repair available to both consumers and independent shops.
-<a href='https://www.theverge.com/2022/6/3/23153504/right-to-repair-new-york-state-law-ifixit-repairability-diy'> Source <a/>

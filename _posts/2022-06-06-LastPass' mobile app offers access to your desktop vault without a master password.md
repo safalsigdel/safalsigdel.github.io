@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QGy_Uw3tioCNtTM0JJvsVHF0ln0=/0x0:2288x1688/1200x800/filters:focal(961x661:1327x1027)/cdn.vox-cdn.com/uploads/chorus_image/image/70947183/lpdevicesvault2xmin1png.0.png' width='700px' /><br/>
+Password manager LastPass is rolling out a new “passwordless” method to access its desktop vault today.
+<a href='https://www.theverge.com/2022/6/6/23156110/lastpass-authenticator-app-passwordless-login'> Source <a/>

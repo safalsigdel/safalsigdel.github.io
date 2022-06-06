@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w_xyEboUwWsfmGB7wgXyuyJfKuI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70940898/cgartenberg_211020_4819_0002.0.jpg' width='700px' /><br/>
-Amazon stopped supplying retailers in China with Kindle e-readers and will close down the country's Kindle ebook shop, Reuters reported based on a post made to the company's WeChat account. Starting June 30th, 2023, users will no longer be able to buy digital Kindle books in China, while Amazon will pull its Kindle app from Chinese app stores one year later.
-<a href='https://www.theverge.com/2022/6/3/23153303/amazon-china-closing-kindle-store-business'> Source <a/>
