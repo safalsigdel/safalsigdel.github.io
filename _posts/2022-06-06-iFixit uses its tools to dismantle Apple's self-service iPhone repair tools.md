@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qvP8M_0Pz1prrLAIEAlm4PmO2aQ=/0x0:2200x1650/1200x800/filters:focal(924x649:1276x1001)/cdn.vox-cdn.com/uploads/chorus_image/image/70947990/sean_hollister_20220510_121054.0.jpg' width='700px' /><br/>
+iFixit regularly performs dissections of the latest Apple gadgets, but this time, the repair resource site pitted its tools against other tools by taking apart Apple's new iPhone self-service repair kit (via iMore). The take-apart process on Apple's repair tools was documented and posted on iFixit's YouTube channel, giving an inside look at the display press, battery press, and heated display removal contraptions.
+<a href='https://www.theverge.com/2022/6/6/23156453/ifixit-apple-self-service-toolkit-teardown-video'> Source <a/>
