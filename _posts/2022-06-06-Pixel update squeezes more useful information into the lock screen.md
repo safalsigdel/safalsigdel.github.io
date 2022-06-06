@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SYFI4flXWBGQhJ-T7317e876fNQ=/0x0:5088x3392/1200x800/filters:focal(2137x1289:2951x2103)/cdn.vox-cdn.com/uploads/chorus_image/image/70948181/At_a_Glance_Doorbell.0.jpg' width='700px' /><br/>
+Google's latest feature drop for Pixel phones adds yet more features to At a Glance, a widget designed to surface important information on home and lock screens. There's also a new shortcut that offers easier access to vaccine cards and a new music remix app created in collaboration with Teenage Engineering. The update will begin rolling out today for the Pixel 4 and up.
+<a href='https://www.theverge.com/2022/6/6/23156078/pixel-new-features-at-a-glance-widget-video-air-quality-pocket-operator'> Source <a/>

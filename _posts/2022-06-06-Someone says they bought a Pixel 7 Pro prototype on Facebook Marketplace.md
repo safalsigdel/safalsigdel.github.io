@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SVCwVPl5hiTMrixiAV2INS9IrUc=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/70943566/Pixel_7_and_Pixel_7_Pro_Family.0.jpg' width='700px' /><br/>
-Another alleged Google Pixel 7 prototype has surfaced, this time from a Reddit user who says they bought it on Facebook Marketplace. From appearances, it's a Pixel 7 Pro, which Redditor AMC20_ says was listed as a Pixel 6 Pro without a box. It is not, in fact, a Pixel 6 Pro.
-<a href='https://www.theverge.com/2022/6/4/23153144/google-pixel-7-pro-prototype-leak-reddit'> Source <a/>
