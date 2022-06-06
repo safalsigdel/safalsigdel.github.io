@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uShsFl1i63ZD3qdsa9P1JHQljNA=/0x0:2400x1350/1200x800/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/70946622/Store_Blog_Header.0.jpg' width='700px' /><br/>
+Microsoft is testing some updates to the Microsoft Store on Windows 11 that will improve how updates are handled. Currently, some store apps will close and reopen while they're being updated, which means you could lose work if you opened the Microsoft Store and selected update apps. Microsoft is now testing a change to the Store that will skip over updates for apps that are open instead.
+<a href='https://www.theverge.com/2022/6/6/23156083/microsoft-windows-11-microsoft-store-app-updates-skip-feature'> Source <a/>
