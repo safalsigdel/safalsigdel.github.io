@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pj_HPLB-AmV1tJONHBgfPG5Ga88=/0x0:4961x3307/1200x800/filters:focal(2085x1258:2877x2050)/cdn.vox-cdn.com/uploads/chorus_image/image/70936881/P90465724_highRes_the_first_ever_bmw_i.0.jpg' width='700px' /><br/>
-BMW has redesigned its X1 compact SUV and is introducing an all-electric version of it. The new iX1 xDrive30 is the company's latest EV option built on its fifth-generation eDrive platform, the same one that the new BMW i4 is built on. Unfortunately, BMW spokesperson Jay Hanson tells The Verge there are currently no plans to offer the iX1 in the US.
-<a href='https://www.theverge.com/2022/6/2/23152090/bmw-2023-ix1-electric-x1-redesign'> Source <a/>

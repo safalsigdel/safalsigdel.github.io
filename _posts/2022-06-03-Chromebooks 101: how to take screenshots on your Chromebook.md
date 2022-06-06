@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nTEayMDaJGevVWxIOfuMLlzp6Xg=/0x0:847x565/1200x800/filters:focal(357x216:491x350)/cdn.vox-cdn.com/uploads/chorus_image/image/70939484/samsung_chromebook_08_847.0.jpg' width='700px' /><br/>
-Screenshots can be useful for a variety of reasons. For example, you can send copies of error messages to support services, show a friend what your game screen looks like, or save a tweet that you suspect is going to be deleted in a few minutes. Today's laptops all include ways to take screenshots, and that includes Chromebooks.
-<a href='https://www.theverge.com/23144906/chromebooks-screenshots-chrome-os-how-to'> Source <a/>

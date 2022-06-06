@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EOPvjWrERrRKotZOVx7b8yOw-t0=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/66793959/switcholedmodel.11.jpg' width='700px' /><br/>
+The Nintendo Switch was, like most consoles during the pandemic, once in short supply. Thankfully, retailers like Best Buy, Amazon, and Walmart now routinely stock the Nintendo Switch, Switch Lite, and upgraded Switch OLED model in multiple color configurations, giving those who have continually struck out ample opportunity to purchase Nintendo's incredibly popular handheld console.
+<a href='https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock'> Source <a/>

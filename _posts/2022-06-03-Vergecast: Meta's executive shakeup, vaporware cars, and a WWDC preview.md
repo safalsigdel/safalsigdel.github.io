@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PYTL4DjB_GPFU1JCZb_7uVij6HA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70939648/acastro_211101_1777_meta_0003.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel and editor-at-large David Pierce discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/23153028/vergecast-499-podcast-sandberg-facebook-unreal-engine-volvo-delorean-wwdc-2022'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oQULAERX3hHM_6JpRz6iqRJbFAQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70943403/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+New York's State Assembly passed the Warehouse Worker Protection Act (WWPA) on Friday, a bill that would require Amazon and other companies to disclose production quotas to workers, as first reported by CNBC. If New York Governor Kathy Hochul (D) signs it into law, it would also prevent employees from having to meet quotas that require them to skip lunch or bathroom breaks.
+<a href='https://www.theverge.com/2022/6/4/23154379/new-york-cracking-down-amazon-warehouse-production-quotas-warehouse-worker-protection-act'> Source <a/>

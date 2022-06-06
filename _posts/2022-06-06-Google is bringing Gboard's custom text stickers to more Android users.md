@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fihIZCJuN0iggxcXbuu4XqJJi90=/97x0:885x417/1200x800/filters:focal(396x101:556x261)/cdn.vox-cdn.com/uploads/chorus_image/image/70943148/google_gboard_update_android.0.png' width='700px' /><br/>
+Google is expanding its custom text stickers to Android users who use the US-English version of its Gboard keyboard. Previously, only Google Pixel users had access to the feature, which lets you create and send personalized stickers by typing in your own text and choosing a premade design.
+<a href='https://www.theverge.com/2022/6/4/23154305/google-gboard-expanding-custom-text-stickers-more-android-users-pixel'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vFDD56gfLnTvSFWlD8zxHnEKG-g=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70939128/rbaldwin_220414_5255_0003.0.jpg' width='700px' /><br/>
-On the road, the 2022 BMW i4 eDrive40 looks like any other 4 Series. There's a reason the four-door sedan with its gigantic kidney grilles and sleek roofline commands is one of the automaker's best-selling vehicles. It looks the part of a German sedan, and the EV version of the vehicle is the fruit of the automaker's desire to build a platform that can accept any powertrain. Except, this is the best 4 Series.
-<a href='https://www.theverge.com/23151623/bmw-i4-review-electric-specs-price'> Source <a/>

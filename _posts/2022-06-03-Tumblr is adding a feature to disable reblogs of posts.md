@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P92-nfUg4oajnxaSJf_9XqRLh8s=/0x0:1280x759/1200x800/filters:focal(538x278:742x482)/cdn.vox-cdn.com/uploads/chorus_image/image/70936796/tumblr_7d6c6eec8c942c432f426556230a4dfb_ac63b721_1280.0.png' width='700px' /><br/>
-Tumblr users who don't want a specific post to be reblogged by others will now have the option to turn off the reblog setting. In a blog post, Tumblr says it will start rolling out reblog controls today on web and iOS, with Android to come soon.
-<a href='https://www.theverge.com/2022/6/2/23151990/tumblr-disable-reblog-controls-settings'> Source <a/>

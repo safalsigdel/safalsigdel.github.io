@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7XsmLkakJGeqm7iCQvGV85_vpDA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70937651/VRG_Illo_STK196_K_Radtke_Javier_Olivan_Meta.0.jpg' width='700px' /><br/>
-Mark Zuckerberg once called Javier Olivan, Meta's new chief operating officer, “one of the most influential people in Facebook's history.”
-<a href='https://www.theverge.com/2022/6/2/23151053/meta-coo-javier-olivan-new-facebook-sandberg'> Source <a/>

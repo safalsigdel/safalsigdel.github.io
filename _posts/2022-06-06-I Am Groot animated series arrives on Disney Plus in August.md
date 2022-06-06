@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GtqNK4B9sWRPXGzHi5d-fWM6dec=/0x305:844x1250/1200x800/filters:focal(402x690:536x824)/cdn.vox-cdn.com/uploads/chorus_image/image/70945842/i_am_groot_marvel_disney.0.jpeg' width='700px' /><br/>
+I Am Groot will hit Disney Plus on August 10th. The animated series of shorts centers around none other than the Baby Groot himself, with Vin Diesel reprising his role as the voice of the adorable anthropomorphic sapling.
+<a href='https://www.theverge.com/2022/6/5/23155585/i-am-groot-animated-series-arrives-disney-plus-august-marvel-guardians-of-the-galaxy'> Source <a/>

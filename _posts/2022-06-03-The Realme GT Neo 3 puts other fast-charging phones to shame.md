@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RR9Fz80nq3wG9g9-Uaq_9Fd1ybk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70939562/ajohnson_220531_5260_0004.0.jpg' width='700px' /><br/>
-You're never going to find a phone like the Realme GT Neo 3 Naruto Edition on a store shelf at Verizon or AT&T. For starters, Realme branded phones are usually only available in the US as unlocked global versions sold on Amazon, and they aren't necessarily compatible with your wireless carrier's network.
-<a href='https://www.theverge.com/2022/6/3/23152495/realme-gt-neo-3-naruto-edition-150w-fast-charge-test-hands-on'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8xeAr7ZAT3eSOtKZeDK9eeqNhTc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70941028/wjoel_180413_1777_android_002.0.jpg' width='700px' /><br/>
+Google is telling users of the Android Auto for Phone Screens app that it'll no longer work soon via an in-app pop-up message (via 9to5Google). The app enables a simplified in-car interface of Android that is safer to use while mounting the phone on a car dashboard, a great feature for those who don't own newer cars with the version of Android Auto that runs on the infotainment screen.
+<a href='https://www.theverge.com/2022/6/3/23153100/android-auto-app-phone-screens-discontinued'> Source <a/>

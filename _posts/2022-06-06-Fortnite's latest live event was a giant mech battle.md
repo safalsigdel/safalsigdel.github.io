@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N1jaNJ_TkeHDcl9K1QMFA5__yRI=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23607812/1.jpg' width='700px' /><br/>
+A huge battle took place today in Fortnite's most recent live event — which featured a gigantic mech, as well as some hints for what to expect from the game's next season. If you missed the rollercoaster-like experience, you can check out what went down in the video above.
+<a href='https://www.theverge.com/2022/6/4/23153353/fortnite-collision-live-event-recap'> Source <a/>

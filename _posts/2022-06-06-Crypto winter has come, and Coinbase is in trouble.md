@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gzhPg_6p_SwAX4fjyddggxOQhtg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70945738/acastro_170726_1777_0007_v3.0.jpg' width='700px' /><br/>
+Coinbase is pulling back on its hiring efforts. In a memo posted to Coinbase's site, chief people officer L.J. Brock announced that Coinbase is putting a pause on hiring new employees, as well as rescinding several job offers already accepted by prospective workers, citing “current market conditions and ongoing business prioritization efforts.”
+<a href='https://www.theverge.com/2022/6/5/23155442/crypto-winter-coinbase-in-trouble-hiring-freeze-rescinded-job-offers'> Source <a/>

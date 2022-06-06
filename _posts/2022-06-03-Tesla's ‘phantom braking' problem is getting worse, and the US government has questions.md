@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B8qM7FZvB00lidIxWmoDSJd6OcU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70940416/lgrush_220407_5139_0027.0.jpg' width='700px' /><br/>
-When last we checked in with Tesla's “phantom braking” problem, the National Highway Traffic Safety Administration said it had received 350 complaints from owners who said their vehicles were braking for no reason. Now that number stands at 758, and the US government has some questions.
-<a href='https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation'> Source <a/>

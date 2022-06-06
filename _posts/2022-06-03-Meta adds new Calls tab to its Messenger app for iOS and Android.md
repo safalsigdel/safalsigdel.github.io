@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fVgFqnQwsbgBRQ359h6DyhFjz-Q=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70937578/676eeda0_4ebe_4742_857e_9934a172200d.0.png' width='700px' /><br/>
-Meta is rolling out a new ‘Calls' tab globally in its Messenger app for iOS and Android users. The new tab will keep track of each call you make or receive in the app in one place and make it easier to connect calls with one tap. Also, for people who don't regularly use the feature, it adds a clear reminder that they can use the app for voice or video calls in addition to text-based messaging.
-<a href='https://www.theverge.com/2022/6/2/23151755/meta-messenger-call-tab-ios-android-rollout'> Source <a/>

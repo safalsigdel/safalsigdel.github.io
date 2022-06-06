@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2SKaeCAjU689jz0istiMJocVqa4=/0x0:2559x1664/1200x800/filters:focal(1076x628:1484x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/70940617/1189070708.0.jpg' width='700px' /><br/>
+Self-driving company Cruise has received a permit from the California Public Utilities Commission (CPUC) to charge for fully driverless rides, a milestone that the company claims makes it “the first and only company to operate a commercial, driverless ride-hail service in a major U.S. city.” Cruise has been testing free driverless rides for the public in San Francisco since February, and now, it will be able to offer paid fares.
+<a href='https://www.theverge.com/2022/6/3/23153183/cruise-paid-driverless-rides-fares-san-francisco'> Source <a/>

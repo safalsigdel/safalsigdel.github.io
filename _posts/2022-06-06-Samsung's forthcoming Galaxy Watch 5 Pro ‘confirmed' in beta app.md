@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o6Qxts62djoCE6kSf49BDHpjdCk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70940601/IMG_0190.0.jpg' width='700px' /><br/>
+Well, well, well. There were rumors that Samsung would ditch the Classic model for the Galaxy Watch 5, and according to the beta version of the Samsung Health app, it appears to be true. The app shows listings for the Samsung Galaxy Watch 5 and the Galaxy Watch 5 Pro — but no Classic.
+<a href='https://www.theverge.com/2022/6/3/23153057/samsung-galaxy-watch-5-pro-smartwatch-wearable'> Source <a/>

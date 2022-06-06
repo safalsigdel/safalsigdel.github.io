@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SIyX8a3XscOHFs-yu4Yo-CjaRRw=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/70941586/Apple_Apple_Pay_Transaction_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+Square announced on Thursday that it will begin to support Apple's Tap to Pay technology later this year with a beta test arriving this summer as part of the company's Early Access Program.
+<a href='https://www.theverge.com/2022/6/3/23153615/square-apple-tap-to-pay-beta-contactless'> Source <a/>

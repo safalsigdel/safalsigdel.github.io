@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6MkqohrMKxTETeAg38kLdhGNYys=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70939018/VRG_Illo_STK022_K_Radtke_Musk_Tesla.0.jpg' width='700px' /><br/>
-Elon Musk emailed Tesla executives on Thursday, Reuters reports, telling them the company needs to pause hiring worldwide and cut its workforce by about 10 percent. At the end of 2021, Tesla said in a filing that it had 99,290 employees worldwide. In the email seen by Reuters, Musk cites his “super bad feeling” about the economy.
-<a href='https://www.theverge.com/2022/6/3/23152932/elon-musk-email-orders-tesla-layoffs-hiring-freeze-bad-feeling'> Source <a/>

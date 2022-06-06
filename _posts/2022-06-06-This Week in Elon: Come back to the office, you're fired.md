@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lQK-8o2OdoogopXfgMvow2WnoWQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70941394/This_Week_in_Elon_Social.0.png' width='700px' /><br/>
+Hello! Welcome (or welcome back) to This Week in Elon, The Verge's occasionally revived newsletter for when there's Too Much Elon News. And, I mean, there's always too much Elon news. But what's happening right now feels worth digging into more deeply. So, let's get into it.
+<a href='https://www.theverge.com/2022/6/3/23153369/this-week-in-elon-musk-twitter-spacex-tesla'> Source <a/>
