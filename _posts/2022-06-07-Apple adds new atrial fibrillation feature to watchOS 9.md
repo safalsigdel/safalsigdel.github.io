@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zEM7lhQukhOKT_fzaYQMnth2agg=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70948537/wwdc_2022_1233_10_46_51.0.jpg' width='700px' /><br/>
-watchOS 9 includes a new feature that will let people with irregular heart rhythms track the amount of time they spend in atrial fibrillation, Apple announced today.
-<a href='https://www.theverge.com/2022/6/6/23156757/apple-atrial-fibrillation-watchos-history-wwdc'> Source <a/>
