@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jTSABKhoLftD_QHTb7plQ_t6wd4=/0x0:2040x1360/1200x800/filters:focal(1076x701:1402x1027)/cdn.vox-cdn.com/uploads/chorus_image/image/70950531/akrales_190522_3440_0056.0.jpg' width='700px' /><br/>
+European Union lawmakers have reached an agreement on legislation that will force all future smartphones sold in the EU — including Apple's iPhone — be equipped with the universal USB-C port for wired charging by fall 2024. The rule will also apply to other electronic devices including tablets, digital cameras, headphones, handheld video game consoles, and e-readers.
+<a href='https://www.theverge.com/2022/6/7/23156361/european-union-usb-c-wired-charging-iphone-lightning-ewaste'> Source <a/>
