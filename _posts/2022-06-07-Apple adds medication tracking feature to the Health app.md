@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s30zQi0mGTAQ6hr5vaguWEhI5sA=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70948600/wwdc_2022_1245_10_33_53.0.jpg' width='700px' /><br/>
+Apple is adding a new tool to remind people to take medications to the iPhone health app, the company announced today. Apple Watch is also getting additional sleep tracking features.
+<a href='https://www.theverge.com/2022/6/6/23144267/apple-watch-health-app-sleep-medications-wwdc'> Source <a/>

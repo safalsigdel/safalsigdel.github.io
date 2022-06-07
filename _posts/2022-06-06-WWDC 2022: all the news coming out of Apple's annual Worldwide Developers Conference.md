@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tdld-5_vmuYr3EsNgFvPoh3LOmg=/0x0:4205x2803/1200x800/filters:focal(1767x1066:2439x1738)/cdn.vox-cdn.com/uploads/chorus_image/image/70945538/Screen_Shot_2022_06_01_at_9.36.24_AM.0.jpeg' width='700px' /><br/>
-It's time for Apple's Worldwide Developers Conference, with the keynote kicking off on June 6th at 1PM ET / 10AM PT. Unlike the last two years when the event was fully virtual, Nilay Patel and David Pierce will be on-site for a viewing party, and perhaps more.
-<a href='https://www.theverge.com/2022/6/5/23149921/apple-wwdc-2022-news-rumors-products-announcements'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CUWUY2OdyRJaHfJ6n5DJii45wfk=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70948699/wwdc_2022_1480_11_28_31.0.jpg' width='700px' /><br/>
+Apple is finally bringing its first-party Weather app to iPad as part of iPadOS 16. Finally. The first iPad launched in 2010, and it hasn't had the official Weather app that whole time.
+<a href='https://www.theverge.com/2022/6/6/23156804/apple-weather-app-ipad-ipados-16-wwdc-2022'> Source <a/>

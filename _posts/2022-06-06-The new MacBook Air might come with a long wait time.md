@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K5WKtO6-vMiG0l7mayvNZfGWY0c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70945240/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
-Apple is poised to reveal a new MacBook Air at its annual Worldwide Developers Conference (WWDC) on Monday, but even if it does, you may not be able to immediately buy one. According to a report from Bloomberg's Mark Gurman, COVID-19 shutdowns at the Chinese plants that make MacBooks might mean a limited supply of new devices or a release date that's further off.
-<a href='https://www.theverge.com/2022/6/5/23155291/new-macbook-air-long-wait-time-apple-wwdc-covid-closures-china'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JswZAJMivwPE_tp7RwwEr8P5OJg=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/70948676/continuitycamera.5.jpg' width='700px' /><br/>
+Apple is planning to allow macOS users to use their iPhone camera as a webcam. The new Continuity Camera feature comes as part of macOS Ventura, an upcoming update to macOS. Apple envisions MacBook users clipping an iPhone to the top of their laptops and using the camera to improve video calls in FaceTime, Microsoft Teams, WebEx, and more.
+<a href='https://www.theverge.com/2022/6/6/23156834/apple-iphone-webcam-mac-continuity-camera-macos-wwdc'> Source <a/>

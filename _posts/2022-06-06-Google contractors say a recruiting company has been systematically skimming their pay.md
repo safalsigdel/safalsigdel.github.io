@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U8uEpkzje0NMTbnQn1KU-n600f8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70947173/acastro_201005_1777_googleAntiTrust_0002.0.0.jpg' width='700px' /><br/>
-A group of Google contractors says they've been underpaid by the agency that recruited them, resulting in thousands of dollars in unpaid wages per affected worker. The earliest reports occurred as long ago as 2019, and workers say the payroll errors are happening so regularly that they believe it to be a kind of systematic wage theft.
-<a href='https://www.theverge.com/2022/6/6/23156206/google-contractor-pay-rate-agency-accenture-flex-artech-alphabet-workers-union'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R_BJfuvbyw7eNkfARhQzu7VxSss=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23610493/wwdc_2022_965_10_42_06.jpg' width='700px' /><br/>
+Apple revealed a ton of exciting news at WWDC 2022, giving us a glimpse at the highly-anticipated macOS Ventura, iOS 16, the M2 chip, a new MacBook Air, and much more.
+<a href='https://www.theverge.com/2022/6/6/23141939/apple-wwdc-2022-biggest-announcements-ios-16-macbook-air-macos-watchos'> Source <a/>

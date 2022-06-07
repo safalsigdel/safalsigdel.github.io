@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Jl3jC3YkQ4mdatigq-kAMfpLwY=/0x0:2272x1172/1200x800/filters:focal(955x405:1317x767)/cdn.vox-cdn.com/uploads/chorus_image/image/70943893/morbius_jared_leto_trailer.0.png' width='700px' /><br/>
-Morbius is back in theaters — despite no one even asking for it — and its unpopularity is only making itself more obvious. The film made just $85,000 on Friday after making a return to over 1,000 theaters, bringing its domestic cumulative to $73.6 million (via Forbes).
-<a href='https://www.theverge.com/2022/6/4/23154631/morbius-meme-flop-first-day-back-theaters-jared-leto-sony'> Source <a/>

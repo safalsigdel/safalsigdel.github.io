@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hopjo4R19Ay2bj_tdxlmvwzR9nw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70947235/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Upside_Down.0.jpg' width='700px' /><br/>
-Elon Musk says that Twitter is in “clear material breach” of their $44 billion acquisition deal and that he could “terminate” the agreement in response. In a letter sent to Twitter this morning, Musk's legal team claims that Twitter has failed to provide him with information on the service's spam bot problem and that he's entitled to receive that information under the deal agreement.
-<a href='https://www.theverge.com/2022/6/6/23156233/elon-musk-twitter-bots-merger-agreement-termination-threat'> Source <a/>

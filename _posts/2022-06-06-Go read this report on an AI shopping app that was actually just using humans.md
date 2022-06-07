@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MFJd5hx36kpkSmWi_4rS09h5qk4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70947954/acastro_181017_1777_brain_ai_0001.0.jpg' width='700px' /><br/>
-If you can't be bothered to fill out your credit card and address details when shopping for jeans online, the Nate app sounds like a service you might want. The company bills itself as an “artificial intelligence startup” that uses AI to auto-fill customer information for $1 per transaction, saving shoppers a few minutes when completing purchases through the Nate app.
-<a href='https://www.theverge.com/2022/6/6/23156318/artificial-intelligence-nate-app-ecommerce-go-read-this'> Source <a/>

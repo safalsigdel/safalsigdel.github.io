@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f7OqhLDEuxTt3vMyCMqeHwrDR_Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70947713/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-Google has agreed to pay $100 million to Illinois residents to settle a class-action lawsuit over one of its facial recognition features in Google Photos (via Gizmodo). The complaint alleges Google's face grouping tool, which automatically identifies your face in photos and videos uploaded to Photos, violates Illinois' Biometric Information Privacy Act (BIPA).
-<a href='https://www.theverge.com/2022/6/6/23156198/google-class-action-face-grouping-biometric-information-illinois-privacy-act'> Source <a/>

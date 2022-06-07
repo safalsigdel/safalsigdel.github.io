@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QPnqWxgVldFGXSY8eGiAsWElyqI=/0x0:2040x1360/1200x800/filters:focal(649x690:975x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/70949840/vpavic_4291_20201113_0407.0.0.jpg' width='700px' /><br/>
+Are you the kind of person who'd hesitate to charge gadgets from a public charger — like the ones coming to the seat of your plane? Apple's first beta of the just-announced macOS 13 Ventura includes a feature seemingly designed to address tampering fears. It'll make USB-C and Thunderbolt accessories explicitly ask for your permission before they can communicate with MacBooks powered by Apple's M1 or M2 chips.
+<a href='https://www.theverge.com/2022/6/6/23157271/apple-macbook-m1-m2-usb-thunderbolt-ports-closed-user-approval'> Source <a/>

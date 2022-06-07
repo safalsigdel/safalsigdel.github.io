@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tbwDS1jXQdIkK2nO4k1KEAI5dFo=/0x0:1204x957/1200x800/filters:focal(506x383:698x575)/cdn.vox-cdn.com/uploads/chorus_image/image/70948590/applecharger.0.jpeg' width='700px' /><br/>
+Alongside a redesigned MacBook Air powered by the company's new M2 processor, Apple also introduced a charger for the laptop with an unexpected perk: a spare USB-C port. The charger has two USB-C ports, giving you the freedom to charge another device alongside the laptop.
+<a href='https://www.theverge.com/2022/6/6/23156654/apple-macbook-air-charger-usb-c-ports-wwdc'> Source <a/>

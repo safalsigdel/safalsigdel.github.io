@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p6V7c9uLMeQN8ZnPG1ewdrz8oXA=/0x0:9504x6336/1200x0/filters:focal(0x0:9504x6336):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23611087/DSC00845.jpeg' width='700px' /><br/>
+The MacBook Air has been an iconic laptop design since Steve Jobs slid it out of a manila envelope in 2008. This year's model, which Apple just announced at WWDC and is also the first Apple laptop to come with an M2 chip, abandons the famous wedge shape but also improves almost everything else about the Air.
+<a href='https://www.theverge.com/2022/6/6/23156365/apple-macbook-air-m2-hands-on-photos'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/29I2JkGtdJ78t9wYnfXEJ7_O47I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70949063/vpavic_210916_untitled_0004.0.jpg' width='700px' /><br/>
+There were a whole lot of exciting announcements that came out of WWDC, but one update Apple didn't mention onstage is that iOS 16 will bring support for using Face ID in landscape mode.
+<a href='https://www.theverge.com/2022/6/6/23156928/face-id-iphone-work-landscape-mode-ios-16-wwdc-2022-apple'> Source <a/>

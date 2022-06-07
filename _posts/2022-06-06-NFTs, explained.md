@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G7_gAKdQcgN6XgdLGQDF1YCraZ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70947012/VRG_Illo_5265_M_Li_NFT_explainer.0.jpg' width='700px' /><br/>
-There's nothing like an explosion of blockchain news to leave you thinking, “Umxe2x80xa6 what's going on here?” That's the feeling I've experienced while reading about Grimes getting millions of dollars for NFTs or about Nyan Cat being sold as one.
-<a href='https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq'> Source <a/>

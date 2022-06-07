@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DvhO06C1w5NJcmAkGOOWcJI2MYo=/0x0:5932x3707/1200x800/filters:focal(2492x1380:3440x2328)/cdn.vox-cdn.com/uploads/chorus_image/image/70948976/Ted_Lasso_Photo_020112.0.jpg' width='700px' /><br/>
+Ted Lasso's upcoming third season is being written as if it's the final one, Brett Goldstein, who plays the foul-mouthed Roy Kent and writes for the show, told The Sunday Times (via Variety). “We are writing it like that,” he said. “It was planned as three. Spoiler alert — everyone dies.” (I'd wager that last part isn't true.)
+<a href='https://www.theverge.com/2022/6/6/23156877/ted-lasso-season-3-last-final'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vve-9ycaXhJGutSl02AGeNGnxgY=/0x0:5221x2895/1200x800/filters:focal(2470x1124:3304x1958)/cdn.vox-cdn.com/uploads/chorus_image/image/70945015/1401097364.0.jpg' width='700px' /><br/>
-Three Chinese astronauts, or taikonauts, arrived at the Tianhe core module of the unfinished Tiangong space station on Sunday morning, where they'll stay for six months to help finish its construction (via Space.com). The Shenzhou 14 spacecraft took off from the Jiuquan Satellite Launch Center in the Gobi Desert on Saturday at 10:44PM ET (10:44AM local time) and docked with Tianhe at 5:42AM ET (5:42PM local time).
-<a href='https://www.theverge.com/2022/6/5/23155224/chinese-astronauts-arrive-tiangong-space-station-oversee-completion-tianhe'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wJHwy6k93TnI7jXtibMvzzhn2AU=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70948495/wwdc_2022_1167_10_10_40.0.jpg' width='700px' /><br/>
+Apple announced a complete refresh of CarPlay to better connect with a car's instrument panel and a deep integration with the vehicle itself. CarPlay users will be able to swap what they see on the instrument panel with a very Apple-looking widget design.
+<a href='https://www.theverge.com/2022/6/6/23156741/ios-16-carplay-apple-wwdc-hvac-deeper-integration'> Source <a/>

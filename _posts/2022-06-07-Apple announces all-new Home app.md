@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PkQBllMCWgyWf5pRPpv0wjhmd-M=/0x0:1707x960/1200x800/filters:focal(718x344:990x616)/cdn.vox-cdn.com/uploads/chorus_image/image/70948527/image__1_.0.png' width='700px' /><br/>
+Apple announced an all-new Home app for its HomeKit smart home platform at WWDC this week. The new app will arrive with iOS 16 later this year and has a completely new design.  Apple said that architecturally the app has been rebuilt from the ground up making it more efficient and reliable, especially for homes with multiple accessories.
+<a href='https://www.theverge.com/2022/6/6/23150367/apple-wwdc-ios-16-homekit-new-home-app-matter'> Source <a/>

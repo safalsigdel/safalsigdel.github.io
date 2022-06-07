@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w2OwAsCtzBvklykCZEqTeX6_vf4=/0x0:1468x875/1200x800/filters:focal(617x321:851x555)/cdn.vox-cdn.com/uploads/chorus_image/image/70948132/Screen_Shot_2022_06_06_at_9.25.48_AM.0.png' width='700px' /><br/>
-Diablo Immortal apparently has some wild visual glitches on some Samsung devices with Exynos chips, which in some cases render the game largely unplayable. It's hard to explain just how weird some of the issues are, so I recommend you look for yourself in these two videos from users on Reddit.
-<a href='https://www.theverge.com/2022/6/6/23156480/diablo-immortal-visual-issues-gitch-samsung-devices-exynos-chips'> Source <a/>
