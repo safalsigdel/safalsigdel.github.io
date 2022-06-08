@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MgDArOtKwsdv6G6ePWr9TKbLUFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70954094/vpavic_190131_3213_0151.0.jpg' width='700px' /><br/>
+Insider is reporting that Microsoft's Alex Kipman, who led the teams that developed the company's HoloLens augmented reality headset and the Kinect motion controller for Xbox and serves as one of Microsoft's top technical fellows, has resigned after allegations of verbal abuse and sexual harassment.
+<a href='https://www.theverge.com/2022/6/7/23159049/microsoft-hololens-boss-alex-kipman-leaves-resigns-misconduct-allegations'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5WCmfJ-xumU_OPoWqgqHP3PRCcE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70949681/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-Update June 6th, 8:03PM ET: Costco has removed the landing page for its PlayStation 5 bundle, indicating it has sold out or is simply no longer available.
-<a href='https://www.theverge.com/2022/6/6/23025799/sony-playstation-ps5-console-restock-costco-availability'> Source <a/>

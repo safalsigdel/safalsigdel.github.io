@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/63oD5g4eSsghtpRZLxv82aKF14M=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/70949598/Apple_WWDC22_macOS_Ventura_Mail_schedule_reply_220606.0.jpg' width='700px' /><br/>
-Apple announced some major new features for Mail that finally bring the email app closer to parity with Gmail and other popular email clients. I personally rely on Mail on Mac for my work emails, and I think I'll be taking advantage of many of these updates once they're available.
-<a href='https://www.theverge.com/2022/6/6/23157188/apple-mail-gmail-undo-scheduled-send-forget-attachment'> Source <a/>

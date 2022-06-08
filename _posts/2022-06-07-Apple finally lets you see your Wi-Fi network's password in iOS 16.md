@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0vQ8oCJ3ERLONjKQh3r2pplKx1A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70950503/acastro_180608_1777_net_neutrality_0002.0.jpg' width='700px' /><br/>
-Apple is finally adding the ability to see your stored Wi-Fi password in iOS 16. MacRumors reports that the iOS 16 developer preview includes an option to view a Wi-Fi password and even copy it to share with friends or family. You need to authenticate with Face ID, Touch ID, or a passcode to see a stored password, and then you get an option to copy it.
-<a href='https://www.theverge.com/2022/6/7/23157648/apple-ios-16-show-wi-fi-password-feature'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f682vDAjkzrr9fAtakQA7GF6slE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70949882/akrales_210917_4760_0331.0.jpg' width='700px' /><br/>
-Apple is adding a new feature to iOS 16 to make the Hidden and Recently Deleted albums in Photos much more private. Starting with iOS 16, those albums will now be locked by default, and you'll be able to unlock them using Face ID, Touch ID, or a passcode, according to Apple's iOS 16 features page.
-<a href='https://www.theverge.com/2022/6/6/23157300/apple-ios-16-photos-hidden-recently-deleted-locked'> Source <a/>

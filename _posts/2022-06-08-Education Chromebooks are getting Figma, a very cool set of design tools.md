@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xy9TT90XVhEuSM9Y9NFj3XiBmas=/0x0:4000x2666/1200x800/filters:focal(1754x1305:2394x1945)/cdn.vox-cdn.com/uploads/chorus_image/image/70951814/1233645475.0.jpg' width='700px' /><br/>
+Google for Education has announced a new partnership with Figma. The companies will bring Figma's design and prototyping platform as well as its collaborative whiteboarding app FigJam to education Chromebooks. Schools can apply now to the beta program, which will begin over the summer.
+<a href='https://www.theverge.com/2022/6/7/23157093/google-chromebook-students-figma-figjam-partnership'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hhuxAUWXi2jj8WXk4DTAzIPRIhs=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70951567/wwdc_2022_1104_10_14_28.0.jpg' width='700px' /><br/>
+I'm irrationally excited about a new feature coming to Apple's Screen Time, the company's gentler term for parental controls. When my kid wants that extra 15 minutes on her favorite app, her plaintive request will come through iMessage as well as a pop-up notification on my Apple devices.
+<a href='https://www.theverge.com/2022/6/7/23157223/apple-screen-time-family-sharing-ios-16-new-parental-control-features'> Source <a/>

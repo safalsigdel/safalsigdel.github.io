@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O-NAZdEnV1btcxlWIIE_TboSWNo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70948947/etsy18_2040.0.0.jpg' width='700px' /><br/>
-Etsy is launching a purchase protection program for shoppers and sellers, the company announced today. The program, which begins August 1st, will refund customers when an item arrives damaged, is missing, or doesn't match the listing description.
-<a href='https://www.theverge.com/2022/6/6/23156628/etsy-launches-purchase-protection-program-refunds'> Source <a/>

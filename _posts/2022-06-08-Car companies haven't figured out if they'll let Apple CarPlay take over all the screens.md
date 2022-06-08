@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9CdPMpkGi066R8C8XqzfGlKW3EE=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/70951966/Apple_WWDC22_iOS16_CarPlay_220606.0.jpg' width='700px' /><br/>
+Apple can't seem to build its own car, so it'll just have to take over everyone else's.
+<a href='https://www.theverge.com/2022/6/7/23157963/apple-carplay-next-gen-screen-car-companies'> Source <a/>

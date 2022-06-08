@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hmESb3IMoH9H1-qXg2vN3ugtvH8=/0x0:2438x1828/1200x800/filters:focal(1024x719:1414x1109)/cdn.vox-cdn.com/uploads/chorus_image/image/70948672/ios16_widgets.0.jpg' width='700px' /><br/>
-Apple released details about iOS 16 today at its Worldwide Developers Conference, including which phones will be eligible for the update — and which didn't make the cut. To download iOS 16, you'll need an iPhone 8 or later, meaning Apple is more or less ending support for the iPhone 6S, iPhone 7, and original iPhone SE.
-<a href='https://www.theverge.com/2022/6/6/23156766/iphone-6s-se-7-8-ios-16-software-support-upgrade'> Source <a/>

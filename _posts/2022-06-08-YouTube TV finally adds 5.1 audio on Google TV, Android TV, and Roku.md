@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tymOvn22iQP-AKp8xlAKA59xYfk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70953161/wjoel_1777_180403_youtube_005.0.jpg' width='700px' /><br/>
+Nearly a year ago, YouTube TV announced plans to add 5.1 surround sound support for its streaming TV package. When we spoke to YouTube chief product officer Neal Mohan earlier this year on The Vergecast about new features rolling out for the platform, he told us it would arrive soon. Now, it's here for more devices, including the most recent Chromecast with Google TV.
+<a href='https://www.theverge.com/2022/6/7/23158603/youtube-tv-google-tv-android-tv-roku-surround-sound-5-1-audio'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xG9LWzc4mrS3L4Vy6FxWO-TUihA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70462199/Legends_Arceus___Screenshot_24.18.jpg' width='700px' /><br/>
+The Nintendo Switch is one of the most popular consoles ever released, one with an ever-expanding library of games to choose from. Odds are if a game is capable of working on the Switch's hardware, it's either already available or it will be soon.
+<a href='https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale'> Source <a/>

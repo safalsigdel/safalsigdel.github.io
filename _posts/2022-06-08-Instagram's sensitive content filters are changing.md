@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DGKwNazrBV32ZtOy4Ffaiu2JzyA=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70951684/instagram_sensitive_content_update.0.png' width='700px' /><br/>
+Instagram's Sensitive Content Control feature, which puts an adjustable filter on content recommended by the platform, now applies to more areas on Instagram. In a post on its blog, Instagram says it's expanding the setting's impact beyond the Explore page to include anywhere it makes recommendations, including in your feed, search, hashtag pages, Reels, and Accounts You Might Follow.
+<a href='https://www.theverge.com/2022/6/7/23157788/instagrams-sensitive-content-filters-changing'> Source <a/>

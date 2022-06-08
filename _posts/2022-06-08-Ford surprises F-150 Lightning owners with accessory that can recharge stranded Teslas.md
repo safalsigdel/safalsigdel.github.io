@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t1QsZK98XPAmEItRCkqGux-UYmI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70952864/ahawkins_220503_5202_0002.0.jpg' width='700px' /><br/>
+Ford has been vocal about the new F-150 Lightning's bi-directional charging capability that enables owners to use the electric truck's massive battery to charge other EVs. And, now, the company is apparently including a new accessory so these Good Samaritan truck owners can help out stranded Teslas.
+<a href='https://www.theverge.com/2022/6/7/23158382/ford-f150-lightning-tesla-adapter-charger-power'> Source <a/>

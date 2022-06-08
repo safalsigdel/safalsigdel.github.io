@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Votl3s-gqzEA0vgmaySIfEJxb0o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70950499/jbareham_1492_170228_0216.0.0.jpg' width='700px' /><br/>
-Apple is adding native support for the Nintendo Switch Pro and Joy-Con controllers in iOS 16. Riley Testut, one of the iOS developers behind AltStore, discovered the new controller support in a developer beta of iOS 16 that was released yesterday.
-<a href='https://www.theverge.com/2022/6/7/23157642/apple-ios-16-nintendo-switch-pro-joy-con-controller-support'> Source <a/>

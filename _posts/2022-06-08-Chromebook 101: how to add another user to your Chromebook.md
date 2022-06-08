@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iQEkZf8eoO7ivcOT81z9sNA_o3g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70952228/derp1_2040.0.0.jpg' width='700px' /><br/>
+Because they tend to be inexpensive and fairly hardy, Chromebooks are often bought as laptops for families — to be shared between parents and kids or passed around among friends. And because a Chromebook may have more than one user, it needs to have more than one login so that each user has access to their own personal apps and content.
+<a href='https://www.theverge.com/23152274/chromebook-google-add-another-user-how-to'> Source <a/>

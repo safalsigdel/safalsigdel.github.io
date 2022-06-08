@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FooeFDo8PURqxNgyZgEYKG6Y2nM=/0x0:2048x1536/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70948562/lcimg_50467410_a26a_49ec_ab64_b17211578dd1.0.jpg' width='700px' /><br/>
-Apple revealed a new version of macOS at its Worldwide Developers Conference. The new operating system, macOS Ventura, includes a new Stage Manager tool, updates to Spotlight, Mail, and Safari, and other continuity features that bring the operating system closer to iOS.
-<a href='https://www.theverge.com/2022/6/6/23148410/apple-macos-13-features-system-preferences-wwdc'> Source <a/>

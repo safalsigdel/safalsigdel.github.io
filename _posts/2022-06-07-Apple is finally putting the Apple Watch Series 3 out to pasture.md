@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RrFEdWH-COAWCfvht3LfCnqV6xs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70949335/akrales_171113_2119_0063.0.jpg' width='700px' /><br/>
-It's been five years since Apple debuted the Series 3, and at WWDC 2022, it effectively laid the smartwatch to rest. watchOS 9 will not support the Series 3, and that likely means the Apple Watch SE will officially take over as Apple's budget smartwatch.
-<a href='https://www.theverge.com/2022/6/6/23156839/watchos-9-series-3-compatibility-apple-watch-wwdc-2022'> Source <a/>

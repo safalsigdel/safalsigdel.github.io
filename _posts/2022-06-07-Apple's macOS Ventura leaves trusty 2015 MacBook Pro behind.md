@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6n4_RCe-C5yR9MZ08uhgvnlx8iY=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/70950527/Apple_WWDC22_macOS_Ventura_3up_addl_features_220606.0.jpg' width='700px' /><br/>
-A new version of macOS means a new collection of Macs can no longer run Apple's latest desktop operating system. Perhaps most notably, the new macOS Ventura update won't be available for the 2015 MacBook Pro.
-<a href='https://www.theverge.com/2022/6/7/23157662/macos-ventura-compatible-macs-2015-macbook-pro-2013-mac-pro'> Source <a/>

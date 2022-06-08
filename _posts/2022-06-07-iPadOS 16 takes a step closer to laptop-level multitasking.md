@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jW1OdKAAIJnCu0VKq4aO3HE08CQ=/0x0:1960x1307/1200x800/filters:focal(824x498:1136x810)/cdn.vox-cdn.com/uploads/chorus_image/image/70948670/Apple_WWDC22_iPadOS16_external_displays_220606.10.jpg' width='700px' /><br/>
-Apple has officially announced iPadOS 16, the latest version of its iPad operating system launching later this year. It shares some of its new features with iOS 16 and macOS, like a redesigned Home app and support for Passkeys in Safari, but it's also getting some improvements of its own. There's a new weather app and new whiteboard collaboration software coming later this year.
-<a href='https://www.theverge.com/2022/6/6/23142934/ipados-16-ipad-features-release-date-wwdc-2022'> Source <a/>

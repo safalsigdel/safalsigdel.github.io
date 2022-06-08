@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2I5beZcFxiO9TzldIRD1-omKtSE=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70953121/continuity_camera_iphone.0.jpg' width='700px' /><br/>
+It was easy to laugh yesterday when Apple revealed that you'll soon be able to stick an iPhone on the back of your Mac to get a better webcam. Some joked that Apple design legend Jony Ive was off crying somewhere. Others wondered whether this was truly the best Apple could come up with after years of grainy MacBook images and how the Apple Studio Display's camera fell short.
+<a href='https://www.theverge.com/2022/6/7/23158510/apple-continuity-cam-work-any-app-zoom-desk-mode-api'> Source <a/>
