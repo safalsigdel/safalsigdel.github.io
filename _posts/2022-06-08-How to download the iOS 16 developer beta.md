@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tTYgz7boOjjp29IbHgR4krM7G9g=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/70951726/Apple_WWDC22_iOS16_3up_hero_220606_big.jpg.large_2x.0.jpg' width='700px' /><br/>
-At this year's WWDC, Apple introduced a bevy of new features for the forthcoming iOS 16. That includes new lock screens and widgets as well as the ability to edit Messages. And, if you've got an Apple developer account, you can now download the developer beta to get a firsthand look.
-<a href='https://www.theverge.com/23158025/ios-16-developer-beta-how-to-download'> Source <a/>
