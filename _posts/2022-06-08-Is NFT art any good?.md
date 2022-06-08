@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jtY7iSrV1mWVrcy-NbaCCew8Mr0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70954956/VRG_Illo_5265_M_Li_NFT_seriously_as_art.0.jpg' width='700px' /><br/>
+The current state of NFT art is best described as “visual dogshit,” the artist and provocateur Brad Troemel argued in a recent Instagram slideshow. Nobody actually cares what these images look like, Troemel said, so long as they can be produced quickly in large quantities, while also avoiding risky artistic gestures that might alienate crypto bros.
+<a href='https://www.theverge.com/23148511/nft-art-critic-cryptopunk-replicator-pixel-pak-simon-denny'> Source <a/>
