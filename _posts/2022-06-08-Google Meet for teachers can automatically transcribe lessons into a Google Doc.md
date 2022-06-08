@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BKwRDsu7bNF8JR_gEEUlmyfo3UI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70951803/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-Google Meet is getting an automatic transcription feature for educators signed up to Google's Workspace for Education Plus and Teaching and Learning Upgrade plans. The text-based documents should take up less space than a full recording for educators looking to store or share their past lessons and may also make it easier to review, search through, and send lessons to students.
-<a href='https://www.theverge.com/2022/6/7/23156443/google-meet-educators-transcribe-lessons-docs-workspace-screencast-livestreams'> Source <a/>
