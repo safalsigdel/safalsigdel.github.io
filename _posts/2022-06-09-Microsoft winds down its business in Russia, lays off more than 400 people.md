@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gdSMJSXmgZ2UxIc3QMa1n8Ybcao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70955729/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
-Microsoft says it's “significantly” scaling down its business in Russia, more than three months after Russia invaded Ukraine. The software giant first pulled the plug on “new” sales of products and services in Russia in early March, and now Bloomberg News reports that the company is laying off 400 employees in Russia as it begins to wind down its business there.
-<a href='https://www.theverge.com/2022/6/8/23159656/microsoft-russia-business-changes'> Source <a/>

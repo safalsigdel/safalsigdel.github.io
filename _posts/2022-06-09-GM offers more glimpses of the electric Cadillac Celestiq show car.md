@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/22O-IezBeZ_089FFAcRc7pH9Yes=/0x0:5700x3802/1200x800/filters:focal(2394x1445:3306x2357)/cdn.vox-cdn.com/uploads/chorus_image/image/70955860/cadillac_celestiq_show_car_01.0.jpg' width='700px' /><br/>
-General Motors released some more images of the Cadillac Celestiq show car, and as you can see, we're still only getting the bare minimum here.
-<a href='https://www.theverge.com/2022/6/8/23159685/gm-cadillac-celestiq-ev-tease-image-release'> Source <a/>

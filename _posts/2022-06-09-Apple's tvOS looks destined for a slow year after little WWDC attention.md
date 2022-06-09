@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r8N8OfYL4T-fyH5_1JhLd6VjULc=/0x0:1120x747/1200x800/filters:focal(471x285:649x463)/cdn.vox-cdn.com/uploads/chorus_image/image/70955848/DSCF3939.0.jpg' width='700px' /><br/>
-More than six years after Apple's Eddy Cue proclaimed that “the future of TV is apps,” Apple's 2022 WWDC keynote came and went with barely any mention of tvOS — the software that runs on its Apple TV hardware. That quote from Cue came alongside the introduction of the Apple TV's App Store back in 2015. But the dearth of WWDC news on tvOS suggests the platform isn't exactly one of Apple's top priorities at the moment.
-<a href='https://www.theverge.com/2022/6/8/23156901/apple-tvos-16-ignored-wwdc-2022-minor-features'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qACOX3H7zS_J1v0ASAyLgPuTI7w=/0x0:2600x1733/1200x800/filters:focal(1092x659:1508x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/70958812/iphoneesimswap.0.jpg' width='700px' /><br/>
+Apple is adding an easy method to swap your eSIM to a new iPhone in the upcoming iOS 16 release. Twitter user Carson Waldrop has spotted (via MacRumors) that iOS 16 supports transferring eSIM cards from an existing iPhone to a new one using Bluetooth. The switch looks effortless, allowing you to easily transfer your phone number when you buy a new iPhone.
+<a href='https://www.theverge.com/2022/6/9/23160959/ios-16-transfer-esim-new-iphone-bluetooth-support'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZIHX9xpTwYXM04iyafSW9SoF3xI=/0x0:2421x1072/1200x800/filters:focal(330x686:716x1072)/cdn.vox-cdn.com/uploads/chorus_image/image/70958796/IMG_3538.0.jpg' width='700px' /><br/>
+Google Maps on both iOS and Android has a new Air Quality layer that can be useful when planning your next hike or bike ride in good times, or to plan your escape from smog and smoke in bad.
+<a href='https://www.theverge.com/2022/6/9/23160948/google-maps-air-pollution-purpleair-wildfire-smoke-smog'> Source <a/>

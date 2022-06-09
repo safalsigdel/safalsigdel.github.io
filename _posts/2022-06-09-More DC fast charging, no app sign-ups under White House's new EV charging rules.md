@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tokqCy_mNYHld2B39a9n4Dw1-lk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70958692/ahawkins_20210503_4551_0015.0.jpg' width='700px' /><br/>
+The Biden administration is revealing a new set of standards to help accelerate the installation of 500,000 electric vehicle chargers across the US by 2030.
+<a href='https://www.theverge.com/2022/6/9/23160493/biden-ev-charging-standards-electric-vehicle-buttigieg'> Source <a/>
