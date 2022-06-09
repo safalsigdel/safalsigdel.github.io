@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FZOSv8K1V7WV2cYoEBfcpWb-iLs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70952854/instagram_pin_posts.0.jpeg' width='700px' /><br/>
-Instagram now lets you pin up to three posts or reels to the top of your profile. Just like pinned posts on TikTok and Twitter, they'll sit at the forefront of your Instagram grid as if you recently posted them.
-<a href='https://www.theverge.com/2022/6/7/23158443/instagram-profile-pin-three-posts-reels-tiktok-twitter'> Source <a/>

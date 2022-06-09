@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J_34xLbaGmXg5bzgfh2g9riDCgU=/0x0:2048x1024/1200x800/filters:focal(893x668:1219x994)/cdn.vox-cdn.com/uploads/chorus_image/image/70957012/Ebay_vault.0.jpg' width='700px' /><br/>
+Consider dusting off your attic shoeboxes filled with baseball cards; eBay might have a new home for some of them soon. The pioneering online marketplace site built a new 31,000-square-foot facility, called the eBay Vault, which is open now to house graded trading cards that are valued at over $750 and, in the future, physical collectibles of all kinds.
+<a href='https://www.theverge.com/2022/6/8/23160015/ebay-vault-facility-trading-cards-assets-physical-collectibles-nft'> Source <a/>

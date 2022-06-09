@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+It's no secret that Infinity Ward has been working on a sequel to 2019's Call of Duty: Modern Warfare, and, now, the studio is finally unveiling its next blockbuster. It's called Modern Warfare II, and it features both a single-player campaign that's a direct sequel to the previous game as well as multiplayer including a new tactical co-op mode.
+<a href='https://www.theverge.com/23158574/call-of-duty-modern-warfare-2-release-date-details'> Source <a/>

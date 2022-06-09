@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v_UpoI5ShAxK3ddy6SahfhbRFjg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70952668/vpavic_210917_4760_0702.0.jpg' width='700px' /><br/>
-Apple's WWDC 2022 announcements lacked big, splashy new features, and Siri was largely MIA. But in the absence of Apple's virtual assistant, we got a lot of small but potentially meaningful software updates centered around a very real individual: you. And me. Developers know us as “end users,” but we're otherwise known as humans.
-<a href='https://www.theverge.com/23158417/apple-wwdc-2022-ios-ipados-16-macos-ventura-imessage-mail-undo-send'> Source <a/>

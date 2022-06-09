@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XPr-SoIY8xRhZzKCSkpyHYOCnxw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70952830/FUqIeqaWIAMsM6L.0.jpg' width='700px' /><br/>
-Honor of Kings, one of the highest grossing mobile games of all time, is getting a worldwide release. Today, developer Level Infinite announced that it's bringing Honor of Kings to the rest of the world and that invites to a closed beta would be coming soon.
-<a href='https://www.theverge.com/2022/6/7/23158122/honor-of-kings-tencent-arena-of-valor-level-infinite'> Source <a/>

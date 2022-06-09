@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w-TFNqGGDoQfnwCp13bMGidTR8w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70957111/acastro_170731_1777_0002_v1.0.jpg' width='700px' /><br/>
+Apple is getting into the “buy now, pay later” (BNPL) business with its new Pay Later service built into Apple Pay and Apple Wallet. While Apple bills the service as “designed with users' financial health in mind,” BNPL is a practice that has come under scrutiny by government regulators as something that could potentially harm customers.
+<a href='https://www.theverge.com/2022/6/8/23157184/ugly-economics-behind-apple-buy-now-pay-later-system-bnpl'> Source <a/>

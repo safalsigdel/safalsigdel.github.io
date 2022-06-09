@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e4LrK8rE07V9NspKgs_sIReRF-U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70955846/acastro_180410_1777_payapl_0002.0.jpg' width='700px' /><br/>
+PayPal has been granted a full BitLicense from the New York Department of Financial Services, the company announced in a press release. This makes PayPal the first company to trade in a conditional BitLicense for the real thing.
+<a href='https://www.theverge.com/2022/6/8/23159519/paypal-crypto-transfers-new-york-bitlicense-bitcoin-ethereum'> Source <a/>

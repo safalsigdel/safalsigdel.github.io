@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bEtGlGI79QR05reRgELFSnVvhis=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70957486/acastro_211101_1777_meta_0003.0.jpg' width='700px' /><br/>
+Another executive change is hitting Meta after the recently announced departures of COO Sheryl Sandberg and head of AI Jerome Pesenti.
+<a href='https://www.theverge.com/2022/6/8/23160405/meta-head-engineering-david-mortenson-replacement-santosh-janardhan'> Source <a/>

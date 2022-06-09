@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7c_bfptJv8Y2uUJeycHc-RzXnMs=/0x0:1306x1306/1200x800/filters:focal(547x757:755x965)/cdn.vox-cdn.com/uploads/chorus_image/image/70956437/Apple_WWDC22_watchOS_9_iPhone13Pro_Medications_schedules_220606_inline.jpg.large_2x.0.jpg' width='700px' /><br/>
+Apple isn't inventing anything new with its medication tracking feature for iPhone and Apple Watch, which the company announced as part of watchOS 9 at WWDC 2022 this week. There are plenty of apps already on the market that give people alerts when they're supposed to take their medications.
+<a href='https://www.theverge.com/2022/6/8/23159517/apple-medication-reminder-iphone-watch-watchos-9-health-app'> Source <a/>

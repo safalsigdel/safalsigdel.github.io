@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A6l4lx2lTYW-W5-A6I7GlstZ-9w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70955318/vpavic_211006_4796_0029.5.jpg' width='700px' /><br/>
+Update June 8th, 10:47AM ET: Our lead deal on the Vizio 5.1.2 soundbar sold out, unfortunately. So, we swapped it out for one on the Apple Watch Series 7 that we feel is just as appealing.
+<a href='https://www.theverge.com/good-deals/2022/6/8/23157942/vizios-atmos-soundbar-samsung-a53-5g-oneplus-buds-pro-nanoleaf-lights-deal-sale'> Source <a/>

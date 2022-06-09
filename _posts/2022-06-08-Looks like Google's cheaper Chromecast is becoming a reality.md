@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YTww9nvWnSOBPbxM9jYyB-_0ubw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70953811/DSCF2108.0.jpg' width='700px' /><br/>
-In January, Protocol revealed that Google was working on a cheaper Chromecast video streaming dongle that would top out at 1080p resolution, which could possibly be sold as the “Chromecast HD with Google TV.”
-<a href='https://www.theverge.com/2022/6/7/23158911/google-chromecast-hd-rumor-fcc-leak-1080p'> Source <a/>

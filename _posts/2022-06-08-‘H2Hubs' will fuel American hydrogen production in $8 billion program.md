@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n8gVQ7hjnY2CjYdjdRo17iGIk6w=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70952581/1240784431.0.jpg' width='700px' /><br/>
-The Department of Energy kicked off a new $8 billion program yesterday to develop a network of hubs for producing hydrogen as a clean fuel. It's a milestone for one of the Biden administration's most contentious strategies for tackling climate change.
-<a href='https://www.theverge.com/2022/6/7/23158110/h2hubs-american-clean-hydrogen-production-8-billion-doe'> Source <a/>

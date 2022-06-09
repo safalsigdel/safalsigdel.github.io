@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HZZ4nID6VXZHsDcMy2V8eVcJlx0=/0x0:1080x803/1200x800/filters:focal(440x335:612x507)/cdn.vox-cdn.com/uploads/chorus_image/image/70953645/Exterior_Evening__Taco_Bell_Defy_1_1080x1080_1_crop.0.jpg' width='700px' /><br/>
-Today, Taco Bell opened the doors to its new digital-driven, two-story restaurant concept, Taco Bell Defy, in Brooklyn Park, Minnesota. Taco Bell first told us about Taco Bell Defy back in August 2021. The location uses technology to speed up service, with a “bold goal of creating a 2 minute or less drive-thru experience for customers of this concept,” according to Taco Bell President Mike Grams.
-<a href='https://www.theverge.com/2022/6/7/23158666/taco-bell-defy-digital-online-orders-drive-thru'> Source <a/>

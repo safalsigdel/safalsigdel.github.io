@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kSK1HgpRp_aaMlG22c2FUqV5cok=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/70956345/IMA_hero_1_iphone11pro.0.0.jpg' width='700px' /><br/>
+Last April, Smartlabs switched off its cloud servers, leaving users of its Insteon smart home system without app or voice control of their connected switches, plugs, thermostats, and other devices paired to its smart home hub. It happened overnight with no warning, and now, the same thing has happened in reverse: someone suddenly turned the switch back on.
+<a href='https://www.theverge.com/2022/6/8/23159723/insteon-smart-home-servers-reportedly-online'> Source <a/>

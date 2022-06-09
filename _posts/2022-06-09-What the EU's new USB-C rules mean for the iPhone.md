@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MCeHkzqb8TXrYtfn4bbgHR2lY1c=/0x0:2028x1352/1200x800/filters:focal(852x514:1176x838)/cdn.vox-cdn.com/uploads/chorus_image/image/70956510/vpavic_210916_4760_0082.0.jpg' width='700px' /><br/>
+This week, European Union lawmakers agreed on new proposals to force manufacturers of everything from smartphones and headphones to digital cameras and tablets to use the same universal charging port: USB Type-C. The plan is for the new rules to come into effect by fall 2024, after which these devices that charge using a wired cable will need to do so via a built-in USB-C port.
+<a href='https://www.theverge.com/2022/6/8/23159686/iphone-usbc-european-union-harmonized-charger-legislation-ewaste'> Source <a/>

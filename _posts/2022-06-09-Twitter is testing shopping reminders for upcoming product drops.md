@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uKsKvYh8Kv83kPhh5wdKq0Xs-ec=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70956072/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter is testing a new shopping feature for previewing upcoming product releases. The feature, called Product Drops, allows brands to tease items before they go on sale, and customers can sign up to be reminded prior to the release through in-app notifications.
+<a href='https://www.theverge.com/2022/6/8/23158661/twitter-shopping-product-drops-reminders-test'> Source <a/>

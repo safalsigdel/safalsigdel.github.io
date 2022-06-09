@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yOI4VAyeM0i_eBuptmW_-u979nM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70952328/Hero_Bloom_Logo.0.jpg' width='700px' /><br/>
-Microsoft is releasing its next big Windows 11 update to the Release Preview ring of final testing today. Windows 11 22H2 is expected to be available in the coming months and will include a number of big changes to the operating system, including new Start menu folders, updated touch gestures, and drag and drop for the taskbar.
-<a href='https://www.theverge.com/2022/6/7/23158357/microsoft-windows-11-22h2-update-release-preview-features-download'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KR90SQMLMX0rPoQXKqWD6QUZsAU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70952894/using1_2040.0.0.jpg' width='700px' /><br/>
-A few years ago, I was shopping for a Chromebook to take on a business trip. I wanted something lightweight enough to carry around all day and inexpensive enough that I wouldn't mind as much when I spilled coffee on the keyboard. I was considering two different models when a sales rep came over to see if I needed help. “You're aware,” he said, “that these are Chromebooks, right? They only work online; you can't save any files to the hard drive.”
-<a href='https://www.theverge.com/23157984/chrome-os-how-to-save-retrieve-files'> Source <a/>

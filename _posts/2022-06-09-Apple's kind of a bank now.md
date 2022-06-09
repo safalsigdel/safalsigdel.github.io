@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vw6f8PJ7UJ0dLq3EpA-pEsxBy9g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70957597/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple's going to handle the lending for its new buy now, pay later (BNPL) service, and doesn't plan on shifting that responsibility to a financial service, according to reports from Bloomberg and CNBC. The company's subsidiary, Apple Financing LLC, is reportedly licensed to provide lending services and will remain separate from Apple's main business.
+<a href='https://www.theverge.com/2022/6/8/23160400/apple-kind-of-bank-now-pay-later-bnpl-financial-services'> Source <a/>
