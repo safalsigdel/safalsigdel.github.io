@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f8vI6TLBCqQSO2PPB_1kJ6ShZoU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70955683/acastro_180109_1777_0001.0.jpg' width='700px' /><br/>
-A YouTuber named Yannic Kilcher has sparked controversy in the AI world after training a bot on posts collected from 4chan's Politically Incorrect board (otherwise known as /pol/).
-<a href='https://www.theverge.com/2022/6/8/23159465/youtuber-ai-bot-pol-gpt-4chan-yannic-kilcher-ethics'> Source <a/>
