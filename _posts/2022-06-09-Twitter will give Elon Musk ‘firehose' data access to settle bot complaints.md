@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xcik3_yVbsP1gVIheCIdoTt2tG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70956343/mdoying_180117_2249_twitter_0242stills.0.jpg' width='700px' /><br/>
-Twitter is preparing to grant Elon Musk unprecedented access to platform data in an effort to address his concerns about automated accounts, The Washington Post reported on Wednesday. Citing a person familiar with the company's thinking, the report says Twitter is preparing to give Musk access to the so-called “firehose” API that contains every tweet as it is posted.
-<a href='https://www.theverge.com/2022/6/8/23159898/twitter-musk-firehose-bot-complaints-data-sec-deal'> Source <a/>

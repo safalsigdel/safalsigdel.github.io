@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ccEKqvlzdbwFaJNl7Z96koI9ueQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70956081/vpavic_211006_4796_0039.0.jpg' width='700px' /><br/>
-At WWDC 2022, Apple announced it was adding a number of big fitness updates to watchOS 9. Most notably, that included a ton of new running metrics, as well as a new multisport mode for triathletes. As a runner and wearables reviewer, the presentation immediately made me think, “Holy guacamole, Apple is coming for Garmin.”
-<a href='https://www.theverge.com/2022/6/8/23158318/apple-garmin-polar-watchos-9-battery'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CZNOlNPuyLWtGhLXeJUeHg4imow=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70959007/XboxDesignLab_Update.0.jpg' width='700px' /><br/>
+Xbox announcing a host of planned improvements to its hardware and services today. In addition to cloud gaming improvements and new supported platforms for the Xbox app, it was announced that Xbox will expand its Design Lab store with even more customization options.
+<a href='https://www.theverge.com/2022/6/9/23156812/xbox-design-lab-new-custom-controller-options'> Source <a/>

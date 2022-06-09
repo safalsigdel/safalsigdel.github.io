@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fonc_RaCtiUkfhsrLyhBKAR-EFE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70958997/acastro_210429_1777_0001.0.jpg' width='700px' /><br/>
+Microsoft is bringing Xbox Cloud Gaming to Argentina and New Zealand today. Xbox Game Pass Ultimate subscribers will be able to stream more than 100 games to phones, tablets, and PCs today, as well as Samsung TVs later this month thanks to a new Xbox TV app.
+<a href='https://www.theverge.com/2022/6/9/23159480/xbox-cloud-gaming-argentina-new-zealand-launch'> Source <a/>

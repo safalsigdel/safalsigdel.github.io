@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bPdRv59gtvLXkHcN-lsSlXdaF3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70956317/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
-Google announced Android 13's third public beta today and says that it has reached platform stability. That's an indicator that Google has locked in major updates, and from here until the final release, it's all about putting on the finishing touches. It's also reaching this milestone a full two months earlier than Android 12, which was a much more ambitious update that reached Android device owners with plenty of bugs intact.
-<a href='https://www.theverge.com/2022/6/8/23158886/android-13-beta-stable-release'> Source <a/>
