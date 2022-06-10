@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YJrJSXtljVhawWUwDErXazDdMp0=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23614858/XboxCloudGamingExpansion__1_.jpg' width='700px' /><br/>
-Microsoft is working on Project Moorcroft, a program designed to bring early game demos to Xbox Game Pass subscribers. The demos will be similar to the limited levels and early samples of games that fans would typically spend hours waiting in line to play at E3 or PAX.
-<a href='https://www.theverge.com/2022/6/9/23159500/xbox-project-moorcroft-game-demos-xbox-game-pass'> Source <a/>
