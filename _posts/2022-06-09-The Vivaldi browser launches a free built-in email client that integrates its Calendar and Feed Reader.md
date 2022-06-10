@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tQkk74hWDT9sk0aaN5YEvKsni-w=/0x0:1508x968/1200x800/filters:focal(634x364:874x604)/cdn.vox-cdn.com/uploads/chorus_image/image/70958637/vivalimail1.0.0.png' width='700px' /><br/>
-Vivaldi has launched its own free built-in email client, Mail 1.0, with Vivaldi's Calendar and Feed Reader integrated.
-<a href='https://www.theverge.com/2022/6/9/23159860/vivaldi-browser-free-built-in-email-client-vivaldi-calendar-vivaldi-feed-reader-integrated'> Source <a/>

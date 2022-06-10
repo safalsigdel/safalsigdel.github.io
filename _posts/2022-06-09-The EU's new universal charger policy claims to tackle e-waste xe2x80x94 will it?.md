@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X6LB-oY0DuwvemvfAa_7OpB1tbI=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70957362/1197549916.0.jpg' width='700px' /><br/>
-Slashing e-waste was a major driver in European Union lawmakers' proposal yesterday to mandate a universal charger for mobile phones and other devices. But there are still a lot of other factors that have to come together for the measure to make a meaningful difference in the world's e-waste problem.
-<a href='https://www.theverge.com/2022/6/8/23159808/universal-charger-e-waste-european-union-eu-usb-c-apple'> Source <a/>

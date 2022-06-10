@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gt5yG45yqmHZ4JR2wLuEL_uI3k4=/0x0:2200x1466/1200x800/filters:focal(924x557:1276x909)/cdn.vox-cdn.com/uploads/chorus_image/image/70958678/_1x_1.0.jpg' width='700px' /><br/>
-Meta has halted development of a smartwatch with two built-in cameras, Bloomberg reports. The device — codenamed “Milan” — had reportedly been planned for release in spring 2023 at a price of around $349. Technical issues, as well as general cost-cutting at Meta, are reportedly to blame for the cancellation. The existence of the watch had previously been reported by The Verge last year.
-<a href='https://www.theverge.com/2022/6/9/23160921/meta-dual-camera-smartwatch-activity-tracker-metaverse-controller'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uQVtXF1bp-SnEN6BY4DTP5JcJwE=/0x0:928x523/1200x800/filters:focal(390x188:538x336)/cdn.vox-cdn.com/uploads/chorus_image/image/70960553/Audiobooks_Pilot_H_2021_1611357123_928x523.0.jpg' width='700px' /><br/>
+This article first ran in Hot Pod Insider, The Verge's audio industry newsletter.
+<a href='https://www.theverge.com/2022/6/9/23161536/spotify-audiobooks-amazon-audible-podcasts'> Source <a/>

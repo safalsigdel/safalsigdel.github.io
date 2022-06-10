@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C0Lvj1-VnKpuucJ_s_kKCqiVtn4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70959420/ajohnson_220321_5096_0005.0.jpg' width='700px' /><br/>
+A higher-capacity version of this year's OnePlus flagship, the 10 Pro, is releasing in the US and Canada on June 15th, the company announced today. This model comes with 12GB of RAM and 256GB of storage, up from 8GB and 128GB, respectively, in the base level model. It will retail for $969 in the US and $1,249 in Canada and be available in whatever color you want, so long as it's black.
+<a href='https://www.theverge.com/2022/6/9/23160967/oneplus-10-pro-12gb-ram-256gb-storage-usa-canada-release-date-features'> Source <a/>

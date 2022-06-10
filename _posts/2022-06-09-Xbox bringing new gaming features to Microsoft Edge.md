@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QU3f3Ca2XD37pbZPxdP6LT1S0Jo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70958994/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Xbox is announcing that everyone's favorite gaming platform, Microsoft Edge, is getting a number of new features that prioritize cloud gaming integration and personalization for the blue browser. Microsoft has been consistently growing and improving support for Xbox Cloud Gaming across multiple platforms and is clearly taking steps to optimize this service on browsers by providing it with more gaming-forward features.
-<a href='https://www.theverge.com/2022/6/9/23157078/xbox-bringing-new-gaming-features-to-microsoft-edge'> Source <a/>

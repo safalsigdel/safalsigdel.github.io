@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GyA7chSXCAfumgthKKsOSc3OFr0=/0x0:4000x2701/1200x800/filters:focal(1680x1031:2320x1671)/cdn.vox-cdn.com/uploads/chorus_image/image/70960236/492682232.0.jpg' width='700px' /><br/>
+The federal government is upgrading its investigation into over a dozen incidents of Tesla vehicles using Autopilot that crashed into emergency vehicles. The probe is now designated as an “Engineering Analysis,” which is the second and final phase of an investigation before a possible recall.
+<a href='https://www.theverge.com/2022/6/9/23161365/tesla-autopilot-nhtsa-crash-investigation-emergency-vehicle'> Source <a/>

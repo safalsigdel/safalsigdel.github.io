@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a6RIL0FIg1P8IjY1EAafmlsPq7U=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70960487/bfarsace_201106_4269_020.0.0.jpg' width='700px' /><br/>
+Apple's ecosystem can be a little “one size fits all” without a lot of room for personalization (though that's changing in iOS 16). Customizing your iPhone's alert sounds can make your device feel a little more personal and fun. And maybe — I'm just spitballing here — you can even make a funny reference to a '90s comedy starring Bill Murray in the process. Just an idea.
+<a href='https://www.theverge.com/23160418/iphone-ios-change-alarm-notification-alert-sounds-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GvWUfnDal4OBgHnAFZMtf4_REYg=/0x0:4200x2794/1200x800/filters:focal(1764x1061:2436x1733)/cdn.vox-cdn.com/uploads/chorus_image/image/70959261/XPS_13_2_in_1.0.png' width='700px' /><br/>
+Dell is totally overhauling its XPS 13 2-in-1 laptop today by revealing a new design that's a tablet instead of a thin laptop with a reversible hinge. The 2022 model swaps the reversible hinge for an XPS Folio keyboard case, which is much like Apple's Magic Keyboard for the iPad. It magnetically connects to the XPS 13 2-in-1 and allows the device to transform into a laptop instead of a standalone tablet.
+<a href='https://www.theverge.com/2022/6/9/23160945/dell-xps-13-2-in-1-new-tablet-folio-stylus-specs-release-date'> Source <a/>

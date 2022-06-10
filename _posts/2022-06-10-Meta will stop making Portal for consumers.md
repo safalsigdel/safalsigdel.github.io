@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FXjKUXgLk7HLDX0LWCahzT1KdlE=/0x0:2040x1360/1200x800/filters:focal(784x609:1110x935)/cdn.vox-cdn.com/uploads/chorus_image/image/70960760/jtuohy_211014_4807_0006.0.jpg' width='700px' /><br/>
+Meta plans to stop making consumer versions of its Portal video calling hardware and instead pivot the product line to focus on use cases for businesses, like conference calling.
+<a href='https://www.theverge.com/2022/6/9/23161624/meta-portal-pivot-business-product'> Source <a/>

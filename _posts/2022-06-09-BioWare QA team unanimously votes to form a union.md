@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P8jg61HUavJS9lOnvZq1618HLWI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70956439/Mass_Effect_Legendary_Edition__THANE_3840x2160_LEGENDARY.0.png' width='700px' /><br/>
-A team of quality assurance (QA) contractors who work closely with BioWare, a studio owned by EA, has voted unanimously (16 to 0) to form a union. The workers are employed by the Edmonton, Canada-based branch of Keywords Studios, making them the country's first union in the game industry.
-<a href='https://www.theverge.com/2022/6/8/23159739/bioware-keywords-studio-union-canada-ea-dragon-age-4'> Source <a/>

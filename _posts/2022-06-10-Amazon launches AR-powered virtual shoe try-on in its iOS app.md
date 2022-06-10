@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UFtuJuWiyc5iBoFGudJH8FqR0q8=/0x0:2276x1430/1200x800/filters:focal(956x533:1320x897)/cdn.vox-cdn.com/uploads/chorus_image/image/70959886/Screen_Shot_2022_06_09_at_8.47.58_AM.0.png' width='700px' /><br/>
+Amazon is now letting iOS users virtually try-on shoes, the company announced in a blog post. Amazon customers in the US and Canada are able to try on shoes for various brands including New Balance, Adidas, Reebok, and more.
+<a href='https://www.theverge.com/2022/6/9/23161127/amazon-augmented-reality-virtual-shoe-try-on'> Source <a/>

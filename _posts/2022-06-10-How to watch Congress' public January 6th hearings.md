@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JVK0its2D25CWxy8J9DxwmLxe9k=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70959680/1239582911.0.jpg' width='700px' /><br/>
+Tonight, the Congressional committee tasked with investigating the Capitol riot will hold its first public hearing in months, part of a broader push to bring public attention to the committee's findings. Further public hearings are expected throughout the month.
+<a href='https://www.theverge.com/2022/6/9/23160981/congresss-january-6th-hearings-watch-live-stream-date-start-time'> Source <a/>

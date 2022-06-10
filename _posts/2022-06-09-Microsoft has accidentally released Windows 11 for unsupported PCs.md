@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_a-MfTkB3mhUQub2WCxZUAbIaOU=/0x0:1600x1000/1200x800/filters:focal(672x372:928x628)/cdn.vox-cdn.com/uploads/chorus_image/image/70958838/windows11stock.0.jpg' width='700px' /><br/>
-Microsoft released the final version of its next big Windows 11 update (22H2) to Release Preview testers on Tuesday, and accidentally made it available to PCs that aren't officially supported. Oops.
-<a href='https://www.theverge.com/2022/6/9/23160968/microsoft-windows-11-unsupported-pcs-22h2-update-release-accident'> Source <a/>
