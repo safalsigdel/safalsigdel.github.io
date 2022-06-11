@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/evJfEuFrF9sN9WY2_UMK61yXUy8=/0x0:1024x1024/1200x675/filters:focal(324x515:486x677)/cdn.vox-cdn.com/uploads/chorus_image/image/70963292/7310533f_46b5_4856_8761_8d6287486d3c_1024x1024.0.png' width='700px' /><br/>
 Disclaimer: All images in this story were generated using artificial intelligence.
+<a href='https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/evJfEuFrF9sN9WY2_UMK61yXUy8=/0x0:1024x1024/1200x675/filters:focal(324x515:486x677)/cdn.vox-cdn.com/uploads/chorus_image/image/70963292/7310533f_46b5_4856_8761_8d6287486d3c_1024x1024.0.png' width='700px' /><br/>
+Disclaimer: All images in this story were generated using artificial intelligence.
 <a href='https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution'> Source <a/>
