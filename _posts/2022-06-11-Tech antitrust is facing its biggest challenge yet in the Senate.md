@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/jhIqYMktrV3xv3z5rgRv_bSrdOQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70964264/acastro_181106_1777_flag_0003.0.jpg' width='700px' /><br/>
 After six months of slow progress, the Senate is closer than ever to instituting new tech antitrust rules — and the industry is fighting harder than ever to bring it down.
-<a href='https://www.theverge.com/2022/6/10/23162438/american-innovation-choice-online-act-aico-klobuchar-grassley-senate'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/jhIqYMktrV3xv3z5rgRv_bSrdOQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70964264/acastro_181106_1777_flag_0003.0.jpg' width='700px' /><br/>
-After six months of slow progress, the Senate is closer than ever to instituting new tech antitrust rules — and the industry is fighting harder than ever to bring it down.
 <a href='https://www.theverge.com/2022/6/10/23162438/american-innovation-choice-online-act-aico-klobuchar-grassley-senate'> Source <a/>
