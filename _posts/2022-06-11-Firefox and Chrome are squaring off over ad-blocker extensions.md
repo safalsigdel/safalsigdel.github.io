@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/9VXo66nX5e1uJltM7lAesx8eIkA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70962892/acastro_220609_5242_0001.0.jpg' width='700px' /><br/>
 There's a growing split over how much room browsers should leave for ad blocking — and Chrome and Firefox have ended up on opposite sides of the fight.
+<a href='https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/9VXo66nX5e1uJltM7lAesx8eIkA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70962892/acastro_220609_5242_0001.0.jpg' width='700px' /><br/>
+There's a growing split over how much room browsers should leave for ad blocking — and Chrome and Firefox have ended up on opposite sides of the fight.
 <a href='https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request'> Source <a/>
