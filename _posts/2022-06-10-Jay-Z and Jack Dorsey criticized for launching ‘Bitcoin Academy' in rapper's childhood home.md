@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b-XCwlIJYUp-8ducZ3Dq0PlJXKg=/0x0:4314x2876/1200x800/filters:focal(1812x1093:2502x1783)/cdn.vox-cdn.com/uploads/chorus_image/image/70962507/1400724812.0.jpg' width='700px' /><br/>
-Rapper Jay-Z and Twitter founder Jack Dorsey have teamed up to launch a bitcoin-focused financial literacy project named The Bitcoin Academy. The project consists of free bi-weekly classes, offered in-person and online, for residents of the musician's childhood home: the Marcy Houses public housing complex in Brooklyn, New York City.
-<a href='https://www.theverge.com/2022/6/10/23162314/jay-z-jack-dorsey-bitcoin-academy-brooklyn-free-classes'> Source <a/>

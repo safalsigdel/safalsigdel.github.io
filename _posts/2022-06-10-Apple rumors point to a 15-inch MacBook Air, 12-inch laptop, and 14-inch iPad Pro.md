@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Umu7I53hnY--K4PwVVNu_RESbVo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70960758/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
-It has only been a few days since Apple introduced a new generation of its custom chip family with the M2 and a round of updated laptops, including the new MacBook Air and 13-inch MacBook Pro. But even though the WWDC 2022 keynote is over, the rumor mill never stops. Now, there are more reports about what's next in Apple's pipeline, and several of the items will feel very familiar.
-<a href='https://www.theverge.com/2022/6/9/23161540/apple-macbook-air-ipad-pro-m2-max-rumors'> Source <a/>

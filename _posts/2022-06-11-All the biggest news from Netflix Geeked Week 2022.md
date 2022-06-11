@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/48DdkLKB_RKf2HmVzpK5BiqDwjM=/0x0:7680x4320/1200x675/filters:focal(3127x1675:4355x2903)/cdn.vox-cdn.com/uploads/chorus_image/image/70948666/PROFILE_JABARI_FL_6.8.22.10.jpg' width='700px' /><br/>
+For a second year in a row, Netflix is dedicating an entire week to nerdy new announcements. Geeked Week has returned for 2022, and each day has a different theme. It starts with TV shows on Monday, before moving through film, animation, Stranger Things, and gaming. Basically, there's going to be a lot to keep track of.
+<a href='https://www.theverge.com/2022/6/6/23156316/netflix-geeked-week-2022-trailers-film-tv-announcements'> Source <a/>

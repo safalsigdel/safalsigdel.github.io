@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MrErvfuOebQj05tmDTG-t6MjsGo=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/70959830/img.0.jpeg' width='700px' /><br/>
-Porsche's electric bike shopping spree isn't over. The German automaker announced Thursday that it would be acquiring Fazua, an e-bike drivetrain manufacturer that specializes in lightweight motors.
-<a href='https://www.theverge.com/2022/6/9/23161183/porsche-fazua-acquisition-ebike-motor-battery'> Source <a/>

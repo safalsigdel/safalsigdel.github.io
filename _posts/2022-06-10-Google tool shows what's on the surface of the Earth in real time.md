@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5A6WTyn2tOttG5MqTj1O3O6MMfs=/0x0:1904x1160/1200x800/filters:focal(800x428:1104x732)/cdn.vox-cdn.com/uploads/chorus_image/image/70959656/Screen_Shot_2022_06_09_at_10.23.24_AM.0.png' width='700px' /><br/>
-A new dataset from Google shows the features on the surface of the Earth in near real time, the company announced Thursday. The tool, called Dynamic World, uses deep learning and satellite imagery to develop a high-resolution land cover map that shows which bits of land have features like trees, crops, or water.
-<a href='https://www.theverge.com/2022/6/9/23161070/google-land-cover-dynamic-world'> Source <a/>

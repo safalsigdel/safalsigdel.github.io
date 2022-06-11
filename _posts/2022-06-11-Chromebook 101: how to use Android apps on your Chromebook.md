@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EeOlYa-kNKsUJXPBwgMR01VBW8U=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70963657/VRG_TMN_020_Chromebook_Update_Still.0.0.0.0.jpg' width='700px' /><br/>
+One of the advantages that Chromebooks offer is the ability to run many of your favorite Android apps alongside Chrome OS windows. For the most part, any Chromebook that was launched on or after 2019 will run Android apps; if you've got an older system, Google has a long list of the Chromebooks that can run Android apps, but it's not difficult to see if yours is one of them by doing the following:
+<a href='https://www.theverge.com/23158719/chromebook-android-apps-google-how-to'> Source <a/>

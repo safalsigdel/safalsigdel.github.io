@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SYjOo_7qzNRdmlO-1wFzXhEABEQ=/0x0:3450x2460/1200x800/filters:focal(1449x954:2001x1506)/cdn.vox-cdn.com/uploads/chorus_image/image/70963481/1175129162.0.jpg' width='700px' /><br/>
+Just after closing a $28 billion deal to acquire electronic health records company Cerner, tech giant Oracle said it thinks it can solve one of the biggest tech problems in healthcare: patient records.
+<a href='https://www.theverge.com/2022/6/10/23162503/oracle-cerner-health-records-data-interoperability'> Source <a/>
