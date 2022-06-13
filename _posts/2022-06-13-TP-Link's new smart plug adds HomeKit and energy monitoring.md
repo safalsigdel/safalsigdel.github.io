@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7uDKNGmQKLxGiTx1d4VXxBuu3T4=/0x0:1221x1300/1200x800/filters:focal(704x876:898x1070)/cdn.vox-cdn.com/uploads/chorus_image/image/70970430/6472520cv18d.5.jpeg' width='700px' /><br/>
+TP-Link has finally added HomeKit to one of its products, and it's a serious bargain. The new version of its very good mini smart plug has Apple HomeKit support and energy monitoring all for just $12.50 per plug. The Kasa Smart WiFi Plug Mini with Energy Monitoring and Apple HomeKit, EP25 is available on Amazon for $49.99 for a four-pack (a two-pack at $29.99 is coming in Q4).
+<a href='https://www.theverge.com/2022/6/13/23162475/tp-link-kasa-smart-plug-mini-energy-monitoring-homekit-price-specs-release-date'> Source <a/>

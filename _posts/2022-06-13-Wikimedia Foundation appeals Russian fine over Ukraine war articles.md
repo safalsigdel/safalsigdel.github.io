@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pFtU7caLheA6R5FFxXuLaNbuAho=/0x0:2800x2048/1200x800/filters:focal(1176x800:1624x1248)/cdn.vox-cdn.com/uploads/chorus_image/image/70970212/Wikipedia_logo_v2.svg.0.png' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/tIvy3Qj3-bvXFWyvY6dJJDBUXbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70970212/acastro_220315_STK013_0003.5.jpg' width='700px' /><br/>
 The Wikimedia Foundation is challenging a Russian court's ruling that it violated disinformation laws in articles about the invasion of Ukraine. The organization filed its appeal last week, arguing that the articles contained “well-sourced, verified knowledge” and that Russia did not have jurisdiction over the globally operating Wikimedia Foundation.
 <a href='https://www.theverge.com/2022/6/13/23164768/wikimedia-foundation-appeals-russian-court-disinformation-decision-ukraine-war-articles'> Source <a/>
