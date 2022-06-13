@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pHxxFj3H_A5e-JV5yy6Sgufg8Ho=/0x0:1280x720/1200x800/filters:focal(162x262:366x466)/cdn.vox-cdn.com/uploads/chorus_image/image/70970256/maxresdefault.0.jpg' width='700px' /><br/>
+The first season of For All Mankind, the science fiction alternate history show from Battlestar Galactica creator Ron D. Moore, is now available to stream free of charge — no Apple TV Plus subscription required. The limited time promotion coincides with the release of the show's third season, which premiered on June 10th on Apple's video streaming service.
+<a href='https://www.theverge.com/2022/6/13/23165551/for-all-mankind-first-season-free-apple-tv-plus'> Source <a/>
