@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N8Y02UGiuzwcjVk1g51kdA5cRZo=/0x0:1383x780/1200x800/filters:focal(582x280:802x500)/cdn.vox-cdn.com/uploads/chorus_image/image/70971038/drone_2.0.jpeg' width='700px' /><br/>
+Amazon is taking steps to get its long-delayed drone delivery project off the ground. The company announced that it would launch its inaugural drone delivery service in the town of Lockeford, California, later this year after it receives the green light from the Federal Aviation Administration.
+<a href='https://www.theverge.com/2022/6/13/23165727/amazon-drone-delivery-pilot-lockeford-faa'> Source <a/>
