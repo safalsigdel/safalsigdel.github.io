@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YGmP8K0r5L7Fs8JTitDAcZ-UO60=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70966614/acastro_180417_1777_telegram_0004.0.jpg' width='700px' /><br/>
-Telegram will soon start putting some features behind a paywall (via TechCrunch). In a post on the platform, founder Pavel Durov announced that the messaging service is launching a paid Telegram Premium subscription later this month, giving users “additional features, speed and resources.”
-<a href='https://www.theverge.com/2022/6/11/23163704/telegram-premium-subscription-coming-later-this-month-pavel-durov'> Source <a/>
