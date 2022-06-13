@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IhK-T_o98epxKFRGZtdls9aJdro=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70964801/acastro_180524_1777_tesla_0001.0.jpg' width='700px' /><br/>
-Tesla is asking its shareholders to approve a three-way stock split to help make the company's shares cheaper for buyers.
-<a href='https://www.theverge.com/2022/6/10/23163136/tesla-stock-split-share-price-investor-2022'> Source <a/>

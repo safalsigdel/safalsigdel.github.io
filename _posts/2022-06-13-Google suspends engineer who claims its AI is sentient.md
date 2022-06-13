@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a_3BhqeSG9oWuUPN18KQoRXegzk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70970140/akrales_180508_2553_0039.0.jpg' width='700px' /><br/>
+Google has placed one of its engineers on paid administrative leave for allegedly breaking its confidentiality policies after he grew concerned that an AI chatbot system had achieved sentience, the Washington Post reports. The engineer, Blake Lemoine, works for Google's Responsible AI organization, and was testing whether its LaMDA model generates discriminatory language or hate speech.
+<a href='https://www.theverge.com/2022/6/13/23165535/google-suspends-ai-artificial-intelligence-engineer-sentient'> Source <a/>
