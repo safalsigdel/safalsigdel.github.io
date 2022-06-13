@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T-qvSjcppz4YjL22kbHkBY-40U4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70968570/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is set to pay $118 million to settle a class-action gender discrimination lawsuit that includes around 15,500 women (via Bloomberg). As noted in the settlement's press release, Google is also required to have an independent labor economist evaluate its hiring practices and pay equity studies.
+<a href='https://www.theverge.com/2022/6/12/23164678/google-pay-118-million-settle-gender-discrimination-lawsuit'> Source <a/>

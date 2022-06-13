@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dBSeQaAR4aLMmFG-nbedmMMuvyU=/0x0:4577x2412/1200x800/filters:focal(1923x840:2655x1572)/cdn.vox-cdn.com/uploads/chorus_image/image/70967181/domestic_1_stills_for_print_39.0.jpg' width='700px' /><br/>
+Spider-Man: No Way Home is making its way back to theaters on September 2nd after it broke box office records and became one of the highest-grossing films. This time around, Marvel is sprinkling in some new and extended scenes to keep things fresh.
+<a href='https://www.theverge.com/2022/6/11/23164052/spider-man-no-way-home-returning-theaters-new-spidey-scenes-more-fun-stuff'> Source <a/>

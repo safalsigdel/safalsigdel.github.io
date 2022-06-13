@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ongbozm5x1yp2YY12mVP4Jg-v_8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70964516/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-Google Cloud developer advocate Emma Haruka Iwao has beaten her own record from three years ago for the number of digits calculated for pi. In 2019 she was able to calculate pi to its 31.4 trillionth digit, and now, using the same Google Cloud y-cruncher program Iwao was able to find pi to its 100 trillionth digit, which is zero.
-<a href='https://www.theverge.com/2022/6/10/23161647/google-cloud-processing-pi-calculation-100-trillion'> Source <a/>

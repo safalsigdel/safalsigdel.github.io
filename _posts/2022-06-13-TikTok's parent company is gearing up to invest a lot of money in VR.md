@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G5D1_4Zo1T-t90NLcVEIcJvSmww=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70966852/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+ByteDance, the company that owns TikTok, is getting serious about entering the virtual reality (VR) space, according to a report from Protocol. A source close to the situation told the outlet that the company plans on investing “tons of money” to develop VR-related content.
+<a href='https://www.theverge.com/2022/6/11/23163839/tiktok-parent-company-bytedance-gearing-up-invest-money-vr'> Source <a/>

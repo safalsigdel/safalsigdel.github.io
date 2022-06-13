@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QNKuMqLN0lSoE8C0Ib93v8ThiMw=/0x0:1200x675/1200x0/filters:focal(0x0:1200x675):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23622732/gamepass_titles.jpg' width='700px' /><br/>
+Xbox revealed a ton of exciting news at the Xbox & Bethesda Game Showcase, ranging from a longer look at Starfield to news about Overwatch 2 and Diablo IV.
+<a href='https://www.theverge.com/2022/6/12/23164791/biggest-announcements-xbox-bethesda-games-showcase-starfield-overwatch-2-persona-diablo-iv'> Source <a/>

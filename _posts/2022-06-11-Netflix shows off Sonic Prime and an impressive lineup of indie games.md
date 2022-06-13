@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Og6Ft28mQAom-4CbvJFap1RyX0g=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70964308/GW22_Day5Presser_LOC_FINAL_20220527_TEXTED066.0.jpeg' width='700px' /><br/>
-This week, Netflix unleashed a battery of announcements as a part of its Geeked Week. Contained within the flurry of reveals of The Sandman, The Umbrella Academy season 3, One Piece, and more was a handful of announcements about the platform's slowly growing game and game-adjacent offerings.
-<a href='https://www.theverge.com/2022/6/10/23157036/netflix-gaming-geeked-week-summer-2022'> Source <a/>

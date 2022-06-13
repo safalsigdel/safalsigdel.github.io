@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/17XNolIlUFzH-cGGvGka3JlkyO4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70968939/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
+Microsoft showed off a bunch of games at its Xbox and Bethesda Games Showcase 2022. Yes, we did get a significant look at Starfield, but there was a lot more than that — surprises included a launch date for Overwatch 2's PVP mode and a launch window for Diablo IV.
+<a href='https://www.theverge.com/2022/6/12/23164968/xbox-bethesda-games-showcase-2022-activision-blizzard'> Source <a/>
