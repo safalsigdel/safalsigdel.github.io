@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sDrZZ-WcRNqbxzxV9U94Rcevx6o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70971938/playstation_plus_logo_blog.0.jpg' width='700px' /><br/>
-Sony's revamped PlayStation Plus tiers are now live in the US, offering benefits like access to select PS4 and PS5 games, cloud-streamed games, and a collection of retro titles, depending on which tier you subscribe to.
-<a href='https://www.theverge.com/2022/6/13/23166206/sony-new-playstation-plus-tiers-essential-extra-premium-live-us'> Source <a/>

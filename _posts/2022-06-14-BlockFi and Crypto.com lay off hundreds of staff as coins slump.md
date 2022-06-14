@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xjzMK0vZV-XmBCN4wAfqq6p1Ehk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70972224/acastro_220524_STK428_0001.0.jpg' width='700px' /><br/>
-BlockFi, a platform for trading and lending cryptocurrency, announced via a blog post on Monday that it's laying off 20 percent of its 850 employees — around 170 to 200 people. CEO Zac Prince said in a Twitter thread that the layoffs can be traced to a “dramatic shift in macroeconomic conditions” and BlockFi's push to become profitable.
-<a href='https://www.theverge.com/2022/6/13/23166028/blockfi-crypto-com-layoffs-cryptocurrency-defi-slump-halts'> Source <a/>
