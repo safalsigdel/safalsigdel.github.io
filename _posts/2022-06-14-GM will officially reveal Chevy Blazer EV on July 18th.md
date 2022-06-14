@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c3YbM0M-Xm52LyYlNT8IO8II_L8=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/70971570/2024_chevrolet_blazer_ev_ss__1_.0.jpg' width='700px' /><br/>
-The 2024 Chevy Blazer EV will get a proper reveal on July 18th, General Motors announced Monday. The all-electric mid-sized SUV is expected to go on sale next year, along with the electric version of the Chevy Equinox compact SUV.
-<a href='https://www.theverge.com/2022/6/13/23166048/gm-chevy-blazer-ev-reveal-date-electric'> Source <a/>
