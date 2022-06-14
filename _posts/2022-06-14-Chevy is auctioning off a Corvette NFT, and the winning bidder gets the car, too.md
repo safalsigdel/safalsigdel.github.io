@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dr1bNo3NKZ78w_4M8sE2Z8tB3pk=/0x0:3750x2105/1200x800/filters:focal(1575x753:2175x1353)/cdn.vox-cdn.com/uploads/chorus_image/image/70974883/23ChevroletCorvetteZ06_OwnTheColor_MintedGreen.0.jpg' width='700px' /><br/>
+Chevrolet is the latest automaker to jump on the non-fungible token bandwagon, but it's taking a slightly different approach. Chevy announced plans to auction off a Corvette-themed NFT, but the winner bidder won't just get recorded on the blockchain, they'll also get the actual sports car inspired by the artwork.
+<a href='https://www.theverge.com/2022/6/14/23166278/chevy-corvette-nft-xsullo-auction-blockchain-web3-crypto'> Source <a/>

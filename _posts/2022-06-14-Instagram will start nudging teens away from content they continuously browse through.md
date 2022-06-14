@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qdj50W9lRL5s-ie7OmbhrSZCYVg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70974891/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
+After Instagram announced a new initiative meant to “nudge” teen users away from harmful content last year, the platform says it's finally rolling out the feature in the US, UK, Ireland, Canada, Australia, and New Zealand. If a teen's spending too long on Instagram's Explore page looking at posts with a particular theme, the platform will display a notification suggesting that they look at other types of posts instead.
+<a href='https://www.theverge.com/2022/6/14/23167233/instagram-nudge-teens-harmful-content'> Source <a/>

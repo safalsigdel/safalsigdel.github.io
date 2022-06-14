@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oKDLwptXnLqO4vNModgevSHP9rI=/0x0:2560x1708/1200x800/filters:focal(889x1152:1297x1560)/cdn.vox-cdn.com/uploads/chorus_image/image/70974795/p.0.jpeg' width='700px' /><br/>
+8BitDo is launching a Bluetooth controller for gamers with limited mobility, developed in coordination with a dad and his young son who has spinal muscular atrophy type 2. The Lite SE works with Nintendo Switch and Android and is available for preorder at 8BitDo for $34.99, with a ship date of July 15th.
+<a href='https://www.theverge.com/2022/6/14/23166020/8bitdo-lite-se-accessible-gaming-controller-price-specs'> Source <a/>

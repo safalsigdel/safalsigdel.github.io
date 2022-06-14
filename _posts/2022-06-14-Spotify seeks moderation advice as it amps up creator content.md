@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O2KCflKx3yw16tPET76h8SDnhis=/0x0:2051x1367/1200x800/filters:focal(862x520:1190x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70974578/Hot_Pod_Site_Post.0.jpg' width='700px' /><br/>
+I hope everyone had a glorious weekend and a survivable Monday, despite looming economic catastrophe. I am trying not to think too hard about it, so good thing I had a newsletter to write!
+<a href='https://www.theverge.com/23167285/hot-pod-spotify-content-moderation-apple-ted-acast'> Source <a/>

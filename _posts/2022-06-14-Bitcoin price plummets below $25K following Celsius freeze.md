@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U6oXuuGFzcfkZP0BogNK9sCd7Wg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70970711/acastro_220524_STK428_0002.0.jpg' width='700px' /><br/>
-On Sunday night, the Celsius Network, one of the largest crypto lending platforms, abruptly announced a “pause” on withdrawals and transfers, citing “extreme market conditions.” Celsius announced its halt as markets in Asia opened on Monday morning, and the price of its CEL token — worth nearly $7 a year ago — lost a third of its remaining value, falling to just 21 cents.
-<a href='https://www.theverge.com/2022/6/13/23165611/bitcoin-ethereum-crypto-price-drop-celsius'> Source <a/>
