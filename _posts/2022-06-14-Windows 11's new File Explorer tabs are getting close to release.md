@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kj5Qv_a4nT8BOfwWE26ZDXfxfOk=/0x0:2004x1290/1200x800/filters:focal(842x485:1162x805)/cdn.vox-cdn.com/uploads/chorus_image/image/70971988/FE_Tabs_Nav_Hero.0.png' width='700px' /><br/>
+Microsoft has started beta testing its new File Explorer tabs for Windows 11. The tabs feature for File Explorer is now rolling out to Windows Insiders in the Beta Channel and appears to be very close to release for everyone running Windows 11.
+<a href='https://www.theverge.com/2022/6/13/23166341/microsoft-windows-11-file-explorer-tabs-beta-testing'> Source <a/>

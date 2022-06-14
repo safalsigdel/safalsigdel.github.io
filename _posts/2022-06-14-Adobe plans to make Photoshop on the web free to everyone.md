@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5YNj1RmJws0gGYdKyfR4alW2lUI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70974269/acastro_STK124_02.0.jpg' width='700px' /><br/>
+Adobe has started testing a free-to-use version of Photoshop on the web and plans to open the service up to everyone as a way to introduce more users to the app.
+<a href='https://www.theverge.com/2022/6/14/23162580/photoshop-web-free-freemium-version-adobe'> Source <a/>

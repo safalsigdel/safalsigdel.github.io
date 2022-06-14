@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t5McHDdmGIrrvngfukaV8peehRk=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/70973755/Tolls_gif.0.jpg' width='700px' /><br/>
+A new Google Maps feature that estimates the amount you'll have to pay in tolls to drive a given route has started appearing in the Android and iOS apps, according to Google. Android Police reports seeing the new toll pricing in the app, though it's not yet visible on a pair of devices we've tried along the same route. The toll feature was first announced by Google in April.
+<a href='https://www.theverge.com/2022/6/14/23167107/google-maps-toll-estimates-us-india-japan-indonesia'> Source <a/>

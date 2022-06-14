@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/94DMYLj-3Bipeg2JRvl_NZIbXNk=/0x0:780x439/1200x800/filters:focal(568x158:692x282)/cdn.vox-cdn.com/uploads/chorus_image/image/70973798/285944770_719812902667064_2343517654497205844_n.0.png' width='700px' /><br/>
+Meta is adding a new “voice mode” to Horizon Worlds that garbles any voice chat coming from non-friends on the VR social platform, the company has announced. By default you'll still hear all nearby users at the same volume but turning on the “garble voices” toggle will replace them with “unintelligible, friendly sounds.” The feature will roll out in the coming weeks, according to Meta.
+<a href='https://www.theverge.com/2022/6/14/23167136/meta-horizon-worlds-garbled-voice-mode-harassment-vr-virtual-reality'> Source <a/>
