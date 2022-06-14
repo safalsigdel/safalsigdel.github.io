@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iQ2jCYYVRsAJ5LmmULSrGuGcLno=/0x0:2704x1456/1200x800/filters:focal(1136x512:1568x944)/cdn.vox-cdn.com/uploads/chorus_image/image/70974435/CWB2340_103_comp_v073.1172.0.jpg' width='700px' /><br/>
+Disney Plus is continuing its global expansion this week. Variety reports the service is now online in Greece, Turkey, Poland, and a number of other central European countries as part of a broader rollout over the last two weeks including 42 new countries and 11 territories across Europe, Africa, and West Asia. You can see the full list and local pricing here.
+<a href='https://www.theverge.com/2022/6/14/23167230/disney-plus-new-countries-europe-africa-asia'> Source <a/>
