@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-We got a look at what the Samsung Galaxy Z Flip 4 could look like in a set of unofficial renders last month, but now we have leaked images of what appears to be the physical device shared by YouTuber TechTalkTV (via 9to5Google). The images match up with the earlier renders and give us a closer look at the device's display crease, which looks almost nonexistent.
-<a href='https://www.theverge.com/2022/6/11/23163974/leaked-galaxy-z-flip-4-photos-show-potentially-less-noticeable-crease'> Source <a/>

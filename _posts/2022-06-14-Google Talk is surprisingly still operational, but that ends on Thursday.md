@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JShcNf8pt1FEf5eg3WWq28BLSLc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70972322/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+Google is shutting down Talk (also known as GChat) for good — its instant-messaging service you probably haven't used much since 2007 (via Android Police). Although Google migrated Talk users over to Google Hangouts in 2017 — another one of its now-sidelined messaging platforms — it was still accessible by third-party XMPP clients like Pidgin and Gajim.
+<a href='https://www.theverge.com/2022/6/13/23166074/google-talk-messaging-xmpp-shutdown-gchat-pidgin-june-16'> Source <a/>

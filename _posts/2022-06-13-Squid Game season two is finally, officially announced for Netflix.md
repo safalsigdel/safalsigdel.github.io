@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vhgEnKfjxGVgA_7-YFsJ2qCldSM=/0x0:1080x942/1200x800/filters:focal(454x385:626x557)/cdn.vox-cdn.com/uploads/chorus_image/image/70968724/SG_S2_Announce_1x1_NETFLIX_NoDate.0.jpg' width='700px' /><br/>
-Squid Game is officially coming back to Netflix for season two. According to a message from director Hwang Dong-hyuk, the second season will see the return of Gi-hun and the mysterious Front Man. The note also states “the man in the suit with ddakji might be back,” and that we'll also get introduced to Cheol-su, Young-hee's boyfriend.
-<a href='https://www.theverge.com/2022/6/12/23164831/netflix-squid-game-s2-hwang-dong-hyuk'> Source <a/>

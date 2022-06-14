@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tKZRa1zwAIQQfDkrosybpiTjJGA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70971956/akrales_171113_2119_0045.0.jpg' width='700px' /><br/>
+Software that helps people with Parkinson's disease track symptoms through their Apple Watch received clearance from the Food and Drug Administration, the company behind the tool announced today. It automatically tracks things like tremors, and it lets patients report symptoms and medication usage.
+<a href='https://www.theverge.com/2022/6/13/23166060/apple-watch-parkinsons-rune-labs-fda'> Source <a/>

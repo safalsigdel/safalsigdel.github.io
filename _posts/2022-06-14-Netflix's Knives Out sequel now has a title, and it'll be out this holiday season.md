@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fIb9X1LQTK1Mk_TVvnFQd5PSaOs=/0x0:1600x1067/1200x800/filters:focal(330x372:586x628)/cdn.vox-cdn.com/uploads/chorus_image/image/70971375/woods.0.jpeg' width='700px' /><br/>
+Netflix's Knives Out sequel now has an official title and release window: you'll be able to watch Glass Onion: A Knives Out Mystery this holiday season, the company announced Monday.
+<a href='https://www.theverge.com/2022/6/13/23165960/netflix-knives-out-sequel-title-glass-onion'> Source <a/>

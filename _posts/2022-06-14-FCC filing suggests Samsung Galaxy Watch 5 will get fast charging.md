@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eiHISNBATiSr0nfEqIdkPnFe6hw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70972336/dbohn_210816_4717_0005.0.jpg' width='700px' /><br/>
+While we still don't know all the nitty-gritty details about Samsung's next-gen smartwatches, recent FCC filings hint that you can expect at least one big update: faster charging.
+<a href='https://www.theverge.com/2022/6/13/23166287/samsung-galaxy-watch-5-fcc-fast-charging-battery'> Source <a/>

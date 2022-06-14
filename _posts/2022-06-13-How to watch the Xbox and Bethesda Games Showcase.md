@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/57qK6Ynix_ezQ0jhMjK_u8C4xY4=/0x0:1683x1122/1200x800/filters:focal(708x427:976x695)/cdn.vox-cdn.com/uploads/chorus_image/image/70968638/xboxbethesda.0.jpg' width='700px' /><br/>
-Team Xbox is holding its Xbox & Bethesda Game Showcase today. The 95-minute event will feature the latest on games from Xbox Game Studios, Bethesda, and other third-party studios. Naturally, it will also include a lineup of games that are coming to Xbox, PC, and Microsoft's Xbox Game Pass subscription.
-<a href='https://www.theverge.com/2022/6/12/23164779/xbox-bethesda-games-showcase-live-stream-start-time-microsoft-series-x-s-game-pass'> Source <a/>
