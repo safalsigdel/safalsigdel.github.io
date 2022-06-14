@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gW6JD_JxbkSrh1AydEuwrj22sMY=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70969918/1239951757.0.jpg' width='700px' /><br/>
-The Celsius Network, which is one of the largest crypto lenders, announced Sunday night that it was “pausing all withdrawals, Swap, and transfers between accounts.” It has 1.7 million customers.
-<a href='https://www.theverge.com/2022/6/13/23165401/defi-cryptocurrency-celsius-network-pause-withdrawals'> Source <a/>

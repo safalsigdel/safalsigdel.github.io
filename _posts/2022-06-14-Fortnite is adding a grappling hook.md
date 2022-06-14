@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MCuzTXt0K2xUKlWf1WaJIe28IJk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70974329/v21.00_Patch_Update___Grapple_Glove.0.jpg' width='700px' /><br/>
+Fortnite is adding yet another way to get around the battle royale island. As part of the first patch for Chapter 3: Season 3, the game is adding a grappling hook called a grapple glove. And, as we all know, a grappling hook makes everything better.
+<a href='https://www.theverge.com/2022/6/14/23166365/fortnite-grappling-hook-chapter-3-season-3'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6SlxfUC68pkAu8VsDnCYylM5jrU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70971121/DSCF3875_2.0.jpg' width='700px' /><br/>
-Even though Apple completely overlooked tvOS during its WWDC announcements last week, there's a very good reason why you should think about getting an Apple TV 4K today. The 32 and 64GB configurations of the Apple TV 4K are discounted to $129.99 and $149.99, respectively — their best price ever at Amazon and Best Buy.
-<a href='https://www.theverge.com/good-deals/2022/6/13/23165050/apple-tv-4k-macbook-pro-m1-airpods-max-pencil-deal-sale'> Source <a/>
