@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/my5YIsXOyTedJ4mjZEidoiU9mDI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70978078/acastro_1800724_1777_EU_0001.0.jpg' width='700px' /><br/>
+Europe's second-highest court, the General Court, has sided with Qualcomm after it appealed a xe2x82xac997 million (around $1,045 million) fine from European Union regulators over payments made to Apple to use Qualcomm chips, Reuters reports. The EU issued the fine in 2018, and said payments Qualcomm had made to Apple between 2011 and 2016 to exclusively use its chips were illegal under EU antitrust rules.
+<a href='https://www.theverge.com/2022/6/15/23169094/european-union-qualcomm-apple-antitrust-fine-appealed-annulled'> Source <a/>
