@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tMPxFRcyodPA49vP4LvuMTf6kiU=/0x0:4287x2583/1200x800/filters:focal(1802x950:2486x1634)/cdn.vox-cdn.com/uploads/chorus_image/image/70978560/1032138698.0.jpg' width='700px' /><br/>
+The federal government released two new reports highlighting — for the first time — crashes and fatalities involving autonomous vehicles (AV) and vehicles equipped with advanced driver-assist systems (ADAS). Tesla reported the most crashes involving driver-assist technology, while Alphabet's Waymo disclosed the most incidents involving its autonomous vehicles.
+<a href='https://www.theverge.com/2022/6/15/23168088/nhtsa-adas-self-driving-crash-data-tesla'> Source <a/>

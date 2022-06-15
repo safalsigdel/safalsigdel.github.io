@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n4Xkj-0rcAZ2mgT0IDQS8Og7K74=/0x0:2050x1367/1200x675/filters:focal(879x517:1207x845)/cdn.vox-cdn.com/uploads/chorus_image/image/70975865/VRG_ILLO_5269_Smart_Bulbs_Smart_Switches.0.jpg' width='700px' /><br/>
-Smart lighting is the most important innovation in lighting since the invention of the lightbulb. It adds so much functionality to such a key part of our lives, elevating the concept of lighting our homes beyond just the utilitarian.
-<a href='https://www.theverge.com/23156554/smart-bulbs-switch-lighting-guide-how-to'> Source <a/>

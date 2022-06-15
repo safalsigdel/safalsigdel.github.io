@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3RbLk6taLRwvTC7QyrjNwALpUPc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70976207/fshivakumar_181109_3078_0020.0.jpg' width='700px' /><br/>
-Although Adidas and Nike have been in and out of court several times over the years, Adidas has taken it to a new level. On Friday, the company filed its first federal lawsuit against Nike, alleging that its rival infringed on nine of its patents relating to smartphone apps and adjustable shoe tech.
-<a href='https://www.theverge.com/2022/6/14/23167306/adidas-sues-nike-adapt-sneakers-running-apps'> Source <a/>

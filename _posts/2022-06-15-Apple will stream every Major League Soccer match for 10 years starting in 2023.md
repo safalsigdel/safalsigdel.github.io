@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OB81ZtOTq46Qljp5bST3jAVEPAA=/0x0:4241x2823/1200x800/filters:focal(2140x1071:2818x1749)/cdn.vox-cdn.com/uploads/chorus_image/image/70975254/1240864016.0.jpg' width='700px' /><br/>
-Apple will offer streams of every Major League Soccer (MLS) match from early 2023 through 2032 in the Apple TV app, the two organizations announced in a major deal revealed Tuesday. While some games may still air on linear TV networks like ESPN and Fox, this gives Apple the global exclusive on an NFL Sunday Ticket-style offering for the league.
-<a href='https://www.theverge.com/2022/6/14/23167555/apple-tv-mls-live-sports-streaming'> Source <a/>

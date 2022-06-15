@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hlObKKFH7d9yNOcTyUp2NhHgzOA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70978530/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+A lot of people are watching short-form videos on YouTube after nearly two years of YouTube giving creators lucrative cash bonuses and expanding features to be increasingly like TikTok.
+<a href='https://www.theverge.com/2022/6/15/23167577/youtube-shorts-viewers-advertising-creator-monetization'> Source <a/>

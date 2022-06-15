@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_gXNX1zktawOME9a7qOWnzdl3Gs=/0x0:3548x1984/1200x800/filters:focal(1491x709:2057x1275)/cdn.vox-cdn.com/uploads/chorus_image/image/70975506/ab221ccc_8f5b_4f4f_8a96_295b9c5085ad.0.png' width='700px' /><br/>
-Microsoft has started working on bringing casual games to its Microsoft Teams service. Sources familiar with Microsoft's plans tell The Verge that the software maker has started testing games like Solitaire, Connect 4, and Wordament inside Microsoft Teams. The casual games are designed to allow colleagues to play against each other during meetings.
-<a href='https://www.theverge.com/2022/6/14/23167384/microsoft-teams-games-solitaire-wordament-testing'> Source <a/>
