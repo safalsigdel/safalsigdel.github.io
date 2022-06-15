@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AH9a1bK1abKe1pTAM3ZaUU_fSeY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70974260/acastro_STK124_01.0.jpg' width='700px' /><br/>
-Lightroom, Adobe's photo editing app, is getting a surprising new feature: the ability to edit video.
-<a href='https://www.theverge.com/2022/6/14/23161255/lightroom-video-editing-color-grading-update'> Source <a/>

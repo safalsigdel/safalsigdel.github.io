@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B1dWzrSKO7fGXInnWZS-fC6EDaI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70976758/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
+Twitch is expanding its ad incentive program to include more creators and pay them more money. Earlier this year, Twitch began offering select streamers a flat, guaranteed payment in exchange for running a fixed amount of ads during a fixed number of hours. Now, Twitch is opening up the program to include more partners and is changing the way it structures payouts to pay creators more.
+<a href='https://www.theverge.com/2022/6/14/23168185/twitch-ad-incentive-program-payouts-increase-1-billion-streamer-revenue'> Source <a/>

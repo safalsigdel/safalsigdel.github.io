@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vc6rUamo4gnX3Gw-Uj0X24Z37vY=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70976770/downton_abbey_new_era.0.jpeg' width='700px' /><br/>
+Peacock is bringing Downton Abbey: A New Era to its streaming service on June 24th. The film, which was released on May 20th, will exclusively stream on the platform following its departure from theaters.
+<a href='https://www.theverge.com/2022/6/14/23167984/peacock-nbc-downton-abbey-new-era-24-7-channel'> Source <a/>

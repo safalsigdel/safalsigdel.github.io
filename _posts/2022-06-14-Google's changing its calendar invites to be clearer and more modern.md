@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RHtQA1MN4AQqsR8Vuwq1UeySrQs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70972529/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-The next time a Google Calendar invitation lands in your inbox, you may notice that it looks a little different. Google announced on Monday that it is making updates to the emails it sends out for calendar events, tweaking them to look more modern and to surface important information quickly.
-<a href='https://www.theverge.com/2022/6/13/23166474/google-calendar-gmail-invite-redesign-updated-info'> Source <a/>

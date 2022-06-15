@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YA84ncOUOERV2Rm265YcVf1NOzo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70977195/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
+T-Mobile is certainly not afraid to tout its own 5G achievements, and true to form, it's announcing another milestone today: by combining three channels of mid-band spectrum on its 5G network, the company achieved 3Gbps network speeds. This seems to be more than a stunt, too — T-Mobile says this technology will become available to customers on its network “later this year.”
+<a href='https://www.theverge.com/2022/6/14/23167730/t-mobile-5g-carrier-aggregation'> Source <a/>

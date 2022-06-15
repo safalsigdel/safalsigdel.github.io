@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q26OHl12BBEkA9hP7twlxtGL2bI=/0x0:2576x1480/1200x800/filters:focal(1082x534:1494x946)/cdn.vox-cdn.com/uploads/chorus_image/image/70972923/one_punch_man_screen.0.png' width='700px' /><br/>
-One Punch Man is getting a live-action film adaptation through Sony Pictures that will bring our beloved bald-headed hero, Saitama, and his mechanical sidekick Genos, to life on the big screen, according to a report from Deadline.
-<a href='https://www.theverge.com/2022/6/13/23166543/one-punch-man-live-action-sony-pictures-justin-lin'> Source <a/>

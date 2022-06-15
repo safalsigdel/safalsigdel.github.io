@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ne-b3aQxZLbUpYFMPJ64Lswtmo8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70974365/bfarsace_4467_20210310_0009.0.jpg' width='700px' /><br/>
-It's not every day when you can buy a pair of decent wireless earbuds with active noise cancellation for less than $100, which is why today's deal on Anker's Soundcore Liberty Air 2 Pro is such a standout. For a limited time, you can buy the excellent, budget-friendly earbuds at Amazon and Best Buy for just $69.99, a new record low, instead of $129.99.
-<a href='https://www.theverge.com/good-deals/2022/6/14/23165802/anker-soundcore-liberty-air-2-pro-amazon-fire-hd-10-philips-hue-kindle-deal-sale'> Source <a/>

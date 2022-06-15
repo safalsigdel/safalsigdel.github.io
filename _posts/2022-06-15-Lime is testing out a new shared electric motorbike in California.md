@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kpl0Kg-KRj6m1x8bvyZ9_IX_jDs=/0x0:9504x6336/1200x800/filters:focal(3992x2408:5512x3928)/cdn.vox-cdn.com/uploads/chorus_image/image/70976218/Citra_Studio_0022.0.jpg' width='700px' /><br/>
+You've got to hand it to Lime — they really lean into the whole fruit thing. Case in point: the shared scooter company is trialing a new electric motorbike in Long Beach, California, called, wait for it, the Citra.
+<a href='https://www.theverge.com/2022/6/14/23167342/lime-citra-motorbike-long-beach-shared-electric-scooter'> Source <a/>

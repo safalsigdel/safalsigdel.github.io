@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TG2JqyXbyohZZDuZupsL8tZnCCI=/0x0:1520x540/1200x800/filters:focal(639x149:881x391)/cdn.vox-cdn.com/uploads/chorus_image/image/70975739/AO70L0QB2IOL1652809294262.0.png' width='700px' /><br/>
+Blizzard is hosting another Overwatch 2 beta later this month ahead of the game's newly announced October early access release date. The new beta begins June 28th, and it will be available on Xbox, PlayStation, and PC.
+<a href='https://www.theverge.com/2022/6/14/23167691/overwatch-2-beta-pc-console-playstation-xbox'> Source <a/>

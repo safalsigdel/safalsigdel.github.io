@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/6dr1dChJj4Q5fW9xm9ULJZXwmgE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70974847/sokane_210125_4386_1985.0.jpg' width='700px' /><br/>
-Ford issued a stop-sale order to its dealers for the Mustang Mach-E electric crossover over concerns that a safety defect may render the vehicle immobile, the automaker said in a notice. The issue was first reported by CNBC.
+Ford issued a recall for over 48,000 Mustang Mach-E electric crossover over concerns that a safety defect may render the vehicle immobile, the automaker said in a notice. The issue was first reported by CNBC.
 <a href='https://www.theverge.com/2022/6/14/23167399/ford-mustang-mache-stop-sale-dealers-defect'> Source <a/>

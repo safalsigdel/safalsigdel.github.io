@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kYyDnlN7hT4r7ja2h93ZOB7K-Ng=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70977084/GT7_Ferrari_F40_92_Scapes_03_.0.jpg' width='700px' /><br/>
+Sony's upcoming Gran Turismo film is apparently hitting theaters sooner than we might have expected — its scheduled for release on August 11th, 2023, according to a new report from Deadline. Neill Blomkamp is set to direct the movie, which is supposed to be based on a true story.
+<a href='https://www.theverge.com/2022/6/14/23168247/sony-gran-turismo-film-movie-release-date'> Source <a/>

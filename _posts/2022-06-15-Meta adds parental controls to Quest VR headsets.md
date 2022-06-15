@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kD0liUO49PcSjvLu11FiH9Bs680=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70975308/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
+Meta is adding parental controls to all Quest virtual reality headsets, letting guardians check underage users' screen time and receive alerts or approval requests for purchases. The news comes alongside an expansion of parental control options on Instagram as well as new safety features in its Horizon Worlds VR social platform, which is expanding to the UK this week.
+<a href='https://www.theverge.com/2022/6/14/23167519/meta-quest-vr-parental-controls-rollout'> Source <a/>

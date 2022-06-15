@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fqn-81_mZoLDZDNQOTHxWG2XNPs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70976740/ss_f3b094ce4bb54e1970abbd4fc7da3a0576894aae.0.jpeg' width='700px' /><br/>
+Bethesda, which recently delayed Starfield into next year and hasn't shown anything substantial about The Elder Scrolls 6 since announcing it in 2018, is already thinking about what comes after. In an interview with IGN, Bethesda's Todd Howard said Bethesda Game Studios is planning on making Fallout 5... eventually.
+<a href='https://www.theverge.com/2022/6/14/23168134/bethesda-fallout-5-todd-howard'> Source <a/>
