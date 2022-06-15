@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MmsHBMw-YELxUowx7K2I6QpB8l0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70976518/acastro_200804_1777_dish_0001.0.0.jpg' width='700px' /><br/>
-Today's the day: Dish Network needs to offer 5G service to at least 20 percent of the US population or face some steep fines from the US government. And lo and behold, Dish appears to be lighting up its 5G service in the nick of time — but there's an awful lot still up in the air.
-<a href='https://www.theverge.com/2022/6/14/23167922/dish-network-5g-oran-project-genesis-120-cities-launch'> Source <a/>
