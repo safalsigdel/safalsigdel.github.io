@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vPUpCgzVZc5NK199sBGJVmePsiU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70977940/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+Everyone makes mistakes, but if you mess up a fact or flub a line in a YouTube video it can be hard to correct the error. You can edit and re-upload the video, but that means losing all your comments and engagement metrics. You can add a note to the video's description or pin a comment with the correction, but that might go unnoticed by most viewers.
+<a href='https://www.theverge.com/2022/6/15/23168884/youtube-add-corrections-feature-annotations-creators'> Source <a/>
