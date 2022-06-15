@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Xm9CuG1QTVAJMgD2MNWrkIkYh8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70974568/acastro_210119_1777_whatsapp_0001.0.jpg' width='700px' /><br/>
-WhatsApp is adding the ability to transfer your conversation history from Android to iPhone after previously only allowing users to transfer chats the other way (from iPhone to Android). The functionality was announced by Meta CEO Mark Zuckerberg in a Facebook post. Early signs of the feature, which is rolling out in beta for now, were previously spotted by WABetaInfo.
-<a href='https://www.theverge.com/2022/6/14/23167292/whatsapp-android-iphone-chat-history-transfer-update'> Source <a/>
