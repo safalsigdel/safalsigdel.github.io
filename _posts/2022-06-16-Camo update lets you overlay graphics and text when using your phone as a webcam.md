@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nwDODWDC_D-M-5GKRH5GkGgtkhM=/0x0:1706x1080/1200x800/filters:focal(717x404:989x676)/cdn.vox-cdn.com/uploads/chorus_image/image/70982109/camo_1.7_cover_pr_2.0.jpg' width='700px' /><br/>
+Camo, an app that lets you use an iOS, Android, or iPadOS device as a webcam for your computer, is introducing a new feature that could be very interesting for streamers and those who take every Zoom meeting very seriously. The app now includes the ability to create overlays and add them to your video stream, letting you include info such as your social media handles or name and pronouns anywhere your video appears.
+<a href='https://www.theverge.com/2022/6/16/23169694/camo-information-overlays-phone-webcam-app'> Source <a/>

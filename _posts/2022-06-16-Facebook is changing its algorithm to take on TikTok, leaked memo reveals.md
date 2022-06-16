@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QNfLYMlHPPKvjBT7oMx7s8qSrlo=/0x0:2040x1360/1200x675/filters:focal(877x544:1203x870)/cdn.vox-cdn.com/uploads/chorus_image/image/70979519/acastro_220405_5124_0001.0.jpg' width='700px' /><br/>
+Facebook employees were recently given a new directive with sweeping implications: make the app's feed more like TikTok.
+<a href='https://www.theverge.com/2022/6/15/23168887/facebook-discovery-engine-redesign-tiktok'> Source <a/>

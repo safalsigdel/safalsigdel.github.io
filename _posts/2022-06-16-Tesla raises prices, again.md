@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xZVaKRwkV-XxTToEJ2GAWzyAlpM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70982043/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Tesla has raised the prices of select Model 3, Model Y, Model X, and Model S vehicles, Electrek reports. The largest price increase affects the Model X Dual Motor All-Wheel Drive version, which saw a $6,000 increase from $114,990 to $120,990, while the Model S Dual Motor All-Wheel Drive configuration increased by $5,000 from $99,990 to $104,990. Tesla's most affordable car, the Model 3, was spared from the most severe increases.
+<a href='https://www.theverge.com/2022/6/16/23170714/tesla-price-increase-june-2022-model-3-y-s'> Source <a/>
