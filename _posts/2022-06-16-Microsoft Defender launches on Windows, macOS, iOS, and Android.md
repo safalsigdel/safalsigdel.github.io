@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fct1dIgxuOm2yqOcNbdtFaqbnGE=/0x0:3600x2477/1200x800/filters:focal(1512x951:2088x1527)/cdn.vox-cdn.com/uploads/chorus_image/image/70982919/defendermobile.0.jpg' width='700px' /><br/>
+Microsoft is launching a new Defender cybersecurity app across Windows, macOS, iOS, and Android today. While the software giant has used the Defender moniker for its antivirus protection for years, this new cross-platform Microsoft Defender app is designed for individuals as more of a simplified dashboard that taps into existing antivirus software or offers additional device protections.
+<a href='https://www.theverge.com/2022/6/16/23170743/microsoft-defender-ios-android-mac-windows-app-dashboard-microsoft-365'> Source <a/>
