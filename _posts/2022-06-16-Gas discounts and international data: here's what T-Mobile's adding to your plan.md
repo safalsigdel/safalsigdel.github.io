@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w3HJTYW4323UIsSg4t8PYCjpbG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70982879/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile is announcing some updated benefits it offers to customers who subscribe to its wireless plans, which it calls “Coverage Beyond.” Perhaps the most timely is a 25 cent per gallon discount on gas at Shell stations, which it's offering via its T-Mobile Tuesday program. The company is also bringing upgrades to the international and in-flight data benefits for customers.
-<a href='https://www.theverge.com/2022/6/16/23170106/tmobile-coverage-beyond-international-flight-data-magenta-max-plans-gas-discounts'> Source <a/>
