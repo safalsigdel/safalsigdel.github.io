@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C7qToSMPtfjAWkSQ0HXQfd-QZ2o=/0x0:800x590/1200x0/filters:focal(0x0:800x590):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23629853/62a0cd125e475ebd55f34aee_op__header_img_1_min_p_800.jpeg' width='700px' /><br/>
-Voicemod, a popular real-time voice changer, is starting to use artificial intelligence to transform your voice into Morgan Freeman and other characters. A new Voicemod AI Voices beta is launching today, offering up eight options to transform your voice into fantasy characters, pilots, astronauts, and the actor Morgan Freeman.
-<a href='https://www.theverge.com/2022/6/15/23169012/voicemod-morgan-freeman-ai-voice-astronauts-pilots'> Source <a/>
