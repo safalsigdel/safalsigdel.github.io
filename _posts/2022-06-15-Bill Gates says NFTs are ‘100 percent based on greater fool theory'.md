@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-FSv0XCNiKMUEFNrhDYA90DujhQ=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/70978010/1401599098.0.jpg' width='700px' /><br/>
-Tech billionaire Bill Gates has dismissed NFTs as “100 percent based on greater fool theory” — the financial concept that even overpriced assets can make money as long as you find a bigger idiot to sell them to.
-<a href='https://www.theverge.com/2022/6/15/23169008/bill-gates-cryptocurrency-nft-greater-fool-theory'> Source <a/>

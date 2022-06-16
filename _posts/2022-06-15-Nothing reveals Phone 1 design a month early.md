@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IPLORL3F9NTTnGCfDrRuWIjJ3ak=/0x0:1722x1148/1200x800/filters:focal(724x437:998x711)/cdn.vox-cdn.com/uploads/chorus_image/image/70977936/Nothing_Event_KV_Desktop_1_2040x.0.jpg' width='700px' /><br/>
-Nothing, the consumer tech startup led by OnePlus co-founder Carl Pei, has shown off the rear design of its debut Phone 1 smartphone. “Leaks are harder to contain nowadays and many of you have been waiting for a long time,” Pei wrote in a tweet. “So here it is.” The phone is due to be properly announced on July 12th at Nothing's next event.
-<a href='https://www.theverge.com/2022/6/15/23168886/nothing-phone-1-design-revealed-carl-pei-transparent'> Source <a/>

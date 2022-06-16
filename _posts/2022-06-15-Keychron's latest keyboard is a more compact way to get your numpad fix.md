@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4OXaGAtOvdenI2BhknrGT9sGkps=/0x0:3240x2160/1200x0/filters:focal(0x0:3240x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23629831/Keychron_Q5_Custom_Mechanical_Keyboard_9.jpg' width='700px' /><br/>
-Keychron's latest wired mechanical keyboard is the Q5. It uses a similar construction to the excellent Q1 and Q2 keyboards that have proceeded it, but with a larger layout that includes a numpad. It's not a traditional full-size keyboard, but the idea with its 1800 layout (aka a 96-percent layout) is that it offers almost all of the keys a user might need while still being relatively compact.
-<a href='https://www.theverge.com/2022/6/15/23168986/keychron-q5-mechanical-keyboard-features-usb-c-hot-swap-qmk-via'> Source <a/>
