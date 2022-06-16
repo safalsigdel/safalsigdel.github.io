@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ifjj7Qq-oLEuXc-pMD0EwVEYvyk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70982350/akrales_220309_4977_0403.0.jpg' width='700px' /><br/>
+Tech companies operating some of the world's biggest online platforms — including Facebook-owner Meta, Microsoft, Google, Twitter, Twitch, and TikTok — have signed up to a new EU rulebook for tackling online disinformation.
+<a href='https://www.theverge.com/2022/6/16/23168987/eu-code-disinformation-online-propaganda-facebook-twitter-tiktok'> Source <a/>
