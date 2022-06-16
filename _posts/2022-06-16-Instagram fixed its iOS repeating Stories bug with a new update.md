@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-i_V1CI8b0rvKg0OQjHtn--GzUU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70976323/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Instagram Stories have been misbehaving for some users on iOS, making it so that they have to rewatch all of someone's stories before they're able to see new ones. The issue has affected several Verge staff members since Monday, and some Reddit users have reported the same thing is happening to them.
-<a href='https://www.theverge.com/2022/6/14/23167990/instagram-stories-replay-repeat-loop-bug'> Source <a/>
