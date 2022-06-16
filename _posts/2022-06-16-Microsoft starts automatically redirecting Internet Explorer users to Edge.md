@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IORsB5TvfEY8rUATzzKECEczXQE=/0x0:640x427/1200x800/filters:focal(269x163:371x265)/cdn.vox-cdn.com/uploads/chorus_image/image/70978575/ie9logo.0.jpg' width='700px' /><br/>
-Microsoft will start automatically redirecting Internet Explorer users to its Edge browser over the next few months. Internet Explorer is being retired today, and consumers or businesses still using the browser will start to see a prompt soon that will redirect them to Microsoft Edge instead.
-<a href='https://www.theverge.com/2022/6/15/23168984/microsoft-internet-explorer-redirect-edge-prompt'> Source <a/>
