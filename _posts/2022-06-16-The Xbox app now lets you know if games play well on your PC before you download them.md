@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i0k0QFB4EV0zCx8_TaHs3qMiEHc=/0x0:1776x999/1200x800/filters:focal(746x358:1030x642)/cdn.vox-cdn.com/uploads/chorus_image/image/70983107/Hero_image_68290b0f74192ec318e0.0.jpg' width='700px' /><br/>
+Microsoft is adding a new game performance indicator to its Xbox app on Windows today that will let you know if a title plays well on your PC before you go ahead and download it. While system requirements have always been listed, this simple label makes it far easier to get a good idea of whether a game is suitable for your PC at a glance.
+<a href='https://www.theverge.com/2022/6/16/23170987/xbox-windows-app-performance-check-june-2022-update'> Source <a/>
