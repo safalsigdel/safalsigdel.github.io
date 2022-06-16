@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x9rGA3mNMXOUtkdIAhBI0IiTnBk=/0x0:3481x2321/1200x0/filters:focal(0x0:3481x2321):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23625941/110118533.jpg' width='700px' /><br/>
-Internet Explorer is dead. Microsoft is retiring IE today after nearly 27 years. The aging web browser is being sunset in favor of Microsoft Edge, with support being officially withdrawn for IE 11 today. It's the end of an internet era, after Microsoft initially moved away from the Internet Explorer branding with the release of Windows 10 in 2015.
-<a href='https://www.theverge.com/2022/6/15/23167121/microsoft-internet-explorer-end-of-support-retirement'> Source <a/>
