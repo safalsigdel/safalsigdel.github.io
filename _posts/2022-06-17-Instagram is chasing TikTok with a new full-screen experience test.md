@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hlZuXlDFVwHY-jhiScC2XfRSeQ0=/0x0:1764x1178/1200x800/filters:focal(741x448:1023x730)/cdn.vox-cdn.com/uploads/chorus_image/image/70983981/Screen_Shot_2022_06_16_at_09.16.13.0.png' width='700px' /><br/>
+Instagram is testing out a new full-screen mode for its feed and an updated navigation bar in hopes of making content on the platform more discoverable and immersive. The test, which has been rolled out to “a limited number of people,” according to Meta spokesperson Seine Kim, is the latest effort from the company to compete with TikTok when it comes to social video.
+<a href='https://www.theverge.com/2022/6/16/23170210/instagram-full-screen-video-feed-another-test-tiktok-competition'> Source <a/>

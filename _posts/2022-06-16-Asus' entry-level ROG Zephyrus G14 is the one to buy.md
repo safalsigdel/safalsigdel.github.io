@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nrByiK-CyBL_AFh3LIETLi__0Rc=/0x0:2040x1360/1200x675/filters:focal(807x650:1133x976)/cdn.vox-cdn.com/uploads/chorus_image/image/70982408/akrales_220510_5144_0008.0.jpg' width='700px' /><br/>
-Devoted Verge readers will remember that I was not the biggest fan of the most recent ROG Zephyrus G14. The model we received had a lot of great things about it — Asus had improved the aspect ratio, added a webcam, enlarged the touchpad, and fixed basically every other complaint I'd had about G14s of the past.
-<a href='https://www.theverge.com/23169751/asus-rog-zephyrus-g14-ga402rj-gaming-laptop-review'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Th4sxWweI1gjiq2LyEyyGfwItQ=/0x0:5660x3773/1200x800/filters:focal(2378x1435:3282x2339)/cdn.vox-cdn.com/uploads/chorus_image/image/70979600/1240580456.0.jpg' width='700px' /><br/>
-As the Supreme Court's expected decision to overturn Roe v. Wade looms over Washington, Sen. Elizabeth Warren (D-MA) has announced sweeping legislation to ban the sale of location and health data.
-<a href='https://www.theverge.com/2022/6/15/23169718/roe-wade-elizabeth-warren-location-data-tracking-ban-sale-brokers'> Source <a/>

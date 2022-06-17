@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rq7aQrYZl4L4sDnVDoWnfg0C4vc=/0x0:3840x2160/1200x800/filters:focal(1141x881:1755x1495)/cdn.vox-cdn.com/uploads/chorus_image/image/70985226/FF7R_Episode_INTERmission_PC_Yuffie___Small_JPEG.0.jpg' width='700px' /><br/>
+Final Fantasy VII Remake Intergrade is coming to yet another platform very soon. Square Enix announced that the game, along with the bonus episode featuring Yuffie (together know as Intergrade), are coming to Steam on June 17th. That's tomorrow! Notably, the Steam version on Intergrade will indeed be compatible with the Steam Deck, according to the company.
+<a href='https://www.theverge.com/2022/6/16/23170144/final-fantasy-7-remake-steam-release-date'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J3S3TzDsyLF38LRmFa2uBS0_mRU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70985490/snapChatPattern_BW.0.jpg' width='700px' /><br/>
+Snap is doing internal tests of a paid subscription called Snapchat Plus, which will apparently give users early access to features, as well as other abilities. In a statement to The Verge, Snap spokesperson Liz Markman said:
+<a href='https://www.theverge.com/2022/6/16/23171872/snapchat-plus-subscription-test-features-bff-viewer-log'> Source <a/>

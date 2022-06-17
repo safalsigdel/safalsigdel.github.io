@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A1If0qD1wTeCajDTiujv2jFgXj4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70982646/acastro_STK125_2.0.jpg' width='700px' /><br/>
-FuboTV will soon let you place bets on live sports. Some users will get to make wagers using real cash, while everyone can participate in free contests.
-<a href='https://www.theverge.com/2022/6/16/23169283/fubotv-integrates-gambling-live-sporting-events-sportsbook'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tZphaVUqFuaPw-qa2lO4zZXsxHs=/0x0:6720x4480/1200x800/filters:focal(2775x2236:3849x3310)/cdn.vox-cdn.com/uploads/chorus_image/image/70981211/Boring_tunnel__2.0.jpg' width='700px' /><br/>
-Elon Musk's Boring Company has received unanimous approval to expand its system of tunnels beneath downtown Las Vegas. The expansion will add stops at landmarks like the Stratosphere and Fremont Street, letting customers hop aboard a Tesla and travel from one part of the city to the next.
-<a href='https://www.theverge.com/2022/6/15/23170170/the-boring-company-las-vegas-loop-tunnels-expand'> Source <a/>

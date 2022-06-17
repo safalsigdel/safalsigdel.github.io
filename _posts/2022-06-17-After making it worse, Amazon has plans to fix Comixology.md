@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5pFNPIbbQ7CDk2okcU3tFwqkMj0=/0x0:1488x1327/1200x800/filters:focal(597x580:835x818)/cdn.vox-cdn.com/uploads/chorus_image/image/70984130/IMG_0012.0.jpg' width='700px' /><br/>
+Approximately four months after Amazon incorporated Comixology into the Kindle app and kind of broke both in the process, it has outlined a number of plans to fix things. io9 noted that a thread was posted to the Comixology account on Twitter yesterday.
+<a href='https://www.theverge.com/2022/6/16/23171325/amazon-comixology-kindle-fixes-promises'> Source <a/>

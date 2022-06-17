@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bJEjstlFxMypyYaTEUcHrIuie8w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70984155/VRG_Illo_STK022_K_Radtke_Musk_Thumbs_Up.0.jpg' width='700px' /><br/>
+Elon Musk told Twitter employees on Thursday that the company needs to become more like WeChat and TikTok if it wants to achieve his goal of hitting 1 billion users.
+<a href='https://www.theverge.com/2022/6/16/23171054/elon-musk-twitter-deal-1-billion-users-wechat-tiktok'> Source <a/>

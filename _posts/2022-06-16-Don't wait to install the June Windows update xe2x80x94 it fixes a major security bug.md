@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CtxRzEDttLL_0QDru0hnXo4XzTc=/0x0:2040x1360/1200x800/filters:focal(854x813:1180x1139)/cdn.vox-cdn.com/uploads/chorus_image/image/70979618/akrales_220309_4977_0232.0.jpg' width='700px' /><br/>
-Microsoft has patched a Windows vulnerability that hackers are actively exploiting. If you own a system that uses Windows 7 and up, you'll want to update your computer as soon as possible (via Bleeping Computer).
-<a href='https://www.theverge.com/2022/6/15/23169480/microsoft-patch-windows-11-update-follina-zero-day-exploit'> Source <a/>

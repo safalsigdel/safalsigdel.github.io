@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vIjDVXWHCD5gmkZu5ulvpafR27k=/0x0:2100x1500/1200x800/filters:focal(882x582:1218x918)/cdn.vox-cdn.com/uploads/chorus_image/image/70981976/samsung_wallet.0.jpg' width='700px' /><br/>
-First, there was Samsung Wallet. Then it became Samsung Pay. Now, because time is a flat circle, Samsung is bringing the Wallet app back — basically, bringing a lot of existing Samsung services into one app. And this time, there's crypto!
-<a href='https://www.theverge.com/2022/6/16/23169586/samsung-wallet-pay-pass-id-keys-boarding-pass'> Source <a/>
