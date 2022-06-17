@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ErCt2DrBrCpSRSyrM4TOepiofqo=/0x0:4000x2800/1200x800/filters:focal(1680x1080:2320x1720)/cdn.vox-cdn.com/uploads/chorus_image/image/70986353/1395371333.0.jpg' width='700px' /><br/>
+SpaceX has fired a number of employees who wrote and shared a letter criticizing the behavior of CEO Elon Musk, reports The New York Times.
+<a href='https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints'> Source <a/>
