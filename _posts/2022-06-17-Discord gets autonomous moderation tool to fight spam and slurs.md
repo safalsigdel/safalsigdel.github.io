@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hWmfQQExg_b-B5miIWs53Naxjyc=/0x0:5760x3840/1200x0/filters:focal(0x0:5760x3840):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23632367/common_setup.jpg' width='700px' /><br/>
-Today, Discord is announcing widespread availability of AutoMod, an autonomous moderation tool built directly into the platform to take the strain off human moderators. Alongside the official launch of AutoMod, Discord is also letting more servers offer paid memberships to their users and is adding new features to manage these premium subscriptions.
-<a href='https://www.theverge.com/2022/6/16/23170757/discord-automod-word-list-custom-filters-ban-premium-subscriptions'> Source <a/>

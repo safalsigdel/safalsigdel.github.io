@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wIBPy7ZlTkK6vg-WwwkjiRarAAg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70983262/SonosShower.0.jpg' width='700px' /><br/>
-You want to play music on multiple Sonos speakers in your home, but your phone — and the Sonos app you normally use to control everything — are out of reach.
-<a href='https://www.theverge.com/23170997/sonos-quickly-group-speakers-how-to'> Source <a/>

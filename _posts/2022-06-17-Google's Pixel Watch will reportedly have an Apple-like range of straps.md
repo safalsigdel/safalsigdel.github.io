@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LKkBjkFckGv6K6co6KwygdIpOzw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70985128/Google_Pixel_Watch_1.0.png' width='700px' /><br/>
-Any modern smartwatch worth its salt comes with swappable straps. So it's no surprise that Google is reportedly working on a number of strap options for its forthcoming Pixel Watch. According to 9to5Google, the company is making at least seven straps — including the one showcased during the I/O keynote — for when the smartwatch launches this fall.
-<a href='https://www.theverge.com/2022/6/16/23171499/google-pixel-watch-straps-smartwatch'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Most people have more or less gotten over the iPhone's display notch, the once-controversial design element introduced with the iPhone X in 2017. But feelings are more raw when it comes to the MacBook Pro's cutout, which only got a notch of its own last year. At least until you see how useful it can be thanks to an app under development by Ian Keen, who's trying to turn the chunk of missing screen into a feature that makes AirDropping files easier.
+<a href='https://www.theverge.com/2022/6/17/23172301/macbook-notch-airdrop-helper-prototype'> Source <a/>

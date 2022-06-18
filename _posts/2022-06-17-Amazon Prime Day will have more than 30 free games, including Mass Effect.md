@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eLmQ93spvUXQGztyiAmNnLgXl7Q=/0x0:1454x818/1200x800/filters:focal(611x293:843x525)/cdn.vox-cdn.com/uploads/chorus_image/image/70984876/mele_screenshot_reveal_3840x2160_clean_04.jpg.adapt.crop16x9.818p.0.jpg' width='700px' /><br/>
-Amazon is planning to offer more than 30 free games to Amazon Prime subscribers as part of its Prime Day festivities.
-<a href='https://www.theverge.com/2022/6/16/23171580/amazon-prime-day-free-games-mass-effect-legendary-edition'> Source <a/>

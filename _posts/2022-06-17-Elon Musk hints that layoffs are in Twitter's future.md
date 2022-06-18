@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OUQ1BJ7EknOc7n4VYDl21QFeKGE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70983793/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg' width='700px' /><br/>
-Elon Musk told Twitter employees on Thursday that the company “needs to get healthy” financially and bring down costs, suggesting that job cuts are likely in store if his deal to buy the social media service goes through.
-<a href='https://www.theverge.com/2022/6/16/23171166/elon-musk-twitter-layoffs-revenue'> Source <a/>

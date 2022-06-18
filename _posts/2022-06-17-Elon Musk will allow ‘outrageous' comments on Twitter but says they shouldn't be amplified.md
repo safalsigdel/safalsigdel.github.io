@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mtZQ42qDDX77xgg7yolHx3VWYDA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70983936/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
-In an all-hands meeting with Twitter's staff on Thursday, Elon Musk gave more detail on how he would deal with moderation on the platform, leaving the door open for a more hands-on approach than many have assumed he would take.
-<a href='https://www.theverge.com/2022/6/16/23171014/elon-musk-twitter-all-hands-free-speech-moderation'> Source <a/>

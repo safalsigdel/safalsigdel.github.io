@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U2H_K-2TntiHf-NRAMu0-yP4XdY=/0x0:1178x661/1200x800/filters:focal(495x237:683x425)/cdn.vox-cdn.com/uploads/chorus_image/image/70983604/LG_DualUp_Lifestyle_00.0.jpg' width='700px' /><br/>
-One of the boldest product announcements at CES 2022 was LG's DualUp monitor, which is now available for $699. That's pricey but somehow less expensive than some of us were expecting it to cost.
-<a href='https://www.theverge.com/2022/6/16/23171132/lg-dualup-monitor-productivity-16-18-aspect-ratio-price-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nnvMCtuh8PU-jA7dH9o5OEIodjg=/0x0:1920x1080/1200x675/filters:focal(364x155:670x461)/cdn.vox-cdn.com/uploads/chorus_image/image/70983948/OW2_2022_Junker_Queen_cinematic_stills_3.0.png' width='700px' /><br/>
-Overwatch 2 season is in full swing. Over the weekend, Blizzard revealed that Overwatch 2's next closed beta will take place June 28th, that game will launch free-to-play on October 4th, and it unveiled Junker Queen, the game's 34th hero.
-<a href='https://www.theverge.com/2022/6/16/23170966/activision-blizzard-overwatch-2-reveal-event-pc-xbox'> Source <a/>

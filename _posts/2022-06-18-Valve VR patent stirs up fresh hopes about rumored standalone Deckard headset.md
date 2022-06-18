@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9-Wow17NN0oD2bmpWcw39o4cySo=/0x0:1772x1298/1200x800/filters:focal(745x508:1027x790)/cdn.vox-cdn.com/uploads/chorus_image/image/70986539/Screenshot_2022_06_17_at_10.12.14.0.png' width='700px' /><br/>
+Valve's most recent VR headset was 2019's high-powered, high-priced Valve Index. But rumors have long been swirling that the company is working on another device — a standalone headset code-named “Deckard.” Well, here to give that rumor-pot a fresh stir is a recently-published patent application from the company that could reveal Deckard itself.
+<a href='https://www.theverge.com/2022/6/17/23172293/valve-deckard-vr-headset-rumor-patent-images-leak'> Source <a/>

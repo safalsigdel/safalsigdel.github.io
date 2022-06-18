@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wHyCFQ3_5dYEvJ5E-RaQi_4Wbcg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70987138/VRG_Illo_STK022_K_Radtke_Musk_Stock_Smirk.0.jpg' width='700px' /><br/>
+Elon Musk appeared at a virtual town hall for Twitter employees on Thursday to answer their questions, and by the end of the session one question loomed larger than most: can you really run Twitter off the top of your head?
+<a href='https://www.theverge.com/2022/6/17/23172380/elon-musk-twitter-meeting-employee-reactions'> Source <a/>

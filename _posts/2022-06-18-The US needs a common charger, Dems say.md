@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xiXSzAevJbu9J4kpRIXgNzZPAhg=/0x0:1320x874/1200x800/filters:focal(555x332:765x542)/cdn.vox-cdn.com/uploads/chorus_image/image/70986808/Minix-2015-12-16-verge-1320.0.0.jpg' width='700px' /><br/>
+A group of Senate Democrats is calling on the US Commerce Department to follow Europe's lead after the EU forced all smartphone manufacturers to build devices that adhere to a universal charging standard.
+<a href='https://www.theverge.com/2022/6/17/23171402/universal-charger-standard-usbc-bernie-sanders-markey-elizabeth-warren'> Source <a/>

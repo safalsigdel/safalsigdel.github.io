@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-geyjiGCgdyeYn3WG6FPUrOTnqk=/0x0:2532x1474/1200x800/filters:focal(1064x535:1468x939)/cdn.vox-cdn.com/uploads/chorus_image/image/70989171/Screenshot_2022_06_17_123439.0.png' width='700px' /><br/>
+Puget Systems offers a number of different benchmarks to test out your PC using automated real-world tasks in the Adobe Creative Cloud. Some of them (such as the one for Premiere Pro) are somewhat complicated and can take a while to get up and running. But one of them — PugetBench for Photoshop — is very simple.
+<a href='https://www.theverge.com/23172582/pugetbench-for-photoshop-benchmark-how-to'> Source <a/>

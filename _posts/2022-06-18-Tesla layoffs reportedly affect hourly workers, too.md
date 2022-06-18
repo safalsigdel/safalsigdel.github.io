@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZFDMfr0Jyqs7tZ3acUpn9JhuKcQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70987302/tesla.0.jpg' width='700px' /><br/>
+According to a report from Electrek, a wave of layoffs at Tesla may affect hourly workers, despite a company-wide email from Elon Musk on June 3rd saying “Tesla will be reducing salaried headcount by 10% as we have become overstaffed in many areas.” On June 4th, Musk tweeted that “[t]otal headcount will increase, but salaried should be fairly flat,” in response to a statement about Tesla's staffing over the next twelve months.
+<a href='https://www.theverge.com/2022/6/17/23172435/tesla-layoffs-expand-elon-musk-hourly-salaried'> Source <a/>

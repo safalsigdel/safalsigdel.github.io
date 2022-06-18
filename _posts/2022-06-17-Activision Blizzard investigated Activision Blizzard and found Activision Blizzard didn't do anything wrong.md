@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6jjkOAgQzi0Xtu5THs1KQ-1yX_0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70984836/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
-Amid all the news on Overwatch 2 and Diablo Immortal, Activision Blizzard has filed a document with the US Securities and Exchange Commission in which it affirms that, after an internal investigation, it concluded its own board did not fail to act when presented with allegations of harassment.
-<a href='https://www.theverge.com/2022/6/16/23171447/activision-blizzard-investigation-sec-filing'> Source <a/>

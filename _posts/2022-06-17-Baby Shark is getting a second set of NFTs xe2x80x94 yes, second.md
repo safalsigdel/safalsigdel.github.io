@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gOgzwqk-4g6bwLsUEF97_XWS93A=/0x0:2120x1040/1200x800/filters:focal(891x351:1229x689)/cdn.vox-cdn.com/uploads/chorus_image/image/70985474/Screen_Shot_2022_06_16_at_14.59.37.0.png' width='700px' /><br/>
-Pinkfong, the company behind “Baby Shark”  — aka the song with the most-viewed video on all of YouTube — has announced an NFT project titled “Baby Shark: Collection No. 2.” The NFTs in the collection, all 10,000 of them, will feature generative art of the titular baby shark and the rest of his shark family. Generative NFTs are like the Bored Ape Yacht Club, where there are a variety of randomized traits across a collection.
-<a href='https://www.theverge.com/2022/6/16/23171737/baby-shark-nft-collection-2-announced-party'> Source <a/>
