@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YOROtO8mU6s-xpuP-y0ovfu2wxk=/0x0:6000x3375/1200x800/filters:focal(2520x1208:3480x2168)/cdn.vox-cdn.com/uploads/chorus_image/image/70987088/Peridot_Key_Art_1920_x_1080.0.png' width='700px' /><br/>
-It's hard to put into words how cute the little creatures in Peridot are. The virtual pets, which star in the next release from Pokxc3xa9mon Go developer Niantic, seem scientifically designed to make you say “awww.” They have big eyes and colorful bodies, and they really react when you give them some attention. I was only able to play a short amount of a pre-release version of the game, but I'm already smitten.
-<a href='https://www.theverge.com/23171300/peridot-hands-on-preview-niantic'> Source <a/>

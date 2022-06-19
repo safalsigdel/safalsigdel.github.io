@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8LxOoX4XV02RPLerq1VK-N-wVQk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70992019/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+WhatsApp has rolled out several new features this past week, including the ability to mute people during group calls (via Android Central). This sanity-saving feature seems helpful not just for muting people who forget to do it themselves, but also if you're in the same room as someone who's also on the call and don't want to hear an echo of what they say.
+<a href='https://www.theverge.com/2022/6/18/23174047/whatsapp-mute-people-group-calls-privacy-features'> Source <a/>

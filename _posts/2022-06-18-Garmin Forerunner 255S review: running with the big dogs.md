@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LZ6A5S4C3hDXkHNaADlN-kxMULE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70987144/IMG_0265.0.jpg' width='700px' /><br/>
-Updates to beloved gadgets can go one of two ways. Either a company tries to fix what ain't broke or builds upon a great foundation to create an even better product. For fans of the popular Garmin Forerunner 245, I'm happy to say that the new $349.99 Forerunner 255S is the latter. The result is a midrange running watch that punches far above its weight.
-<a href='https://www.theverge.com/23171721/garmin-forerunner-255s-review-running-watch'> Source <a/>

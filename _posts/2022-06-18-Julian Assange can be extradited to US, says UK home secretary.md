@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/az8Xg57uzNHUjkTIw2lSJWFzzyk=/0x0:4733x3238/1200x800/filters:focal(2524x693:3280x1449)/cdn.vox-cdn.com/uploads/chorus_image/image/70987189/1240103537.0.jpg' width='700px' /><br/>
-UK Home Secretary Priti Patel has approved an American request to extradite WikiLeaks founder Julian Assange. Patel signed the order on June 17th, bringing Assange one step closer to facing espionage charges in the US.
-<a href='https://www.theverge.com/2022/6/17/23036043/uk-julian-assange-extradition-wikileaks-request-approved-priti-patel'> Source <a/>
