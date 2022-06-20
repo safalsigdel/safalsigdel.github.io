@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IdWYaqM1c0Q39p3QEgL9jj099sg=/0x0:2040x1360/1200x675/filters:focal(907x527:1233x853)/cdn.vox-cdn.com/uploads/chorus_image/image/70987372/ajohnson_220609_5282_0004.0.jpg' width='700px' /><br/>
-TCL's entry-level Stylus 5G makes sense for someone on a strict budget who absolutely must have 5G and a built-in stylus. That's quite a specific demographic, and I'm not sure many people meet all of that criteria.
-<a href='https://www.theverge.com/23171741/tcl-stylus-5g-review-price-specs-screen-battery'> Source <a/>

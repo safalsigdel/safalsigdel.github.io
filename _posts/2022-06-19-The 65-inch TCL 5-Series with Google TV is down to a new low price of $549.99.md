@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2hNSuTE1WWpOtbnWQYwXbN_VsWo=/0x0:1440x817/1200x800/filters:focal(900x277:1130x507)/cdn.vox-cdn.com/uploads/chorus_image/image/70987977/TCL5_SeriesTV.0.png' width='700px' /><br/>
-With the recent announcement of Amazon Prime Day returning on July 12th and 13th, you may think the best deals on things like TVs are yet to come. While there's sure to be some great discounts to take advantage of, we've got some ready for you in the here and now.
-<a href='https://www.theverge.com/good-deals/2022/6/17/23171186/tcl-5-series-google-tv-drop-mt3-mechanical-keycaps-amazon-fire-7-kids-pro-eero-pro-6-deal-sale'> Source <a/>

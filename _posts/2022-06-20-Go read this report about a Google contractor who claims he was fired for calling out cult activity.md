@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/efWYsdeDViJl8FajvTK__V6MC24=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70993160/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+Google is known for its close-knit — and sometimes secretive — company culture, but one wouldn't suspect an actual cult running things behind the scenes. Well, one Google contractor claims that's exactly the case, as detailed in this unusual report from The New York Times.
+<a href='https://www.theverge.com/2022/6/19/23174605/go-read-this-report-google-contractor-fired-calling-out-cult-activity'> Source <a/>
