@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wxv2ieT5VPU0v0-QpWvf0NMWobE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70988201/acastro_180402_2428_0002.0.0.jpg' width='700px' /><br/>
-This week has revealed to the average investor just how interconnected cryptocurrency firms are. Two firms have frozen withdrawals, and a cryptocurrency hedge fund is in trouble. Celsius Network, Babel Finance, and Three Arrows Capital are floundering, and it's not yet clear how extensive the damage may be.
-<a href='https://www.theverge.com/2022/6/17/23172539/3ac-celsius-babel-crypto-loans-hedge-funds-uh-oh'> Source <a/>

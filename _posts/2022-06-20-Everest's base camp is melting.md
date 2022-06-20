@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tFKStuw8sAX0eUbi0c8RMHztxHw=/0x0:2500x1668/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70988279/1239978567.0.jpg' width='700px' /><br/>
-Nepal is moving the Everest base camp off of the melting Khumbu glacier, the BBC reported.
-<a href='https://www.theverge.com/2022/6/17/23172426/everest-base-camp-move-melting-glacier'> Source <a/>

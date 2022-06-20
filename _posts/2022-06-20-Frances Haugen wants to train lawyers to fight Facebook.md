@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bN6OkoMNtfE0qgC6ECoxSvqazjc=/0x0:4000x2667/1200x800/filters:focal(849x848:1489x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/70995462/1385190368.0.jpg' width='700px' /><br/>
+Frances Haugen, the whistleblower who released a trove of internal documents and data from Facebook and testified in front of lawmakers about the social network's behavior, is now looking to start a non-profit focused on holding companies like Meta accountable, according to a report from Politico.
+<a href='https://www.theverge.com/2022/6/20/23175477/frances-haugen-facebook-whistleblower-nonprofit-beyond-the-screen-lawyers-researchers'> Source <a/>
