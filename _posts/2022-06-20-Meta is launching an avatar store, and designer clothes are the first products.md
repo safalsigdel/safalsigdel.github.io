@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Igd1N-uPcERq6yi3iT1ek5N_TJc=/0x0:1440x1080/1200x800/filters:focal(605x425:835x655)/cdn.vox-cdn.com/uploads/chorus_image/image/70989479/FVeqX7lUsAAaPo7.0.jpeg' width='700px' /><br/>
 If you've ever thought, “I would like my digital avatar to wear poorly rendered designer clothing,” I have excellent news for you.
+<a href='https://www.theverge.com/2022/6/17/23173128/meta-avatar-store-clothing-balenciaga-prada-thom-browne'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Igd1N-uPcERq6yi3iT1ek5N_TJc=/0x0:1440x1080/1200x800/filters:focal(605x425:835x655)/cdn.vox-cdn.com/uploads/chorus_image/image/70989479/FVeqX7lUsAAaPo7.0.jpeg' width='700px' /><br/>
+If you've ever thought, “I would like my digital avatar to wear poorly rendered designer clothing,” I have excellent news for you.
 <a href='https://www.theverge.com/2022/6/17/23173128/meta-avatar-store-clothing-balenciaga-prada-thom-browne'> Source <a/>
