@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M8sd7PaAqgyfVTJbwoHGLFRo1Qk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70996173/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+When iOS 16 comes out later this fall, you may notice that you don't have to deal with as many annoying CAPTCHAs asking you to slide a puzzle piece or distinguish between a hill and a mountain. That's because Apple's introducing a feature for its iPhones and Macs called Automatic Verification, which let some sites know that you're not a bot without you actually having to do anything (via MacRumors).
+<a href='https://www.theverge.com/2022/6/20/23175765/apple-ios-16-captcha-private-access-tokens'> Source <a/>

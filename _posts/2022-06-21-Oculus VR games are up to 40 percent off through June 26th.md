@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A0OSIKlE5IVz6uMhaZVkkk0trew=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70996364/RE4_SCREENSHOTS_ELGIGANTE_TMP_007_2560X1440_LEGAL.0.png' width='700px' /><br/>
+Meta has kicked off a Summer Sale on Quest VR games, and there are over 60 titles on sale. It might be a good time to stock up on games for a Quest 2 headset, especially if you've been holding out on some popular ones like Resident Evil 4, Vader Immortal, or Superhot VR.
+<a href='https://www.theverge.com/good-deals/2022/6/20/23175826/meta-quest-2-store-oculus-vr-summer-sale-discount-dlc-deal-sale'> Source <a/>
