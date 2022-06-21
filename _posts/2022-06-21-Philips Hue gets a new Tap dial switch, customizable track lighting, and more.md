@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yTDHc0elTM5AT7PreQwaTvd76hU=/0x0:3500x3452/1200x800/filters:focal(2242x1485:2802x2045)/cdn.vox-cdn.com/uploads/chorus_image/image/70997884/Philips_Hue_Tap_dial_switch_1.0.jpg' width='700px' /><br/>
+Signify just announced a new Philips Hue Tap dial switch, portable Hue Go lamp, and fully customizable track lighting in a range of smart lighting updates today.
+<a href='https://www.theverge.com/2022/6/21/23176531/philips-hue-dial-remote-go-lamp-track-lighting-price-date'> Source <a/>
