@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/44cZn1zPDxlhJLi2UEn4gdtz1xo=/0x0:1329x749/1200x0/filters:focal(0x0:1329x749):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23641442/lDlcsRO.png' width='700px' /><br/>
+The PS5 is a giant console, the biggest in modern history, and a DIY YouTuber has now created a PS5 “Slim” model that's a fraction more than the thickness of the plastic cases that house PS5 games. Matt Perks, known as DIY Perks on YouTube, has spent a considerable amount of time and effort to create a PS5 “Slim” that brings the size down from nearly four inches to just under an inch.
+<a href='https://www.theverge.com/2022/6/21/23176565/playstation-5-slim-youtube-diy-console'> Source <a/>
