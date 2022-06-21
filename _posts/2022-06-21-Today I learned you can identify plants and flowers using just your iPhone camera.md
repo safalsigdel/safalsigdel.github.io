@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8O0YTogAIi5QVq3-ZP1mLo9E9_8=/0x0:3315x2208/1200x800/filters:focal(1393x839:1923x1369)/cdn.vox-cdn.com/uploads/chorus_image/image/70998072/apple_plant_identify_twofer.0.jpg' width='700px' /><br/>
+Sometimes, even as a tech reporter, you can be caught out by how quickly technology improves. Case in point: it was only today that I learned that my iPhone has been offering a feature I've long desired — the ability to identify plants and flowers from just a photo.
+<a href='https://www.theverge.com/2022/6/21/23176561/iphone-identify-flowers-plants-art-landmarks-more-how-to-ios-15-camera-app-visual-look-up'> Source <a/>
