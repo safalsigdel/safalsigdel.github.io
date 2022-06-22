@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rqq32Y4BNt5o9hOAK3cMfEOJgXo=/0x0:1120x630/1200x800/filters:focal(471x226:649x404)/cdn.vox-cdn.com/uploads/chorus_image/image/71000295/Paramount_Plus.0.png' width='700px' /><br/>
+Paramount “plans to commission” 150 international originals for its Paramount Plus streaming service by 2025, according to a press release. The company revealed details about seven of the originals on Tuesday, including content from Germany, Italy, France, and Mexico.
+<a href='https://www.theverge.com/2022/6/21/23176984/paramount-plus-150-international-originals'> Source <a/>

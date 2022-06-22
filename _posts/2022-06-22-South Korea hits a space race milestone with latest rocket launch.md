@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kgCTbBzZzF0wdx6h1a2ZSgI--aQ=/0x0:5362x3575/1200x800/filters:focal(2253x1360:3109x2216)/cdn.vox-cdn.com/uploads/chorus_image/image/70999329/1404181418.0.jpg' width='700px' /><br/>
+For the first time in its history, South Korea has successfully launched a satellite into orbit on a domestically built rocket. The Nuri rocket lifted off at 4PM local time today from the Naro Space Center in Goheung. The launch could help South Korea gain footing in the growing global space industry and potentially bolster the nation's national defense arsenal with future spy satellites.
+<a href='https://www.theverge.com/2022/6/21/23176805/first-south-korea-launches-domestic-rocket-satellite-space'> Source <a/>

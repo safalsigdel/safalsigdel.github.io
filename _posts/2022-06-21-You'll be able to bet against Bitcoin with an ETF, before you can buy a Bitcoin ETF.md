@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1_QfGYsI2LOBmDmhr_IoSg7UQPI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70996870/acastro_220524_STK428_0003.0.jpg' width='700px' /><br/>
-There's good news for people who find bad news about crypto to be good. Starting tomorrow, you'll be able to buy an exchange-traded fund based on shorting Bitcoin. The financial firm ProShares will debut the first ETF to let you bet against Bitcoin, and it's set to be listed on the New York Stock Exchange when the bell opens tomorrow, June 21, under the ticker BITI.
-<a href='https://www.theverge.com/2022/6/20/23176105/sec-etf-short-bitcoin-proshares-nyse'> Source <a/>

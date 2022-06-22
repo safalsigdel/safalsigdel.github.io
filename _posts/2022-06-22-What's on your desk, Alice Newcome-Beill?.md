@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fACzItr7fWmS1OaK1o-MloWh1bg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70998732/anbeill_220614_5286_0010.0.jpg' width='700px' /><br/>
+As Alice Newcome-Beill describes herself, she's currently the “commerce / deals writer for The Verge, 35 years old, a Scorpio, and a chaotic neutral.” With the other members of the commerce team, she helps handle The Verge's daily deals posts and newsletters, in addition to maintaining the “best deals” announcements and other buying guides across the site.
+<a href='https://www.theverge.com/23171607/work-desk-setup-home-office-tech-lego'> Source <a/>

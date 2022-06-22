@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mL80BeXRSrCMLDxF3pPC5upA5Oo=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70998062/2_9_copy.0.jpg' width='700px' /><br/>
-Sony might be ready to announce a new lineup of gaming headsets, according to a report from 91Mobiles based on information provided by OnLeaks. Rather than being specifically PlayStation-branded, like Sony's Pulse headset, the three headsets will apparently be part of a new gaming hardware brand from Sony called “Inzone,” which could also include a pair of gaming displays.
-<a href='https://www.theverge.com/2022/6/21/23176570/sony-inzone-gaming-headsets-leak-h3-h7-h9-monitors'> Source <a/>

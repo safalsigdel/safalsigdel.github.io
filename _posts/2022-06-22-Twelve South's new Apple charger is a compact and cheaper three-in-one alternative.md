@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o5iJztQ6eVpJpJ8h9MEy359_kiM=/0x0:3034x2022/1200x800/filters:focal(1275x769:1759x1253)/cdn.vox-cdn.com/uploads/chorus_image/image/70998500/12S_HiRise3_LS15_HiRes.0.jpg' width='700px' /><br/>
+Twelve South's latest accessory is the HiRise3, a $99.99 three-in-one charger designed to keep your iPhone, Apple Watch, and AirPods topped up with power. It has a very similar set of features to Belkin's Boostxe2x86x91Charge Pro 3-in-1 Wireless Charger with MagSafe with a more compact design, lower starting price, and a couple more caveats.
+<a href='https://www.theverge.com/2022/6/21/23171053/twelve-south-hirise3-charger-price-features-iphone-magsafe-apple-watch-airpods'> Source <a/>

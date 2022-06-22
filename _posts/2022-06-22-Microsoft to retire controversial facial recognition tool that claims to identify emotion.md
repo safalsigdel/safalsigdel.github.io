@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CSnYb6PESrVDxEX-srvixr0RLgQ=/0x0:1592x1064/1200x800/filters:focal(669x405:923x659)/cdn.vox-cdn.com/uploads/chorus_image/image/70999835/ll_1.0.png' width='700px' /><br/>
+Microsoft is phasing out public access to a number of AI-powered facial analysis tools — including one that claims to identify a subject's emotion from videos and pictures.
+<a href='https://www.theverge.com/2022/6/21/23177016/microsoft-retires-emotion-recognition-azure-ai-tool-api'> Source <a/>

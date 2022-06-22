@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v7_sBnVgb0gt98Nwp8cCLcsxPUA=/0x0:5000x3335/1200x800/filters:focal(2100x1268:2900x2068)/cdn.vox-cdn.com/uploads/chorus_image/image/70991365/1208002812.0.jpg' width='700px' /><br/>
-A former Amazon Web Services (AWS) engineer has been found guilty of hacking into customers' cloud storage systems and stealing data linked to the massive 2019 Capital One breach. A US District Court in Seattle convicted Paige Thompson of seven counts of computer and wire fraud on Friday, a crime punishable by up to 20 years in prison.
-<a href='https://www.theverge.com/2022/6/18/23173727/former-amazon-employee-convicted-over-2019-capital-one-hack-paige-thompson'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A3HZoSOAS5meXzLJX8RzfS6MGhY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71000429/akrales_220309_4977_0324.0.jpg' width='700px' /><br/>
+Popular daycare and childcare communications apps are “dangerously insecure,” according to newly published research, exposing children and parents to the risk of data breaches with lax security settings and permissive or outright misleading privacy policies.
+<a href='https://www.theverge.com/2022/6/21/23177265/daycare-apps-dangerously-insecure-eff-brightwheel-tadpole-himama'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bmGfYo2imZGlUWaAWjNEMtGLJD4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71000078/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
+Some social platforms limit the number of times you can change your username, while others don't let you do it at all. Instagram is a username free-for-all; you can alter your Instagram handle whenever you want, as many times as you want — within certain limits.
+<a href='https://www.theverge.com/23176720/change-instagram-username-how-to'> Source <a/>

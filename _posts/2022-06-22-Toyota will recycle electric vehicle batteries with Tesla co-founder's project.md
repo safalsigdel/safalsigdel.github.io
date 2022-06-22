@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/96x52KRaJ4ipfwYdkXLHdrUVFGM=/0x0:3000x2008/1200x800/filters:focal(1260x764:1740x1244)/cdn.vox-cdn.com/uploads/chorus_image/image/71000354/2433864.0.jpg' width='700px' /><br/>
+Toyota is partnering with Redwood Materials, a battery recycling company helmed by Tesla co-founder JB Straubel, to collect and recycle vehicle batteries. The plan is to take old, worn-out batteries and either refurbish them or break them down so their materials can be used to create new batteries.
+<a href='https://www.theverge.com/2022/6/21/23177039/toyota-redwood-materials-ev-battery-recycling-partnership-prius'> Source <a/>

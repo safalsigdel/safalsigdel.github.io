@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2HZhkNWFEJnCSkZ40c0JVFf13oY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71001291/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
+The US government and Facebook parent company Meta have agreed on a settlement to clear up a lawsuit that accused the company of facilitating housing discrimination by letting advertisers specify that ads not be shown to people belonging to specific protected groups, according to a press release from the Department of Justice (DOJ). You can read the full agreement below.
+<a href='https://www.theverge.com/2022/6/21/23177356/meta-us-government-fair-housing-act-discrimination-settlement-new-system'> Source <a/>

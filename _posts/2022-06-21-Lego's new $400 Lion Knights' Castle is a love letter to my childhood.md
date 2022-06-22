@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KZw47vNmujCDtMItSgOnk8Agv38=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70991524/lego_new_castle_2022_3_2_aspect.0.jpg' width='700px' /><br/>
-Last January, Lego promised its 90th anniversary would be one to remember: the company agreed to revive one of its classic Lego themes (like Space, Castle, and Pirates) with a new, adult-grade Lego set.
-<a href='https://www.theverge.com/2022/6/18/23173256/lego-lion-knights-castle-90th-anniversary-birthday-price-release-date'> Source <a/>

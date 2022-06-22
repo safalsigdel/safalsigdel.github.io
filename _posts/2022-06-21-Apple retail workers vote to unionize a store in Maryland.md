@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NMR4RQI-1sLwvQkY1jMKY_aUWnc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70992182/acastro_170731_1777_0006_v1.0.jpg' width='700px' /><br/>
-Workers at Apple's Towson Town Center store in Maryland have voted to unionize, with 65 yeses and 33 nos. Around 110 employees were eligible to vote in the election.
-<a href='https://www.theverge.com/2022/6/18/23172232/apple-store-towson-town-center-union-election-results-votes'> Source <a/>

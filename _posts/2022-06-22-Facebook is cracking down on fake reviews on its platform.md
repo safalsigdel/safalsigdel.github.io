@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xSZrvmSsdF6GmhqbSYdXcxuTIms=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70998811/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+Facebook is cracking down on user reviews to prevent people from leaving fake feedback on businesses' pages. The company has updated its Community Feedback policy to address this widespread issue.
+<a href='https://www.theverge.com/2022/6/21/23176628/facebooks-new-policy-fight-fake-reviews-community-feedback'> Source <a/>

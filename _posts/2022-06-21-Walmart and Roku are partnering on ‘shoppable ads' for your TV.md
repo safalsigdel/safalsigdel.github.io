@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VoXXxxBYWloJBXdtGHxZbNlZ2w4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70990789/627ed22d02aca24c39874bf41393a10c.0.jpeg' width='700px' /><br/>
-Walmart and Roku are partnering to introduce what they call “shoppable ads,” which will let you buy something directly from an ad on your TV. It seems like the new ad format is intended to streamline the shopping experience so you don't have to switch to your phone or computer if you see an ad for something you might actually want to buy.
-<a href='https://www.theverge.com/2022/6/18/23172980/walmart-roku-shoppable-ads-tv'> Source <a/>

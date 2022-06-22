@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hW4MzvVI9GUq-vTFwbIsrvH0jlM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70999595/009_CP___Product_Hero.0.png' width='700px' /><br/>
+Microsoft-owned GitHub is launching its Copilot AI tool today, which helps suggest lines of code to developers inside their code editor. GitHub originally teamed up with OpenAI last year to launch a preview of Copilot, and it's generally available to all developers today.
+<a href='https://www.theverge.com/2022/6/21/23176574/github-copilot-launch-pricing-release-date'> Source <a/>
