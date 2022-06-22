@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AQ3GXj6jklFXCDsx0DG_xcKUQkE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70999989/sokane_181114_3101_gigafactory_0014.0.jpg' width='700px' /><br/>
-Two former Tesla employees have filed a lawsuit claiming the company violated federal law for failing to provide 60 days' notice for a mass layoff.
-<a href='https://www.theverge.com/2022/6/21/23176964/tesla-layoffs-lawsuit-gigafactory-warn-act-violate'> Source <a/>

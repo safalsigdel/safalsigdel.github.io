@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0ACOP3qaMXHX6iLhmDT_El-7LSs=/0x0:2040x1360/1200x675/filters:focal(860x614:1186x940)/cdn.vox-cdn.com/uploads/chorus_image/image/71003051/akrales_220620_5303_0054.0.jpg' width='700px' /><br/>
+I don't really care what the M2 MacBook Pro gets on benchmarks.
+<a href='https://www.theverge.com/23177674/apple-macbook-pro-m2-2022-review-price-specs-features'> Source <a/>

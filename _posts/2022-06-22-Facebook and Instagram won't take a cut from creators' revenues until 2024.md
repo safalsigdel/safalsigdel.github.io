@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oKutPYtIjVSQeHuSpmx9n20QFaM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70999458/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Creators on Facebook and Instagram won't have to share a cut of their revenue with the platforms until 2024. Meta previously said it would hold off on revenue sharing until 2023.
-<a href='https://www.theverge.com/2022/6/21/23176749/meta-instagram-facebook-creators-revenue-policy-reels'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W558JCvXF9grvfDRWh_a8RkvkDQ=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70999243/1959_Ford_Country_Squire_with_push_button_station_wagon.0.jpg' width='700px' /><br/>
-Ford is officially 119 years old, and in celebration, the Blue Oval is launching an online archive so car enthusiasts can sift through its long and storied past.
-<a href='https://www.theverge.com/2022/6/21/23176792/ford-heritage-vault-digital-archive-car-history-free'> Source <a/>

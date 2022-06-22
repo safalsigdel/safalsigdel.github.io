@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CUjF7PZ4FYuAbM3DT7c5sbnI3jI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70999879/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-Amazon has named a new CEO of its retail arm just weeks after the previous CEO announced he would be resigning. Doug Herrington, a 17-year company vet, is set to become CEO of Amazon's worldwide stores business, Amazon leader Andy Jassy announced in an email posted to the company's website.
-<a href='https://www.theverge.com/2022/6/21/23177040/amazon-retail-ceo-doug-herrington-worldwide-stores'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C6B6fl2Z15MQxYGqajuo0QszQb0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71003618/acastro_220315_STK013_0001.0.jpg' width='700px' /><br/>
+Google is paying the Wikimedia Foundation to help serve up the most accurate and up-to-date information on its search engine. The Wikimedia Foundation, the nonprofit group behind Wikipedia, says Google is one of the first companies to buy into its commercial Enterprise service.
+<a href='https://www.theverge.com/2022/6/22/23178245/google-paying-wikimedia-foundation-information'> Source <a/>

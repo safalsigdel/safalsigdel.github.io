@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dRgSBrwBCK1TP-pNsIDiUsmS3y0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70999813/acastro_211101_1777_meta_0003.0.jpg' width='700px' /><br/>
-Microsoft, Epic Games, Meta, and 33 other companies and organizations have formed a standards group for “metaverse” tech. The Metaverse Standards Forum is supposed to foster open, interoperable standards for augmented and virtual reality, geospatial, and 3D tech.
-<a href='https://www.theverge.com/2022/6/21/23176755/microsoft-meta-epic-metaverse-standards-forum-founded'> Source <a/>
