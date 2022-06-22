@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8F_iB4y2alPgnUO0yHrbjRfdue0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70998754/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Last November, Uber launched a pilot of its Uber Pool replacement, dubbed UberX Share, in Miami, Florida. Today, the company says shared rides have returned to nine cities: New York City, Los Angeles, Chicago, San Francisco, Phoenix, San Diego, Portland, Indianapolis, and Pittsburgh. Like Lyft, Uber paused its Uber Pool service in March 2020 with the onset of the coronavirus pandemic.
-<a href='https://www.theverge.com/2022/6/21/23176664/uberx-share-uber-pool-carpooling-shared-rides-new-york-city'> Source <a/>
