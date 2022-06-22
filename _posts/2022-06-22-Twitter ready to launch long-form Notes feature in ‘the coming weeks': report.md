@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aAIyxRQP4d62ZRN7IK92NNHBv-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71002525/acastro_170726_1777_0012.0.jpg' width='700px' /><br/>
+Twitter is ready to launch a new long-form blogging feature named Twitter Notes in “the coming weeks,” according to a report from TechCrunch.
+<a href='https://www.theverge.com/2022/6/22/23178133/twitter-long-form-notes-articles-blogging-feature-ready-to-launch-features'> Source <a/>
