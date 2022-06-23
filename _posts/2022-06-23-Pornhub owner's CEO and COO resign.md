@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rhn4_SdvA3fWq2bQn-AihlCJpDo=/0x0:4499x2945/1200x800/filters:focal(1891x1114:2609x1832)/cdn.vox-cdn.com/uploads/chorus_image/image/71004090/910428376.0.jpg' width='700px' /><br/>
-Pornhub owner MindGeek has lost two high-level executives: CEO Feras Antoon and COO David Tassillo, as first reported by Variety. Their resignation comes shortly after The New Yorker released a scathing report detailing the holes in the company's content moderation system, which has failed to address videos depicting underage and non-consenting individuals.
-<a href='https://www.theverge.com/2022/6/22/23178427/pornhub-owners-ceo-coo-resign-antoon-tassillo-mindgeek'> Source <a/>

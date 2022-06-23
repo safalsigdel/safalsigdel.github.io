@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ik0QkT-OO5b4VjbFL-V3XAWq4P0=/0x0:5000x3325/1200x800/filters:focal(2100x1263:2900x2063)/cdn.vox-cdn.com/uploads/chorus_image/image/71005367/1230509935.0.jpg' width='700px' /><br/>
-FedEx will soon take photos of packages at your doorstep to provide proof of delivery when they don't require a signature.
-<a href='https://www.theverge.com/2022/6/22/23178645/fedex-delivery-photo-proof-front-door'> Source <a/>
