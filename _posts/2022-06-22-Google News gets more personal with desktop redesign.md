@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G574Y2GTZgmEvhaKJS3ORWNqNbc=/0x0:1000x562/1200x800/filters:focal(420x201:580x361)/cdn.vox-cdn.com/uploads/chorus_image/image/71002535/US_Desktop_UI_1.max_1000x1000.0.jpg' width='700px' /><br/>
-Google News has been given a fresh lick of paint for desktop users on its 20th birthday, with a redesign that gives more prominence to local news and personalized content.
-<a href='https://www.theverge.com/2022/6/22/23178163/google-news-desktop-redesign-personal-local-content'> Source <a/>

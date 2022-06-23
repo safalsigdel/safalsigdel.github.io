@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6KEvX-QQetlCufTOK4NGGMDVkRw=/0x0:2040x1530/1200x675/filters:focal(857x825:1183x1151)/cdn.vox-cdn.com/uploads/chorus_image/image/71002592/verge_IMG20220615113543_2040pxl.0.jpg' width='700px' /><br/>
-Solar panels are more efficient than ever, with consumer options now capable of converting up to 25 percent of the sunlight hitting cells into electricity. But those efficiency rates assume that the panels are pointed directly at the sun, which is rarely the case during its arcing trek across the sky.
-<a href='https://www.theverge.com/23171154/ecoflow-solar-tracker-review-power-charging-efficiency-noise'> Source <a/>

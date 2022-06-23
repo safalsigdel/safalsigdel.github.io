@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UFmcpSsr5UcbaTiAyGeoJ8yb_rE=/0x514:4269x2880/1200x800/filters:focal(779x1869:1597x2687)/cdn.vox-cdn.com/uploads/chorus_image/image/71001774/Screen_Shot_2022_06_21_at_16.51.15.0.png' width='700px' /><br/>
-Amazon has announced its “first fully autonomous mobile robot,” meant to move large carts throughout its warehouses. The robot is called Proteus, and Amazon says it can safely navigate around human employees, unlike some of its past robots that it kept separated in a caged area.
-<a href='https://www.theverge.com/2022/6/21/23177756/amazon-warehouse-robots-proteus-autonomous-cart-delivery'> Source <a/>

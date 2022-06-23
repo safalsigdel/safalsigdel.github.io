@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jZ15RkXCr17wwlzA_TBGwsT7eVs=/0x0:8256x5504/1200x800/filters:focal(3622x1942:4942x3262)/cdn.vox-cdn.com/uploads/chorus_image/image/71000869/1241221805.5.jpg' width='700px' /><br/>
-Well, now we know where the Obamas are heading after their split with Spotify. I had a whole fancy intro before getting the news, but this is about as hot as Hot Pod gets, so let's get into it.
-<a href='https://www.theverge.com/2022/6/21/23177298/obamas-audible-amazon-spotify'> Source <a/>

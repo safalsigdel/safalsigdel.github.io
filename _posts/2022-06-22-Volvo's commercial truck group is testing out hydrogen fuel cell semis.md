@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AvGS6vwBOY3wJNA14rDbWPNrahA=/0x0:7151x4745/1200x800/filters:focal(3004x1801:4148x2945)/cdn.vox-cdn.com/uploads/chorus_image/image/71001465/T2022_78890.0.jpg' width='700px' /><br/>
-Volvo's commercial trucking division is testing hydrogen fuel cell semi trucks in the hopes of getting ahead of the maturing technology. With fuel cells built by CellCentric, a joint venture between Volvo and Daimler Truck Automotive Group, Volvo claims its trucks are capable of 1,000 kilometers of range (about 621 miles) and can be refueled in under 15 minutes.
-<a href='https://www.theverge.com/2022/6/21/23177624/volvo-trucks-tests-hydrogen-fuel-cell-semi'> Source <a/>
