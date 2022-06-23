@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Jt3bMrzMdLOA5YkeV6_6FEgcQAQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71005641/akrales_220314_5071_0062.0.jpg' width='700px' /><br/>
 Apple will no longer let you use an iPad as a home hub to control HomeKit accessories starting with iOS 16, MacRumors reports. Text apparently found in iOS 16's second developer beta by MacRumors contributing writer Steve Moser spells out the change.
-<a href='https://www.theverge.com/2022/6/22/23179178/ios-16-ipad-smart-home-hub-homekit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Jt3bMrzMdLOA5YkeV6_6FEgcQAQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71005641/akrales_220314_5071_0062.0.jpg' width='700px' /><br/>
-Apple will no longer let you use an iPad as a home hub to control HomeKit accessories starting with iOS 16, MacRumors reports. Text apparently found in iOS 16's second developer beta by MacRumors contributing writer Steve Moser spells out the change.
 <a href='https://www.theverge.com/2022/6/22/23179178/ios-16-ipad-smart-home-hub-homekit'> Source <a/>
