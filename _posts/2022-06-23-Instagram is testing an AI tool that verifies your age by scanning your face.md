@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X0cXfEjlqH63JrgdRDoEIquOBr4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71006775/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram is testing new methods for users to verify their age, including an AI tool built by a third-party company, Yoti, that estimates how old you are just by scanning your face.
+<a href='https://www.theverge.com/2022/6/23/23179752/instagram-age-verification-ai-social-vouching-methods'> Source <a/>
