@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3YjPewCBptOF1U_-KkChk6LxGOI=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/71008064/1398182369.0.jpg' width='700px' /><br/>
+The US Federal Trade Commission has ordered Harley-Davidson and generator company MWE Investments to stop voiding customer warranties over repairs, marking a new step in the FTC's fight over right-to-repair issues.
+<a href='https://www.theverge.com/2022/6/23/23180054/ftc-harley-davidson-westinghouse-right-to-repair-warranty-violations-consent-order'> Source <a/>

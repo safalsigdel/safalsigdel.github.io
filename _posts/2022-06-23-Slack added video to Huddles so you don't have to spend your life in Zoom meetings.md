@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/igJyL2ii1huj5MJRn_QnZXCY78w=/0x0:4320x2700/1200x800/filters:focal(1815x1005:2505x1695)/cdn.vox-cdn.com/uploads/chorus_image/image/71003052/Slack_Huddles_Screen_Share.0.jpeg' width='700px' /><br/>
-Slack is upgrading its Huddles feature with video chat, multi-user screen sharing, and a per-huddle chat thread. The company announced the updates at its Frontiers conference, which for Slack is both a chance to unveil new products and to share its thoughts about the future of work. With Huddles, Slack's vision is simple: people need more, richer ways to chat, but they don't need more meetings.
-<a href='https://www.theverge.com/2022/6/22/23177239/slack-huddles-video-audio-chat-call'> Source <a/>

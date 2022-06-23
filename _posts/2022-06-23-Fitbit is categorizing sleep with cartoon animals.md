@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dlYdGaHn5HobffJyuuhEV3kmTPo=/0x0:1512x766/1200x800/filters:focal(636x263:876x503)/cdn.vox-cdn.com/uploads/chorus_image/image/71003027/Screen_Shot_2022_02_01_at_10.00.56_AM.0.png' width='700px' /><br/>
-Fitbit is launching a new Sleep Profile feature for premium members that will categorize users as one of six animal characters, the company announced today. Users are grouped based on 10 sleep metrics — five of which are new to Fitbit.
-<a href='https://www.theverge.com/2022/6/22/23177289/fitbit-sleep-profiles-animals-premium'> Source <a/>

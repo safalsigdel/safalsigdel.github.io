@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YYUoRzIKMXQs6uu1I95HparWfIg=/0x0:2040x1360/1200x675/filters:focal(930x603:1256x929)/cdn.vox-cdn.com/uploads/chorus_image/image/67126635/DSCF7916.14.jpg' width='700px' /><br/>
-Whether you're wearing them for the morning commute, while traveling, or if you're simply trying to find some peace and quiet while working at home, noise-canceling headphones are a more essential piece of kit nowadays than ever before. And you've got a slew of great options to pick from.
-<a href='https://www.theverge.com/21345733/best-noise-canceling-headphones'> Source <a/>

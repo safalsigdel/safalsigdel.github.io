@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5g-usXkqdmo30qQKxsDQqswpvzI=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/71008114/chromebooks.0.jpg' width='700px' /><br/>
+Google has been working on new Android and Chromebook features that better bridge the gap between phones and laptops over the past year. Today, ChromeOS version 103 arrives with some features to improve how Chromebooks connect to Android phones.
+<a href='https://www.theverge.com/2022/6/23/23179772/google-new-chromebook-features-phone-hub-photos-android'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d95h7Kn2-IsGnG9zxFjo9Sa6K4I=/0x0:1860x1274/1200x800/filters:focal(782x489:1078x785)/cdn.vox-cdn.com/uploads/chorus_image/image/71008084/MicrosoftEdge.0.png' width='700px' /><br/>
+Microsoft is making its Edge browser a little more gamer-friendly today thanks to some Xbox and PC gaming improvements. Alongside a new gaming-focused homepage and casual games integration, Edge is also getting a Clarity Boost to improve Xbox Cloud Gaming streams and an efficiency mode to prevent Edge from taking PC resources when a game is being played.
+<a href='https://www.theverge.com/2022/6/23/23179788/microsoft-edge-xbox-pc-gaming-efficiency-mode-clarity-boost-features'> Source <a/>
