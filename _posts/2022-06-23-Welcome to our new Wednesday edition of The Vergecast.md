@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VZ-s8zRSyEs1o3wVOms28vBRRAg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71003491/Site_Post_Standard_Article_2.0.jpg' width='700px' /><br/>
+We have big news for listeners of The Vergecast, The Verge's flagship podcast. We are now publishing twice a week — on Wednesdays and Fridays!
+<a href='https://www.theverge.com/2022/6/22/23177684/meta-headsets-airpods-galaxy-buds-test-microsoft-eink-tablet-vergecast-podcast'> Source <a/>

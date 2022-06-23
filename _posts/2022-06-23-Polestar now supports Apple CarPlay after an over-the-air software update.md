@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f5OAriMp1r5KS-3XqZt2hGLKal0=/0x0:4096x2304/1200x800/filters:focal(1721x825:2375x1479)/cdn.vox-cdn.com/uploads/chorus_image/image/71003860/FV2tHlrWAAAk_y4.0.jpeg' width='700px' /><br/>
+Polestar, one of the first automakers to adopt Google's Android Automotive operating system for its electric vehicles, is now throwing a bone to all the iOS users. The company announced that its Polestar 2 electric sedan now supports Apple CarPlay, thanks to a recent over-the-air software update.
+<a href='https://www.theverge.com/2022/6/22/23178428/polestar-apple-carplay-ota-update-google-android-auto'> Source <a/>

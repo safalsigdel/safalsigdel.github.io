@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R8xWmRScr26poPaURJFO0nPJEHU=/98x54:1813x1285/1200x800/filters:focal(798x536:1102x840)/cdn.vox-cdn.com/uploads/chorus_image/image/71005741/search_engine_query_goggles__1_.0.jpg' width='700px' /><br/>
+Brave Search has launched a new feature that gives you a way to create or apply custom filters that change the way its results are ranked. It's called “Goggles,” and it could potentially help uncover sources you might not find right away on traditional search engines like Google.
+<a href='https://www.theverge.com/2022/6/22/23179067/brave-search-engine-apply-custom-rankings-filters-goggles'> Source <a/>

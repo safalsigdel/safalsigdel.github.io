@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qCiI99KxDUxAhO6at0psC2Yft5w=/0x0:5307x3636/1200x800/filters:focal(2230x1394:3078x2242)/cdn.vox-cdn.com/uploads/chorus_image/image/71005178/_MG_4186.0.jpg' width='700px' /><br/>
+General Motors is bringing artificial intelligence into the vehicle inspection process.
+<a href='https://www.theverge.com/2022/6/22/23178966/general-motors-uveye-vehicle-inspection-ai-investment'> Source <a/>
