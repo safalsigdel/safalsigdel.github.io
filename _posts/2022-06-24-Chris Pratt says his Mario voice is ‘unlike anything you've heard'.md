@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/q30YUcQ8pp5huG2zuPGNJ1rL4X0=/0x0:2733x1600/1200x800/filters:focal(1149x582:1585x1018)/cdn.vox-cdn.com/uploads/chorus_image/image/71010095/Screen_Shot_2021_09_23_at_4.14.59_PM.0.png' width='700px' /><br/>
 I know it's been nine months, but I'm honestly still reeling from the announcement that Chris Pratt will be voicing Mario in the upcoming Mario movie. What on earth is that going to sound like???
+<a href='https://www.theverge.com/2022/6/23/23180812/chris-pratt-mario-movie-voice'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/q30YUcQ8pp5huG2zuPGNJ1rL4X0=/0x0:2733x1600/1200x800/filters:focal(1149x582:1585x1018)/cdn.vox-cdn.com/uploads/chorus_image/image/71010095/Screen_Shot_2021_09_23_at_4.14.59_PM.0.png' width='700px' /><br/>
+I know it's been nine months, but I'm honestly still reeling from the announcement that Chris Pratt will be voicing Mario in the upcoming Mario movie. What on earth is that going to sound like???
 <a href='https://www.theverge.com/2022/6/23/23180812/chris-pratt-mario-movie-voice'> Source <a/>
