@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MzY_W9eg5US-wmqrSCPDbNhRx3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67558535/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon has announced that its annual Prime Day sales are scheduled for Tuesday, July 12th, and Wednesday, July 13th, and this year, as always, Amazon will be dropping prices on a lot of its products for its Prime members. In fact, it looks like there's already some momentum building up to the big two-day event with some early deals.
+<a href='https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free'> Source <a/>

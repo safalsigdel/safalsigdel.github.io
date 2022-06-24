@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H_NvBY_pFEAZMmEu3IUC63Ej9yM=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/71006843/dseifert_201025_4263_0007.0.0.jpg' width='700px' /><br/>
-Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users' dead relatives.
-<a href='https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai'> Source <a/>
