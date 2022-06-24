@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WRpN8p01kMYoyl2kjQvyl9cawDE=/0x0:4801x3200/1200x800/filters:focal(3124x1319:3892x2087)/cdn.vox-cdn.com/uploads/chorus_image/image/71011548/1404644244.0.jpg' width='700px' /><br/>
+Netflix's co-CEO Ted Sarandos has confirmed that the company plans to introduce an ad-supported tier to its streaming service in an interview at the Cannes Lions advertising festival, reports The Hollywood Reporter. The New York Times reported last month that the company is aiming to roll out the new tier by the end of 2022.
+<a href='https://www.theverge.com/2022/6/24/23181367/netflix-ad-supported-tier-confirmed-partners-growth-hardware-acquisition'> Source <a/>
