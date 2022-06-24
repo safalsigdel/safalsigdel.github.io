@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_87MS8oJ3wDxg7p43JWtIKu71xM=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/71012411/CELESTIQ_Teaser.0.png' width='700px' /><br/>
+We haven't seen the 2024 Cadillac Celestiq yet, but a report from The Wall Street Journal says that while the flagship Ultium-powered electric sedan will be more than just a show car, it will have about equal amounts of vapor and vehicle. Based on people familiar with the matter, the paper reports fewer than 500 built each year and a price starting at around  $300,000.
+<a href='https://www.theverge.com/2022/6/24/23180803/cadillac-ev-celestiq-price-production-rumor-ultra-cruise'> Source <a/>

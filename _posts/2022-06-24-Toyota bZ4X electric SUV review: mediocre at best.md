@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MYb_ZJ-7m-RozqmAxHdblS140wE=/0x0:2040x1534/1200x675/filters:focal(857x604:1183x930)/cdn.vox-cdn.com/uploads/chorus_image/image/71012051/abassett_220414_5256_0003.0.jpg' width='700px' /><br/>
+Toyota, one of the largest automotive manufacturers in the world, has created some innovative products that push the limits of what's possible when it comes to gasoline alternatives, introducing everything from the innovative hydrogen-electric Mirai to the exceedingly popular hybrid Prius.
+<a href='https://www.theverge.com/23180408/toyota-bz4x-electric-suv-review-specs-price'> Source <a/>

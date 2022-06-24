@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hbGqM0MZgQaks7L4EA_VmuqiTJ4=/0x0:1720x1000/1200x800/filters:focal(723x363:997x637)/cdn.vox-cdn.com/uploads/chorus_image/image/71012320/Untitled.0.png' width='700px' /><br/>
+Most Mac users find Spotlight, Apple's built-in tool for searching through apps and files, to suit their needs just fine. But power users who want to have near total control over their computer (as well as access to shortcuts and tools) have often looked for other alternatives. Lately, an app called Raycast has been gaining attention as one of those options, competing with one of the community's long-standing favorites, Alfred.
+<a href='https://www.theverge.com/23170431/raycast-how-to-macos-search-extensions-alfred-spotlight'> Source <a/>
