@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tSe77qMoBR6-9Jh7sz8VjsorP5k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71008966/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
 Netflix is cutting around 300 jobs today as part of a second round of layoffs. The company previously laid off around 150 employees and dozens of contractors in May.
-<a href='https://www.theverge.com/2022/6/23/23180281/netflix-layoffs-cuts-300-jobs'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/tSe77qMoBR6-9Jh7sz8VjsorP5k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71008966/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix is cutting around 300 jobs today as part of a second round of layoffs. The company previously laid off around 150 employees and dozens of contractors in May.
 <a href='https://www.theverge.com/2022/6/23/23180281/netflix-layoffs-cuts-300-jobs'> Source <a/>
