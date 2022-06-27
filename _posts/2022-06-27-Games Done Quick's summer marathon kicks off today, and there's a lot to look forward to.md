@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7iCkBPatxw5PzqRiUNH8FnGaNZE=/0x0:720x576/1200x800/filters:focal(304x166:418x280)/cdn.vox-cdn.com/uploads/chorus_image/image/71013073/SGDQ_2022_banner_C_PR.0.png' width='700px' /><br/>
-Summer Games Done Quick (SGDQ), the annual weeklong summer speedrunning marathon for charity, kicks off on Sunday, and the schedule is chock full of potentially jaw-dropping runs.
-<a href='https://www.theverge.com/2022/6/24/23181727/summer-games-done-quick-sgdq-2022-how-to-watch'> Source <a/>

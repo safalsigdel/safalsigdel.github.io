@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fTuDJEWu-BBpGQBpzv7G_LPFWMQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71019502/VRG_Illo_5253_J_Sitter_viking.0.jpg' width='700px' /><br/>
+The bloody battle between kings Harold and Harald at Stamford Bridge is often considered the unofficially official “end” of the Viking Age. By that benchmark, it has been approximately 956 years since the era of longships, warhammers (not that type), and wolfish drengs. So why, in 2022, are we witnessing such a vibrant resurgence of Viking craft? The answer, it seems, has to do with the not-very-Viking internet.
+<a href='https://www.theverge.com/23132752/viking-weaponry-monetize-youtube-twitch-etsy'> Source <a/>
