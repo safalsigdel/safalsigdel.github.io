@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uo2AvBCwLjyIIv55I0OlaHEqaFk=/0x0:2040x1360/1200x800/filters:focal(918x749:1244x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/71019612/VRG_Illo_5253_J_Sitter_fortnite.0.jpg' width='700px' /><br/>
+Last year, Fortnite developer Epic Games launched a big partnership with high fashion house Balenciaga. In addition to a collection of skins decked out in Balenciaga gear available to purchase, Epic also promoted a Balenciaga-themed zone players could visit. It looked like a virtual city square dropped into Fortnite, but at the heart was a recreation of a Balenciaga retail store.
+<a href='https://www.theverge.com/23139858/fortnite-creators-creative-studios-branded-worlds'> Source <a/>

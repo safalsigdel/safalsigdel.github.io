@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0s_1uRU24xjVxkhKFGna6sZ7D9Y=/0x0:2606x1634/1200x800/filters:focal(1095x609:1511x1025)/cdn.vox-cdn.com/uploads/chorus_image/image/71013549/Screen_Shot_2022_06_23_at_3.31.15_PM.0.png' width='700px' /><br/>
-For people who love discovering new sounds, there's an intriguing new site that collects soundscapes from around the world.
-<a href='https://www.theverge.com/2022/6/24/23180360/earth-fm-nature-sounds-soundscapes-environment'> Source <a/>

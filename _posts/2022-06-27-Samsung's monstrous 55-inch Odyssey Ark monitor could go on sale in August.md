@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OOC5nIT6okjT9JV87Ndvl1tsUdc=/0x0:2775x1850/1200x800/filters:focal(1559x763:2003x1207)/cdn.vox-cdn.com/uploads/chorus_image/image/71013806/Odyssey_Ark_side.0.jpg' width='700px' /><br/>
-Samsung is getting ready to release its massive 55-inch curved Odyssey Ark monitor in August, according to a report from Korean outlet ETNews (via SamMobile). The monitor, which was announced in January at CES, has reportedly gone through a few certification programs that have to be done before it can go on sale.
-<a href='https://www.theverge.com/2022/6/24/23182030/samsung-55-inch-odyssey-ark-monitor-august-launch-rumors-ces'> Source <a/>
