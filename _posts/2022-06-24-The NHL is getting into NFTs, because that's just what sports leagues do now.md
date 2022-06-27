@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dPKdAgA6tDlrDKrZnAdojp07PDs=/0x0:4032x2568/1200x800/filters:focal(1694x962:2338x1606)/cdn.vox-cdn.com/uploads/chorus_image/image/71012399/1404695497.0.jpg' width='700px' /><br/>
-Hockey-loving HODLers, rejoice: the NHL is launching an NFT program. The league is partnering with Sweet to build a marketplace of digital collectibles including everything from iconic moments in hockey history to “3D interactive trophy rooms where users can display their collections.” The league made the announcement during NFT.NYC (and also during the Stanley Cup Finals) but plans to launch the marketplace before next season.
-<a href='https://www.theverge.com/2022/6/24/23181441/nhl-nfts-sweet-digital-collectibles'> Source <a/>

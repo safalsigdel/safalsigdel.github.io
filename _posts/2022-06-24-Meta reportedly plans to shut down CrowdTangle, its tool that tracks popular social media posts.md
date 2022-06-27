@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6mZoGfL_ieIG7T72m80JX-atKng=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71009223/acastro_211101_1777_meta_0003.0.jpg' width='700px' /><br/>
-One thing researchers have used to track the spread of viral stories on Facebook — including ones that spread misinformation — is a tool that Meta owns called CrowdTangle. Based on anonymous sources, Bloomberg reports what many have suspected — that Facebook has largely removed development support from CrowdTangle and is making plans to shut the tool down.
-<a href='https://www.theverge.com/2022/6/23/23180357/meta-crowdtangle-shut-down-facebook-misinformation-viral-news-tracker'> Source <a/>

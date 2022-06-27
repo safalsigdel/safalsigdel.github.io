@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iYSDC7kADXYiNso_k_jTjQ12CXI=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/71013077/Mars_Express_pillars.0.jpg' width='700px' /><br/>
+Engineers at the European Space Agency (ESA) are getting ready for a Windows 98 upgrade on an orbiter circling Mars. The Mars Express spacecraft has been operating for more than 19 years, and the Mars Advanced Radar for Subsurface and Ionospheric Sounding (MARSIS) instrument onboard has been using software built using Windows 98. Thankfully for humanity and the Red Planet's sake, the ESA isn't upgrading its systems to Windows ME.
+<a href='https://www.theverge.com/2022/6/24/23181715/mars-express-marsis-windows-98-upgrade-esa'> Source <a/>

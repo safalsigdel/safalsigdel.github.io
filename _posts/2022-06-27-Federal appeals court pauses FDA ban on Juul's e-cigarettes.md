@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xr4ONA54XbkMykXk1s5LRhanjWc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71014524/acastro_190916_1777_juul_0002.0.0.jpg' width='700px' /><br/>
+Juul can continue selling its e-cigarettes despite the Food and Drug Administration ordering a ban Thursday, according to the US Court of Appeals for the District of Columbia (via TechCrunch). In its order, the court says it's issuing the temporary stay to give Juul time to file an emergency motion, which it can then consider along with a response from the FDA.
+<a href='https://www.theverge.com/2022/6/24/23182384/fda-juul-ban-pause-dc-appeals-court-emergency-immediate-stay'> Source <a/>

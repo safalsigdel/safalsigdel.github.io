@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MpIzvWAKFI2rHT9pQ7vZpt-R7P8=/0x0:2600x1626/1200x800/filters:focal(1092x605:1508x1021)/cdn.vox-cdn.com/uploads/chorus_image/image/71011425/849451662.0.jpg' width='700px' /><br/>
-Microsoft is preparing to send reminders to Windows 8.1 users that support will end on January 10th 2023. The software giant will start sending notifications to existing Windows 8.1 devices next month, as a first reminder leading up to the January 2023 support cutoff.
-<a href='https://www.theverge.com/2022/6/24/23181347/microsoft-windows-8-1-end-of-support-notifications-pop-ups'> Source <a/>

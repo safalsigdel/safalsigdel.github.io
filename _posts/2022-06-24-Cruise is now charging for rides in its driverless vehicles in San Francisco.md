@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-xKG6R5jGBAgHM1LxZeHDwRSPNc=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/71008192/1238159620.0.jpg' width='700px' /><br/>
-Cruise, the autonomous vehicle company backed by General Motors, is now officially a commercial service. The company began charging for rides in its self-driving taxis in San Francisco this week, marking an important milestone for the company's plans to expand its service.
-<a href='https://www.theverge.com/2022/6/23/23180156/cruise-driverless-vehicle-charge-riders-san-francisco'> Source <a/>

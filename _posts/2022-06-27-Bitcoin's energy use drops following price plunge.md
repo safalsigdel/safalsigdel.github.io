@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/foOIn_Ls92r-Gdzc8MHbDeOnl3M=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/71013485/1240443299.0.jpg' width='700px' /><br/>
+After taking a nosedive in June, the price of Bitcoin has stayed so low that it's forcing the blockchain's massive electricity use to similarly dip. Over the past couple weeks, Bitcoin's energy consumption has dropped by more than a third, according to estimates of annualized electricity use by digital currency economist Alex de Vries on his website digiconomist.net.
+<a href='https://www.theverge.com/2022/6/24/23181683/bitcoin-ethereum-energy-use-drops-price-plunge'> Source <a/>

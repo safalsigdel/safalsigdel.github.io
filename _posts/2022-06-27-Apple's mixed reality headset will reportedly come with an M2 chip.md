@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/25hLH2iRuOnMw5RJ3EYT-cmo5s8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71017802/acastro_170731_1777_0005_v1.0.jpg' width='700px' /><br/>
+Apple's mixed reality headset has been shrouded in rumors for months now, and a new report from Bloomberg's Mark Gurman indicates that it could come with Apple's flagship M2 processor. According to Gurman, Apple's most recent version of the device, which is reportedly capable of delivering augmented reality (AR) and virtual reality (VR) experiences,  includes a base M2 chip and 16GB of RAM.
+<a href='https://www.theverge.com/2022/6/26/23183777/apple-mixed-reality-headset-m2-chip-rumors-virtual-reality-ar'> Source <a/>

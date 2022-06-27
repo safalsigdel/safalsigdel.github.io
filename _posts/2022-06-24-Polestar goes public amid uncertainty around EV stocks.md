@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aBCJAl9MV5edUfrJ0K4SDTxOfS0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71012216/ahawkins_20210321_4490_0011.0.jpg' width='700px' /><br/>
-Polestar is the latest electric vehicle company to go public, listing its stock on the Nasdaq exchange Friday after successfully merging with a special-purpose acquisition company, or SPAC. The company plans on using the $850 million in fresh capital to fund its three-year plan to make several new electric models and become profitable.
-<a href='https://www.theverge.com/2022/6/24/23181446/polestar-public-spac-stock-nasdaq-ev'> Source <a/>

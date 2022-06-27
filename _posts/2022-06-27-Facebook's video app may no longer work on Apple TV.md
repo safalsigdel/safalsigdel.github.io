@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/najhZ4TyPxmJ5ovFO74c0Ihumr0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71018480/DSCF3939.0.jpg' width='700px' /><br/>
+Facebook's app for smart TVs, which lets users tune into various videos, shows, and livestreams on the platform, may no longer be available on Apple TV, as first reported by 9to5Mac. Some users say they're no longer able to access the app after its most recent update.
+<a href='https://www.theverge.com/2022/6/26/23184144/facebook-watch-apple-tv-no-longer-available'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BhGHZv4mCeeIEIFrbklY6pbIO0g=/0x0:972x918/1200x800/filters:focal(767x171:921x325)/cdn.vox-cdn.com/uploads/chorus_image/image/71010127/IMAGE_2022_06_23_15_36_55.0.jpg' width='700px' /><br/>
-Twitter has announced that a button to toggle captions for its video player is now available for everyone on iOS and Android. The button, which shows up in the top-right corner of the video if it has captions available, lets you choose whether you want to see written descriptions. Twitter started testing this feature in April, but it was only available to a limited number of iPhone users.
-<a href='https://www.theverge.com/2022/6/23/23180819/twitter-video-closed-captions-ios-android-accessibility-subtitles'> Source <a/>

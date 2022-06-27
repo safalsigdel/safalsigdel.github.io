@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ryIv3ix4GD5LTbiNYOPGx0ILIP8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71009729/ss13.0.png' width='700px' /><br/>
-Into the Breach, the sci-fi turn-based strategy game from the makers of FTL: Faster Than Light, will be available on iOS and Android as part of a Netflix subscription beginning July 19th, developer Subset Games announced Thursday.
-<a href='https://www.theverge.com/2022/6/23/23180572/into-the-breach-netflix-mobile-ios-android-advanced-edition'> Source <a/>

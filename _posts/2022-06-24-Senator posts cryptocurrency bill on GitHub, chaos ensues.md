@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uGbZUlwf2I36gLu_lKluTdnr4M4=/0x0:4719x3146/1200x800/filters:focal(1983x1196:2737x1950)/cdn.vox-cdn.com/uploads/chorus_image/image/71009959/1239844603.0.jpg' width='700px' /><br/>
-On Wednesday, Sen. Cynthia Lummis (R-WY) found a surprising way to develop her upcoming cryptocurrency regulation bill: she put it on GitHub.
-<a href='https://www.theverge.com/2022/6/23/23180813/cryptocurrency-bill-cynthia-lummis-kirsten-gillibrand-github-trolling'> Source <a/>

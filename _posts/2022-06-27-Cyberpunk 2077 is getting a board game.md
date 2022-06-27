@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NiRASaDOEp3vpGxZnv7qB7QUSpE=/0x0:680x926/1200x800/filters:focal(300x98:408x206)/cdn.vox-cdn.com/uploads/chorus_image/image/71013571/Cyberpunk_2077_Gangs_of_Night_City.0.jpg' width='700px' /><br/>
+Cyberpunk 2077 is getting a board game courtesy of a Kickstarter campaign. Cyberpunk 2077: Gangs of Night City is a strange twist on the high-tech, low-life underbelly of the world brought to life by CD Projekt Red and Mike Pondsmith. The game is being published by CMON Games, which have put together board game adaptations of God of War and Bloodborne in addition to other existing IPs.
+<a href='https://www.theverge.com/2022/6/24/23181868/cyberpunk-2077-gangs-of-night-city-board-game-kickstarter'> Source <a/>
