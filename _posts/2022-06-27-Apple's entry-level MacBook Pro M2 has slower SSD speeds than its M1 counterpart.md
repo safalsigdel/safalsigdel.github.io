@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BgTG1ZoS1lYzLOgf-o-5Pxp8eYg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71019252/akrales_220620_5303_0002.0.jpg' width='700px' /><br/>
+Apple's new 13-inch MacBook Pro M2 base model appears to have slower SSD speeds than its M1 predecessor. MacRumors reports that YouTubers Max Tech and Created Tech have both tested the 256GB base M2 model and discovered the SSD's read speeds are around 50 precent slower than the M1 MacBook Pro with 256GB of storage. Write speeds are reportedly around 30 percent slower.
+<a href='https://www.theverge.com/2022/6/27/23184515/apple-macbook-pro-m2-slow-ssd-speeds'> Source <a/>
