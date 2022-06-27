@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-PC3Y9Szeuu9zxTWnquA0DqGiwI=/0x0:900x940/1200x800/filters:focal(378x398:522x542)/cdn.vox-cdn.com/uploads/chorus_image/image/71020427/_9300000004210__20220610101445637.0.jpeg' width='700px' /><br/>
+Say this for Starbucks: its coffee may mostly just taste like burning, but its merch tends to be on point. The latest example, as spotted by 9to5Google, is a collaboration with Samsung (in South Korea only, unfortunately) that created branded cases for the Galaxy S22 lineup and the Galaxy Buds 2.
+<a href='https://www.theverge.com/2022/6/27/23184820/samsung-starbucks-galaxy-buds-phone-case'> Source <a/>
