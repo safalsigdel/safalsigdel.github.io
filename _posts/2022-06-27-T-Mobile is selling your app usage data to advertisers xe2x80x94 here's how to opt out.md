@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TI4-mYo58eQYpQFE4j_Dq5ImFeQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71014010/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile's advertising business is offering a new way for marketers to pry into your app-using habits. Ad Exchanger reports that the un-carrier's new program is called App Insights, and it's now fully operational after spending a year in beta. The program allows third-party marketers to buy T-Mobile customer data and centers around a key piece of information that it has unique access to: what apps you use.
-<a href='https://www.theverge.com/2022/6/24/23181851/t-mobile-browsing-data-app-insights-marketing-opt-out'> Source <a/>
