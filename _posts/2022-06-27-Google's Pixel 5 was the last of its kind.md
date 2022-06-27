@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D0yzClMHf6aZepCzzbnA_qVi48E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71015387/akrales_201012_4137_0117.0.0.jpg' width='700px' /><br/>
-From time to time, I'll grab a random device out of the Verge reviews closet and spend a week or two with it. It's mostly out of random curiosity and for the sake of comparing “old” products against the latest and greatest. Most recently, I was drawn to Google's Pixel 5. So I gave it a factory reset, updated the phone to Android 12, and have been using it as my daily driver for the past several days.
-<a href='https://www.theverge.com/2022/6/25/23181795/google-pixel-5-android-12-iphone-se'> Source <a/>
