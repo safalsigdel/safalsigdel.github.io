@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YUxf8-t5mMuo-moMeDpgo3IzpKU=/0x0:6048x4024/1200x800/filters:focal(2541x1529:3507x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/71020082/15638_VolkswagenunveilsthestylishID.AEROconcept.0.jpg' width='700px' /><br/>
-Volkswagen announced a stylish new electric sedan concept, the ID Aero, which it plans on putting into production in China in 2023. The EV's aerodynamic shape and 16-foot length will help enable up to 385 miles of range based on Europe's WLTP.
-<a href='https://www.theverge.com/2022/6/27/23184710/vw-id-aero-concept-electric-ev-sedan'> Source <a/>

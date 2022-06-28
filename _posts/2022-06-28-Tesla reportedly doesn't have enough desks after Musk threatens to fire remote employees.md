@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2tm0fUf8ukQM9i9LKPkL26d5dYM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71020351/VRG_Illo_STK022_K_Radtke_Musk_Stock_Smirk.0.jpg' width='700px' /><br/>
-After Tesla CEO Elon Musk commanded remote employees to return to work or else lose their jobs, the company was reportedly ill-prepared to welcome back its workers. According to a report from The Information, employees arrived at Tesla's Fremont, California facility only to find a lack of parking spots, no desk to sit at, and crappy Wi-Fi (where's Starlink when you need it?).
-<a href='https://www.theverge.com/2022/6/27/23184695/tesla-elon-musk-remote-employees-fire'> Source <a/>
