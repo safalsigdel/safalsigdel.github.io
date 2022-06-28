@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HEDJFuXqJdXhPIkNd7IkEi5c7As=/0x0:3168x4759/1200x800/filters:focal(1372x1803:1878x2309)/cdn.vox-cdn.com/uploads/chorus_image/image/71017537/1334769418.0.jpg' width='700px' /><br/>
-Spotify has a brand new original topping its podcast chart, but it would probably prefer if you didn't know about it.
-<a href='https://www.theverge.com/2022/6/26/23181940/spotify-claudia-jackie-oshry-breaking-bread-girl-with-no-job'> Source <a/>

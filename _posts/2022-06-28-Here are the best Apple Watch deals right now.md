@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ssZyGCHX63CJnKVb9xghUSyoKmg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66976956/vpavic_211006_4796_0061.15.jpg' width='700px' /><br/>
+Thinking about picking up a new Apple Watch? It might be tempting to order one of the Series 7 models, but newer hardware always comes at a premium. And while Apple's latest wearable offers a slightly larger display and some improvements to durability, it is largely the same Apple Watch we're familiar with.
+<a href='https://www.theverge.com/21289209/best-apple-watch-deals'> Source <a/>

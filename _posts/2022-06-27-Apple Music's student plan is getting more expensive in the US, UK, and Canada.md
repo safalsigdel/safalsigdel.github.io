@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7fGGuSQET86NhIpf14vw9mQS3hQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71016042/acastro_180927_1777_apple_music_0001.0.jpg' width='700px' /><br/>
-Apple Music has raised the subscription price of its student plan in the US, UK, and Canada, as first reported by 9to5Mac (via TechCrunch). While it's increasing the price from $4.99 to $5.99 / month in the US and Canada, student users in the UK can expect a similar jump from xc2xa34.99 to xc2xa35.99 / month.
-<a href='https://www.theverge.com/2022/6/25/23182887/apple-music-student-plan-more-expensive-us-uk-canada'> Source <a/>

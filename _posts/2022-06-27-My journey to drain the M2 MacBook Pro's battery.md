@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E2EpFOfF-BnKCsCzEtvLaXl_LYI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71017396/akrales_220620_5303_0159.0.jpg' width='700px' /><br/>
-My review of the M2 MacBook Pro went up last Wednesday. But as soon as I got my hands on the device on the prior Thursday, it was clear that running down the battery — one of the most important things a laptop reviewer needs to do — was going to be a Whole Thing.
-<a href='https://www.theverge.com/2022/6/26/23182162/apple-macbook-pro-2022-m2-battery-life-test-drain-diary'> Source <a/>
