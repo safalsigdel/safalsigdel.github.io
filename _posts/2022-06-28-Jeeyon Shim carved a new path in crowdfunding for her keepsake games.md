@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R_cg9KxK7RSO6WLJTjfFc0uKznw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71023737/VRG_Illo_5253_J_Sitter_table_top_games.0.jpg' width='700px' /><br/>
+For Jeeyon Shim, making games wasn't a hobby, but a necessity. After she was laid off from her outdoor education job due to the pandemic, the self-taught designer started doing full-time game design in 2020. She quickly amassed a loyal following for her work in narrative-driven “keepsake” games, an experimental offshoot of role-playing games that involve deeply personal, player-created artifacts.
+<a href='https://www.theverge.com/23139467/jeeyon-shim-crowdfunding-keepsake-games'> Source <a/>

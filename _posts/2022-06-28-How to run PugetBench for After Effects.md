@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dY5HaPM4_vQZWc6GJ_6FpK8xff4=/0x0:2854x1602/1200x800/filters:focal(1199x573:1655x1029)/cdn.vox-cdn.com/uploads/chorus_image/image/71019691/Screenshot_2022_06_25_at_1.13.52_AM.0.png' width='700px' /><br/>
-Over the past few weeks, we've been showing you how you can run some of the benchmarks that we run in our laptop reviews to see how well your PC stacks up to others on the market. Today, we're looking at PugetBench for After Effects, created by the PC manufacturer Puget Systems, which will measure how well your computer can handle VFX and graphics work.
-<a href='https://www.theverge.com/23182608/pugetbench-for-adobe-after-effects-how-to'> Source <a/>
