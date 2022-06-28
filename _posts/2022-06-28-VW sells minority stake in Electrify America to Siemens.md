@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kT2dZuytonig5mukGLJveIKOzvo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71024218/ahawkins_20210503_4551_0009.0.jpg' width='700px' /><br/>
+Volkswagen sold a minority stake in its electric vehicle charging division, Electrify America, to Siemens in a deal that values the company at $2.45 billion. The two companies are jointly investing $450 million to double the number of Electrify America charging stations in the US and Canada by 2026. (The news was first reported by The Wall Street Journal.)
+<a href='https://www.theverge.com/2022/6/28/23186289/vw-sells-minority-stake-electrify-america-siemens-ev-charging'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rDs9GVI1htJSkH8AVxKExb-x6NY=/0x0:1456x819/1200x0/filters:focal(0x0:1456x819):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23656414/apex_legends_screenshots_s13_e01_awakening_lifelinetakeover_01_clean.png.adapt.1456w.jpg' width='700px' /><br/>
+Last week, EA's battle royale shooter Apex Legends launched a “collection event,” which is shorthand for a limited-time setup that is mostly about players buying a bunch of cosmetic items from the in-game store. The only problem is that this time, the massive update has made the game nearly unplayable for many people on consoles.
+<a href='https://www.theverge.com/2022/6/28/23171008/xbox-series-x-s-input-lag-apex-legends-respawn-ea'> Source <a/>
