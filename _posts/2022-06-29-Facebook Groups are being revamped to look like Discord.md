@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qerT5uwaYzHmi1MaMrqfriL5v8w=/0x0:3000x2000/1200x800/filters:focal(1278x845:1758x1325)/cdn.vox-cdn.com/uploads/chorus_image/image/71025735/VRG_ILLO_5321_FB_Groups.0.jpg' width='700px' /><br/>
+Facebook Groups are about to get some big changes, and if you've used Discord, the new approach should seem pretty darn familiar. Meta is testing a new left-aligned sidebar and channels list for Groups, and the changes are giving me some serious Discord vibes. Meta is even evoking Discord with a purple accent color.
+<a href='https://www.theverge.com/2022/6/28/23186527/facebook-groups-discord-channels-test-future-slack'> Source <a/>

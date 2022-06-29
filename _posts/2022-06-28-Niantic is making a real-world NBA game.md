@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Pokxc3xa9mon Go developer Niantic has announced yet another new game, this time with its first foray into the world of sports. It's called NBA All World, and it's — as you'd expect from Niantic — a location-based game that also has augmented reality elements. The developer describes it as “NBA lifestyle meets the real-world metaverse.”
-<a href='https://www.theverge.com/2022/6/28/23185384/nba-all-world-ar-location-game-niantic-pokemon-go'> Source <a/>

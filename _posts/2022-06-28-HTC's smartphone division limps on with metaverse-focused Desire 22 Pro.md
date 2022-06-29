@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pFvGJqTuRsNPrh2k98BY7QrGhQk=/0x0:1414x943/1200x800/filters:focal(594x359:820x585)/cdn.vox-cdn.com/uploads/chorus_image/image/71023262/bolt_pdp_kv_global_d.0.jpg' width='700px' /><br/>
-It hasn't released a competitive flagship device in years, but HTC's smartphone division isn't throwing in the towel just yet. Today it announced the HTC Desire 22 Pro, a follow-up to last year's HTC Desire 21 Pro, and the company's big attempt at capitalizing on the so-called metaverse. In the UK, it's listed at xc2xa3399 and will ship on August 1st.
-<a href='https://www.theverge.com/2022/6/28/23186110/htc-desire-22-pro-price-release-date-features-metaverse-flow-headset'> Source <a/>

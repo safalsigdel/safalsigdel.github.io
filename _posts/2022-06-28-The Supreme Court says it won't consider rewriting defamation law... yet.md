@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t94svXtZuyi05cRa4Odtt52eth8=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/71020767/Supreme_Court_4.1419979840.0.jpg' width='700px' /><br/>
-The Supreme Court has turned down a request to revisit a decades-old libel ruling, despite a dissent from Justice Clarence Thomas. This morning, the court denied a petition to hear Coral Ridge Ministries Media v. Southern Poverty Law Center, in which an evangelical Christian ministry accused the Southern Poverty Law Center (SPLC) of falsely designating it as an anti-LGBTQ hate group.
-<a href='https://www.theverge.com/2022/6/27/23184792/supreme-court-coral-ridge-splc-petition-denied-libel-law-actual-malice'> Source <a/>

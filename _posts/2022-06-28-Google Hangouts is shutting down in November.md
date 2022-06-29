@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EVHPYNekj3awjZg7fd9wnM177PI=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/71020911/google_chats_hangouts_transfer.0.png' width='700px' /><br/>
-After sunsetting Google Hangouts for Workspace users in February, Google's now beginning the process of migrating free, personal Hangouts users to Chat. In an announcement posted to its blog, Google says people who still use the Hangouts mobile app will see a prompt to move to Chat.
-<a href='https://www.theverge.com/2022/6/27/23185012/google-hangouts-shutting-down-november-chat-migration'> Source <a/>

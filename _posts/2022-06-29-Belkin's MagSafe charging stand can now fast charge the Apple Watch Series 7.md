@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G-t6imfGQGSHf8N_jFFpf91Edhc=/0x0:8000x7000/1200x800/filters:focal(3360x2860:4640x4140)/cdn.vox-cdn.com/uploads/chorus_image/image/71026643/belkin_charging_stand_apple.0.jpg' width='700px' /><br/>
+Belkin's back at it again with its funky multi-device charging stand, but this one now supports fast charging for the Apple Watch Series 7. The new BoostCharge Pro three-in-one charger offers 15W fast charging for your iPhone 12 or 13 and 5W charging for your AirPods or AirPods Pro.
+<a href='https://www.theverge.com/2022/6/28/23187183/belkin-magsafe-charging-stand-fast-charge-apple-watch-series-7'> Source <a/>

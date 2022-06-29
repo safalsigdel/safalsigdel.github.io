@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QV9fmhlnKuVonnK4Q5mYM36dwGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71026052/vpavic_210924_4766_0022_2.0.jpg' width='700px' /><br/>
+Text discovered in iOS 16 beta code indicated that Apple plans to drop iPad home hub support in the new update, but it turns out that's not quite the full story. According to the company, the iPad isn't losing support for what it can already do, but it won't get an important upgrade that will be available later.
+<a href='https://www.theverge.com/2022/6/28/23182328/apple-ipad-smart-home-hub-ios-ipados-16-matter'> Source <a/>

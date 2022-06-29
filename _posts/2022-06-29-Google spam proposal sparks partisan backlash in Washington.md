@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AG1N1avaC6WABOyrh8N-c_SAE_I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71025315/acastro_180424_1777_gmail_0001.0.0.jpg' width='700px' /><br/>
+After months of pressure from Republicans, Google has a new plan to keep campaign emails from being marked as spam, according to new documents obtained by The Verge.
+<a href='https://www.theverge.com/2022/6/28/23186742/google-spam-proposal-republicans-democrats-campaign-fundraising'> Source <a/>
