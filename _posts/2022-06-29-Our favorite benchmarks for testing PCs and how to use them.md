@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UpBDfwx4K0cAxdc7nyV1cpWisWs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71023942/cfaulkner_141231_5182_0015.0.jpg' width='700px' /><br/>
-When The Verge runs reviews of laptops (and occasionally phones), they are invariably benchmarked in order to measure various aspects of a PC's performance. However, benchmarks are not just used by product reviewers. They can help all of us in a variety of ways.
-<a href='https://www.theverge.com/23185394/benchmarks-testing-pcs-gaming-how-to'> Source <a/>
