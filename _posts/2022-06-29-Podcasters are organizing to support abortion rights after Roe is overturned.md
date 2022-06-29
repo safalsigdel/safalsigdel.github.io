@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZVfilz1O7mA458SrJcs38ELFbf8=/0x0:4468x3057/1200x800/filters:focal(1877x1172:2591x1886)/cdn.vox-cdn.com/uploads/chorus_image/image/71024699/1405538488.0.jpg' width='700px' /><br/>
-I hope you all had a good weekend. I certainly wasn't huddled in a ball of anxiety about the very fabric of women's rights in the US being stripped away, no sir.
-<a href='https://www.theverge.com/2022/6/28/23186432/abortion-roe-scotus-howard-stern-my-favorite-murder-podcast'> Source <a/>
