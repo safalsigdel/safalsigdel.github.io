@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ech-sDIDWKYUCJN2bNHXD--OgKQ=/0x0:2000x1325/1200x800/filters:focal(840x503:1160x823)/cdn.vox-cdn.com/uploads/chorus_image/image/71028886/ps5ssd1_1.0.jpg' width='700px' /><br/>
+It's the hump day before a holiday weekend, which means it officially feels like time is moving the slowest it possibly can. There is one solution to speed things up, though: get a fast SSD for your PC or PlayStation 5.
+<a href='https://www.theverge.com/good-deals/2022/6/29/23186904/samsung-980-pro-m2-ssd-ps5-google-nest-mini-chromecast-android-pixel-6-pro-deal-sale'> Source <a/>

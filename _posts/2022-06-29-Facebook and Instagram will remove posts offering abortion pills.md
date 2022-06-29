@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t_V6vCgXIh_JYJibzjRXCeSdLgU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71025804/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook and Instagram are removing posts from users that offer help accessing abortion pills, saying they violate a policy around pharmaceuticals.
-<a href='https://www.theverge.com/2022/6/28/23186708/facebook-instagram-abortion-pills-posts-ban-mifepristone-misoprostol'> Source <a/>
