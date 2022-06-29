@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cZeiRwgQUNKV1aQY7pQynw8A95Y=/0x0:5477x3651/1200x800/filters:focal(2301x1388:3177x2264)/cdn.vox-cdn.com/uploads/chorus_image/image/71028133/1397329748.0.jpg' width='700px' /><br/>
+Stranger Things' Millie Bobby Brown will star in a new Netflix film from the Russo brothers, directors of Avengers: Endgame and Avengers: Infinity War. The Electric State is a retro-futuristic sci-fi movie that follows Brown, a robotic companion, and an “eccentric drifter” as she travels through the American West in search of her brother, Netflix said in its casting announcement.
+<a href='https://www.theverge.com/2022/6/29/23187813/the-electric-state-millie-bobby-brown-russo-brothers-netflix'> Source <a/>
