@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7JYo8tVoq-aR4MQcFaECJLQPZro=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/71025902/vpavic_4261_20201023_0058.5.jpg' width='700px' /><br/>
-Yesterday was a pleasant surprise on the PlayStation 5 console restock front. Sony opened up a public queue for PS5 consoles, and unlike many times before, it stayed open and viable for much longer than usual. Now, there's another one happening right now, and you can queue up without an invite.
-<a href='https://www.theverge.com/2022/6/28/23186988/sony-playstation-5-ps5-restock-direct-console-availability-inventory-check'> Source <a/>
