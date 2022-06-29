@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Nv5ycljBFw_DB9B7xfrYWEBbZ4E=/0x0:2656x1772/1200x800/filters:focal(1116x674:1540x1098)/cdn.vox-cdn.com/uploads/chorus_image/image/71026564/Screen_Shot_2022_06_28_at_3.26.11_PM.0.png' width='700px' /><br/>
 The forthcoming Montblanc Summit 3 will not only run Wear OS 3, but it'll be the first smartwatch on the new unified platform to support iOS — sort of.
+<a href='https://www.theverge.com/2022/6/28/23186980/montblanc-summit-3-wear-os-3-ios'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Nv5ycljBFw_DB9B7xfrYWEBbZ4E=/0x0:2656x1772/1200x800/filters:focal(1116x674:1540x1098)/cdn.vox-cdn.com/uploads/chorus_image/image/71026564/Screen_Shot_2022_06_28_at_3.26.11_PM.0.png' width='700px' /><br/>
+The forthcoming Montblanc Summit 3 will not only run Wear OS 3, but it'll be the first smartwatch on the new unified platform to support iOS — sort of.
 <a href='https://www.theverge.com/2022/6/28/23186980/montblanc-summit-3-wear-os-3-ios'> Source <a/>

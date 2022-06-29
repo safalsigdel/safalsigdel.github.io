@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/GpkWgU39pzyVO4Wbw3q3AEdSXmk=/0x0:2200x1238/1200x800/filters:focal(924x443:1276x795)/cdn.vox-cdn.com/uploads/chorus_image/image/71025933/microsoft_edge_collections_image.0.jpg' width='700px' /><br/>
 Microsoft Edge is building what seems like a mini version of Pinterest inside its browser. Its Collections window will soon start displaying a feed of recommended content based on the topics you've saved.
+<a href='https://www.theverge.com/2022/6/28/23186775/microsoft-edge-collections-pinterest-inspiration-feed-sharing'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/GpkWgU39pzyVO4Wbw3q3AEdSXmk=/0x0:2200x1238/1200x800/filters:focal(924x443:1276x795)/cdn.vox-cdn.com/uploads/chorus_image/image/71025933/microsoft_edge_collections_image.0.jpg' width='700px' /><br/>
+Microsoft Edge is building what seems like a mini version of Pinterest inside its browser. Its Collections window will soon start displaying a feed of recommended content based on the topics you've saved.
 <a href='https://www.theverge.com/2022/6/28/23186775/microsoft-edge-collections-pinterest-inspiration-feed-sharing'> Source <a/>
