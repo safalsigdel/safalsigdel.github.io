@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kM0_bCyMw_9b43keIPIpOvJLAuo=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/71026234/1361930869.0.jpg' width='700px' /><br/>
-Amazon is limiting customers to three units of emergency contraceptive pills a week in response to a spike in demand after the Supreme Court ended federal abortion rights, the company told CNBC.
-<a href='https://www.theverge.com/2022/6/28/23187039/amazon-cvs-rite-aid-plan-b-emergency-contraception'> Source <a/>
