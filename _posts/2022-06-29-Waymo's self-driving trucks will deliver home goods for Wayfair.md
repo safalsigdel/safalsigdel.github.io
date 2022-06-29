@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m1-2k3fF0LBsQ6Vit_ldwNc0ioA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71025514/vpavic_191202_3827_0042.0.jpeg' width='700px' /><br/>
-Waymo will deliver home goods for Wayfair using its fleet of autonomous semi-trailer trucks, the company announced Tuesday.
-<a href='https://www.theverge.com/2022/6/28/23186715/waymo-self-driving-trucks-deliver-wayfair-home-goods'> Source <a/>
