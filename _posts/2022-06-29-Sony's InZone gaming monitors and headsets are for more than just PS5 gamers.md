@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GenZnCdgWLbwvz496hg-mwW-N8w=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23645935/akrales_220621_5285_0059.jpg' width='700px' /><br/>
-Sony is attempting to reach out to more than just PS5 gamers with its new InZone brand of gaming monitors and headsets. I got my hands on them in the video embedded above if you'd rather see or hear me talk about these gadgets.
-<a href='https://www.theverge.com/2022/6/28/23180410/sony-inzone-gaming-monitors-hands-on-specs-price-ps5-pc'> Source <a/>
