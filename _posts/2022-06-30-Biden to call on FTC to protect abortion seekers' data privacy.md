@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JG6RvTGcL83jm6LkDN5oulb7fo8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71033577/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+As early as this week, President Joe Biden plans to ask the Federal Trade Commission to protect consumer data privacy following the Supreme Court's recent decision to overturn Roe v. Wade, according to a new report from Axios.
+<a href='https://www.theverge.com/2022/6/30/23189779/biden-abortion-roe-wade-privacy-ftc-flo-fertility-tracking-apps'> Source <a/>
