@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1G2y4BE_HKmsvS4bY27KEMSxHNI=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/71033453/akrales170713_1851_0006.0.jpg' width='700px' /><br/>
+Ahead of the July Fourth weekend, airlines are facing a wave of concern over flight cancellations — and new pressure from Washington to make sure they're not leaving travelers in the lurch.
+<a href='https://www.theverge.com/2022/6/30/23189456/airline-cancellation-holiday-flight-july4-airport'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ud2XWyp5aSk9wWBrCc1SNGF6DF4=/0x0:5464x3562/1200x800/filters:focal(2295x1344:3169x2218)/cdn.vox-cdn.com/uploads/chorus_image/image/71029332/TuSimpleTruck2.0.jpg' width='700px' /><br/>
-California is at risk of losing its “competitive edge” if it doesn't lift a ban on the operation of autonomous semitrailer trucks on public roads, a group of 35 industry leaders said in an open letter to Governor Gavin Newsom.
-<a href='https://www.theverge.com/2022/6/29/23188084/california-self-driving-truck-gavin-newsom-waymo-ups'> Source <a/>
