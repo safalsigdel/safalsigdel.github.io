@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vHsAeEekYqZauzuh4V27UuqomsE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71029741/acastro_170731_1777_0006_v2.0.jpg' width='700px' /><br/>
-Apple is rewarding the most active and helpful members of its support forums with its new Community Plus program (via iClarified). The invite-only program gives these “high-level” Support Community members access to exclusive perks and experiences.
-<a href='https://www.theverge.com/2022/6/29/23188003/apple-community-plus-program-tech-support-members'> Source <a/>
