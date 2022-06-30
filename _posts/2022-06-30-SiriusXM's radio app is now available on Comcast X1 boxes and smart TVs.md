@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pU_0uZLsPiLQFr3Z8MndAl2Jo6A=/0x0:1500x1200/1200x800/filters:focal(630x480:870x720)/cdn.vox-cdn.com/uploads/chorus_image/image/71028709/SXM_App_on_Comcast_1.0.jpg' width='700px' /><br/>
-Comcast subscribers can now access the SiriusXM app from their Xfinity Flex streaming device and XClass TV as well as through the Xfinity X1 hub for live TV. You can call up the app by saying “SiriusXM” to your voice remote or by searching for it within your device's list of apps.
-<a href='https://www.theverge.com/2022/6/29/23187874/siriusxm-app-available-comcast-subscribers-xfinity'> Source <a/>
