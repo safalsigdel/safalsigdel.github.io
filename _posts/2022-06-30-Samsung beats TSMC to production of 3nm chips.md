@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/woRf4Y---YGB_RQzLZkyz1Kp36I=/0x0:845x563/1200x800/filters:focal(356x215:490x349)/cdn.vox-cdn.com/uploads/chorus_image/image/71032180/image.0.jpeg' width='700px' /><br/>
+Samsung has started producing 3nm chips, beating rival chip manufacturer TSMC to the more power efficient fabrication process, Bloomberg reports. TSMC's 3nm process isn't expected to go into mass production until the second half of 2022.
+<a href='https://www.theverge.com/2022/6/30/23189362/samsung-3nm-chips'> Source <a/>
