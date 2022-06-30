@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P3Us-YRUIJWOf5iB8CCapXTYve0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71033046/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
+If you're looking for a way to keep your conversations over text private, it's crucial to choose your messaging app carefully. Not all of them are end-to-end encrypted (E2EE), and others might have security holes that compromise your privacy.
+<a href='https://www.theverge.com/23186209/best-secure-messaging-apps-end-to-end-encryption-e2ee'> Source <a/>
