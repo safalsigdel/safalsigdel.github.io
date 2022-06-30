@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1YVEwd2WSvAe8f1Y2zAdU3GRAxQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71030125/ahawkins_20210321_4490_0016.0.jpg' width='700px' /><br/>
+The chip shortage and supply chain crisis are doing more than just driving up vehicle prices — they're also affecting quality.
+<a href='https://www.theverge.com/2022/6/29/23188085/jd-power-initial-quality-study-2022-tesla-polestar-ev-decline'> Source <a/>

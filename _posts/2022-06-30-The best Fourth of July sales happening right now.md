@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PLXypjrD4c_gHC7dBmqCq-DnxVY=/0x0:2040x1360/1200x800/filters:focal(899x1034:1225x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/71030021/akrales_220620_5303_0101.0.jpg' width='700px' /><br/>
+Celebrate our nation's birthday the Verge Deals way, by saving on some fun tech in time for the summer instead of, you know, doomscrolling about the state of everything. The Fourth of July holiday means different things to different people, but regardless, we're about to take you on a journey to see all the best July Fourth deals on a variety of tech from across the internet.
+<a href='https://www.theverge.com/23186573/best-july-4th-sales-2022-tech-deals-macbook-air-sale'> Source <a/>

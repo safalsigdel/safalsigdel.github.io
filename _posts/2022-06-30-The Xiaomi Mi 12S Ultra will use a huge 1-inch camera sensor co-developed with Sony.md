@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vS3ts3OvmQEMFS3JC-I4ABGq3JU=/0x0:2160x1620/1200x800/filters:focal(886x472:1230x816)/cdn.vox-cdn.com/uploads/chorus_image/image/71030207/xiaomi_sensor_2.0.jpg' width='700px' /><br/>
+Big-sensor cameras are a bit of a white whale for smartphone imaging engineers. Even the most capable smartphone cameras use relatively puny sensors, and efforts to bring bigger sensors to the mobile form factor have been impractical, niche, or never really materialized. Xiaomi appears to be the latest company to attempt to capture the elusive concept with its upcoming 12S Ultra flagship.
+<a href='https://www.theverge.com/2022/6/29/23188304/xiaomi-mi-12s-ultra-1-inch-camera-sensor-sony-imx989'> Source <a/>

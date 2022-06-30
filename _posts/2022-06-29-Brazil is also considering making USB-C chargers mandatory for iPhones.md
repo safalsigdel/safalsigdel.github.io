@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b5rID4UDwer5Lv3Xi27EdVlO5J0=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/71027951/1235436904.0.jpg' width='700px' /><br/>
-Brazil's telecoms regulator Anatel has launched a public consultation on a proposal to make USB-C chargers mandatory for all smartphones sold in the country.
-<a href='https://www.theverge.com/2022/6/29/23187760/iphone-usb-c-mandatory-brazil-public-consultation-anatel'> Source <a/>

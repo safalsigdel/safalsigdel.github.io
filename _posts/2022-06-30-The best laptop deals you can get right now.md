@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rfh1ZYedIP0AVtK1AMR8Iizgx5M=/0x0:2040x1358/1200x800/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/71029684/vpavic_4291_20201113_0337_Edit.0.jpg' width='700px' /><br/>
+If you want a great laptop, you're going to have to fork over a ton of money, right? Not necessarily. There are dozens of good laptops on the market at various price points. While it can feel overwhelming to find the right one for your needs (some are better suited for, say, college students, whereas others are ideal for gamers), that's why we've come up with this list of some of the best laptop deals available right now.
+<a href='https://www.theverge.com/good-deals/23161948/apple-macbook-hp-lenovo-dell-acer-asus-deal-sale'> Source <a/>

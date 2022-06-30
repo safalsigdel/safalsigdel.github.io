@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6A4E95meSMCwA5PL5hgcx5zUZ8I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71031009/DSCF5354.0.jpg' width='700px' /><br/>
+Niantic, which has been trying to replicate the massive success of Pokxc3xa9mon Go with other mobile AR games, is laying off 8 percent of its workforce and canceling four projects, as reported by Bloomberg.
+<a href='https://www.theverge.com/2022/6/29/23188812/niantic-layoffs-canceling-projects-transformers'> Source <a/>

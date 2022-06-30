@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vJ8C3KfrCZwElGPb7ASiWAe1aBI=/0x0:1084x611/1200x800/filters:focal(456x220:628x392)/cdn.vox-cdn.com/uploads/chorus_image/image/71029958/RbqSJF3.0.png' width='700px' /><br/>
+Google's Switch to Android app now supports all Android 12 phones. The free iOS app is designed to make it easy to switch to Android, transferring important data like your iPhone contacts and calendar entries. Google released the app earlier this year, but it was limited to its Pixel devices initially. Support for all Android 12 phones makes this a key app if you're moving from an iPhone to a new Android device.
+<a href='https://www.theverge.com/2022/6/29/23187754/google-switch-to-android-iphone-app-12-support'> Source <a/>
