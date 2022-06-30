@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tCXoH_mxqfycfVlj-wtaX-PseB8=/0x0:5536x3691/1200x800/filters:focal(2326x1404:3210x2288)/cdn.vox-cdn.com/uploads/chorus_image/image/71029144/NuraTrue_Pro_Front.0.jpg' width='700px' /><br/>
-The new Bluetooth streaming codec that promises to stream CD-quality audio without any loss of audio detail, aptX Lossless, is coming to its first pair of earbuds. The NuraTrue Pro true wireless earbuds are the work of Australian audio company Nura and are currently being funded on Kickstarter with early bird prices starting at $199 and a regular retail price of $329.
-<a href='https://www.theverge.com/2022/6/29/23187844/nuratrue-pro-true-wireless-headphones-aptx-lossless-cd-quality-audio'> Source <a/>

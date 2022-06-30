@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hBF-_Szzjj4fij64_XY2QsykiHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71033266/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube has been having a tough time with spammers lately. Earlier this year, a bunch of big creators like MKBHD and Jacksepticeye made videos highlighting the seemingly endless hordes of bad actors swarming their channels who reply to other commenters with fake giveaways and other scams. YouTube has been responding to these complaints and, today, announced a few new changes to try and stem the tide.
+<a href='https://www.theverge.com/2022/6/30/23189367/youtube-spam-account-policy-subscriber-count-special-characters'> Source <a/>
