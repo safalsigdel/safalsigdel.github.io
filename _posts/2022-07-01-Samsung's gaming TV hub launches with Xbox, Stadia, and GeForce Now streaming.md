@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l9xQbBUMjKmy0IPwn7qlz2mpm0c=/0x0:2880x1592/1200x800/filters:focal(1210x566:1670x1026)/cdn.vox-cdn.com/uploads/chorus_image/image/71033225/02_KV_Image_desktop.0.jpg' width='700px' /><br/>
-Samsung is launching its gaming hub for its 2022 smart TVs and monitors today. The hub brings together the best game streaming apps into a single location, with quick access to Nvidia's GeForce Now, Google Stadia, Utomik, Twitch, and Microsoft's new Xbox TV app. Even Amazon Luna will be available soon, neatly integrated into the Samsung Gaming Hub UI.
-<a href='https://www.theverge.com/2022/6/30/23189392/samsung-gaming-hub-xbox-stadia-luna-apps-support'> Source <a/>
