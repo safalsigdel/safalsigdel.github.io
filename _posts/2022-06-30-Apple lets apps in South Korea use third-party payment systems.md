@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nm5XaBlXhD37Y4e3aBg82cfiEUs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71032215/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
-Developers of apps released in Apple's South Korean App Store no longer have to use the company's own in-app payment system, the iPhone maker has announced in a developer update. Instead, developers will be able to take payments using the third-party service providers pre-approved by Apple.
-<a href='https://www.theverge.com/2022/6/30/23189384/apple-south-korean-app-store-third-party-payment-systems-in-app'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G9NtDIgxlIG0ia9HDZXzoESE-Uc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71031064/jbareham_180313_1777__bitcoin_cryptocurrency_0003.0.jpg' width='700px' /><br/>
-One thing I have come to appreciate is that cryptocurrency isn't really very good at its killer use case: crime. Today's example comes from North Korea, where the regime's war chest of stolen cryptocurrency is suddenly worth a lot less than it used to be.
-<a href='https://www.theverge.com/2022/6/29/23188795/north-korea-crypto-losers-down-bad'> Source <a/>

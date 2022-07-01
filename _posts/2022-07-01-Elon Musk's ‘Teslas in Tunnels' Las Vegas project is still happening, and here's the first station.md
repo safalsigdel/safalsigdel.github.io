@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MG3Rj0k7hTgu4oHownPxSe7YxJc=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/71034810/DD0B8EEA_6B94_49B4_B6F9_10D8424F50BB.0.jpeg' width='700px' /><br/>
+The first passenger station in the “Vegas Loop” network of vehicle tunnels that's being built by Elon Musk's Boring Company was revealed Thursday. The station is situated underneath Resorts World Las Vegas, the first in what is expected to be 55 stops along 29 miles of tunnels.
+<a href='https://www.theverge.com/2022/6/30/23190249/boring-company-resorts-world-vegas-loop-station-photos'> Source <a/>

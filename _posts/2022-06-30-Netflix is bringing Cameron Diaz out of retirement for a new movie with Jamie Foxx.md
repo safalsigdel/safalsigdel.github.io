@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jtKI8SsYxoheFs-kEvWp6Jb7IlY=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/71030809/cameron_diaz_netflix.0.jpeg' width='700px' /><br/>
-Cameron Diaz is set to star alongside Jamie Foxx in a new Netflix original film, officially ending Diaz's retirement (which some of us at The Verge apparently never got the memo on). Foxx teased the new film, titled Back in Action, in a tweet containing an audio call between him, Diaz, and Tom Brady, whose retirement from football notably lasted a whole 40 days.
-<a href='https://www.theverge.com/2022/6/29/23188583/netflix-cameron-diaz-retirement-new-movie-jamie-foxx-back-in-action'> Source <a/>

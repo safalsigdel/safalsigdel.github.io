@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rspSIAbCb04Vh6fEdmh6OEHzV54=/0x0:1280x905/1200x800/filters:focal(538x351:742x555)/cdn.vox-cdn.com/uploads/chorus_image/image/71035327/y_62b08417a330b.0.jpeg' width='700px' /><br/>
+Sega may have only announced the Mega Drive Mini 2 for release in Japan so far, but there's a pretty cool accessory for it that appears to work with PCs and can be shipped stateside. As of this writing, Amazon has the Mega Drive Mini 2 Cyber Stick controller up for preorder on its Japanese storefront, and as video game deals expert Wario64 points out (ad), the controller also ships to the US.
+<a href='https://www.theverge.com/2022/6/30/23190324/sega-mega-drive-mini-2-cyber-stick-after-burner-ii'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M3FwU_bsnYUC6bmr-UJ97OcZlFc=/0x0:3000x2000/1200x800/filters:focal(2122x456:2602x936)/cdn.vox-cdn.com/uploads/chorus_image/image/71032306/983048778.0.jpg' width='700px' /><br/>
-Amazon has restricted search results and inventory related to LGBTQ topics in the United Arab Emirates after being pressured to do so by the government, reports The New York Times. Same-sex relationships and sex acts are illegal in the UAE, and are punishable by fines and imprisonment.
-<a href='https://www.theverge.com/2022/6/30/23189406/amazon-restricts-lgbtq-search-terms-results-uae-united-arab-emirates'> Source <a/>

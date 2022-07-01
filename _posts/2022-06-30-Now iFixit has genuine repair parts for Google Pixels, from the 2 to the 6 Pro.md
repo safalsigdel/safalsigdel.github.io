@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1yD_8V9ZNeJHvrBMGA6elRThdFE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71031159/bfarsace_211014_4802_0002.0.jpg' width='700px' /><br/>
-In April, Google announced plans to join the expanding list of tech companies that work with iFixit. The repair mavens distribute parts and tools for people interested in performing DIY electronics repairs, and starting today, iFixit's store offers genuine Google parts for a number of Pixel phones.
-<a href='https://www.theverge.com/2022/6/29/23188693/google-pixel-repair-kit-ifixit-battery-screen-usb-port-replacement'> Source <a/>

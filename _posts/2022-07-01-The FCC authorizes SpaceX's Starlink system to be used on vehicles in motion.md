@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iRWvik-m1Xee4d5gcEcUmSGJxQY=/0x0:2040x1530/1200x800/filters:focal(603x106:929x432)/cdn.vox-cdn.com/uploads/chorus_image/image/71035609/verge_IMG20220619152937_2040pxl.0.jpg' width='700px' /><br/>
+Today, the Federal Communications Commission (FCC) granted SpaceX authorization to use its Starlink satellite internet system on vehicles in motion — including cars, trucks, boats, and aircraft. It's a big win for SpaceX's Starlink system, potentially opening up the service to a more diverse range of use cases and customers.
+<a href='https://www.theverge.com/2022/6/30/23190463/spacex-starlink-satellite-internet-fcc-in-motion-authorized'> Source <a/>

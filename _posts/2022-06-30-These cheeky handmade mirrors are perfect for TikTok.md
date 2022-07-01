@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rkZngEBLvyAutk4KQpP2SkP6Xc8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71032516/VRG_Illo_5253_J_Sitter_tik_tok_mirrors.0.jpg' width='700px' /><br/>
-Annemarie Rose is bent over a sheet of glass, hair tucked into a messy half ponytail, tracing the outline of a heart into its glossy surface. She breaks it apart, sands the edges, and etches a simple message across its smooth surface: spit in my mouth. “Something hot for Valentine's Day,” the description reads on her TikTok video.
-<a href='https://www.theverge.com/23176988/tiktok-mirrors-annemarie-rose'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A548mmHFbF6bQHYAaVCqw2y3bXc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71034637/VRG_Illo_226044_K_Radtke_Period_Tracker.0.jpg' width='700px' /><br/>
+Warnings to delete cycle tracking apps flooded social media in the wake of the United States Supreme Court's decision to overturn Roe v. Wade and end federal abortion protections. The data those apps contain, people feared, could be weaponized in court.
+<a href='https://www.theverge.com/2022/6/30/23190142/delete-period-tracking-app-roe-v-wade-how-to'> Source <a/>

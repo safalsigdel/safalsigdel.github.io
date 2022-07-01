@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BChoObLSmL2kVodmqXybBp-rwUQ=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/71031744/Untitled_1.0.jpg' width='700px' /><br/>
-Substack is the latest tech company to announce layoffs, with the company's CEO Chris Best tweeting on Wednesday that he's letting 13 workers go. According to Axios, that's around 14 percent of Substack's workforce. In his letter and follow-up tweets, Best cites “market conditions” as the reason behind the layoffs.
-<a href='https://www.theverge.com/2022/6/29/23188977/substack-layoffs-14-percent-economy'> Source <a/>

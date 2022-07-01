@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p_DEQhyGUVghy53UsUicvx2E0Wk=/0x0:3000x1950/1200x800/filters:focal(1260x735:1740x1215)/cdn.vox-cdn.com/uploads/chorus_image/image/71034965/1020840146.0.jpg' width='700px' /><br/>
+The Supreme Court just gutted a major policy tool the US might have used to tackle climate change. Its decision today on West Virginia v. Environmental Protection Agency essentially says that the EPA shouldn't be allowed to determine whether the US gets its electricity from clean or dirty sources of energy.
+<a href='https://www.theverge.com/2022/6/30/23184791/supreme-court-west-virginia-epa-decision-climate-change-power-plants-what-happens-next'> Source <a/>

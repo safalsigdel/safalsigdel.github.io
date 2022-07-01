@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aG_1bRYvmvAwKkETBIkdRAlnzRM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71030734/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
-If you're an Instagram user, there's a good chance it isn't the only social network that you post to. The app makes it very easy to send your post to a few other social networks — including Facebook (which owns Instagram).
-<a href='https://www.theverge.com/23188680/instagram-facebook-twitter-tumblr-how-to'> Source <a/>
