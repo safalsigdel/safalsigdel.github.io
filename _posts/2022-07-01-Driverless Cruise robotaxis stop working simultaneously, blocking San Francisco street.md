@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/isi4lbPQUp_FnzoFaTLRqYh39Is=/0x0:2202x1336/1200x800/filters:focal(925x492:1277x844)/cdn.vox-cdn.com/uploads/chorus_image/image/71037072/Screenshot_2022_07_01_at_11.47.43.0.png' width='700px' /><br/>
-A group of driverless Cruise robotaxis blocked traffic in San Francisco for hours on Tuesday evening after the cars stopped working without explanation.
-<a href='https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco'> Source <a/>

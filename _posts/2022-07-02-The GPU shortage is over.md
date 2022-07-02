@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EDAm0WVxSHevwAp1iERL5o9nhvo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71039880/shollister_201117_4303_0003.0.0.jpg' width='700px' /><br/>
+For nearly two years, you've had to be incredibly lucky, skilled, or patient to get an Nvidia or AMD graphics card at MSRP. We've liveblogged and livetweeted that hell of trying to buy a GPU online, fighting against an army of bots to navigate the buggy websites of retailers who didn't have enough reason to care.
+<a href='https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800'> Source <a/>

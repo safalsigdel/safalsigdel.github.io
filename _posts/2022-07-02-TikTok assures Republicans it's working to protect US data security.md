@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GPPNyR7UbiNCvtAYjglUkZTrZiU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71038499/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+After years of mounting pressure, TikTok provided US lawmakers with more details into how it limits Chinese access to American data in a new letter dated Thursday.
+<a href='https://www.theverge.com/2022/7/1/23191506/tiktok-republicans-data-security-ccp-china'> Source <a/>

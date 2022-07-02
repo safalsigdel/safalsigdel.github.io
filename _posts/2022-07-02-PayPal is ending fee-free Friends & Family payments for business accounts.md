@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E4TspkIl9Kj9VmRl78bLI0hMnw0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71038382/acastro_180410_1777_payapl_0003.0.jpg' width='700px' /><br/>
+PayPal is putting new limits on a feature in its payment system that allows people to receive money without paying extra fees, the company recently announced. Starting July 28th, only personal PayPal accounts will be able to get funds via Friends & Family, a transaction method intended for trusted recipients.
+<a href='https://www.theverge.com/2022/7/1/23191214/paypal-friends-and-family-payments-business-accounts'> Source <a/>

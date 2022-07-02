@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MOWGOvUJm4pavMmZgzVRyMhSAf8=/0x0:6000x3673/1200x800/filters:focal(2520x1357:3480x2317)/cdn.vox-cdn.com/uploads/chorus_image/image/71035306/1241467801.0.jpg' width='700px' /><br/>
-Bitcoin miners in New York state faced a regulatory blow today as the state denied air permits for a gas-fired power plant used to mine Bitcoin. It's the latest step that New York has taken to crack down on crypto mining as it tries to meet its goals on climate change.
-<a href='https://www.theverge.com/2022/6/30/23004518/new-york-denies-air-permit-to-bitcoin-mining-power-plant'> Source <a/>

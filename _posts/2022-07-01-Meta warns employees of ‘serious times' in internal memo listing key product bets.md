@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JEVHG7p2wa5di5YeDk38aSW38ws=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71034848/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-Meta is warning of “serious times” and preparing for a leaner second half of 2022, according to an internal memo circulated to employees this week. The note comes from chief product officer Chris Cox and outlines the company's priorities and challenges to its business going forward.
-<a href='https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse'> Source <a/>

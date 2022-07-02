@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_GZHCHBh2ZQcFKASvjZZXEmnm48=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71036815/acastro_201005_1777_googleAntiTrust_0001.0.0.jpg' width='700px' /><br/>
-Google has offered to pay out $90 million to small app developers to settle a class-action lawsuit alleging that the company's Play store policies violated federal antitrust laws.
-<a href='https://www.theverge.com/2022/7/1/23191008/google-app-developers-fund-90-million-play-store-antitrust'> Source <a/>

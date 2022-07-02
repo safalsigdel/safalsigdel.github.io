@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W6klMdvGoGylmUPheuWK08EhjI4=/0x0:1844x1296/1200x800/filters:focal(775x501:1069x795)/cdn.vox-cdn.com/uploads/chorus_image/image/71036851/Screenshot_2022_07_01_at_10.42.38.0.png' width='700px' /><br/>
-Technoblade, a popular Minecraft YouTuber, has died from cancer age 23.
-<a href='https://www.theverge.com/2022/7/1/23191022/technoblade-dies-cancer-final-video-message'> Source <a/>

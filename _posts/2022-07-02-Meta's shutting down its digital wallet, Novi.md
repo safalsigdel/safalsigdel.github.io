@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KU-Q9NkPADykyAv3GVNsoEUdJWs=/0x0:1536x865/1200x800/filters:focal(646x311:890x555)/cdn.vox-cdn.com/uploads/chorus_image/image/71041433/NoviWordmark.0.png' width='700px' /><br/>
+Meta's ending the pilot for Novi, the company's digital wallet and the last remaining piece of its troubled cryptocurrency project, as first reported by Bloomberg. On Novi's website, Meta says the wallet is shutting down on September 1st, 2022, and asks users to withdraw their funds “as soon as possible.”
+<a href='https://www.theverge.com/2022/7/2/23192501/meta-shutting-down-digital-wallet-novi-diem-cryptocurrency'> Source <a/>

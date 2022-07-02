@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-cWa5wCfwaTMdOn1-7bzQA83mJM=/0x0:2880x1552/1200x800/filters:focal(1210x546:1670x1006)/cdn.vox-cdn.com/uploads/chorus_image/image/71034665/Screen_Shot_2022_06_30_at_13.09.41.0.png' width='700px' /><br/>
-Raspberry Pi has introduced a successor to last year's Pico, a $4 microcontroller based on the RP2040 chip the company designed itself. The new model is called the Pico W. It's basically the same hardware, but it adds, as the name suggests, an 802.11n Wi-Fi radio, making it useful for putting together IoT projects and the like. It's also more expensive than the standard Pico, coming in at $6.
-<a href='https://www.theverge.com/2022/6/30/23189994/raspberry-pi-pico-w-wi-fi-microcontroller-6'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dlpyoqess7NMQLnAV9pbgNSu1N4=/0x0:1265x872/1200x800/filters:focal(532x335:734x537)/cdn.vox-cdn.com/uploads/chorus_image/image/71039537/SEGA_Genesis___June_2022_Game_Updates___Nintendo_Switch_Online_0_29_screenshot.0.png' width='700px' /><br/>
+You can now play one of the internet's most famous memes right on your Nintendo Switch. Zero Wing, which features the classic line “all your base are belong to us” during its introductory cutscene, is now available to play on the Sega Genesis app that's accessible with a Nintendo Switch Online + Expansion Pack subscription.
+<a href='https://www.theverge.com/2022/7/1/23191830/all-your-base-are-belong-to-us-zero-wing-nintendo-switch-sega-genesis'> Source <a/>

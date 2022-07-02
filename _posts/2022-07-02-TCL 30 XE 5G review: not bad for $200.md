@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P6t1BeLXVpQz-tTAJc0_J864W0s=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71041049/ajohnson_220628_5322_0001.0.jpg' width='700px' /><br/>
+The TCL 30 XE has a bad screen, skimpy storage, lackluster camera, and runs a version of Android that's nearly two years behind everyone else. It's basically a slightly cheaper, slightly worse version of the Samsung Galaxy A13 5G that only works on T-Mobile. But it's $200, and at that price, it's about the best phone you can get.
+<a href='https://www.theverge.com/23191918/tcl-30-xe-5g-review-price-screen-battery-camera-specs'> Source <a/>

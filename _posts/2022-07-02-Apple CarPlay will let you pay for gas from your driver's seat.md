@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GMyOu4G8b7rDJmjQ0IBHJyRL_3M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71037717/vpavic_180925_2980_0007.0.jpg' width='700px' /><br/>
+During its WWDC event a few weeks ago, Apple announced iOS 16, highlighting a “next-generation” CarPlay experience that automakers might not be ready for any time soon. It also announced a new “fueling and driving tasks apps” feature that you will actually be able to use once the update is released.
+<a href='https://www.theverge.com/2022/7/1/23190601/apple-carplay-gas-infotainment-ios-16'> Source <a/>

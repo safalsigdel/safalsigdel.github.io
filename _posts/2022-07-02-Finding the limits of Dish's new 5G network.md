@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/38MDFnKPfDBh6GIJClWsNRKJVsM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71038577/akrales_220629_5323_0010.0.jpg' width='700px' /><br/>
+Dish is trying something no one's succeeded at for a very long time: build a new nationwide cell network from the ground up. The 5G service, called Project Genesis, finally went live in “over 120 cities” two weeks ago, and my colleague and I immediately signed up to test it out.
+<a href='https://www.theverge.com/2022/7/1/23188077/dish-wireless-project-genesis-first-week-testing-speeds-coverage'> Source <a/>
