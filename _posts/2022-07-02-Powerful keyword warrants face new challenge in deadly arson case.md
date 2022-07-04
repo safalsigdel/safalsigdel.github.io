@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4YbRAPCNqYMX9-7L8I4iaCJzgdU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71038479/Vrg_Illo_226048_K_Radtke_Google_Search_Arson.0.jpg' width='700px' /><br/>
-A case being brought in the Colorado district court of Denver County is challenging the constitutionality of a controversial keyword search warrant and potentially curbing a law enforcement practice that has implications for the criminalization of abortion.
-<a href='https://www.theverge.com/2022/7/1/23191406/denver-arson-google-keyword-warrant-challenge-constitutional-fourth-amendment-privacy'> Source <a/>

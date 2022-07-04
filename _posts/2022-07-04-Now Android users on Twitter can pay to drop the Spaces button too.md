@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BqivvhXD3t4SjG8LOA0vdd1IHcs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71044149/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter Blue has finally started letting subscribers on Android customize the app's navigation bar. The feature, which was previously available only on iOS, lets you get rid of the Spaces icon that's smack-dab in the middle of your navigation bar (and of course, remove some of the other tabs if you want, too).
+<a href='https://www.theverge.com/2022/7/3/23193650/twitter-blue-android-users-pay-drop-spaces-button'> Source <a/>

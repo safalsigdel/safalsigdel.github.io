@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YxhbDKkWT7Cv4OLRGZvZCIdDoZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71037733/dbohn_210820_4722_0011.0.jpg' width='700px' /><br/>
-Google's Gboard keyboard app for Android is throwing a bone to people who use foldable phones (or at least, for now, to beta users of the app) with a split keyboard mode. Its aim is to make it less awkward and a little more ergonomic to type on the large, expanded screens of the Samsung Galaxy Z Fold 3 or a Microsoft Surface Duo 2.
-<a href='https://www.theverge.com/2022/7/1/23191128/gboard-split-keyboard-beta-app-foldable-phones'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gpv56S2enhzCX4_QK0zZL8jw5SA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71037747/akrales_181010_3013_0065.0.jpg' width='700px' /><br/>
-Uber trips are getting safer, with the company reporting far fewer sexual assaults in 2019 and 2020 as compared to previous years. But the number of traffic deaths during Uber rides is rising, reflecting the increasingly dangerous conditions on US roads.
-<a href='https://www.theverge.com/2022/7/1/23191123/uber-safety-report-sexual-assault-traffic-death-2019-2020'> Source <a/>
