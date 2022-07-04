@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gWIyjz0OVeali15UT0Qcubp9XSg=/0x0:8256x5504/1200x800/filters:focal(3456x2108:4776x3428)/cdn.vox-cdn.com/uploads/chorus_image/image/71045717/1160022139.0.jpg' width='700px' /><br/>
+Crosby, Stills & Nash are back on Spotify, five months after the supergroup abandoned the platform in protest of Joe Rogan's spread of COVID misinformation. The group will donate streaming profits to COVID-19 charities for “at least a month,” according to Billboard.
+<a href='https://www.theverge.com/2022/7/4/23194251/crosby-stills-nash-spotify-return-end-joe-rogan-covid-protest'> Source <a/>

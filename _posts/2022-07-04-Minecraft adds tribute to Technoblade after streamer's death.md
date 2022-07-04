@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3y5kc2grkxe3slLfzU2FgCqXbcI=/0x0:2487x1090/1200x800/filters:focal(1046x347:1442x743)/cdn.vox-cdn.com/uploads/chorus_image/image/71045835/Screen_Shot_2022_07_04_at_1.02.56_PM.0.png' width='700px' /><br/>
+Minecraft has been updated with a tribute to the popular streamer Technoblade, whose death from cancer was announced by his family last week. The splash image for Minecraft in the game's launcher now features a pig wearing a golden crown — a callout to Technoblade's Minecraft character, a royal pig-man wearing a bejeweled crown.
+<a href='https://www.theverge.com/2022/7/4/23194445/technoblade-minecraft-tribute-pig-crown'> Source <a/>
