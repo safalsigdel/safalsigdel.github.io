@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w3yUjxEa_HNav82gDFh3GnKzs9U=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71039222/acasatro_180430_1777_sprint_Tmobile_0002.0.jpg' width='700px' /><br/>
-The remnants of Sprint's network have been put out to pasture. As of yesterday, Sprint's LTE network has been retired by its new owner, T-Mobile. That's along with Sprint's 3G CDMA network, which was shut down earlier this year, and what remained of T-Mobile's own 3G network, which enters retirement today. T-Mobile spokesperson Justin Paulsen confirmed to The Verge that the network shutdowns are now underway.
-<a href='https://www.theverge.com/2022/7/1/23191183/sprint-network-shutdown-t-mobile-sunset-lte-3g-cdma'> Source <a/>
