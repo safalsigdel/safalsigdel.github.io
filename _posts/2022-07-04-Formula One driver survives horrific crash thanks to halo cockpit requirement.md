@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OVHkke2hkR4nn6Hb50njJYVfXCI=/0x0:3500x2335/1200x800/filters:focal(1470x888:2030x1448)/cdn.vox-cdn.com/uploads/chorus_image/image/71045278/1406611190.0.jpg' width='700px' /><br/>
+Formula One driver Zhou Guanyu likely wouldn't be alive today if it weren't for the partially closed titanium device that formed a protective layer around the cockpit of his race car. Zhou credited the protection device, known as a halo, for saving his life after a horrific crash during the first lap of Sunday's British Grand Prix, according to CNN.
+<a href='https://www.theverge.com/2022/7/4/23194215/formula-one-zhou-guanyu-halo-crash-survive'> Source <a/>
