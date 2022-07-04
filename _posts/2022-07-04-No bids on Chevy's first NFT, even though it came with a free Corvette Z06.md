@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2UuHvebQ1G1fbKVvs9cUu9v61Q4=/0x0:3750x2105/1200x800/filters:focal(1575x753:2175x1353)/cdn.vox-cdn.com/uploads/chorus_image/image/71045403/23ChevroletCorvetteZ06_OwnTheColor_MintedGreen.0.jpg' width='700px' /><br/>
+Chevy's first foray into non-fungible tokens was a non-fungible dud. The automaker netted zero bids for its first NFT during an auction last month, even though the digital drawing came with a free 2023 Corvette Z06, according to Corvette Blogger.
+<a href='https://www.theverge.com/2022/7/4/23194242/chevy-corvette-nft-auction-no-bids'> Source <a/>

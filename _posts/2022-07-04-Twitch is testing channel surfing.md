@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OwW5vh6_saRpaCwVpkXnaDlrDGs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71039200/acastro_190812_1777_twitch_0002.0.0.jpg' width='700px' /><br/>
-Twitch is testing a new way to discover new channels that reminds me of the good old days of channel surfing on my TV. The experiment, which it calls the Channel Switcher, lets you easily flip through previews of a bunch of different streams to help you find something to watch. And perhaps best of all, you won't see ads while using it.
-<a href='https://www.theverge.com/2022/7/1/23191626/twitch-channel-switcher-test-experiment'> Source <a/>
