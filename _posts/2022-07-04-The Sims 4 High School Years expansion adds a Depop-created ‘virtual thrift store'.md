@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/600QQsoiCbVowlGDsa4xcuFD8aA=/0x0:1456x819/1200x800/filters:focal(612x294:844x526)/cdn.vox-cdn.com/uploads/chorus_image/image/71038961/ep12_depop.png.adapt.1456w.0.png' width='700px' /><br/>
-Later this month, clothing from the fashion marketplace Depop will be available in an expansion pack for The Sims 4 called High School Years (via Polygon). Depop describes itself as a “circular” and “community-powered” online resale site and app that allows users to buy and sell vintage clothing items, mostly at discounted rates.
-<a href='https://www.theverge.com/2022/7/1/23190163/sims-4-high-school-years-depop-vintage-fashion'> Source <a/>
