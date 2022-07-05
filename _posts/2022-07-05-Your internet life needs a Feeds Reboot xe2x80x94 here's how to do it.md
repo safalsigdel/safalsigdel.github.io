@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qr31zFbm-LwWpWmYr7TivqLyejo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71041261/akrales_220314_5071_0299.0.jpg' width='700px' /><br/>
-For the last few years, I've chosen one weekend day a year to undertake what I've come to call a Feeds Reboot. I try to systematically go through every subscription, every follow, every algorithmically or chronologically generated thing I see on social platforms, streaming services, and news apps, and reset or at least review the way it works. I can't recommend this enough.
-<a href='https://www.theverge.com/23191292/control-social-algorithms-feeds-reboot-how-to'> Source <a/>

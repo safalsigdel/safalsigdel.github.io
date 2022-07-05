@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QN8axhIlH1M3L8PCfYfqEGw0dfY=/0x0:2040x1498/1200x675/filters:focal(917x841:1243x1167)/cdn.vox-cdn.com/uploads/chorus_image/image/71047251/verge_IMG20220622133530_2040pxl.0.jpg' width='700px' /><br/>
+There are times in life when you have a hole so big only a big-ass battery can fill it. And sometimes, but not often, you need a portable battery that can capture all the power created by six 200W solar panels at once, in a bid to transform the sun into 1200W of useable energy here on Earth.
+<a href='https://www.theverge.com/23195018/jackery-explorer-2000-solarsaga-portable-backup-price-specs'> Source <a/>
