@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3ljFom0YGyWsaJnfLWl11PpgvIM=/0x0:2200x1800/1200x800/filters:focal(924x724:1276x1076)/cdn.vox-cdn.com/uploads/chorus_image/image/71047329/ROG_Phone_6_Pro.0.jpg' width='700px' /><br/>
+Asus announced two new devices in its gaming-focused Republic of Gamers phone lineup, the ROG Phone 6 and the ROG Phone 6 Pro. They're gamer phones for gamers who like to game, and the upgraded displays look pretty impressive.
+<a href='https://www.theverge.com/2022/7/5/23195128/asus-rog-phone-6-pro-gaming-phone-launch-specs-features-price'> Source <a/>
