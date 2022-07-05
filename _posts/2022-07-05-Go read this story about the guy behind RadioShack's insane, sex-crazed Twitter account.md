@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fOTp7lfMK3UkqWCPBqU71FHbufY=/0x0:4848x3232/1200x800/filters:focal(2037x1229:2811x2003)/cdn.vox-cdn.com/uploads/chorus_image/image/71047867/650496660.0.jpg' width='700px' /><br/>
+There are no good, practical, rational reasons to care about RadioShack anymore. So what do you do when your once-venerable electronics store goes the way of Blockbuster, Sears, and the local mall? You get super horny on the internet, apparently.
+<a href='https://www.theverge.com/2022/7/5/23195313/radioshack-twitter-account-sex-meme-stock'> Source <a/>
