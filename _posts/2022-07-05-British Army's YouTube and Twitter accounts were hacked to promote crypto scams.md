@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/X6kD_BuWK_o388jAUsnQoKU-0fs=/0x0:1654x1114/1200x800/filters:focal(695x425:959x689)/cdn.vox-cdn.com/uploads/chorus_image/image/71044013/Screen_Shot_2022_07_03_at_2.52.52_PM.0.png' width='700px' /><br/>
-Both the British Army's Facebook and Twitter accounts were hacked and used to promote cryptocurrency scams, the UK Ministry of Defence confirmed on Sunday. It's unclear when exactly hackers took over the two accounts, but they both appear to be back to normal now.
+Both the British Army's YouTube and Twitter accounts were hacked and used to promote cryptocurrency scams, the UK Ministry of Defence confirmed on Sunday. It's unclear when exactly hackers took over the two accounts, but they both appear to be back to normal now.
 <a href='https://www.theverge.com/2022/7/3/23193668/british-army-youtube-twitter-accounts-hacked-promote-crypto-scam-fraud'> Source <a/>

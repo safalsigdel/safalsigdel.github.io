@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_nPhMHYEC8I1b5AhCypCv-d45FY=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/71046344/youtube.0.jpg' width='700px' /><br/>
+YouTube, Instagram, Discord, and Twitter moved quickly to pull social media pages that appeared to belong to Robert Crimo III, a person of interest in the Chicago suburb shooting that left six dead and dozens injured this afternoon. Under a pair of aliases, Crimo seems to have posted more than a dozen videos to YouTube and hosted a Discord channel named “SS,” which was open to the public through an invite link.
+<a href='https://www.theverge.com/2022/7/4/23194750/youtube-discord-instagram-chicago-shooting-ban-robert-crimo'> Source <a/>
