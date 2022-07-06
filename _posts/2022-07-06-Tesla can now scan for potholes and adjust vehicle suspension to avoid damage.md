@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rwsQ9Ak5mxzfpJEotgZr-t3ENzM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71045517/jbareham_180213_2301_0080.0.jpg' width='700px' /><br/>
-Tesla's latest software update includes a cool-sounding feature that could prevent a lot of underbody damage — and perhaps some driver damage too, Electrek reports. According to release notes, the update (2022.20) will enable Tesla vehicles to scan the road ahead of potholes and adjust the suspension to account for rough roads.
-<a href='https://www.theverge.com/2022/7/4/23194285/tesla-pothole-automatic-suspension-adjust-software'> Source <a/>

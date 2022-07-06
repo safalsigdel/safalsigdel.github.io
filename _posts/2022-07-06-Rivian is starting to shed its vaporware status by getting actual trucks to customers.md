@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vCkwSZenBSfuoQOM1DsRnW5djCg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71050954/20220622_Elliot_Ross_MediaDrives_R1S_On_Road_2823.0.jpg' width='700px' /><br/>
+Rivian's promise to upend the auto industry with beautifully designed emissions-free, adventure-themed trucks and SUVs was almost dependent on the company's ability to deliver actual vehicles to actual customers. And, in that respect, Rivian is getting slightly better.
+<a href='https://www.theverge.com/2022/7/6/23196603/rivian-q2-increase-ev-production-delivery'> Source <a/>
