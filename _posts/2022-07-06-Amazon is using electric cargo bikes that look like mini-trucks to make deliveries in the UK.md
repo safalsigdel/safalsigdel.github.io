@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GkBJYzgtWLhnbhSf2RrdeK4rk-k=/0x0:1320x743/1200x800/filters:focal(555x267:765x477)/cdn.vox-cdn.com/uploads/chorus_image/image/71045768/download__9_.0.jpg' width='700px' /><br/>
-Amazon has launched its first “micromobility hub” in the UK with the aim to swap “thousands” of polluting delivery trucks with electric cargo bikes — and, in some cases, walking. The project is intended to help Amazon achieve its climate goals to have 50 percent of its deliveries be carbon neutral by 2030.
-<a href='https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub'> Source <a/>
