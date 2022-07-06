@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0okGie1X4rmMbNwGWQ3PZjoHVbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71051141/acastro_220524_STK428_0002.0.jpg' width='700px' /><br/>
+Cryptocurrency broker Voyager Digital filed for bankruptcy on Tuesday in the wake of the collapse of the major crypto hedge fund Three Arrows Capital (3AC). Voyager's Chapter 11 filing comes just days after 3AC filed for bankruptcy — and about a week after 3AC defaulted on a loan provided by Voyager.
+<a href='https://www.theverge.com/2022/7/6/23196500/cryptocurrency-broker-voyager-digital-bankruptcy'> Source <a/>
