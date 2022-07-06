@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B8Ktm417QU7VCmS2sdO7W3tMq0c=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/71045422/VRG_ILLO_Decoder_Jeremy_Andrus.0.jpg' width='700px' /><br/>
-Happy Fourth of July to our listeners in the States. Decoder is only a year old, but we've decided a Decoder tradition is that every summer, we're going to do an episode about the outdoor grill industry, which is gigantic and growing.
-<a href='https://www.theverge.com/23189676/traeger-smart-grills-decoder-company-culture-private-equity-ceo-andrus'> Source <a/>
