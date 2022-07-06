@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pw1iNVbVTbyDbN7DsC3i0SEnyt4=/0x0:1377x970/1200x800/filters:focal(579x375:799x595)/cdn.vox-cdn.com/uploads/chorus_image/image/71048512/TikTok_shopping.0.jpg' width='700px' /><br/>
+TikTok may seem like an unstoppable global entertainment machine, but at least one part of  the company's offering isn't quite taking over: TikTok is scaling back its live commerce plans in Europe and the US, the Financial Times reported, after early launches simply haven't been successful.
+<a href='https://www.theverge.com/2022/7/5/23195587/tiktok-live-shopping-expansion-europe-us'> Source <a/>

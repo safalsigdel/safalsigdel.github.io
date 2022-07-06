@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WBPjAlfusW4IdczAoQN9K0J06wU=/0x0:1095x730/1200x800/filters:focal(461x278:635x452)/cdn.vox-cdn.com/uploads/chorus_image/image/71048125/g_avatar_thewayofwater_97_07_314550a6.0.jpg' width='700px' /><br/>
+It's okay if you've lost track, but here's a quick reminder that this year's Avatar: The Way of Water is just the first of a potential four sequels to the 2009 sci-fi epic. And now, in a new interview with Empire, director James Cameron has given an update on where the rest of the series is headed.
+<a href='https://www.theverge.com/2022/7/5/23195404/james-cameron-avatar-4-5-director'> Source <a/>

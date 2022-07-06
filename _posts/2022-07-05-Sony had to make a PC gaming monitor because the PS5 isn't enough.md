@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m4R7vNgOhfi1Z-f4lhZqlpLcbrg=/0x0:2040x1360/1200x800/filters:focal(800x433:1126x759)/cdn.vox-cdn.com/uploads/chorus_image/image/71043204/akrales_220621_5285_0037.0.jpg' width='700px' /><br/>
-It's no mystery why Sony made a PC gaming monitor that can also work well with the PS5. The PC gaming business is simply too big to ignore, and it's just money on the table that's otherwise up for grabs by other monitor makers.
-<a href='https://www.theverge.com/2022/7/3/23191477/sony-inzone-monitor-m9-pc-ps5-xcloud-nintendo-steam-deck-xbox'> Source <a/>

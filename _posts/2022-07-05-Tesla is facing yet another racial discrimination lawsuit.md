@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ceWKccfuoe4Y_vVqGyDgkFXzzbo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71043592/acastro_180524_1777_tesla_0001.0.jpg' width='700px' /><br/>
-15 former or current Black Tesla employees are suing the company for allegedly failing to prevent racial discrimination at its Fremont, California factory (via Bloomberg). The lawsuit, which was filed in a California court last week, details workers' claims that they were subject to racial slurs, derogatory comments, and racially-motivated harassment in the workplace.
-<a href='https://www.theverge.com/2022/7/3/23193415/tesla-facing-another-racial-discrimination-lawsuit-california'> Source <a/>
