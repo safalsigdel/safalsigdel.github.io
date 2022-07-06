@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WnRY6vMDITF-x0XbKCFZhr08bf8=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/71045590/xiaomi_mi_12s_ultra.0.jpg' width='700px' /><br/>
-Xiaomi is introducing a trio of new smartphones today, and one of them comes with a pretty huge new feature: a 1-inch camera sensor, which is relatively giant for a smartphone.
-<a href='https://www.theverge.com/2022/7/4/23194259/xiaomi-mi-12s-ultra-one-inch-camera-sensor'> Source <a/>
