@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iRuZF9uET4NeG9-cHuKbkXCvwYk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71055814/FW_DkxYWQAk_zQD.0.jpeg' width='700px' /><br/>
+CD Projekt Red has launched new single player title based on the Gwent card game from The Witcher series. Gwent: Rogue Mage is a roguelike deckbuilder, in which players enter a procedurally-generated map and fight their way through a series of monsters and bosses using a deck of card-based abilities and characters deployed on the battlefield.
+<a href='https://www.theverge.com/2022/7/7/23197995/gwent-rogue-mage-launches-ios-android-pc-steam-gog-roguelike-deckbuilder'> Source <a/>
