@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KgJ0YLtjhl5tgSLqIwKo_Bks1-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71052066/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
-Apple is taking steps to increase security for people like journalists, activists, and politicians with a new setting in iOS 16, iPadOS 16, and macOS Ventura called Lockdown Mode. This setting hardens an iPhone, iPad, or Mac's defenses in ways that interrupt methods we've seen used to compromise devices for highly targeted attacks.
-<a href='https://www.theverge.com/2022/7/6/23196978/apple-lockdown-mode-security-hacking-pegasus-macos-ios-ipados'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o_C_sRpX1cxR03koJRqCGpz76KU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71054884/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
-It's been a few years since Blizzard has hosted an in-person version of BlizzCon, its fan convention, but it sounds like that's going to change in 2023. The company, known for huge franchises like World of Warcraft and Diablo, is “committed to bringing back BlizzCon in 2023,” Blizzard boss Mike Ybarra told the Los Angeles Times.
-<a href='https://www.theverge.com/2022/7/6/23197449/blizzcon-2023-blizzard-return-mike-ybarra'> Source <a/>

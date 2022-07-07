@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TaULauurAtOqImpOaFm8Nt5QrAQ=/0x0:3840x2160/1200x800/filters:focal(1266x762:1880x1376)/cdn.vox-cdn.com/uploads/chorus_image/image/71055042/matrix_city_3.0.jpg' width='700px' /><br/>
-If you've wanted to experience the impressive visuals in The Matrix Awakens: An Unreal Engine 5 Experience and haven't downloaded it yet, you'll want to act fast — according to Unreal Engine's website, it'll be removed from the PlayStation and Xbox stores on Saturday, July 9th. After that date you'll still be able to play and download it, but only if you added it to your library before the cutoff.
-<a href='https://www.theverge.com/2022/7/6/23197237/matrix-awakens-unreal-engine-5-tech-demo-playstation-xbox-delist-psa'> Source <a/>

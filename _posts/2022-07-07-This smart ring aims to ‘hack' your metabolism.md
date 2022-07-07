@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AdYxNcE-7ZvUJGFe9rBxogLKJw8=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/71051815/ULTRA_HUMAN_2304.0.jpg' width='700px' /><br/>
-Fitness startup Ultrahuman is launching a smart ring that it claims will give users “ultrahuman power.” And by ultrahuman power, the company means a fitness tracker that gives insights into your metabolism by monitoring sleep and movement. The smart ring can also be used with the company's M1 glucose monitoring patch for more in-depth metabolic tracking.
-<a href='https://www.theverge.com/2022/7/6/23196700/ultrahuman-ring-wearable-health-tracker'> Source <a/>
