@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F49uExlCT7HkzGAeFKobmd3mwnQ=/0x0:5412x3608/1200x800/filters:focal(2274x1372:3138x2236)/cdn.vox-cdn.com/uploads/chorus_image/image/71055710/1241736194.0.jpg' width='700px' /><br/>
+The heads of the FBI and UK domestic security service shared a platform for the first time to issue dire warnings about the threats posed by the Chinese government's espionage operations, BBC News reports. FBI Director Christopher Wray and MI5 Director General Ken McCallum were speaking at a joint event at MI5's London headquarters in front of an audience that included business CEOs and senior figures from universities.
+<a href='https://www.theverge.com/2022/7/7/23198045/fbi-mi5-chinese-government-spying-warning'> Source <a/>
