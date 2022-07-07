@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IT9yzTbu5cNRbeiSUMabBaxrerY=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/71051510/shutterstock_219795124.0.0.jpg' width='700px' /><br/>
-The Marriott International hotel chain has confirmed that it has been hit by yet another data breach that exposed staff and customer information in another unfortunate security incident for a company that was affected by a number of major hacks in recent years.
-<a href='https://www.theverge.com/2022/7/6/23196805/marriott-hotels-maryland-data-breach-credit-cards'> Source <a/>

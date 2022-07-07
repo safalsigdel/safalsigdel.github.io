@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y_eDerWN9fV8ScvNYwiUeGE_O60=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71056363/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+Twitter has started testing a new CoTweets feature this week with users of the social network. The CoTweets feature allows two accounts to co-author a tweet and both be tagged in a single tweet. Twitter has confirmed to The Verge that this new feature is now live for some users for a limited amount of time after the company started experimenting with the idea earlier this year.
+<a href='https://www.theverge.com/2022/7/7/23198195/twitter-cotweets-feature-co-author-tweets-test'> Source <a/>

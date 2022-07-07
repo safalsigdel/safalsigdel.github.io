@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mh2nb5q1W56NGag6-EBXeuhF7M0=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/71055579/ezgif_1_b643bcaaab.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/6i-81PD9HfTuwrzrkeKRN4TZic8=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/71055579/ezgif_1_b643bcaaab.5.jpg' width='700px' /><br/>
 3D renders of Samsung's upcoming smartwatches, the Galaxy Watch 5 and Galaxy Watch 5 Pro, have appeared online thanks to leaker Evan Blass and 91Mobiles, a month ahead of their expected launch in August. The renders show the two watches from every angle, and line up with other leaked details about the two devices.
 <a href='https://www.theverge.com/2022/7/7/23197992/samsung-galaxy-watch-5-leaked-renders-evan-blass'> Source <a/>

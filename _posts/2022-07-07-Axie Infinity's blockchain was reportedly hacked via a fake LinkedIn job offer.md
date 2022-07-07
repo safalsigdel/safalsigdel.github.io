@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7RL-uL3QkJhGEH6knJsi7Af45_c=/0x0:984x692/1200x800/filters:focal(414x268:570x424)/cdn.vox-cdn.com/uploads/chorus_image/image/71051571/axie_infinity_oorigin_pic.0.jpg' width='700px' /><br/>
-The blockchain of high-profile crypto game Axie Infinity was reportedly hacked with an elaborate phishing scheme involving fake LinkedIn job offers. The Block reported the news today, citing two sources with knowledge of the incident. It revealed a new dimension to one of the biggest decentralized finance, or DeFi, hacks to date.
-<a href='https://www.theverge.com/2022/7/6/23196713/axie-infinity-ronin-blockchain-hack-phishing-linkedin-job-offer'> Source <a/>
