@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M-NjgcZkWiOPIVplRqN4elMVdz4=/0x0:2660x1724/1200x800/filters:focal(1118x650:1542x1074)/cdn.vox-cdn.com/uploads/chorus_image/image/71050673/Screen_Shot_2022_07_06_at_8.36.19_AM.0.png' width='700px' /><br/>
+I was forced to manually shut down Chrome and reboot my computer — losing dozens of tabs.
+<a href='https://www.theverge.com/23196510/chrome-tabs-restore-google-how-to'> Source <a/>

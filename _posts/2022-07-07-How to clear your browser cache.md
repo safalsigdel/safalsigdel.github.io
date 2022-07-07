@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9IJTg1xXgR0K7fP7LlZ9Eo044Jc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71045361/akrales_220617_5293_0024.0.jpg' width='700px' /><br/>
+One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless you've been instructed sometime in the past to clear your cache, you may be unaware of this otherwise invisible feature.
+<a href='https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rn28P4WsVYW1VllhafetktizLu4=/0x0:1001x586/1200x800/filters:focal(371x194:545x368)/cdn.vox-cdn.com/uploads/chorus_image/image/71051856/d09b075152d287d48479add3ce8c5ed8.0.jpeg' width='700px' /><br/>
+Horizon Forbidden West now offers variable refresh rate (VRR) and high refresh rate support as well as a new 40Hz “Balanced” graphics mode on PS5, developer Guerrilla Games announced Wednesday. They're available as part of patch 1.17, which you can download right now.
+<a href='https://www.theverge.com/2022/7/6/23196778/horizon-forbidden-west-patch-1-17-vrr-high-refresh-rate-balanced-graphics'> Source <a/>

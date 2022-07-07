@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d7RJYyB4Tq9J21q2eoqO5W8ofA0=/0x0:2040x1533/1200x800/filters:focal(857x604:1183x930)/cdn.vox-cdn.com/uploads/chorus_image/image/71051373/abassett_220414_5256_0001.0.jpg' width='700px' /><br/>
+Toyota sold its 200,000th plug-in electric vehicle in the US, triggering a slow phaseout of the federal EV tax credit over the next 15 months, according to Bloomberg. The automaker is the third manufacturer to pass this mark, following Tesla and General Motors.
+<a href='https://www.theverge.com/2022/7/6/23196712/toyota-ev-tax-credit-phaseout-cap'> Source <a/>
