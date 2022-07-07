@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xXUhQZyStv2HS2wkx-ZFN_8AblU=/0x0:2040x1415/1200x800/filters:focal(989x749:1315x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/71050631/soundbar.0.jpg' width='700px' /><br/>
-Prime Day 2022 is quickly approaching. The two-day sale event that's exclusive to Prime members will kick off Tuesday, July 12th, (who said Tuesdays always have to be boring?) and last through Wednesday, July 13th. We'll be covering every great deal that's available so you won't have to worry about missing out on stellar discounts. But all of that's for next week. Here's what you can save big on today.
-<a href='https://www.theverge.com/good-deals/2022/7/6/23196519/vizio-elevate-soundbar-atmos-chipofy-usb-c-cable-amazon-prime-day-2022-deal-sale'> Source <a/>

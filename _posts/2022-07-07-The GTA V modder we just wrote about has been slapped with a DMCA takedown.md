@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b8krUzb-KBsTmcjMrwop0CQ7sOU=/0x0:1518x759/1200x800/filters:focal(638x259:880x501)/cdn.vox-cdn.com/uploads/chorus_image/image/71053009/_post_teaser.0.png' width='700px' /><br/>
+Last Friday, we introduced you to Luke Ross: a modder who now makes $20,000 a month on Patreon bringing big games like Grand Theft Auto V and Red Dead Redemption 2 to virtual reality. But the publisher of those games, Take-Two Interactive, was apparently not amused — and Patreon is now threatening to suspend his account unless he plays ball with a DMCA takedown.
+<a href='https://www.theverge.com/2022/7/6/23197169/luke-ross-vr-dmca-takedown-take-two-rockstar-patreon'> Source <a/>

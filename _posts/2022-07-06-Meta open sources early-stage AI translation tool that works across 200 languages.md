@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vaMG1PjgUhV2GQ42zMWqm954toQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71050456/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-Social media conglomerate Meta has created a single AI model capable of translating across 200 different languages, including many not supported by current commercial tools. The company is open-sourcing the project in the hopes that others will build on its work.
-<a href='https://www.theverge.com/2022/7/6/23194241/meta-facebook-ai-universal-translation-project-no-language-left-behind-open-source-model'> Source <a/>

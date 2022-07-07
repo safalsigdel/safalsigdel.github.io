@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Iz4ewPwseemgwYZ601mdpwKEQUo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71047677/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
-Microsoft is planning to remove Xbox 360 games from its monthly Games with Gold offer in October. The software maker has started emailing Xbox Live Gold subscribers to warn them of the change, noting that the company has “reached the limit of our ability to bring Xbox 360 games to the catalogue.”
-<a href='https://www.theverge.com/2022/7/5/23195244/xbox-games-with-gold-xbox-360-games-end'> Source <a/>

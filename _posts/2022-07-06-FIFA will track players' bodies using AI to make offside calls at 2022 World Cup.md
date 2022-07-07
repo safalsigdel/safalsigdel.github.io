@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TK2uwSGBB30h1q1m314VSQCtO_E=/0x0:1912x1286/1200x800/filters:focal(804x491:1108x795)/cdn.vox-cdn.com/uploads/chorus_image/image/71046826/Screenshot_2022_07_05_at_09.43.02.0.png' width='700px' /><br/>
-FIFA, the international governing body of association football,* has announced it will use AI-powered cameras to help referees make offside calls at the 2022 World Cup.
-<a href='https://www.theverge.com/2022/7/5/23195009/fifa-ai-automated-offside-ball-body-tracking-2022-qatar-world-cup'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K2iFbEbJvOCPlIl19mVkv4MVl-E=/0x0:1181x878/1200x0/filters:focal(0x0:1181x878):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23669450/xbox_elite_controller_firmware_revert.jpg' width='700px' /><br/>
-Update July 5th, 2:30PM ET: On Tuesday afternoon Respawn and EA released a new patch saying it should address the issue, and after playing a bit I can confirm it has fixed input lag with all the controllers I used on Xbox Series X.
-<a href='https://www.theverge.com/2022/6/28/23171008/xbox-series-x-s-input-lag-apex-legends-respawn-ea'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4qtY6XlX_bBXHH_8LgY1NtFbHqk=/0x0:2398x1600/1200x800/filters:focal(1008x609:1390x991)/cdn.vox-cdn.com/uploads/chorus_image/image/71046884/outlookmobile.0.jpg' width='700px' /><br/>
-Microsoft is working on a smaller and faster Outlook Lite app for Android. The software giant has detailed the app in its Microsoft 365 roadmap, where it describes Outlook Lite as “an Android app that brings the main benefits of Outlook in a smaller app size with fast performance for low-end devices on any network.”
-<a href='https://www.theverge.com/2022/7/5/23195031/microsoft-outlook-lite-android-app-july-release'> Source <a/>
