@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BM3b9TZikMD8qsAMWKq6AopZWWk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71052228/walmart_inhome_delivery.0.jpg' width='700px' /><br/>
-Walmart is making its InHome delivery service available to Walmart Plus subscribers for an extra $7 per month or $40 per year. The service, which brings groceries and other goods from your local Walmart to the inside of your home, was previously available as a separate subscription costing $19.95 per month or $148 per year.
-<a href='https://www.theverge.com/2022/7/6/23196979/walmart-inhome-direct-fridge-deliveries-plus-perk'> Source <a/>

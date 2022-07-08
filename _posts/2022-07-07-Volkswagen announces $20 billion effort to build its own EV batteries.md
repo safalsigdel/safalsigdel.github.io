@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/px5JReCILPN8F_JUX4W7jFhuXKU=/0x0:4096x2731/1200x800/filters:focal(1721x1039:2375x1693)/cdn.vox-cdn.com/uploads/chorus_image/image/71056418/DB2022FA00087_large.0.jpg' width='700px' /><br/>
-Volkswagen said it would invest $20.38 billion to build electric vehicle batteries, a move the company says will create 20,000 jobs and generate $20.38 billion in annual sales. The automaker will create a new company called Power Co to oversee the vast effort as VW races to secure enough capacity, materials, and supplies to power its EV ambitions.
-<a href='https://www.theverge.com/2022/7/7/23198203/volkswagen-ev-battery-factory-power-co-investment'> Source <a/>

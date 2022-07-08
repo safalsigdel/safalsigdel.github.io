@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6yuiikNUJhy218XqCmR7Fucv4QI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71056360/acastro_190531_1777_e3_lede.0.jpg' width='700px' /><br/>
-Mere weeks after the ESA announced that, no, seriously this time, E3 will make an in-person return in 2023, it's ready to share some more details. In a press release, the ESA announced that it's partnering with ReedPop, the production company known for running the Penny Arcade Expo and New York Comic Con, to facilitate the industry event.
-<a href='https://www.theverge.com/2022/7/7/23197645/e3-2023-pax-organizers-in-person-la-convention-center'> Source <a/>

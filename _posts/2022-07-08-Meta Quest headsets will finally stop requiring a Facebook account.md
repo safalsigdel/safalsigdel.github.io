@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o-kVtzTwLqug4adxBBD8qrmZ7l4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71057970/acastro_211101_1777_meta_0003.0.jpg' width='700px' /><br/>
+Meta is introducing a new account system for its virtual reality headsets, changing a 2020 requirement that most users log in with Facebook. The new “Meta accounts” don't require users to sign up for Facebook, and they come with a slew of other updates to Meta's VR social interface.
+<a href='https://www.theverge.com/2022/7/7/23198208/meta-quest-vr-headset-facebook-login-requirement'> Source <a/>

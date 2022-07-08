@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WxTaf7PSL6WmsqJZk8ncCmcYgmk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71052149/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-Federal Trade Commission Chair Lina Khan is facing new pressure from top Senate Intelligence leaders to investigate TikTok after new reports that the company shares US data with China-based workers.
-<a href='https://www.theverge.com/2022/7/6/23197007/tiktok-china-data-security-ftc-probe-investigation-warner-rubio-lina-khan'> Source <a/>

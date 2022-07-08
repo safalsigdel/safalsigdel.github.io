@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pb6U28QCMX8IZuSXtg5nDVKpmSw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71062301/snapchat-stock-0959.0.0.jpg' width='700px' /><br/>
+Secret Service Director James Murray is retiring from his post for a new position as Snap's chief security officer at the end of the month, Snap confirmed to The Verge on Thursday.
+<a href='https://www.theverge.com/2022/7/7/23199144/snap-hires-head-of-us-secret-service'> Source <a/>

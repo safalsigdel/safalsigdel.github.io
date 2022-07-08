@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fHlQRewLLNwrR1nAaTRRNBwbBxk=/0x0:1980x1080/1200x800/filters:focal(832x382:1148x698)/cdn.vox-cdn.com/uploads/chorus_image/image/71057947/Microsoft_virtual_datacenter_1.0.jpeg' width='700px' /><br/>
+Microsoft says its data centers could soon provide backup power to electric grids transitioning to renewable energy. The data centers already have lithium-ion batteries on-site so that they can keep running during a power outage. Now, that backup system could also shore up grids in need of more batteries to store energy produced by growing numbers of solar panels or wind farms.
+<a href='https://www.theverge.com/2022/7/7/23197103/microsoft-data-center-dublin-batteries-electricity-grid-renewable-energy'> Source <a/>

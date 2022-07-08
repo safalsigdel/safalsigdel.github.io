@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S-k0YwiB-My_8Waqf3UzEi6tJmk=/0x0:2880x1628/1200x800/filters:focal(1210x584:1670x1044)/cdn.vox-cdn.com/uploads/chorus_image/image/71052272/Screen_Shot_2022_07_06_at_10.37.22.0.png' width='700px' /><br/>
-Ubisoft has officially announced The Division Resurgence, a free-to-play mobile game that it hinted was in the works last year. The company says it'll be an open-world, third-person RPG shooter like the mainline games, with single-player and co-op modes that let players face off against the environment in story missions and other “PvE activities.”
-<a href='https://www.theverge.com/2022/7/6/23197015/the-division-resurgence-mobile-game-trailer-ubisoft-free-to-play'> Source <a/>

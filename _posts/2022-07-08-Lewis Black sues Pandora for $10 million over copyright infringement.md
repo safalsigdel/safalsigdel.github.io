@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mqBH-cwKfWdKkP4nOpDHUoICdGo=/0x0:3000x2000/1200x800/filters:focal(1161x620:1641x1100)/cdn.vox-cdn.com/uploads/chorus_image/image/71059331/1237688129.0.jpg' width='700px' /><br/>
+Comedian Lewis Black filed suit against SiriusXM-owned audio streamer Pandora on Thursday, arguing that the company ran recordings of his performances without obtaining the copyright to his written work.
+<a href='https://www.theverge.com/2022/7/7/23197394/lewis-black-sues-pandora-10-million-copyright-spotify'> Source <a/>
