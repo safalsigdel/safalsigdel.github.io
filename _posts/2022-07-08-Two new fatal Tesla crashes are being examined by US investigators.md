@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JJhwiX4Wegn0kMhcEUOFdjmH3Uw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71061062/jbareham_180213_2301_0134.0.jpg' width='700px' /><br/>
-Two fatal Tesla crashes are being examined by investigators at the National Highway Traffic Safety Administration. Reuters reported that NHTSA opened a special investigation into a recent fatal crash in California, in which a Tesla driver killed a pedestrian. And an agency spokesperson confirmed to The Verge that a crash that took place on July 6th in Florida is also under examination.
-<a href='https://www.theverge.com/2022/7/7/23198997/tesla-fatal-crashes-california-florida-autopilot-nhtsa'> Source <a/>

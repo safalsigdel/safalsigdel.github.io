@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WCv_ASCUZ74B3yGjKBFBIlU2_6k=/0x0:4477x2985/1200x800/filters:focal(1881x1135:2597x1851)/cdn.vox-cdn.com/uploads/chorus_image/image/71068075/1236113081.0.jpg' width='700px' /><br/>
+Canadian telecom Rogers is suffering a major outage affecting landline phones, cellular connections, and internet connectivity throughout Canada that started early this morning. Downdetector listed thousands of reports for the issues that flooded in as people started to get up around 5AM ET and couldn't get online.
+<a href='https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada'> Source <a/>

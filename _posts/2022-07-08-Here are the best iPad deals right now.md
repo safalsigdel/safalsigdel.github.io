@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_MwqLouYRemJq6gLtLJMPOxhtn8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66899977/vpavic_4244_20201020_0013.6.jpg' width='700px' /><br/>
-While some of the best iPad deals typically occur around Black Friday and Cyber Monday, you can still find plenty of great discounts at all times of the year if you know where to look. Whether you're after the high-end iPad Pro or the most affordable entry-level iPad, there's likely a sale going on somewhere you may be interested in. And, with Amazon Prime Day 2022 around the corner, there are sure to be some worthwhile iPad deals coming soon.
-<a href='https://www.theverge.com/21280354/best-ipad-deals-apple'> Source <a/>

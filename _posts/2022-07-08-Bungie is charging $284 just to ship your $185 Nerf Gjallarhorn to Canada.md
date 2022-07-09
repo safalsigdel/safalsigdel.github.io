@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y4JLV1LgZu7CnzfIIHH6RSxF-Yw=/0x0:2649x2649/1200x800/filters:focal(1330x373:1752x795)/cdn.vox-cdn.com/uploads/chorus_image/image/71060792/Gjallarhorn_LS_Profile.0.jpg' width='700px' /><br/>
-Did you save up a couple hundred bucks for the foam-firing Nerf version of Destiny's legendary Gjallarhorn rocket launcher that went on preorder today? Hope you don't live in Canada — because buyers are reporting they're being asked for more than twice the price just to get it shipped to their door. The company says it's working on a solution.
-<a href='https://www.theverge.com/2022/7/7/23198881/bungie-nerf-gjallarhorn-destiny-canada-shipping-price'> Source <a/>

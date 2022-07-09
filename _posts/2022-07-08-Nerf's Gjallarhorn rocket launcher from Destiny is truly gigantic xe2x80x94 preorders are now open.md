@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9WUPDKZ9UMOwPKJdMfHbgz8F2W8=/0x0:3827x3827/1200x800/filters:focal(1240x1273:1852x1885)/cdn.vox-cdn.com/uploads/chorus_image/image/71030500/F6133_LS_NER_LMTD_DESTINY_GJALLARHORN_169.0.jpg' width='700px' /><br/>
-If you were worried that the real-life foam firing version of the infamous Gjallarhorn rocket launcher from Destiny would be disappointingly kid-sized, you can put those fears to rest: Bungie has just revealed what an actual blaster looks like — and when fans can get it.
-<a href='https://www.theverge.com/2022/6/29/23188569/nerf-destiny-gjallarhorn-pre-order-date-price'> Source <a/>

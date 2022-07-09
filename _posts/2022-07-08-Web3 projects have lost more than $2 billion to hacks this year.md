@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oG3MFfwV2U7KIdp35-iJKOlXCv8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71062857/acastro_210106_4957_0001.0.jpg' width='700px' /><br/>
-In the first six months of 2022, Web3 projects have lost more than $2 billion to hacks and exploits — more than all of 2021 combined.
-<a href='https://www.theverge.com/2022/7/7/23199148/web3-lost-2-billion-hacks-flash-loan-certik-cryptocurrency'> Source <a/>

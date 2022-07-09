@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FFt82NfWp6rJdE384qDoUDO23eQ=/0x0:1852x1118/1200x800/filters:focal(778x411:1074x707)/cdn.vox-cdn.com/uploads/chorus_image/image/71068941/Screen_Shot_2022_07_08_at_10.15.52_AM.0.png' width='700px' /><br/>
+If you need a $2 pair of jeans, a $1 pop-up pool for your backyard, and waterproof sheets for $0.50, Wish is the online store to find all that and more. Or at least it was.
+<a href='https://www.theverge.com/2022/7/8/23200030/wish-ecommerce-shopping-marketplace-go-read-this'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FFt82NfWp6rJdE384qDoUDO23eQ=/0x0:1852x1118/1200x800/filters:focal(778x411:1074x707)/cdn.vox-cdn.com/uploads/chorus_image/image/71068941/Screen_Shot_2022_07_08_at_10.15.52_AM.0.png' width='700px' /><br/>
+If you need a $2 pair of jeans, a $1 pop-up pool for your backyard, and waterproof sheets for $0.50, Wish is the online store to find all that and more. Or at least it was.
+<a href='https://www.theverge.com/2022/7/8/23200030/wish-ecommerce-shopping-marketplace-go-read-this'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JdvA1ZWSJjCDJK1wm1l5s2kckpo=/0x0:851x479/1200x800/filters:focal(358x172:494x308)/cdn.vox-cdn.com/uploads/chorus_image/image/71072967/elon-cyborg.0.0.1464844958.0.png' width='700px' /><br/>
+It's on. Elon Musk has officially filed to kill his own Twitter acquisition, and Twitter is calling his bluff. They'll see Musk in court. And while it's only going to get messier from here, one important verdict has already been rendered by Elon Musk himself: he doesn't have what it takes to run Twitter. And that's a damning blow to his own central mythology.
+<a href='https://www.theverge.com/2022/7/8/23201082/elon-musk-twitter-deal-is-over'> Source <a/>

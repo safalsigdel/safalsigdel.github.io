@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TwuT_ySBgAHc2QKDQsTte3GgtbY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71064586/be9e21729f7e4d0b1f40c1afb5948f89eae2ce7e.0.jpeg' width='700px' /><br/>
-Red Dead Online will no longer receive “major themed content updates” in part because Rockstar Games is pulling resources into the next Grand Theft Auto title, the studio said Thursday. Fans have wondered if Red Dead Online has been abandoned, and while the game isn't being shut down, Rockstar won't be making as much content for it moving forward.
-<a href='https://www.theverge.com/2022/7/7/23198569/red-dead-online-updates-rockstar-gta'> Source <a/>
