@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9mM30xWDwR0AXSZNjpw9bCwuTXA=/0x0:3450x2278/1200x800/filters:focal(1449x863:2001x1415)/cdn.vox-cdn.com/uploads/chorus_image/image/71069533/1383095405.0.jpg' width='700px' /><br/>
+The NFL is working on its own direct-to-consumer streaming service, NFL commissioner Roger Goodell told CNBC in an interview. Goodell didn't specify exactly what content will be available on the service, which he called “NFL Plus,” but the league is aiming to launch it for the upcoming NFL season.
+<a href='https://www.theverge.com/2022/7/8/23200219/nfl-plus-streaming-service-roger-goodell'> Source <a/>

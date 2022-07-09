@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/St-oN1DA5HO2lvmLzOl29vbJ3eg=/0x0:1632x930/1200x800/filters:focal(686x335:946x595)/cdn.vox-cdn.com/uploads/chorus_image/image/71070335/Linux.0.png' width='700px' /><br/>
+Anyone who's tried the Xbox Cloud Gaming beta on Linux (which is likely a small crowd, I know) may have noticed that the image quality is a little rough, even by cloud gaming standards. Now, though, community members have found a quick workaround to get better image quality, and we have an official explanation for why the hack works and why the problem exists in the first place.
+<a href='https://www.theverge.com/2022/7/8/23200363/xbox-cloud-gaming-linux-streaming-quality-user-agent-workaround'> Source <a/>
