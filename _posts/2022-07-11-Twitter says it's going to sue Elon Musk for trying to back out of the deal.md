@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/37GTU0YVihFWH59Ri-BeAj83RuY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71071132/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
-Twitter's message to Elon Musk after his attempt to bail on his $44 billion agreement to buy the company: we'll see you in court.
-<a href='https://www.theverge.com/2022/7/8/23201004/twitter-to-sue-elon-musk-for-backing-out-of-merger'> Source <a/>
