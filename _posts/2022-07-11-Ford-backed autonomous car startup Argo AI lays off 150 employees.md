@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n9T6lxN8f3KVaRCAXpf-7PeZ_tA=/0x0:3800x2630/1200x800/filters:focal(1586x1363:2194x1971)/cdn.vox-cdn.com/uploads/chorus_image/image/71090955/1305077087.0.jpg' width='700px' /><br/>
-Argo AI, an autonomous vehicle startup backed by both Ford and Volkswagen, has laid off about 150 employees, as reported earlier by Bloomberg and The Wall Street Journal. The move is supposed to offset a period of rapid growth, in which the company hired more employees than needed.
-<a href='https://www.theverge.com/2022/7/9/23201966/ford-backed-autonomous-car-startup-argo-ai-lays-off-150-employees-driverless'> Source <a/>
