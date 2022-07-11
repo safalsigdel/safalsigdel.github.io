@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mvEVhC8gNiLIox5ZpP5AyIiFROc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71092628/dseifert_20210323_4485_0001.0.jpg' width='700px' /><br/>
+Spotify has quietly rolled out support for real-time lyrics on the Google Nest Hub, according to a report from 9to5Google. The feature, which has already been made available on iOS, Android, game consoles, desktop computers, and select smart TVs, lets you listen to music on Spotify while seeing a stream of lyrics that progresses with the song.
+<a href='https://www.theverge.com/2022/7/10/23202741/spotify-real-time-lyrics-google-nest-hub-max'> Source <a/>

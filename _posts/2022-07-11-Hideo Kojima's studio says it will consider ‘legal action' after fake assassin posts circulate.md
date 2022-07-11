@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_tPgmVsbFJQh3NwPLsWY5YEZpOU=/0x0:2682x1788/1200x800/filters:focal(1127x680:1555x1108)/cdn.vox-cdn.com/uploads/chorus_image/image/71093293/1167456005.0.jpg' width='700px' /><br/>
+Hideo Kojima's game studio has issued a response after fake posts circulated across social media and news outlets that misidentified Kojima as the assassin of former Japanese Prime Minister Shinzo Abe. In a tweet, Kojima Productions says it “strongly condemns the spread of fake news and rumors that convey false information” and “will consider taking legal action in some cases.”
+<a href='https://www.theverge.com/2022/7/10/23202998/hideo-kojima-studio-legal-action-fake-assassin-posts-circulate-shinzo-abe-japan-prime-minister'> Source <a/>
