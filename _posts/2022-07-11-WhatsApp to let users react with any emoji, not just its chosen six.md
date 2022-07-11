@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RWht8HGg9o9rNRFHczQMEncH6Jk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/71094742/WhatsApp_Image_2022_07_11_at_1.25.44_PM.0.jpg' width='700px' /><br/>
+WhatsApp users will soon have the ability to react to messages with any emoji, Meta CEO Mark Zuckerberg has announced in a Facebook post. “We're rolling out the ability to use any emoji as a reaction on WhatsApp,” the CEO wrote before listing a couple of his favorite emoji. It comes just a few short months after WhatsApp added the ability to react with a limited number of just six emoji.
+<a href='https://www.theverge.com/2022/7/11/23203582/whatsapp-all-emoji-reactions-feature'> Source <a/>
