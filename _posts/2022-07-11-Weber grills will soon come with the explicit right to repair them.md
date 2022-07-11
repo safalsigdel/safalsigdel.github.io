@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fp7MdrR6frqybZ7EfrQa3W2ccxI=/309x132:2452x1656/1200x800/filters:focal(1137x733:1569x1165)/cdn.vox-cdn.com/uploads/chorus_image/image/71070709/1__1_.0.jpeg' width='700px' /><br/>
-My Weber grill came with a warning: “The use and/or installation of parts on your WEBER product that are not genuine WEBER parts will void this Warranty.”
-<a href='https://www.theverge.com/2022/7/8/23200649/right-to-repair-ftc-weber-third-party-parts-warranty-act'> Source <a/>
