@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lb9gI1P2WYwQKJAFdXFcVtV_KRY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70735425/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
-First, we learned that Elon Musk had purchased enough shares of Twitter to become its largest individual shareholder. The company announced Musk would take a seat on its board of directors, but within the space of a week, that plan unraveled, and Musk informed the board he would not accept the position.
-<a href='https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates'> Source <a/>

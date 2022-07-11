@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Omyz7zzOGJcc7rofthjvbtILok=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70693926/VRG_ILLO_5103_RobotVacuum_Guide.0.jpg' width='700px' /><br/>
-The best robot vacuums are impressive devices that will clean your floors well without complaining (much). They've largely shaken off the category's early reputation for running out of juice halfway through a job, missing large swaths of your floor, or losing a battle with a chair leg. Today's robo vacs know when to go back to their base to recharge, and if they do get stuck, can call for help.
-<a href='https://www.theverge.com/22997597/best-robot-vacuum-cleaner'> Source <a/>

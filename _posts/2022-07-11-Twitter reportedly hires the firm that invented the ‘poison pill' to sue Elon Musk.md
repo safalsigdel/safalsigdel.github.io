@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dd-LfXlMf-hqiPW3qsvEHZ6b2rE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71092982/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter lawyered up. The company reportedly hired Wachtell, Lipton, Rosen & Katz, a firm notable enough to have its own Wikipedia page, and a founding partner, Martin Lipton, credited with inventing the shareholder rights plan or “poison pill” defense that Twitter initially used to put the brakes on Musk's attempted buyout.
-<a href='https://www.theverge.com/2022/7/10/23202931/elon-musk-lawsuit-twitter-merger-delaware'> Source <a/>
