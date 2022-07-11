@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ucf8WOkgg-LKCiuRCDGkoLfvPxg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71092401/ahawkins_220504_5202_0010.0.jpg' width='700px' /><br/>
-Ford is recalling certain models of the 2020 to 2022 Escape, Maverick, and Corsair due to the risk of under-hood fires (via Reuters and CNBC). The recall affects over 100,000 vehicles in the US, all of which come with a 2.5-liter hybrid / plug-in hybrid (HEV / PHEV) engine.
-<a href='https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid'> Source <a/>
