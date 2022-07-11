@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R06o0y-YQsLVA39GzhMzpP9Yys8=/0x0:5358x3572/1200x800/filters:focal(2251x1358:3107x2214)/cdn.vox-cdn.com/uploads/chorus_image/image/71070394/1239728779.0.jpg' width='700px' /><br/>
-July 9th marks the ninth birthday of the BTS Army (specifically, the official announcement of its name). As Twitter celebrates the anniversary, Google has released a new street view experiment through its Arts & Culture platform in collaboration with the band. The BTS x Street Galleries exhibition brings viewers on a virtual tour of the group's favorite artworks.
-<a href='https://www.theverge.com/2022/7/8/23200526/bts-army-anniversary-street-view-tour-google'> Source <a/>
