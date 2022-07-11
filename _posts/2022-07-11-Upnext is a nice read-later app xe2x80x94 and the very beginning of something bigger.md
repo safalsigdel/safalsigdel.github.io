@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/saf6bp28ImCd_FsW563Lt9Xwmhk=/0x0:3056x2000/1200x800/filters:focal(1284x756:1772x1244)/cdn.vox-cdn.com/uploads/chorus_image/image/71094580/Upnext_overview.0.jpg' width='700px' /><br/>
-Upnext is a read-later app. No, it's a bookmarking app. No, it's a content-curation-social-network thing. Even Jeroen Seghers, one of the service's co-founders, struggles to explain it. “Longer term,” he says, “I like to think about what we're building as a knowledge browser.” But even he admits that doesn't mean much to anyone right now. Eventually, Upnext settled on “A reader with superpowers,” which is close enough.
-<a href='https://www.theverge.com/2022/7/11/23200855/upnext-read-later-app'> Source <a/>
