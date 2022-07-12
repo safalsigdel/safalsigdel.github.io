@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/UvfMiGfXp5eRwVWtdbRW6XtuR4s=/0x0:2603x1735/1200x800/filters:focal(1094x660:1510x1076)/cdn.vox-cdn.com/uploads/chorus_image/image/71097247/gamestop_sean_hollister_stock_photo.0.jpg' width='700px' /><br/>
 GameStop is seemingly ignoring that whole ”crypto winter” thing and moving ahead with the launch of its own NFT marketplace, which is now open in what the company calls a “public beta.”
-<a href='https://www.theverge.com/2022/7/11/23204454/gamestop-nft-marketplace-crypto'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/UvfMiGfXp5eRwVWtdbRW6XtuR4s=/0x0:2603x1735/1200x800/filters:focal(1094x660:1510x1076)/cdn.vox-cdn.com/uploads/chorus_image/image/71097247/gamestop_sean_hollister_stock_photo.0.jpg' width='700px' /><br/>
-GameStop is seemingly ignoring that whole ”crypto winter” thing and moving ahead with the launch of its own NFT marketplace, which is now open in what the company calls a “public beta.”
 <a href='https://www.theverge.com/2022/7/11/23204454/gamestop-nft-marketplace-crypto'> Source <a/>
