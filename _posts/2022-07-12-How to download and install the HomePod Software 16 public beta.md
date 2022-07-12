@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Dr1acpV5CJ11-8sFSrEZrRThUGs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71096291/jtuohy_211102_4860_0030.0.jpg' width='700px' /><br/>
+The new HomePod Software 16 is available in Apple's public beta software program for the first time, and you can download it today. However, at its June WWDC event, Apple didn't reveal any new features coming to the HomePods with the software update, so it's probably all about under-the-hood stuff.
+<a href='https://www.theverge.com/23204047/homepod-software-16-public-beta-how-to-download-homepod-mini'> Source <a/>

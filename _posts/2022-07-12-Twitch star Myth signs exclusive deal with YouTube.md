@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5xJWRVJGf5eE6Uf_2UO8ooPJXxQ=/0x0:1080x1080/1200x800/filters:focal(454x454:626x626)/cdn.vox-cdn.com/uploads/chorus_image/image/71096494/image__1___1_.0.png' width='700px' /><br/>
+In the battle for gamers' eyeballs, YouTube has struck another blow. Today, the video and streaming giant announced that Ali “Myth” Kabbani has signed an exclusive deal with YouTube Gaming.
+<a href='https://www.theverge.com/2022/7/11/23204178/myth-youtube-twitch-creator-exodus-drlupo-loaded'> Source <a/>
