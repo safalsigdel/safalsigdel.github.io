@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1rTM6D1sXymNMjErfOqdQJ74rOY=/0x0:6000x4085/1200x800/filters:focal(2520x1563:3480x2523)/cdn.vox-cdn.com/uploads/chorus_image/image/71098174/1240781106.0.jpg' width='700px' /><br/>
+BMW is now selling subscriptions for heated seats in a number of countries — the latest example of the company's adoption of microtransactions for high-end car features.
+<a href='https://www.theverge.com/2022/7/12/23204950/bmw-subscriptions-microtransactions-heated-seats-feature'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/1rTM6D1sXymNMjErfOqdQJ74rOY=/0x0:6000x4085/1200x800/filters:focal(2520x1563:3480x2523)/cdn.vox-cdn.com/uploads/chorus_image/image/71098174/1240781106.0.jpg' width='700px' /><br/>
+BMW is now selling subscriptions for heated seats in a number of countries — the latest example of the company's adoption of microtransactions for high-end car features.
+<a href='https://www.theverge.com/2022/7/12/23204950/bmw-subscriptions-microtransactions-heated-seats-feature'> Source <a/>

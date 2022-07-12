@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tlXg8Rb-0MLVGpTTokyfbRCK-cA=/0x0:1320x743/1200x800/filters:focal(555x267:765x477)/cdn.vox-cdn.com/uploads/chorus_image/image/71098026/dashcart.0.jpg' width='700px' /><br/>
 Amazon has announced an updated version of its smart Dash Cart — a shopping cart that lets users scan and pay for their purchases as they shop to avoid waiting in checkout lines.
+<a href='https://www.theverge.com/2022/7/12/23198177/amazon-smart-shopping-dash-cart-ai-powered-sensors-fresh-whole-markets-stores'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/tlXg8Rb-0MLVGpTTokyfbRCK-cA=/0x0:1320x743/1200x800/filters:focal(555x267:765x477)/cdn.vox-cdn.com/uploads/chorus_image/image/71098026/dashcart.0.jpg' width='700px' /><br/>
+Amazon has announced an updated version of its smart Dash Cart — a shopping cart that lets users scan and pay for their purchases as they shop to avoid waiting in checkout lines.
 <a href='https://www.theverge.com/2022/7/12/23198177/amazon-smart-shopping-dash-cart-ai-powered-sensors-fresh-whole-markets-stores'> Source <a/>
