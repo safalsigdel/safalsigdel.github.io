@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y4SSHeLLYaNCb_AJc3EULwPg-PE=/148x298:2727x2100/1200x800/filters:focal(985x1026:1541x1582)/cdn.vox-cdn.com/uploads/chorus_image/image/71098094/1289090456.0.jpg' width='700px' /><br/>
+Optics and imaging giant Nikon will stop making new single lens reflex cameras — once the technological mainstay of professional photography — according to a report from Nikkei.
+<a href='https://www.theverge.com/2022/7/12/23204975/nikon-dslr-slr-cameras-stop-report-mirrorless'> Source <a/>

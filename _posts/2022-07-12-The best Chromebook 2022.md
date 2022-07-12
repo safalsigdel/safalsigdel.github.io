@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QU6eumkhn_KLxYalD7UacJeBVAc=/0x0:2040x1360/1200x675/filters:focal(832x0:1158x326)/cdn.vox-cdn.com/uploads/chorus_image/image/66976145/mchin_181029_4126_0011.0.5.jpg' width='700px' /><br/>
-The best Chromebooks aren't just laptops that run a few Google apps anymore. Chromebooks can cover a wide variety of computing needs now, and a good Chrome OS laptop or two-in-one can be more useful than a mediocre Windows or MacOS laptop. That's why our pick for the best Chromebook of 2022 is the Acer Chromebook Spin 713, which does just about everything right.
-<a href='https://www.theverge.com/21296102/best-chromebooks'> Source <a/>
