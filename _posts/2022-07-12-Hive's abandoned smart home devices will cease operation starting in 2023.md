@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JukUaE3D5cdEd_imzo_15WIkYl0=/0x0:818x500/1200x800/filters:focal(344x185:474x315)/cdn.vox-cdn.com/uploads/chorus_image/image/71098239/yves_behar_hive_view_indoor_camera_designboom_001.0.jpg' width='700px' /><br/>
+Hive, the smart home company best known for its smart thermostats, is officially getting out of the home security market globally. In a support page posted on its website, the company says it's no longer selling its Hive View security cameras, HomeShield security system, and Hive Leak water detection device. And soon, existing devices will cease to function.
+<a href='https://www.theverge.com/2022/7/12/23205004/hives-abandoned-smart-home-devices-will-cease-operation-starting-in-2023'> Source <a/>
