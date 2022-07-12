@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yYJ8lBiXZ9EqlVQlJbJeoLAkUeU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71098283/1143890227.0.jpg' width='700px' /><br/>
+Mobile-based battle royale shooter PUBG Mobile will host its first ever virtual concert later this month featuring best-selling K-pop girl group Blackpink.
+<a href='https://www.theverge.com/2022/7/12/23205013/pubg-mobile-first-ever-virtual-concert-blackpink-dates-tickets'> Source <a/>
