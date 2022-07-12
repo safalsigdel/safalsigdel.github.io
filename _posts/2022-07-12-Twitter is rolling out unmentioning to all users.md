@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sq9CpjN_tre0beclzb1XZ42ORm0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71095920/acastro_170726_1777_0012_v3.0.jpg' width='700px' /><br/>
-Twitter is widely rolling out its “unmentioning” feature to all users, which allows you to remove yourself from a conversation that includes your Twitter handle. The platform first introduced the feature to a small group of users in April, but now it's available to everyone.
-<a href='https://www.theverge.com/2022/7/11/23204111/twitter-unmentioning-all-users-leave-conversation-thread'> Source <a/>
