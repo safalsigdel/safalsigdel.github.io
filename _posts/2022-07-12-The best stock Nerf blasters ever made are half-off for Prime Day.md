@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G74SP1_YLo9iBAAB6HiUe581UUs=/0x0:2040x1360/1200x800/filters:focal(755x755:1081x1081)/cdn.vox-cdn.com/uploads/chorus_image/image/71097420/vpavic_210928_4778_0031.0.jpg' width='700px' /><br/>
-Has there ever been a better day to get into Nerf? I'm having a hard time thinking of one. Two of the best, most competitive unmodded blasters cost half their normal price today — including the Dart Zone MK-3 and the Nerf Rival Perses — and I'm seeing huge discounts on a bunch of other actually-fun foam throwers as well.
-<a href='https://www.theverge.com/2022/7/11/23204600/target-amazon-prime-day-nerf-dart-zone-blaster-roundup'> Source <a/>

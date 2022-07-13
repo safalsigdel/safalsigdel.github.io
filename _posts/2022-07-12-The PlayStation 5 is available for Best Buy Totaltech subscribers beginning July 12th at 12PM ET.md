@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7rwmv2HUygwt52gm-KnepR__CKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71096898/vpavic_4261_20201023_0028.0.jpg' width='700px' /><br/>
-It may be Amazon Prime Day time, but a big sales event like that is just an invitation for other retailers to jump in and also take advantage. We've already seen Target and Best Buy running “anti-Prime Day” promotions, and Best Buy is adding some fuel to this fire by scheduling a restock of PlayStation 5 consoles for its paying subscribers.
-<a href='https://www.theverge.com/2022/7/11/23204445/sony-playstation-5-ps5-console-restock-amazon-prime-day-totaltech-members-availability-check'> Source <a/>

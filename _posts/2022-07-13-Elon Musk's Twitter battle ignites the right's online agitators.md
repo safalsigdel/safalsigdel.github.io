@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N1brmrg1XzyOBTPZ015JzY0E5BI=/0x0:4507x3005/1200x800/filters:focal(1894x1143:2614x1863)/cdn.vox-cdn.com/uploads/chorus_image/image/71100084/1403081790.0.jpg' width='700px' /><br/>
+Elon Musk's short-lived push to buy Twitter has made him a lot of enemies — but it's delivering exactly what a certain set of Republican influencers want. Right-wing figures like Steve Bannon and Donald Trump Jr. have already hailed Musk's decision to back out of the deal. For them, the goal is no longer to control Twitter but to embarrass it.
+<a href='https://www.theverge.com/2022/7/12/23205553/elon-musk-twitter-deal-charlie-kirk-jason-miller-republican-gop-expose'> Source <a/>

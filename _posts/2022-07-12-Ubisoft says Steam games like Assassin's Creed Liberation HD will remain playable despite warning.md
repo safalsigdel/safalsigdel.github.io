@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QTEO52Pld-l9HeOnYiunscKQGl0=/0x0:1631x955/1200x800/filters:focal(686x348:946x608)/cdn.vox-cdn.com/uploads/chorus_image/image/71096227/ss_f024ce101cd5ecdc2d62badc1cc8e39fae71b144.1920x1080.0.jpg' width='700px' /><br/>
-Multiple Ubisoft games on Steam “will not be accessible” after September 1st, according to notices on the games' Steam pages. But based on a statement from Ubisoft, the situation isn't as bad as that message would make it seem.
-<a href='https://www.theverge.com/2022/7/11/23203791/ubisoft-steam-pc-games-accessible'> Source <a/>

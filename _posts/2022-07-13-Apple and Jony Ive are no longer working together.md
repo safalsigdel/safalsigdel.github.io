@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zVPLHkWN5o-vNixzP9AVP18kCXE=/0x0:4857x3520/1200x800/filters:focal(2576x1282:3352x2058)/cdn.vox-cdn.com/uploads/chorus_image/image/71100977/1033115378.0.jpg' width='700px' /><br/>
+Apple has ended its consulting agreement with former chief design officer Jony Ive, according to The New York Times.
+<a href='https://www.theverge.com/2022/7/12/23206010/apple-jony-ive-no-longer-working-together-lovefrom'> Source <a/>

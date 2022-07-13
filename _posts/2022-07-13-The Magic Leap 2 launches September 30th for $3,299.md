@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/djQl7WuiJbsngLpgtho3BD6s5VE=/0x0:2756x1574/1200x800/filters:focal(1257x41:1697x481)/cdn.vox-cdn.com/uploads/chorus_image/image/71100521/Screen_Shot_2022_07_12_at_2.52.00_PM.0.png' width='700px' /><br/>
+The Magic Leap 2 headset is launching on September 30th for a starting price of $3,299. The mixed reality device is a smaller and lighter successor to the 2018 Magic Leap, and among other improvements, it features a wider field of view — but also, as expected, a higher price.
+<a href='https://www.theverge.com/2022/7/12/23205702/magic-leap-2-enterprise-release-price-shipping-date-mixed-reality-ar-headset'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zf-LZ7zszUFDYJKU7LwJnLKzTSw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71096857/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter's high-powered lawyers from Wachtell, Lipton, Rosen & Katz are preparing for a court battle. After Elon Musk finally filed paperwork attempting to exit a $44 billion deal to acquire Twitter last week, they filed a letter today saying Musk's termination attempt is invalid because “Mr. Musk and the other Musk Parties have knowingly, intentionally, willfully, and materially breached the Agreement.”
-<a href='https://www.theverge.com/2022/7/11/23204432/twitter-elon-musk-breach-acquisition-agreement-lawsuit'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bDY-oYY5WDj9gnK9xzj6-wuNmk8=/0x0:5123x3415/1200x800/filters:focal(2153x1299:2971x2117)/cdn.vox-cdn.com/uploads/chorus_image/image/71100398/1240134539.0.jpg' width='700px' /><br/>
+The New York Times will soon let you link your Wordle stats to a NYT account, a change that should fix one of the most annoying aspects about the online puzzle game.
+<a href='https://www.theverge.com/2022/7/12/23205585/wordle-new-york-times-link-sync-stats-streaks-account'> Source <a/>

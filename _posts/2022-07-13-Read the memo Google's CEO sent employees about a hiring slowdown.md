@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-pTQ4iprRXlfM0gYlXBbyDTM_7A=/0x0:2040x1360/1200x800/filters:focal(872x755:1198x1081)/cdn.vox-cdn.com/uploads/chorus_image/image/71101339/vpavic_171003_2029_0067_lede.0.jpg' width='700px' /><br/>
+Google has told employees that it'll be “slowing down the pace of hiring for the rest of the year,” according to an internal memo Tuesday by CEO Sundar Pichai obtained by The Verge.
+<a href='https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022'> Source <a/>
