@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/jGl7DE4s6D3-73iJDJUczy7hF30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71100100/VRG_Illo_K_Radtke_226063_Hunter_Biden_Texting.0.jpg' width='700px' /><br/>
 Once again, search and social media platforms are facing moderation challenges tied to data allegedly leaked from the president's son's devices.
-<a href='https://www.theverge.com/2022/7/12/23205397/hunter-biden-phone-hack-4chan-google-twitter-misinformation-crack'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/jGl7DE4s6D3-73iJDJUczy7hF30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71100100/VRG_Illo_K_Radtke_226063_Hunter_Biden_Texting.0.jpg' width='700px' /><br/>
-Once again, search and social media platforms are facing moderation challenges tied to data allegedly leaked from the president's son's devices.
 <a href='https://www.theverge.com/2022/7/12/23205397/hunter-biden-phone-hack-4chan-google-twitter-misinformation-crack'> Source <a/>
