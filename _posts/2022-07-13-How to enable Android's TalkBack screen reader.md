@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0Y4imaSPyUFAXMERiFIbByhzDlE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71100330/akrales_211022_4802_0822.0.jpg' width='700px' /><br/>
 A screen reader is an accessibility tool designed for people with vision impairments. It can read any text, buttons, or image descriptors aloud on a wide variety of devices, including the phones or tablets that run Android.
+<a href='https://www.theverge.com/23184596/android-screen-reader-how-to-enable'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/0Y4imaSPyUFAXMERiFIbByhzDlE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71100330/akrales_211022_4802_0822.0.jpg' width='700px' /><br/>
+A screen reader is an accessibility tool designed for people with vision impairments. It can read any text, buttons, or image descriptors aloud on a wide variety of devices, including the phones or tablets that run Android.
 <a href='https://www.theverge.com/23184596/android-screen-reader-how-to-enable'> Source <a/>
