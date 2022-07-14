@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/FQFT2j4kDMbyM44vepzAfG0m8H4=/0x0:4986x3132/1200x800/filters:focal(1831x1116:2627x1912)/cdn.vox-cdn.com/uploads/chorus_image/image/71109453/1321808944.0.jpg' width='700px' /><br/>
 Andrej Karpathy, Tesla's head of AI and a key leader in the development of Autopilot, its driver assist feature which requires supervision by a human, announced on Twitter Wednesday that he's leaving the company.
+<a href='https://www.theverge.com/2022/7/13/23211358/tesla-head-of-ai-andrej-karpathy'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FQFT2j4kDMbyM44vepzAfG0m8H4=/0x0:4986x3132/1200x800/filters:focal(1831x1116:2627x1912)/cdn.vox-cdn.com/uploads/chorus_image/image/71109453/1321808944.0.jpg' width='700px' /><br/>
+Andrej Karpathy, Tesla's head of AI and a key leader in the development of Autopilot, its driver assist feature which requires supervision by a human, announced on Twitter Wednesday that he's leaving the company.
 <a href='https://www.theverge.com/2022/7/13/23211358/tesla-head-of-ai-andrej-karpathy'> Source <a/>
