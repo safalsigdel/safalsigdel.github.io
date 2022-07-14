@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PRhdpCdlU4FMc0vHhMiQlKBoKb0=/0x0:2970x1382/1200x800/filters:focal(1248x454:1722x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71106535/Screen_Shot_2022_07_13_at_3.20.09_PM.0.png' width='700px' /><br/>
-Everybody loves a good deal. That's largely the appeal behind e-commerce “holidays” like Amazon Prime Day. The only problem is while you're lured in by the promise of paying less, you might actually find yourself bamboozled.
-<a href='https://www.theverge.com/2022/7/13/23207152/worst-amazon-prime-day-deals-2022'> Source <a/>

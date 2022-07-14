@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dcAZX0Op8h0OIFLOFQRI0LC2Xzg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71098887/vpavic_211006_4796_0039.0.jpg' width='700px' /><br/>
-It's Amazon Prime Day 2022 — which means it's a good time to find a discount on a smartwatch or fitness tracker to help your health goals — especially if you're hunting for a full-featured wearable that's usually out of your price range. You can also take a look at our buying guides for Apple Watches, Fitbits, and fitness trackers for some inspiration.
-<a href='https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022'> Source <a/>

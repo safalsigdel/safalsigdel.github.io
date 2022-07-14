@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qJkatLBW-zRgXRgHN_zSW2C71F8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71114480/vsong_211117_4890_0008.0.jpg' width='700px' /><br/>
+Consolidating all your fitness data into one place can be a royal pain, and for many athletes, Strava is the obvious choice as it integrates with nearly every fitness platform. Today, Oura announced it's joining the club by introducing Strava integration for the Oura Ring.
+<a href='https://www.theverge.com/2022/7/14/23207669/oura-ring-strava-integration-wearables-activity-data-feeds'> Source <a/>

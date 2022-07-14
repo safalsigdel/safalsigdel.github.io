@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9912/bfarsace_190101_5333_0002_squ.jpg' width='700px' /><br/>
+After 14 years, three revisions, and two different processor architectures, the iconic wedge shape of the MacBook Air is now history. In its place is a MacBook Air with a completely new design that's the same thickness from front to back. Virtually every aspect of the new MacBook Air has been updated or changed — it's the biggest update to the Air since it originally debuted nearly a decade and a half ago.
+<a href='https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review'> Source <a/>

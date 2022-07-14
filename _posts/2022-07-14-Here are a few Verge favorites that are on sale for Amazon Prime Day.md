@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xl9IiglE5X2CNLSHa3Ct009W48E=/0x0:1125x750/1200x800/filters:focal(473x285:653x465)/cdn.vox-cdn.com/uploads/chorus_image/image/71105700/Emeber_Mug_2_LifeStyle_Press_Image.0.jpg' width='700px' /><br/>
-The staff members of The Verge are certainly opinionated — and that goes for our opinions of our favorite stuff. As a result, we run an article listing some of our favorite gear every few weeks in a series we have appropriately dubbed, you guessed it, Favorites. They can be items we use to cook, relax, make our pets happy, and more.
-<a href='https://www.theverge.com/23207203/amazon-prime-day-favorites-deals-pet-kitchen-home-car-tech'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JBKswH9sK6Hx4UY6LLC9wesVzHs=/0x0:2828x4000/1200x0/filters:focal(0x0:2828x4000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23792405/Shapes_Ultra_Black_Triangles_9x_Battlestation_Blue_2828x4000.jpg' width='700px' /><br/>
+Nanoleaf is turning 10, and to celebrate, the Kickstarter-founded smart lighting company is releasing a limited edition set of its iconic Shapes lighting tiles.
+<a href='https://www.theverge.com/2022/7/14/23209258/nanoleaf-limited-edition-shapes-ultra-black-triangles-release-date-specs-price'> Source <a/>

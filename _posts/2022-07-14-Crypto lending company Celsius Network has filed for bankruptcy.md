@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H7BDH42J06y3FGL88DJpG-sX2cQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71110337/acastro_220524_STK428_0002.0.jpg' width='700px' /><br/>
-The crypto crash has claimed another corporate victim: Celsius Network has filed for Chapter 11 bankruptcy protection. The crypto lending company's future has been in question ever since it abruptly halted all withdrawals and transfers exactly one month ago. It now hopes to continue operating with its remaining $167 million in cash while bankruptcy courts restructure the company.
-<a href='https://www.theverge.com/2022/7/13/23212156/celsius-network-chapter-11-bankruptcy-crypto'> Source <a/>

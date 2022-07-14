@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Alrqub7ElpA2UZu1srlxZEHg3KM=/0x197:1600x1054/1200x800/filters:focal(706x248:962x504)/cdn.vox-cdn.com/uploads/chorus_image/image/71116708/Beyonce_Renaissance.0.png' width='700px' /><br/>
+The world's biggest pop star just joined one of the world's most popular social media platforms.
+<a href='https://www.theverge.com/2022/7/14/23216377/beyonce-tiktok-music-catalog-break-my-soul'> Source <a/>

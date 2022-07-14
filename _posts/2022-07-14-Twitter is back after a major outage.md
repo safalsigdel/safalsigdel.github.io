@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iq90bt_LvBYs-k3QLU1oWxqGMpU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71114271/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter went down for around 40 minutes this morning, in a major outage for the social network. Issues started with the service at around 8:05AM ET, with many users reporting “over capacity” error messages, and even errors saying “this page is down.” The issues affected Twitter web, mobile, and even the company's TweetDeck app.
+<a href='https://www.theverge.com/2022/7/14/23215529/twitter-down-outage-error-capacity'> Source <a/>

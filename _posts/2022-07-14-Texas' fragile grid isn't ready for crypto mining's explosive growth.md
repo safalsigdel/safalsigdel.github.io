@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XxgucRcVK-YrkL0c9lxMoQC363Q=/0x0:4048x2687/1200x675/filters:focal(1701x1021:2347x1667)/cdn.vox-cdn.com/uploads/chorus_image/image/71116840/1235926785.0.jpg' width='700px' /><br/>
+Even though energy-hungry Bitcoin mining companies have volunteered to power down in Texas this week to alleviate the stress placed on the grid by a searing heatwave, the industry could still trigger more problems down the line if it continues its explosive expansion in the state.
+<a href='https://www.theverge.com/2022/7/14/23206795/bitcoin-crypto-mining-electricity-texas-grid-energy-bills-emissions'> Source <a/>
