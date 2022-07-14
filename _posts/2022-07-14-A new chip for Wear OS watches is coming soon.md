@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HD9o3v_HmcWBysNdVVK_qRIWwaE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71106587/dbohn_210816_4717_0011.0.jpg' width='700px' /><br/>
+Wear OS watches could finally get the upgraded chip that they so desperately need (via 9to5Google). Qualcomm teased the possibility in a video posted to Twitter, indicating its next Snapdragon smartwatch chip is “coming soon.”
+<a href='https://www.theverge.com/2022/7/13/23207334/wear-os-watches-new-cpu-samsung-google'> Source <a/>

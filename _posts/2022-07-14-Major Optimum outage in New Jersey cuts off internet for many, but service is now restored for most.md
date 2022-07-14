@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kZsAJbEyuLfwU11iuDE_NWOcRiM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71104838/acastro__171016_1777_0001_v5.0.jpg' width='700px' /><br/>
+Earlier on Wednesday, at least 13,000 customers in New Jersey were affected by a major Optimum outage, according to the company's outage map. But in the evening, the company said the outage had been restored for most customers, and when I checked the map, it said only 16 customers were still affected.
+<a href='https://www.theverge.com/2022/7/13/23207421/optimum-outage-new-jersey-parsippany-troy-hills-boonton'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WJB-o7O5J-Gj3uMJXrZTKHQhPJQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71097199/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
-Where in the world are Su Zhu and Kyle Davies? The founders of the cryptocurrency hedge fund Three Arrows Capital (3AC) are nowhere to be found, according to officials charged with liquidating the bankrupt company (via Reuters).
-<a href='https://www.theverge.com/2022/7/11/23204465/three-arrows-capita-3ac-liquidators-crypto-hedge-fund-cant-find-founders-kyle-davies-su-zhu'> Source <a/>

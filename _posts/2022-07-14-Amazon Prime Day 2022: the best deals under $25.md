@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K4CjCdm3o3sf6j5zyeeEsBD-gjU=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/71103756/dseifert_201025_4263_0009.0.0.jpg' width='700px' /><br/>
+Even with Amazon Prime Day going on, deals on inexpensive tech can be hard to come by. Nevertheless, they do exist, and some products are currently on sale on Amazon for less than $25. These deals encompass a range of products, from pint-sized smart speakers and Bluetooth trackers to 4K streaming sticks and video games like Marvel's Guardians of the Galaxy, some of which are on sale for the lowest prices to date.
+<a href='https://www.theverge.com/23205454/amazon-prime-day-best-cheap-deals-under-25-2022'> Source <a/>

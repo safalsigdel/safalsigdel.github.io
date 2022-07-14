@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/BjjX6Of_N523NJetLwIESxYlaEc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71099334/DSCF6033_Edited.0.jpeg' width='700px' /><br/>
-Prime Day is an excellent opportunity to save big on those new headphones or earbuds you've been eyeing. Amazon is offering substantial savings and discounts on many well-reviewed sets from brands including Sony, Bose, Samsung, Beats, and more. Many of our favorite recommendations are on sale.
+Amazon Prime Day is an excellent opportunity to save big on those new headphones or earbuds you've been eyeing. Amazon is offering substantial savings and discounts on many well-reviewed sets from brands like Sony, Bose, Samsung, Beats, and more. Many of our favorite recommendations are on sale.
 <a href='https://www.theverge.com/23204301/amazon-prime-day-best-headphone-earbud-deals-2022'> Source <a/>
