@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Chrome OS, Google's Linux-based operating system for its Chromebook devices, has been around for more than a decade, but the company has made a small but notable branding change: it's now called ChromeOS, with no space in between. James Croom, Google's senior director of marketing for ChromeOS, confirmed the change to The Verge.
+<a href='https://www.theverge.com/tldr/2022/7/14/23219443/google-chromeos-not-chrome-os-branding'> Source <a/>

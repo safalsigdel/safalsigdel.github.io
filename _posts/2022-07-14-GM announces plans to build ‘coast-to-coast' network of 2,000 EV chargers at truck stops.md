@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tq9cnplT5kX0xoaw3qTzJ4wVdQY=/0x0:5760x4320/1200x800/filters:focal(2420x1700:3340x2620)/cdn.vox-cdn.com/uploads/chorus_image/image/71114311/100S5578_FINAL_MR.0.jpg' width='700px' /><br/>
-General Motors announced a “coast-to-coast” network of fast electric vehicle chargers installed at Pilot and Flying J truck stops and managed by EV charging company EVgo. The announcement is the latest sign that legacy automakers will need to spend their own money to shore up the US' fractured EV charging infrastructure in order to build customer demand for new plug-in vehicles.
-<a href='https://www.theverge.com/2022/7/14/23207519/gm-ev-charging-stations-pilot-flying-j-evgo'> Source <a/>

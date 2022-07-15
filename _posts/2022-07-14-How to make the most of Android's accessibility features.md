@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w15lMn_WqMVUL3YIE-D_MiEwCAY=/0x0:2040x1360/1200x675/filters:focal(848x574:1174x900)/cdn.vox-cdn.com/uploads/chorus_image/image/71114297/acastro_illo_226029_0001.0.jpg' width='700px' /><br/>
-Accessibility features aren't exactly the most well-known pieces of the modern smartphone puzzle. And yet, they might be the pieces with the greatest potential to make a meaningful impact on someone's life.
-<a href='https://www.theverge.com/23170157/android-accessibility-google-how-to'> Source <a/>

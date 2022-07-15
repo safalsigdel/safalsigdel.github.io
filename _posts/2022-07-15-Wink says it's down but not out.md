@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zbJiGf8V3i1MIU6ZQJ6Egxi8n8U=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/71118529/wink_relay.0.jpg' width='700px' /><br/>
+Wink, the once-innovative smart home platform, has been down for two weeks with no sign of a fix. The outage has left customers of the Will-i-am-owned company — who pay $5 a month for the service to run their connected lights, locks, sensors, and other devices through the Wink Hub — completely in the lurch. It's so bad that even Wink's website and email are affected, which gives off strong whiffs of “somebody didn't pay the bill this month.”
+<a href='https://www.theverge.com/2022/7/14/23217086/wink-smart-home-hub-outage'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FTIqOx8waQLDbs_rLnaGPOUpk-I=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/71118642/1241042385.0.jpg' width='700px' /><br/>
+BTS fans have quite a lot of content to look out for on Disney Plus. The streaming service has announced a collaboration with Hybe, BTS's label, to bring what Disney describes as “five major content titles” to the platform. At least three of those titles are confirmed to feature BTS in some form.
+<a href='https://www.theverge.com/2022/7/14/23216467/bts-disney-plus-hybe-collaboration-2022'> Source <a/>

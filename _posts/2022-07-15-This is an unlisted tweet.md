@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5ZgyMQK-_huP5eIdcK5PqYMEu9U=/0x0:2040x1360/1200x800/filters:focal(918x609:1244x935)/cdn.vox-cdn.com/uploads/chorus_image/image/71119060/mdoying_180118_2249_twitter_0670stills.0.jpg' width='700px' /><br/>
+Twitter's experiment in letting two people tweet together has a weird loophole. It's now possible to accidentally make an unlisted tweet. It's not private, but you can only see it if someone sends you a link. Or embeds it in a website.
+<a href='https://www.theverge.com/2022/7/14/23218987/twitter-cotweet-trick-unlisted-tweet-hidden-search-timeline'> Source <a/>

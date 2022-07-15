@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gBXe3lmtuN4jgmV5KDNx_jUXuV0=/0x0:4127x2751/1200x800/filters:focal(1734x1046:2394x1706)/cdn.vox-cdn.com/uploads/chorus_image/image/71118990/21LEAF7.0.jpg' width='700px' /><br/>
+The Nissan Leaf, a pioneer electric vehicle and one of the cheapest EVs currently on the market, is nearing the end of its life span. According to a report in Automotive News, Nissan does not plan on introducing a next-generation version of the Leaf and may even discontinue the nameplate altogether.
+<a href='https://www.theverge.com/2022/7/14/23219044/nissan-leaf-phase-out-discontinue-ev-pioneer'> Source <a/>

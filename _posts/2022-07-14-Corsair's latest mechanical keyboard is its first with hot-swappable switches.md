@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ndZWhlGzI30wRq80KY7wXb0ypv0=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/71114445/K70_PRO_MINI_WIRELESS_PBT_18.0.jpg' width='700px' /><br/>
-Corsair's K70 Pro Mini Wireless is the company's first mechanical keyboard to feature hot-swappable switches, which means you can easily remove and replace them with an included tool — no soldering required. The $179.99 (xc2xa3169.99 / xe2x82xac189.99) keyboard is also wireless, lasting up to 200 hours on battery with its RGB lighting turned off.
-<a href='https://www.theverge.com/2022/7/14/23215012/corsair-k70-pro-mini-wireless-mechanical-keyboard-hotswap-price-release-date-features'> Source <a/>

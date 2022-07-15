@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G1AkxRt5M1LZFc4I71J7EkI1noI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71115594/VRG_ILLO_226039_Prime_Day_2022_Deals_Available.0.jpg' width='700px' /><br/>
-Prime Day may be done and dusted, but there are still plenty of awesome deals to be found at Amazon and other retailers.
-<a href='https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/G1AkxRt5M1LZFc4I71J7EkI1noI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71115594/VRG_ILLO_226039_Prime_Day_2022_Deals_Available.0.jpg' width='700px' /><br/>
-Prime Day may be done and dusted, but there are still plenty of awesome deals to be found at Amazon and other retailers.
-<a href='https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022'> Source <a/>

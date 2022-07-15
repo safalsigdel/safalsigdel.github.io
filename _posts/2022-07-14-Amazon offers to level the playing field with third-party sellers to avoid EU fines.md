@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o8H9k84OWAvxrw_HkT6iWkm_mUU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71114374/acastro_180130_1777_00010.0.jpg' width='700px' /><br/>
-Amazon has offered a number of concessions to third-party sellers on its platform in Europe in an attempt to settle an antitrust investigation opened by the EU in 2019.
-<a href='https://www.theverge.com/2022/7/14/23195091/amazon-settlement-eu-antitrust-investigation-third-party-sellers-data'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/370CQdn5QDXoaadqM5TP1Rn9l-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71104668/acastro_211025_1777_netflix_0001.0.jpeg' width='700px' /><br/>
+Netflix is partnering with Microsoft for its upcoming ad-supported streaming tier, the company announced Wednesday. The streaming service says Microsoft will become its “global advertising technology and sales partner” upon rolling out the cheaper option.
+<a href='https://www.theverge.com/2022/7/13/23207410/netflix-streaming-ads-microsoft'> Source <a/>

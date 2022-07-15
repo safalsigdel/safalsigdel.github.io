@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AOw1-R8XNqwPSys-KRBfFSz29DQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71114122/acastro_illo_226061_0001.0.jpg' width='700px' /><br/>
-On a night in 1978, Ted Henter was driving a rental car down a dark road in the English countryside. A 27-year-old motorcycle racer from Florida, Henter had just won eighth place in the Venezuelan Grand Prix, the first race of the 1978 World Championships. He was daydreaming about his next race in Spain when he saw the other car driving straight towards him.
-<a href='https://www.theverge.com/23203911/screen-readers-history-blind-henter-curran-teh-nvda'> Source <a/>

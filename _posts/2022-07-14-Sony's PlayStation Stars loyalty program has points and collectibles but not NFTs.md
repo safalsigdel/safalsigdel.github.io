@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1blVF4N_oWJpX5TSYWT6LAb4CL4=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/71114812/7c2015886b28f3a6329ec248e98e0f4dbed79b95.0.png' width='700px' /><br/>
-Sony is launching a new PlayStation Stars loyalty program later this year, and it includes “digital collectibles” rewards. PlayStation Stars will be a free service that allows PlayStation players to earn loyalty points and rewards by completing activities. Points can be redeemed for benefits, including a PSN wallet fund to put toward a game purchase.
-<a href='https://www.theverge.com/2022/7/14/23215753/sony-playstation-stars-digital-collectibles-loyalty-points'> Source <a/>
