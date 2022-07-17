@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n-ZcenBylkc7fUe94p9FyxvXaQY=/0x0:904x560/1200x800/filters:focal(380x208:524x352)/cdn.vox-cdn.com/uploads/chorus_image/image/71131860/jbl_flip5_lifestyle.0.jpg' width='700px' /><br/>
+It's been a busy week here at The Verge, with the recent reviews of the new M2 MacBook Air and Nothing Phone 1 as well as non-stop coverage of Amazon Prime Day. I'm sure all of us are ready for a relaxing weekend to rest and recoup. But first, more deals!
+<a href='https://www.theverge.com/good-deals/2022/7/16/23220018/jbl-flip-5-bluetooth-speaker-google-pixel-6-pro-fitbit-versa-3-nomad-base-one-magsafe-deal-sale'> Source <a/>

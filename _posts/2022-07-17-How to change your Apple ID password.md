@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-PF8wlIdAJvwUPuVR3z54hHPIcs=/0x0:720x506/1200x800/filters:focal(303x196:417x310)/cdn.vox-cdn.com/uploads/chorus_image/image/71131159/ios15_iphone_12_pro_settings_apple_id_password_security_change_password.0.jpeg' width='700px' /><br/>
+Your Apple ID is your key to using the integrated services of Apple's ecosystem, including the App Store, iCloud, iMessage, FaceTime, and Apple Music. You also need one to set up any new Apple device. As with any password, if you think it may have been compromised, you should change it immediately. It's also a good idea to change it every few months to help keep it extra secure.
+<a href='https://www.theverge.com/23220203/apple-id-password-change-how-to'> Source <a/>

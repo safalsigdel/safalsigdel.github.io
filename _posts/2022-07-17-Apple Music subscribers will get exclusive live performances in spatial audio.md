@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/acFSncYb-9oRZjmpLKRhQbLaaZc=/0x0:2040x1476/1200x800/filters:focal(1339x305:1665x631)/cdn.vox-cdn.com/uploads/chorus_image/image/71121795/AppleMusic_Sessions_CarrieUnderwood_3_16x9__3840x2160_.0.jpg' width='700px' /><br/>
+This morning Apple announced Apple Music Sessions, a series of live performances that will be available exclusively to subscribers of the company's music service. Carrie Underwood and Tenille Townes are the first two artists to be featured, and for now, the sessions will mostly be geared toward country.
+<a href='https://www.theverge.com/2022/7/15/23220056/apple-music-sessions-live-performances-spatial-audio-announced'> Source <a/>
