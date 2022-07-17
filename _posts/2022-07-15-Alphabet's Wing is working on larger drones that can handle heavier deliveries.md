@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GeUo9PiV74r10QazpgbMZaI8ZIY=/0x0:1875x956/1200x800/filters:focal(788x328:1088x628)/cdn.vox-cdn.com/uploads/chorus_image/image/71117808/Screen_Shot_2022_07_14_at_9.06.54_AM.0.png' width='700px' /><br/>
-Wing, the drone delivery company operated by Google parent Alphabet, unveiled a series of new prototype aircraft designed to handle a variety of payloads. The company said the new drones will share the same underlying components with the aircraft currently in use delivering pharmaceuticals and other small packages in the suburbs outside of Dallas-Fort Worth.
-<a href='https://www.theverge.com/2022/7/14/23217294/wing-drone-delivery-package-size-prototype'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/50M661tXFTGRo-3nNaDNfSsozLU=/0x0:7360x4912/1200x800/filters:focal(3092x1868:4268x3044)/cdn.vox-cdn.com/uploads/chorus_image/image/71130588/1235926774.0.jpg' width='700px' /><br/>
+On Friday, Elizabeth Warren and other Democratic members of Congress sent a letter to two federal regulators, urging them to take action on the explosion of Bitcoin mining in the US.
+<a href='https://www.theverge.com/2022/7/16/23220671/bitcoin-cryptomining-democratic-lawmakers-letter-epa-energy-department'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3N4HdMh_wzT352YnDeG_I7zNDQc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71116524/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
-On Thursday, the Treasury Department announced that it would provide millions of dollars to build out high-speed broadband projects in four states.
-<a href='https://www.theverge.com/2022/7/14/23216628/broadband-american-rescue-plan-projects-joe-biden-high-speed-internet'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i9FwMeXdg_rt3VrGs87xTio9HDI=/0x0:1800x1011/1200x800/filters:focal(862x557:1150x845)/cdn.vox-cdn.com/uploads/chorus_image/image/71115248/self_destruct_head.0.jpg' width='700px' /><br/>
-The upcoming version of iMessage will let you unsend and edit messages for up to 15 minutes. Sounds great, very convenient — Signal and WhatsApp and Viber have had similar features for years. You can try it out right now in the public betas for iOS 16, iPadOS 16, and macOS Ventura. Just one small caveat.
-<a href='https://www.theverge.com/2022/7/14/23205804/imessage-unsend-ios-16-beta-ios15'> Source <a/>

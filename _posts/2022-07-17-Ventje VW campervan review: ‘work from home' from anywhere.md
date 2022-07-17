@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q6tqsD0jlUZ9v1LjYgwZOqIVSvE=/0x0:2040x1530/1200x675/filters:focal(904x731:1230x1057)/cdn.vox-cdn.com/uploads/chorus_image/image/71121265/verge_IMG20220619152909_2040pxl.0.jpg' width='700px' /><br/>
+Volkswagen might build the Transporter cargo van, but Frank Westland and his team at Ventje in the Netherlands are responsible for turning it into something special: a camper that lets you take your work or family off-grid for an extended weekend and still serve as your daily driver upon return. It's “the only car you need,” according to the Ventje website.
+<a href='https://www.theverge.com/23203408/ventje-frank-westland-review-price'> Source <a/>

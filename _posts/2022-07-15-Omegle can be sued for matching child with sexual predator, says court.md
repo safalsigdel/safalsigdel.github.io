@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mLzVIilqA9AZVRnxNB8Vb3wSmKI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71117470/akrales_220309_4977_0305.0.jpg' width='700px' /><br/>
-Chat service Omegle is on the hook for a lawsuit after its matching system paired an 11-year-old girl with a man who then sexually abused her. A district judge in Portland, Oregon, said the company's system wasn't protected by the legal shield that covers much user-generated content. The case isn't concluded, but it opens the door to more prosecutions based on how a platform designs its services.
-<a href='https://www.theverge.com/2022/7/14/23216386/omegle-lawsuit-section-230-district-ruling'> Source <a/>

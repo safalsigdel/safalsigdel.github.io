@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_wgsoal8hFnB-dz35byyVr7MwT0=/0x0:978x652/1200x800/filters:focal(411x248:567x404)/cdn.vox-cdn.com/uploads/chorus_image/image/71116193/chromeosflex.0.jpg' width='700px' /><br/>
-Google is releasing Chrome OS Flex today, a new version of Chrome OS that's designed for businesses and schools to install and run on old PCs and Macs. Google first started testing Chrome OS Flex earlier this year in an early access preview, and the company has now resolved 600 bugs to roll out Flex to businesses and schools today.
-<a href='https://www.theverge.com/2022/7/14/23215019/google-chrome-os-flex-operating-system-pc-mac-available'> Source <a/>

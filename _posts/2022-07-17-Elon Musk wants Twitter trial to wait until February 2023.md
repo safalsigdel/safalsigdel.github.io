@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lx_TVLaiArB23gge5lA7BEMQDlE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71123616/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg' width='700px' /><br/>
+Elon Musk's legal team has responded to Twitter's lawsuit against him, saying that the company is demanding an unreasonably fast trial. In response, Musk's team asks that the case not be heard until next year, as reported earlier by Bloomberg.
+<a href='https://www.theverge.com/2022/7/15/23220797/elon-musk-twitter-trial-scheduling-delaware-acquisition-lawsuit'> Source <a/>

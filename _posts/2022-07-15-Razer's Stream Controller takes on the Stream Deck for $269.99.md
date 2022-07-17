@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1vNJfAJ1YN6mjFNPcGUnBnG91rY=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/71115513/streamcontroller.0.jpg' width='700px' /><br/>
-Razer is going head to head with Elgato's Stream Deck with the launch of its new Stream Controller. The $269.99 touchscreen device is designed to sit on a desk alongside a keyboard and allow content creators — or anyone, really — to quickly launch shortcuts and control hardware and software on a PC.
-<a href='https://www.theverge.com/2022/7/14/23215273/razer-stream-controller-release-date-price-specs'> Source <a/>

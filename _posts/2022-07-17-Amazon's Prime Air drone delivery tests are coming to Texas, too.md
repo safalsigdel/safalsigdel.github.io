@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-daY9HhUMqTRyQSOeMuBOdIjKvI=/0x0:2386x1304/1200x800/filters:focal(1003x462:1383x842)/cdn.vox-cdn.com/uploads/chorus_image/image/71122404/Screen_Shot_2022_07_15_at_9.34.23_AM.0.png' width='700px' /><br/>
+Amazon's Prime Air delivery drones will begin testing in Texas soon. The drone delivery tests are happening in College Station, Texas, along with a test area announced last month located in Lockeford, California.
+<a href='https://www.theverge.com/2022/7/15/23220069/amazon-prime-air-drone-delivery-packages-test-texas-california'> Source <a/>

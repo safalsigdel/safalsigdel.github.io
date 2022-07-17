@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LlIUxAuhR5L6dJfIpK2pU61icUs=/0x0:2200x1696/1200x800/filters:focal(1123x612:1475x964)/cdn.vox-cdn.com/uploads/chorus_image/image/71122213/steam_deck_delta_fan.0.jpg' width='700px' /><br/>
+The last time iFixit tried to offer replacement kits for the fans on Valve's Steam Deck, they sold out so quickly most people didn't even get a chance to stick a kit in a cart. In June, iFixit had a fan fix kit “drop” limited to just 100 kits. Now they're back, and they seem like they're sticking around. Even better, iFixit finally has a solution for replacing your Steam Deck battery.
+<a href='https://www.theverge.com/2022/7/15/23220111/ifixit-steam-deck-fan-battery-replacement-kits-in-stock'> Source <a/>

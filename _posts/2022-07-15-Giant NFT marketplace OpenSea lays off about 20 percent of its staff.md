@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5mpPooQr2Y2_ldcn_xBlh0Bo1WQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71119159/acastro_220215_STK007_0005.0.jpg' width='700px' /><br/>
-OpenSea co-founder and CEO Devin Finzer revealed this afternoon that the NFT marketplace is laying off about 20 percent of its employees. Finzer did not indicate how many people that represented. A Forbes article in January celebrating Finzer and his co-founder Alex Atallah's $2.2 billion net worth (each) said the company employed more than 70 people, but an OpenSea spokesperson tells The Verge that 230 people will remain with the company.
-<a href='https://www.theverge.com/2022/7/14/23219076/opensea-nft-layoffs-web3-crypto'> Source <a/>

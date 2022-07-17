@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TIn6pfcMQHX2qq7vU1NkumFwx8Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71118998/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Facebook will allow some users to have multiple profiles as part of a test, the company announced today, signaling a major shift as Meta looks for new ways to encourage users to stay on the platform amid increased competition from rivals.
-<a href='https://www.theverge.com/2022/7/14/23219030/facebook-multiple-profiles-meta-active-users'> Source <a/>

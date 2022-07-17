@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZssqpeNFBvCvTUOHrqXxOhgLhhI=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/71119234/hN3f1PfY.0.jpeg' width='700px' /><br/>
-The hit online puzzle Wordle is being turned into a multiplayer board game. The New York Times, which purchased Wordle earlier this year, is partnering with Hasbro to bring Wordle from the digital world to the physical one as Wordle: The Party Game later this year.
-<a href='https://www.theverge.com/2022/7/14/23219072/wordle-the-party-game-multiplayer-board-new-york-times-hasbro'> Source <a/>
