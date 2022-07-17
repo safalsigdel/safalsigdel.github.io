@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UHeAu4ttfBu8li1lQFGjD4NdQTc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71122859/CoOp_0.0.jpeg' width='700px' /><br/>
-Halo Infinite's network campaign co-op test flight is finally live, developer 343 Industries announced Friday. As part of the test, you'll be able to play the campaign with up to three of your friends, and the game supports crossplay across Xbox One, Xbox Series X / S, and PC. The test also includes a mission replay feature, which wasn't included with the game at launch.
-<a href='https://www.theverge.com/2022/7/15/23220509/halo-infinite-network-co-op-mission-replay-flight-test'> Source <a/>

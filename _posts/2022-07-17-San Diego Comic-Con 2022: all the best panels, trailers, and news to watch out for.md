@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Vx19v7toamrR18s_E9A22lGL-E=/0x0:7909x5273/1200x800/filters:focal(3323x2005:4587x3269)/cdn.vox-cdn.com/uploads/chorus_image/image/71123085/1355933139.0.jpg' width='700px' /><br/>
-After two years of being canceled due to the ongoing COVID-19 pandemic, San Diego Comic-Con's coming back this year with a vengeance and a sizable stack of announcements, trailer drops, and early screenings of some of the entertainment industry's most hyped projects.
-<a href='https://www.theverge.com/2022/7/15/23205625/san-diego-comic-con-2022-panel-schedule'> Source <a/>
