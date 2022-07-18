@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IwoSynSIy7LvDQdwDEOESrpTrio=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71141347/acastro_190228_1777_vpn_0003.0.jpg' width='700px' /><br/>
+Last week, Congresswoman Anna Eshoo (D-CA) and Senator Ron Wyden (D-OR) wrote a letter urging the Federal Trade Commission (FTC) to address deceptive practices in the Virtual Private Network (VPN) industry. Eshoo and Wyden's letter comes as people look to hide their digital footprint following the Supreme Court's decision to overturn Roe v. Wade.
+<a href='https://www.theverge.com/2022/7/17/23264384/lawmakers-ftc-eshoo-wyden-vpn-industry-roe-v-wade-abortion-privacy'> Source <a/>

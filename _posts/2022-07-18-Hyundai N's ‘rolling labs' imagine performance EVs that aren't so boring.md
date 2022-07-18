@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+Hyundai's attempting to keep car culture alive with its two performance-focused electric vehicle (EV) concepts it calls “rolling labs.” The RN22e features a modified Ioniq 6 body, and the N Vision 74 is modeled after the never-released 1974 Pony Coupe concept — but both feature a refreshing sporty design that doesn't look like some sort of futuristic pod (or, well... this thing).
+<a href='https://www.theverge.com/2022/7/17/23266195/hyundai-n-lab-concepts-performance-evs-nvision-74-rn22e-electric-vehicles'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JuEWe7-6AMCWDpMT5vDyhu98Bss=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71142886/jbareham_180213_2301_0134.0.jpg' width='700px' /><br/>
+Tesla's apparently looking to expand its collection of in-car games... by adding Steam. In a reply to a tweet, Tesla CEO Elon Musk said the company's “making progress with Steam integration” and that we can expect a demo “probably next month.”
+<a href='https://www.theverge.com/2022/7/17/23265627/elon-musk-tesla-steam-integration-model-s-x'> Source <a/>
