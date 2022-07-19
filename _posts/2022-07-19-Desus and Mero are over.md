@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/hU5vL3jtb-KnpmspjiYD6X4hgkQ=/0x0:3000x2000/1200x800/filters:focal(1264x448:1744x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71150036/1240728090.0.jpg' width='700px' /><br/>
 Duo Desus Nice and The Kid Mero, who established one of the top comedy brands of the decade with their podcast Bodega Boys and their eponymous show on Showtime, are well and truly done.
+<a href='https://www.theverge.com/2022/7/18/23269319/desus-and-mero-split-showtime-bodega-boys'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/hU5vL3jtb-KnpmspjiYD6X4hgkQ=/0x0:3000x2000/1200x800/filters:focal(1264x448:1744x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71150036/1240728090.0.jpg' width='700px' /><br/>
+Duo Desus Nice and The Kid Mero, who established one of the top comedy brands of the decade with their podcast Bodega Boys and their eponymous show on Showtime, are well and truly done.
 <a href='https://www.theverge.com/2022/7/18/23269319/desus-and-mero-split-showtime-bodega-boys'> Source <a/>
