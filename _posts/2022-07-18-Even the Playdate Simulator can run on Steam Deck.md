@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/quXsJXevpUz6Pa7Wshi33up4a78=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71122369/Screen_Shot_2022_07_15_at_8.39.18_AM.0.png' width='700px' /><br/>
-In yet another reminder of just how flexible Valve's Steam Deck handheld gaming PC can be, an enterprising Redditor has gotten the Playdate Simulator running on their Steam Deck, as shared on Twitter by Valve designer Lawrence Yang.
-<a href='https://www.theverge.com/2022/7/15/23220195/steam-deck-playdate-simulator'> Source <a/>

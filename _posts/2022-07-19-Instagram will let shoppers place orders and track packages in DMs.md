@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QCBa5cj3MT2YjRNzujOR9MP8wzg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71148347/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+Instagram shoppers in the US will be able to pay for products directly in messages, the company announced today. Buyers will also be able to ask questions about products and track orders in the same message thread with merchants.
+<a href='https://www.theverge.com/2022/7/18/23268448/instagram-shopping-payments-chat-small-businesses-e-commerce'> Source <a/>

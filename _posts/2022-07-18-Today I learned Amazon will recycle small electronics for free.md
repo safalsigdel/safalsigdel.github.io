@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-nQd4XMsORKPmCsYxLPS4CXyczE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71134967/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-If you have a flip phone that you haven't used in over a decade, or maybe even a broken tablet, Amazon will pay for a shipping label that you can use to send it in to get recycled. Apparently, this recycling program has been a thing for a while now, but several of us at The Verge never even knew about it until we saw this tweet from journalist Dave Zatz, and thought it might be a good idea to spread the word.
-<a href='https://www.theverge.com/2022/7/16/23205725/today-i-learned-til-amazon-recycle-small-electronics-free'> Source <a/>

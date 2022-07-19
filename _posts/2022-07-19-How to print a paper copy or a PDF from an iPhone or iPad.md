@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JIXEw9XaPlGOHd26Prtu4nqq7OU=/0x0:4032x2688/1200x800/filters:focal(1694x1022:2338x1666)/cdn.vox-cdn.com/uploads/chorus_image/image/71149605/IMG_3734_2__1_.0.jpeg' width='700px' /><br/>
+Printing is all but dead in this all-digital world, but there are still some things you can't easily digitize: shipping labels, flyers for a bulletin board, printing out an email for your boss, and sticking prank memes in your colleagues' cubicles. And in this era of doing almost everything on your phone, it's good to have the option to print from it instead of needing to jump onto a computer.
+<a href='https://www.theverge.com/23220358/ios-print-airprint-wireless-pdf-iphone-ipad-apple'> Source <a/>

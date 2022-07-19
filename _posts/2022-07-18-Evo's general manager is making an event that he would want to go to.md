@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rSjqrfaVxvfLcYmfNg6ZcfEJnlI=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/71132122/1.0.jpeg' width='700px' /><br/>
-Evo, the shorthand name for the prestigious Evolution Championship Series fighting game tournament, will be an in-person event again for the first time since 2019. Evo was just one of many events that had to do things differently because of COVID-19, and even though the upcoming Evo will be at a convention center once again, general manager Rick Thiher tells The Verge that things are just different now.
-<a href='https://www.theverge.com/2022/7/16/23220503/evo-2022-event-rick-thiher-interview'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M3KoUYmEU3mhCn8iil3h4qY1-XE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71122339/FXuPH_2VUAAnywv.0.jpeg' width='700px' /><br/>
-Bungie, the developer of Destiny 2, is now officially a part of Sony. The PlayStation maker had announced its intent to acquire the gaming studio in January, and now, that acquisition is complete. At the initial announcement, Sony said (pdf) the deal was worth $3.6 billion, but in an SEC filing on Friday, it said the deal was worth “approximately” $3.7 billion.
-<a href='https://www.theverge.com/2022/7/15/23220335/bungie-sony-acquisition-complete-official-done'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XfGMG_6eBnb_fkXh7BaRWOPUWyA=/0x0:3000x2000/1200x800/filters:focal(1101x508:1581x988)/cdn.vox-cdn.com/uploads/chorus_image/image/71143726/TGM_20210427_09929rv3_f.0.jpg' width='700px' /><br/>
-Fans of buttons can count on Captain America for support, as Chris Evans notes that even after a few weeks with a newer phone, he still prefers his old iPhone 6S and its button. The topic came up in an interview with Collider (via iMore) while doing a press tour for Netflix's $200 million+, Russo brothers-directed spy flick The Gray Man, which he stars in along with Ryan Gosling.
-<a href='https://www.theverge.com/iphone/2022/7/17/23220127/iphone-6s-chris-evans-apple-iphone-12-pro-home-button'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aok8DNuhor8CsRDtYnPrlDaC1ok=/0x0:2880x1800/1200x0/filters:focal(0x0:2880x1800):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23866803/intel_arc_gpu_chart.png' width='700px' /><br/>
-Intel's tempering expectations for its upcoming Arc A750 Limited Edition GPU. In a new video that's just three minutes long, the chipmaker gives us the briefest of glimpses at the card's pretty average on-paper performance.
-<a href='https://www.theverge.com/2022/7/16/23232217/intel-arc-gpu-a750-setting-expectations'> Source <a/>

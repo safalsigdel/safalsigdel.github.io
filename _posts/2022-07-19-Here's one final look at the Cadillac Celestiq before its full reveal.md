@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LkHwNb_XIv1OHVWpRzViWf2Y0Is=/0x0:5700x3800/1200x800/filters:focal(2394x1444:3306x2356)/cdn.vox-cdn.com/uploads/chorus_image/image/71148364/cadillac_celestiq_show_car_09.0.jpg' width='700px' /><br/>
+Cadillac is offering one final teaser of the Cadillac Celestiq ahead of its full reveal later this week. The ultra-luxe EV will soon join the Lyriq and become the second full EV to ship out of GM's luxury division, although the Celestiq is expected to be in a class of its own with a price that could start around the $300,000 range with a 500-units-per-year production target.
+<a href='https://www.theverge.com/2022/7/18/23268550/cadillac-celestiq-announcement-teaser-preview'> Source <a/>

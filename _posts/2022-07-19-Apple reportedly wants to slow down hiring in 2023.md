@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nneAHAmyXrxyaqB1wMTPBhPbkV4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71149225/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple is planning to slow hiring in 2023, according to Bloomberg, making it the latest big tech company to shift its hiring plans.
+<a href='https://www.theverge.com/2022/7/18/23268953/apple-slow-hiring-2023'> Source <a/>

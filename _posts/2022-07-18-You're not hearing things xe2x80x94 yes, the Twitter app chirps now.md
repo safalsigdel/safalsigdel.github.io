@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I4XIkTg3z09t8TOw4KGNZIQcQuk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71123369/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-A few of us at The Verge have noticed something new about Twitter's iOS app: when you pull down to refresh your feed, you might hear a couple of new noises. One is a little windup trill that plays when you first pull the feed, and after your feed is done refreshing, you might hear a short confirmation chirp. (Though the sounds are more robotic than any real-life bird I've heard.)
-<a href='https://www.theverge.com/2022/7/15/23220697/twitter-app-chirps-sounds-refresh'> Source <a/>

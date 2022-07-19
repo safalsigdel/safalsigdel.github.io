@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xrWX9qcX9o8T7HsA22KoQW72tpk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71147975/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+A new study measuring mobile network performance in the US indicates an increase in network problems, with slow performance or the inability to load content cited as the most common complaints. That's according to research firm JD Power, which attributes the dip in network quality to increased usage.
+<a href='https://www.theverge.com/2022/7/18/23268287/mobile-network-jd-power-verizon-t-mobile-att-5g'> Source <a/>

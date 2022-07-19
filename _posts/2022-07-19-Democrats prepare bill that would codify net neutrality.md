@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dLGcM0n9yKtVi7xMxPC3lKsJFjE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71148682/acastro_170711_1777_0004.0.jpg' width='700px' /><br/>
+Congressional Democrats are preparing to relaunch their fight to restore net neutrality, according to a new report from The Washington Post on Monday. Lawmakers in both the House and Senate are expected to introduce a new bill codifying the Obama-era internet rules in the coming weeks.
+<a href='https://www.theverge.com/2022/7/18/23268767/net-neutrality-broadband-internet-democrats-ajit-pai-fcc-gigi-sohn'> Source <a/>
