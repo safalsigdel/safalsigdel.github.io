@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/prF8i7IXkfI73RhdxSk44RKazr4=/0x0:3587x2418/1200x800/filters:focal(1451x670:2023x1242)/cdn.vox-cdn.com/uploads/chorus_image/image/71149947/93609420.0.jpg' width='700px' /><br/>
 Unity CEO John Riccitiello has apologized for calling some game developers “some of the biggest fucking idiots” in an interview and has vowed that he will “do better.”
-<a href='https://www.theverge.com/2022/7/18/23269218/unity-ceo-john-riccitiello-apology-game-developers-fucking-idiots-ironsource-merger'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/prF8i7IXkfI73RhdxSk44RKazr4=/0x0:3587x2418/1200x800/filters:focal(1451x670:2023x1242)/cdn.vox-cdn.com/uploads/chorus_image/image/71149947/93609420.0.jpg' width='700px' /><br/>
-Unity CEO John Riccitiello has apologized for calling some game developers “some of the biggest fucking idiots” in an interview and has vowed that he will “do better.”
 <a href='https://www.theverge.com/2022/7/18/23269218/unity-ceo-john-riccitiello-apology-game-developers-fucking-idiots-ironsource-merger'> Source <a/>

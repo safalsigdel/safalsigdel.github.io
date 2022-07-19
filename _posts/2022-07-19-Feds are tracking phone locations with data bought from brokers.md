@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/SDEY-4n86Fh-5ZYftmGDDcHWS5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71149201/akrales_220309_4977_0038.0.jpg' width='700px' /><br/>
 The Department of Homeland Security (DHS) has been buying location data from third parties to sidestep the traditional warrant process, according to new documents released by the American Civil Liberties Union (ACLU).
-<a href='https://www.theverge.com/2022/7/18/23268592/feds-buying-location-data-brokers-aclu-foia-dhs'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/SDEY-4n86Fh-5ZYftmGDDcHWS5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71149201/akrales_220309_4977_0038.0.jpg' width='700px' /><br/>
-The Department of Homeland Security (DHS) has been buying location data from third parties to sidestep the traditional warrant process, according to new documents released by the American Civil Liberties Union (ACLU).
 <a href='https://www.theverge.com/2022/7/18/23268592/feds-buying-location-data-brokers-aclu-foia-dhs'> Source <a/>
