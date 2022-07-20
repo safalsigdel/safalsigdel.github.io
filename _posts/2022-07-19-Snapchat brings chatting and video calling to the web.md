@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8IR12bThGY8cRxe4MDtaImKQ3OU=/0x0:3840x2160/1200x800/filters:focal(826x630:1440x1244)/cdn.vox-cdn.com/uploads/chorus_image/image/71147304/Snapchat_for_Web_Video_Call.0.png' width='700px' /><br/>
-Snapchat features like snapping, chatting, and video calling are coming to desktop through a new web app, marking the first time the company has made its service available beyond smartphones.
-<a href='https://www.theverge.com/2022/7/18/23220149/snapchat-for-web-desktop-video-calling-chatting-subscribers'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fNG7H2sP6a-fDtCkb0fyjL0osm4=/0x198:1920x1304/1200x800/filters:focal(807x567:1113x873)/cdn.vox-cdn.com/uploads/chorus_image/image/71153011/p166_2d_pt4_v4064_0209_210210_26mj_g_r709.0.jpeg' width='700px' /><br/>
+Though there were quite a few real people campaigning for #TheSnyderCut's release before Warner Bros.' 2021 announcement, new reporting from Rolling Stone suggests that a sizable amount of the movie's social media hype was being driven by bots and inauthentic accounts.
+<a href='https://www.theverge.com/2022/7/19/23270229/zack-snyder-justice-league-bots-fandom'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/94Bpf5Mwh4TV6uJkR38PSDW5Lvc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71152474/acastro_210729_1777_blizzard_0004.0.jpg' width='700px' /><br/>
+The QA department at Blizzard Albany, the studio formerly known as Tony Hawk's Pro Skater 1 + 2's Vicarious Visions, has become the second QA department within Activision Blizzard to organize a union.
+<a href='https://www.theverge.com/2022/7/19/23270108/blizzard-qa-workers-union-activision-gwa-albany-vicarious-visions'> Source <a/>

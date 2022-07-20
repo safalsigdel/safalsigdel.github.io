@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5FgcFQnbHjSnJnjdicM7vTxDIXc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71152086/1148941877.0.jpg' width='700px' /><br/>
+We've got a lot to dig into today, from mergers and acquisitions to breakups, both amicable and acrimonious. But first, I want to give a shout-out to my friend Karishma, who alerted me to the Desus and Mero drama blowing up on Twitter when I just wanted to bury my head in some copyright law. The second you look away is when it all goes down.
+<a href='https://www.theverge.com/2022/7/19/23270063/desus-mero-podcast-comedy-showtime-acast-pushkin'> Source <a/>

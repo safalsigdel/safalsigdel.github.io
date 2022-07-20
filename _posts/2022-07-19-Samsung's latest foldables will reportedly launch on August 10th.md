@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MQY1hyCuPBLA6FLbvX6v16tGL0g=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/71147027/FX8NUPWXgAI_Nv5.0.jpg' width='700px' /><br/>
-Samsung will reportedly hold its next major “Unpacked” launch event on August 10th, according to a promotional image leaked by Evan Blass. The picture shows the date, alongside what appears to be a blurred image of the unannounced Samsung Galaxy Z Flip 4 foldable, leaked earlier this month by Blass and 91Mobiles.
-<a href='https://www.theverge.com/2022/7/18/23268211/samsung-august-10th-unpacked-event-fold-flip-5-galaxy-watch-launch'> Source <a/>

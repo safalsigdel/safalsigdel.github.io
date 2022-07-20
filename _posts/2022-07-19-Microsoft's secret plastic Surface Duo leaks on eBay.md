@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/onMLlUW_WINyP9SSZYk-UNoaMaU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71147713/akrales_191002_3704_0376.0.jpg' width='700px' /><br/>
-Microsoft was reportedly planning to launch a more affordable plastic version of the Surface Duo 2, and images appear to have leaked on eBay of the device. Windows Central reports that Microsoft canceled this mysterious midrange version of the Surface Duo 2 in late 2021 after reportedly originally planning to launch it as a cheaper model later this year.
-<a href='https://www.theverge.com/2022/7/18/23268381/microsoft-surface-duo-plastic-cronos-rumors'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HyBMtpbvtF7IclAzzXHkJ9QnB3c=/0x0:2880x1617/1200x800/filters:focal(1210x579:1670x1039)/cdn.vox-cdn.com/uploads/chorus_image/image/71149951/Screenshot_2022_07_18_at_15.28.58.0.png' width='700px' /><br/>
-Google Wallet, the app that will replace Google Pay in many countries (more on that in a moment), has started to show up on people's phones. According to Google spokesperson Chaiti Sen, the company has “started rolling out the Wallet to Android users in 39 countries,” and it'll be available “to all users over the next few days.”
-<a href='https://www.theverge.com/2022/7/18/23269186/google-wallet-pay-app-rollout-39-countries'> Source <a/>

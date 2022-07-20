@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZNrmkp3VKH-czwEVYiupRyG2xtE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71152806/acastro_200728_4110_antiTrust_0001.0.jpg' width='700px' /><br/>
+New internal documents released Tuesday detail how three of Big Tech's most prominent companies favored their own products as a means of stamping out competition. Their release comes as lawmakers push to approve stronger antitrust legislation by the end of the year.
+<a href='https://www.theverge.com/2022/7/19/23270400/facebook-google-amazon-apple-antitrust-house-judiciary-investigation-report'> Source <a/>

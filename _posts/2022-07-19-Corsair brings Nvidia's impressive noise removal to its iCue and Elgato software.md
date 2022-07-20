@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B2icDljI_pJqOGOjJcDKaJUihwY=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/71147534/NVIDIA_Broadcast.0.jpg' width='700px' /><br/>
-Corsair is integrating Nvidia's Broadcast audio and video features into its iCue and Elgato software this week. All you'll need is a compatible headset, microphone or camera, and an Nvidia RTX GPU. The integrations in iCue, Elgato Wave Link, and Elgato Camera Hub are all seamless for features like noise removal and virtual camera backgrounds, so you no longer have to use the separate Nvidia Broadcast app.
-<a href='https://www.theverge.com/2022/7/18/23268329/corsair-nvidia-broadcast-integration-audio-video-icue-elgato-wave-link'> Source <a/>

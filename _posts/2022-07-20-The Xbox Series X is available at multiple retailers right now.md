@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k5Qh2WfGnx1vKOvDWV_bZKssuIk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71152033/vpavic_4275_20201030_0082.0.jpg' width='700px' /><br/>
+Having a single retailer restock the Xbox Series X is rare enough, but you can currently find the rarefied console at a trio of retailers while supplies last. Anyone still trying to get their hands on Microsoft's monolithic console can pick one up at Best Buy, Microsoft, or Walmart for the standard retail price of $499.99.
+<a href='https://www.theverge.com/2022/7/19/23270024/xbox-series-x-restock-best-buy-microsoft-walmart'> Source <a/>
