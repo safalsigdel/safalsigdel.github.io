@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/VpHGMiw1LyEqMZ_7n_JYXGN_P1A=/0x0:720x301/1200x800/filters:focal(303x94:417x208)/cdn.vox-cdn.com/uploads/chorus_image/image/71152424/LIGHTYEAR_ONLINE_USE_b020_114a_p.0.jpeg' width='700px' /><br/>
 Lightyear, Disney and Pixar's Buzz Lightyear-focused movie that hit theaters in June, will be available to stream on Disney Plus beginning August 3rd.
+<a href='https://www.theverge.com/2022/7/19/23270210/lightyear-movie-stream-disney-plus-pixar-release-date'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/VpHGMiw1LyEqMZ_7n_JYXGN_P1A=/0x0:720x301/1200x800/filters:focal(303x94:417x208)/cdn.vox-cdn.com/uploads/chorus_image/image/71152424/LIGHTYEAR_ONLINE_USE_b020_114a_p.0.jpeg' width='700px' /><br/>
+Lightyear, Disney and Pixar's Buzz Lightyear-focused movie that hit theaters in June, will be available to stream on Disney Plus beginning August 3rd.
 <a href='https://www.theverge.com/2022/7/19/23270210/lightyear-movie-stream-disney-plus-pixar-release-date'> Source <a/>

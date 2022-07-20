@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/A9BcqB13Y-4mWHRYwV0CJv36lEI=/0x0:1029x558/1200x800/filters:focal(433x197:597x361)/cdn.vox-cdn.com/uploads/chorus_image/image/71153352/FYDRafbUUAEPCqx__1_.0.jpeg' width='700px' /><br/>
 Sam Raimi's incredible Spider-Man movie trilogy will be available on Netflix beginning August 1st, the company announced on Tuesday.
+<a href='https://www.theverge.com/2022/7/19/23270605/netflix-spider-man-sam-raimi-trilogy-movies'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/A9BcqB13Y-4mWHRYwV0CJv36lEI=/0x0:1029x558/1200x800/filters:focal(433x197:597x361)/cdn.vox-cdn.com/uploads/chorus_image/image/71153352/FYDRafbUUAEPCqx__1_.0.jpeg' width='700px' /><br/>
+Sam Raimi's incredible Spider-Man movie trilogy will be available on Netflix beginning August 1st, the company announced on Tuesday.
 <a href='https://www.theverge.com/2022/7/19/23270605/netflix-spider-man-sam-raimi-trilogy-movies'> Source <a/>
