@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ek_XV_KJG1rutZoNp9cdagFSkrg=/228x310:2040x1360/1200x800/filters:focal(725x644:1051x970)/cdn.vox-cdn.com/uploads/chorus_image/image/71152543/vpavic_4291_20201113_0402.0.0.jpg' width='700px' /><br/>
 Apple has agreed to pay out $50 million to settle a class action lawsuit that said the company knew about flaws with the butterfly keyboard switches it built into several MacBook models (via Reuters).
-<a href='https://www.theverge.com/2022/7/19/23270157/apple-butterfly-keyboard-settlement-class-action-lawsuit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ek_XV_KJG1rutZoNp9cdagFSkrg=/228x310:2040x1360/1200x800/filters:focal(725x644:1051x970)/cdn.vox-cdn.com/uploads/chorus_image/image/71152543/vpavic_4291_20201113_0402.0.0.jpg' width='700px' /><br/>
-Apple has agreed to pay out $50 million to settle a class action lawsuit that said the company knew about flaws with the butterfly keyboard switches it built into several MacBook models (via Reuters).
 <a href='https://www.theverge.com/2022/7/19/23270157/apple-butterfly-keyboard-settlement-class-action-lawsuit'> Source <a/>

@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tajtOxYZty7PrEb9nX7OOnbhHRE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71152094/VRG_Illo_STK022_K_Radtke_Musk_Stock_Fire_Sad.0.jpg' width='700px' /><br/>
 Today, a Delaware court ruled that Twitter's lawsuit against Elon Musk for attempting to back out of his acquisition of the company will be heard in October. This is a win for Twitter, which asked for a shorter timeframe than Musk.
-<a href='https://www.theverge.com/2022/7/19/23270119/elon-musk-twitter-trial-october'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/tajtOxYZty7PrEb9nX7OOnbhHRE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71152094/VRG_Illo_STK022_K_Radtke_Musk_Stock_Fire_Sad.0.jpg' width='700px' /><br/>
-Today, a Delaware court ruled that Twitter's lawsuit against Elon Musk for attempting to back out of his acquisition of the company will be heard in October. This is a win for Twitter, which asked for a shorter timeframe than Musk.
 <a href='https://www.theverge.com/2022/7/19/23270119/elon-musk-twitter-trial-october'> Source <a/>
