@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eOoNmOP-ABxbRFDMLihILNcigeA=/0x0:2784x1800/1200x0/filters:focal(0x0:2784x1800):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23888861/Screenshot_20220720_155532.png' width='700px' /><br/>
-It's finally happening: Discord voice chats are coming to Xbox consoles. Starting today, Xbox Insiders can test this new integration, allowing you to connect to Discord calls from an Xbox One or Xbox Series S / X console. While this isn't a Discord app for Xbox, you'll be able to transfer calls from the mobile Discord and Xbox apps to your Xbox console and chat to your friends with your regular Xbox headset.
-<a href='https://www.theverge.com/2022/7/20/23271170/discord-xbox-voice-calls-integration-hands-on'> Source <a/>
