@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rl-YpCoSvm08G8Y4KRa4sV9wqDw=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/71157942/windows11darkmode.0.jpg' width='700px' /><br/>
+Microsoft is bringing a new taskbar overflow feature to Windows 11, designed to make it easier to find your open apps once you run out of taskbar space. It's perfect for power users or people who love to keep all of their apps open all the time. The new taskbar overflow is a three-dot menu that appears once you've run out of taskbar space, and neatly hides all the apps that can't fit on the taskbar all at the same time.
+<a href='https://www.theverge.com/2022/7/21/23272493/microsoft-windows-11-taskbar-overflow-feature'> Source <a/>
