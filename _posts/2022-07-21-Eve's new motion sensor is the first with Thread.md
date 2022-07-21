@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rpd5vvFOGSv7jD_Lr4oJGqeNklY=/0x0:4500x2505/1200x800/filters:focal(1890x893:2610x1613)/cdn.vox-cdn.com/uploads/chorus_image/image/71157634/Eve_Motion_Lifestyle_03.0.jpg' width='700px' /><br/>
+Smart home company Eve continues its transition to Thread this week with the release of the second generation of its motion sensor. A wireless sensor that works over Thread and Bluetooth Low Energy, the Eve Motion is the first standalone motion sensor to use the Thread wireless protocol, which is a pillar of the new Matter smart home standard.
+<a href='https://www.theverge.com/2022/7/21/23271631/eve-motion-sensor-thread-matter-homekit-specs-release-date-price'> Source <a/>
