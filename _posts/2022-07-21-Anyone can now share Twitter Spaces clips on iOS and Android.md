@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ma3D7ZfEt8rUI8XtiNDHa-D8LZc=/0x0:1951x1301/1200x800/filters:focal(820x495:1132x807)/cdn.vox-cdn.com/uploads/chorus_image/image/71157816/FYIhvttXwAA6uVF.0.jpg' width='700px' /><br/>
+A new feature that lets you extract a short audio clip from a Twitter Space is getting a widespread release on iOS and Android, Twitter has announced. Anyone in a Space is able to make a clip, which then expires after 30 days. Although the feature isn't currently available to Twitter web users, the platform says support is “on the way.”
+<a href='https://www.theverge.com/2022/7/21/23272456/twitter-spaces-clipping-ios-android-widespread-rollout'> Source <a/>

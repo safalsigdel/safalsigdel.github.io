@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gpbFwbJZZAbo_ObvmsavxsFmTxE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71155360/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
-DoorDash is changing its policies in a move that it says will crack down on underage alcohol orders. In addition to having users upload a photo of your ID to the app, DoorDash drivers will now have to scan your ID when they arrive at your home.
-<a href='https://www.theverge.com/2022/7/20/23271290/doordash-alcohol-orders-delivery-id-doublecheck'> Source <a/>
