@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S9GY-Cqcy6qSeDnOIXQ6BawcGRQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71156629/acastro_220524_STK428_0001.0.jpg' width='700px' /><br/>
-Tesla already reported vehicle shipment numbers for the second quarter, and now its full Q2 2022 financial report (pdf) reveals it's dealing with inflation and the overall economic downturn, combined with a plunge in prices of Bitcoin and other cryptocurrencies. In the letter to investors, Tesla execs reveal the company has sold 75 percent of its Bitcoin holdings, adding $936 million in cash to its balance sheet.
-<a href='https://www.theverge.com/2022/7/20/23271834/tesla-q2-2022-earnings-elon-musk'> Source <a/>

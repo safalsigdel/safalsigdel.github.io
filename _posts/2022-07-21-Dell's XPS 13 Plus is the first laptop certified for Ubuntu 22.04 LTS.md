@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vPtNIInt5eKuzagYk66X1eK--mU=/0x0:2500x2011/1200x800/filters:focal(1161x867:1561x1267)/cdn.vox-cdn.com/uploads/chorus_image/image/71157684/dell_xps_13_plus_ubuntu_certified.0.jpg' width='700px' /><br/>
-Ten years after launching a pioneering combination of Linux preinstalled on a commercial laptop with Project Sputnik, Dell and Canonical announced that the XPS 13 Plus is the first OEM PC certified for Ubuntu 22.04 Long-Term Support (LTS). That makes this a straightforward route to having a PC that just works without worrying about whether or not each component is ready to work with Linux.
-<a href='https://www.theverge.com/2022/7/21/23272166/dell-xps-13-plus-project-sputnik-linux-laptop-ubuntu'> Source <a/>

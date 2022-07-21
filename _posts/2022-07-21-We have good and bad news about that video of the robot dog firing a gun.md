@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xpb4DTNFdslonE6qd8t-dpAUfUk=/0x0:1614x1279/1200x0/filters:focal(0x0:1614x1279):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23890206/gun_drone_1.jpg' width='700px' /><br/>
-Have you seen the tank of nightmare fuel currently circulating around the internet — the video where a robot dog fires an assault rifle? I've got good and bad news.
-<a href='https://www.theverge.com/2022/7/21/23272237/robot-dog-gun-skynet-russia-alexander-atamanov'> Source <a/>
