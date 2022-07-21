@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EoQ09CPUYVTA8MOiVO8FVYiFAZY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71156132/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+An update for the Android Google Photos app (versions 5.97 and later) can help you go directly to a list of screenshots, according to Android Police. With the update, you'll have faster access to screenshots by using a shortcut, accessible from the Photos icon on your phone's homepage with a long press or available to split out as a direct shortcut placed on your screen.
+<a href='https://www.theverge.com/2022/7/20/23271304/google-photos-screenshots-shortcut-android-update'> Source <a/>

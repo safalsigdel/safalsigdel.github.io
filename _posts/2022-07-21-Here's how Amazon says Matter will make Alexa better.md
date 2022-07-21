@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uzRvC88EkWZORWPBxSJXqykohOc=/0x0:1056x800/1200x800/filters:focal(444x316:612x484)/cdn.vox-cdn.com/uploads/chorus_image/image/71155500/Matter_Image_Amazon.0.jpg' width='700px' /><br/>
+Amazon wants every smart home device to work with its Alexa ecosystem, and it says Matter is key to achieving that goal. “We really believe in ambient intelligence — an environment where your devices are woven together by artificial intelligence so they can offer far more than any device could do on its own,” Marja Koopmans, director of Alexa smart home, told The Verge in an interview.
+<a href='https://www.theverge.com/2022/7/20/23271227/amazon-matter-smart-home-alexa-live-announcements'> Source <a/>

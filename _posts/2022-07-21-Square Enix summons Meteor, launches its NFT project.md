@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IM3fB-g3F8BIB_DVV47Y3UatFsw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71157333/FINAL_FANTASY_VII_REMAKE_E3_2019_screenshot_2.0.png' width='700px' /><br/>
+What had once been a warning of dark times to come is now a reality. Square Enix has finally announced its NFT (or non-fungible token) project after threatening us with the company's embrace of the controversial and largely reviled-by-gamers blockchain technology.
+<a href='https://www.theverge.com/2022/7/20/23271832/square-enix-nft-final-fantasy-vii-enjin-blockchain'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sDJQoJdA-6Wy1VzJeMS7-Uu53Tg=/0x0:1600x900/1200x0/filters:focal(0x0:1600x900):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23889112/52228593525_4ccff485e7_h.jpg' width='700px' /><br/>
+Marvel's Spider-Man Remastered from Insomniac Games is coming to PC on August 12th, and it's going to come with a host of PC features like unlocked framerates, Nvidia's Deep Learning Super Sampling (DLSS), and ultrawide monitor support. Insomniac Games has been working with Nixxes Software to port the game to PC, and it has included a variety of customizations you'd expect to see in a typical PC game.
+<a href='https://www.theverge.com/2022/7/20/23271527/marvels-spider-man-remastered-pc-dlss-ultrawide-monitor-support-features'> Source <a/>

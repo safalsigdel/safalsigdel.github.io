@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kAh1IBdYnXYRiqQXBEsQMCf49ww=/0x0:1532x878/1200x800/filters:focal(644x317:888x561)/cdn.vox-cdn.com/uploads/chorus_image/image/71156235/Screen_Shot_2022_07_19_at_5.16.42_PM.0.png' width='700px' /><br/>
+The new Google Wallet app is available to all customers now, shortly after people in 39 countries started seeing it available on their phones Monday. If you're having trouble finding it in Google Play, try this link.
+<a href='https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id'> Source <a/>

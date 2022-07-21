@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/75hDYy7axJrXRwXznz7mA-6sGBI=/0x0:2560x1440/1200x800/filters:focal(977x456:1385x864)/cdn.vox-cdn.com/uploads/chorus_image/image/71153521/Galaxy_Unpacked_Invite_August_2022__1_.0.jpg' width='700px' /><br/>
-Samsung has provided a clear solution to the unusual puzzle it provided yesterday, confirming that its Galaxy Unpacked event will indeed take place on August 10th. The image included with the teaser also confirms that its foldables will be taking center stage, with a Galaxy Z Flip-shaped device acting as a “greater than” symbol. The event will start at 9AM ET and will be streamed on Samsung.com.
-<a href='https://www.theverge.com/2022/7/19/23270282/samsung-galaxy-unpacked-august-2022-date-time-pre-order-foldable'> Source <a/>

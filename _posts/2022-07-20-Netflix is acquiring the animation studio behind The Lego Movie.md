@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C1f7VRBi4ffkRQmqRGGokpZ4p0M=/0x0:600x300/1200x800/filters:focal(252x102:348x198)/cdn.vox-cdn.com/uploads/chorus_image/image/71153179/the_lego_movie_4320x1080.5.jpeg' width='700px' /><br/>
-Netflix plans to acquire the animation studio Animal Logic, which is known for making hits like Happy Feet and The Lego Movie, the streaming company announced on Tuesday alongside its Q2 2022 earnings.
-<a href='https://www.theverge.com/2022/7/19/23270507/netflix-acquiring-animation-studio-animal-logic'> Source <a/>

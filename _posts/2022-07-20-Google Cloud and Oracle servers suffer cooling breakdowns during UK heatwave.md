@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wd7UFGAXQj2A4Fkjnnqqmb4Dt7U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71153330/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-Google Cloud and Oracle servers located in the UK struggled with cooling-related outages Tuesday as the country experienced record-breaking heat that reached as high as 104 degrees Fahrenheit (40 degrees Celsius). Both companies blame temperature for the unexpected shutdowns.
-<a href='https://www.theverge.com/2022/7/19/23270581/google-cloud-oracle-servers-outage-uk-cooling-failure'> Source <a/>

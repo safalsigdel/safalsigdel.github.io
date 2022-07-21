@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ie4zKQpmwBuTI8aFRc5Z9MUAeRY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71157209/steam_deck_fan_swap_005.0.jpg' width='700px' /><br/>
+160 hours into Elden Ring, I'm sure of one thing: the single most annoying thing about my Steam Deck is its whiny fan. And now, I'm so happy to report there's a way to fix it. It takes roughly 15 minutes and $30 — depending on where you live — to install a replacement fan from iFixit.
+<a href='https://www.theverge.com/2022/7/20/23271794/how-to-replace-steam-deck-fan-ifixit-noise'> Source <a/>

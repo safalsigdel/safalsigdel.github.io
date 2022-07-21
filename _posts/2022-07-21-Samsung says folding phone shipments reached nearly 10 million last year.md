@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RZi5Jp1quAbHjFCQiRcqvJ52_gk=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/71157191/dseifert_4711_samsung_z_flip_3_5.0.jpg' width='700px' /><br/>
+Samsung is gearing up the hype machine for the release of its next foldables once again, and ahead of the next Unpacked event on August 10th, mobile president TM Roh has published another blog post making the case that the time for foldables is now — and that more people are picking up foldable phones.
+<a href='https://www.theverge.com/2022/7/20/23272029/samsung-tm-roh-foldable-phones-mainstream'> Source <a/>

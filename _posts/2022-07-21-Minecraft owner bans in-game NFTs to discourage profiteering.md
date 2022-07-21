@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EavLXv28qnj2-faSpMrNq5cJEts=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71157316/Allay.0.jpeg' width='700px' /><br/>
+Minecraft developer Mojang Studios is taking a strong stance against NFTs. In a blog post titled “Minecraft and NFTs,” the studio, which is owned by Microsoft, wrote that “integrations of NFTs with Minecraft are generally not something we will support or allow.”
+<a href='https://www.theverge.com/2022/7/20/23272152/minecraft-mojang-blocks-rejects-nfts'> Source <a/>

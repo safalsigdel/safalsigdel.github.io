@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G5UCfrz8DCGu1xp3iyWS40i4VFA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71152464/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Twitch is launching a new built-in fundraising tool called Twitch Charity to make it easier for streamers to run charity streams.
-<a href='https://www.theverge.com/2022/7/19/23270007/twitch-charity-fundraising-tool-stream'> Source <a/>

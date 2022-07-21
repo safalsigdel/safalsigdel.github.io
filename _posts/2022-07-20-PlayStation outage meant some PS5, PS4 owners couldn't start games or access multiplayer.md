@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/opYryx3hC4dHo4PrgpaaC5Y--aQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71152701/Sewer_Screen07.0.jpeg' width='700px' /><br/>
-The PlayStation Network experienced some issues on Tuesday. At the time, Sony's PlayStation status page said that says that things like launching games, buying, downloading, and browsing games, and signing in to your account may have been impacted.
-<a href='https://www.theverge.com/2022/7/19/23270350/psn-playstation-network-outage-stray-cat-game-down-issues'> Source <a/>

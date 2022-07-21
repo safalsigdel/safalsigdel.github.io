@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pal6s3jZWS6zDspnJrEEJ_I6LcA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67781486/dseifert_191123_3810_0012.0.jpg' width='700px' /><br/>
-Amazon's current Echo lineup offers a broad selection of smart speakers and displays that can fit just about anywhere in your home. Whether you want to place a voice assistant in your living room, replace the bulletin board in your office, or pick up a touchscreen-enabled device to showcase recipes in the kitchen, there's an Echo device for just about every occasion and use case.
-<a href='https://www.theverge.com/21546591/best-amazon-echo-deals'> Source <a/>

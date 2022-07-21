@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q0ugx4TpnzSYyJYRcxxCWOV1j3U=/0x0:3280x2264/1200x800/filters:focal(706x480:1230x1004)/cdn.vox-cdn.com/uploads/chorus_image/image/71156248/111835564.0.jpg' width='700px' /><br/>
+Remember when Facebook's News Feed was chock full of apps like Zynga's FarmVille? This era in the early 2010s was Mark Zuckerberg's first big attempt at making Facebook much bigger than just a social network and more like a platform for developers akin to Windows.
+<a href='https://www.theverge.com/2022/7/20/23271554/facebook-platform-cambridge-analytica-meta-land-of-the-giants-podcast'> Source <a/>

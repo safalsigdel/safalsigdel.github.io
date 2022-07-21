@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Po-bzQF_Ye2o2Cc8dCzx9YXh164=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71153500/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix's upcoming ad-supported offering won't include all of the content you can currently watch on the streaming service, Netflix executives said during the company's Q2 2022 earnings interview video.
-<a href='https://www.theverge.com/2022/7/19/23270693/netflix-adds-ads-subtracts-content-streaming-tier'> Source <a/>
