@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Grcx7AQbz5_JhDgwzGlAaTUdK64=/0x0:8688x5792/1200x800/filters:focal(3649x2201:5039x3591)/cdn.vox-cdn.com/uploads/chorus_image/image/71155722/bLHo7Od0.0.jpeg' width='700px' /><br/>
-Faze Clan, one of the biggest esports companies in the world, has officially gone public via a SPAC merger with B. Riley Principal 150 Merger Corp. The deal values Faze at $725 million, according to Axios, which is lower than the original $1 billion valuation from when the merger was announced in October. Faze is now trading on the Nasdaq exchange under the ticker symbol FAZE.
-<a href='https://www.theverge.com/2022/7/20/23271414/faze-clan-public-spac-deal-merger'> Source <a/>

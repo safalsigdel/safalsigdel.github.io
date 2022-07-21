@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0UJlEa5deib2Gp7UkQUNiENY__g=/0x0:8228x4628/1200x800/filters:focal(3456x1656:4772x2972)/cdn.vox-cdn.com/uploads/chorus_image/image/71155740/Kerr_Dribble_16x9_WM.0.jpg' width='700px' /><br/>
-With the 2022 edition of the Euros currently underway in a sweltering England, interest in the women's game is particularly high right now — and EA is taking advantage with the next FIFA release.
-<a href='https://www.theverge.com/2022/7/20/23271528/ea-sports-fifa-23-trailer-release-date-womens-soccer'> Source <a/>

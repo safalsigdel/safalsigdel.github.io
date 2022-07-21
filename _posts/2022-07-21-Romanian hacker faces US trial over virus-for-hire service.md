@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a6OQJ38otQDPNG0I4ZLKr2SHM3w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71155909/akrales_220309_4977_0079.0.jpg' width='700px' /><br/>
-Cybercrime may be a global industry — but that doesn't mean criminals are immune from facing prosecution across borders.
-<a href='https://www.theverge.com/2022/7/20/23271583/romanian-hacker-extradited-banking-malware-gozi-virus-paunescu'> Source <a/>
