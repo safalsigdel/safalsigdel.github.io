@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tXWYIs2OLUq9l65b0TIz7LUB9ts=/0x0:1024x1024/1200x800/filters:focal(431x431:593x593)/cdn.vox-cdn.com/uploads/chorus_image/image/71156056/DALL_E_a_photo_of_an_astronaut_riding_a_horse_3.0.png' width='700px' /><br/>
-Those waiting for a chance to use DALL-E may soon get their turn. The powerful AI tool that generates images based on provided text will open in beta to one million users on the waitlist, OpenAI, the company that created DALL-E, announced today.
-<a href='https://www.theverge.com/2022/7/20/23271591/dall-e-ai-image-generator-beta-test-open-waitlist'> Source <a/>
