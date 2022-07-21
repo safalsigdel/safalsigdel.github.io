@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ioa4xcIgfDR4RrSWeGt1w4dYBFY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71156085/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
-Apple's latest slate of updates — iOS and iPadOS 15.6, macOS 12.5, watchOS 8.7, and tvOS 15.6 — are starting to show up for some users. Given the next versions of the OSes are likely due out in a few short months (and beta testers are already using them), it's not a surprise that Wednesday's updates are all relatively light on features. According to the release notes, here's what's new:
-<a href='https://www.theverge.com/2022/7/20/23271593/apple-ios-15-6-release-tv-sports-16'> Source <a/>

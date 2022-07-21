@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l5hlVGGs3de3lxe_Kq7GVJNX_6E=/0x0:2040x1360/1200x675/filters:focal(798x718:1124x1044)/cdn.vox-cdn.com/uploads/chorus_image/image/71158510/bfarsace_201013_5343_0009.0.jpg' width='700px' /><br/>
+Tech companies are notorious for promising modular, upgradable devices and failing to follow through. So, when Framework announced its completely upgradable thin and light laptop last year, including replaceable ports, bezels, and even (gasp) mainboards, everyone was understandably a bit skeptical.
+<a href='https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review'> Source <a/>
