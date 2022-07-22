@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FbIBd8mmFLDPGX1nkPHr02ojbTE=/0x0:1998x1342/1200x800/filters:focal(840x512:1158x830)/cdn.vox-cdn.com/uploads/chorus_image/image/71158685/neopets.0.png' width='700px' /><br/>
-A hacker claims to have stolen information from Neopets, the long-running virtual pet website, affecting 69 million users of the service.
-<a href='https://www.theverge.com/2022/7/21/23272628/neopets-hack-data-breach-69-million-stolen-accounts'> Source <a/>

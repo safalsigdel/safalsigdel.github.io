@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jFZCUSFf0A9Vy8bamFoWgjauyZc=/0x0:1220x908/1200x800/filters:focal(513x357:707x551)/cdn.vox-cdn.com/uploads/chorus_image/image/71161680/Infineon_NAC1080_Lock_Phone_and_App.0.jpg' width='700px' /><br/>
+One of the magical things about near-field communication technology (NFC) is that tags don't need a battery to communicate — you'll never need to buy a new coin cell for your employee badge, because the badge scanner wirelessly beams enough power to the badge to verify it's legit. Now, chipmaker Infineon wants to make the same thing happen with smart locks — ones that can be entirely powered by your phone.
+<a href='https://www.theverge.com/2022/7/22/23273845/infineon-smart-lock-nfc-energy-harvesting-nac-1080'> Source <a/>

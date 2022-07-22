@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RUWtSeRTD-cWljwbCORoTzJ_AlI=/0x0:5576x3718/1200x800/filters:focal(2342x1413:3234x2305)/cdn.vox-cdn.com/uploads/chorus_image/image/71161719/1394023102.0.jpg' width='700px' /><br/>
+With a months-long recess on the horizon, House progressives are urging Senate Minority Leader Chuck Schumer to act fast on two competition bills that would better equip antitrust enforcers to take on major tech firms.
+<a href='https://www.theverge.com/2022/7/22/23273924/progressives-antitrust-reform-bills-klobuchar-chuck-schumer-aico'> Source <a/>
