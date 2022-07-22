@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/212NBjK3nkZ62oL7ydquJJm60wU=/0x0:1318x879/1200x800/filters:focal(526x318:736x528)/cdn.vox-cdn.com/uploads/chorus_image/image/71158254/GFN_Thursday_Mobile_Gaming.0.jpg' width='700px' /><br/>
-Nvidia's cloud gaming service, GeForce Now, now supports 120fps game streaming across all Android phones with high refresh rate displays, rather than being limited to specific preapproved models. The rollout was announced last month, 9to5Google reported at the time, but Nvidia spokesperson Stephenie Ngo confirmed to The Verge that it's officially rolling out this week.
-<a href='https://www.theverge.com/2022/7/21/23272485/nvidia-geforce-now-120fps-android-phones-widespread-release'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z6c5C6Z1bIRO7y18eRwGdAcIiWA=/0x0:890x593/1200x800/filters:focal(374x226:516x368)/cdn.vox-cdn.com/uploads/chorus_image/image/71159875/01_More_Ways_to_Collaborate_with_Enhanced_Remix_Features.0.jpg' width='700px' /><br/>
+Instagram will soon let anyone on the platform remix your new photos, as long as your account is public. There'll be a way to turn remixing off, but you'll have to actively opt out once the option is live — it'll be enabled by default.
+<a href='https://www.theverge.com/2022/7/21/23273032/instagram-reels-public-photo-remixing'> Source <a/>

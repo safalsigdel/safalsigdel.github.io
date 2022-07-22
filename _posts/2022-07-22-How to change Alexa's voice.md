@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N5SVKUCDi2khKNkTS8Q1Z9JdS3M=/0x0:6033x4022/1200x800/filters:focal(2535x1529:3499x2493)/cdn.vox-cdn.com/uploads/chorus_image/image/69618607/dseifert_4619_echo_show_2nd_gen_2.5.jpg' width='700px' /><br/>
+Alexa's pleasant, feminine voice has filled the homes of millions over the past few years, but Amazon finally offered a viable choice last year when it released a masculine counterpart. Amazon was late to this. Apple and Google have offered different voices, both feminine and masculine, in their virtual assistants for years. But late or not, it's now easy to switch up the dulcet tones of your virtual assistant.
+<a href='https://www.theverge.com/22588961/alexa-voice-echo-male-female-celebrity-how-to-change'> Source <a/>

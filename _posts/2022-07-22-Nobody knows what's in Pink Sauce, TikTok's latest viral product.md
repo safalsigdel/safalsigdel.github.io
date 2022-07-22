@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XBwGXxYsstSPiumfTCrx18JhNwU=/0x434:1284x2038/1200x800/filters:focal(540x1287:744x1491)/cdn.vox-cdn.com/uploads/chorus_image/image/71160557/IMG_2659__1_.0.png' width='700px' /><br/>
+TikTok is known for making small businesses go viral overnight, product recommendations that cause a specific shade of blush to sell out everywhere, and convincing thousands of people to make salmon rice bowls for lunch every day.
+<a href='https://www.theverge.com/2022/7/21/23273221/pink-sauce-tiktok-viral-product-mystery-condiment'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZpL2Z8yxMKBpYM4YJRrXCph_Lrk=/0x0:2040x1360/1200x800/filters:focal(790x524:1116x850)/cdn.vox-cdn.com/uploads/chorus_image/image/71160191/jbareham_180425_2493_0134.0.jpg' width='700px' /><br/>
+Snap knows it can do better. The company reported earnings results for the second quarter of 2022 this afternoon, and the numbers show a company that's continuing to grow its users and revenue — but at a much slower rate than it used to.
+<a href='https://www.theverge.com/2022/7/21/23273242/snap-q2-2022-earnings-slowing-revenue-evan-spiegel-retention'> Source <a/>

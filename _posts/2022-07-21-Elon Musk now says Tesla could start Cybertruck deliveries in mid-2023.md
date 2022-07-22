@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ffIy849U4MHBG8YJZX-E6PK85Wk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71157159/sokane_191112_3807_8389.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk has said that the company hopes to start delivering the Cybertruck, its battery-powered electric pickup, in the “middle of next year” during a call for investors. This is a more specific timeline than Musk has provided before — in last quarter's earnings call, he said that the truck would be coming “hopefully next year.”
-<a href='https://www.theverge.com/2022/7/20/23272045/tesla-cybertruck-delivery-middle-next-year-q2-earnings'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BfngldSuVC9NNFu4lnyFlSfjjCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71156030/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-Google has internally announced a hiring freeze that will remain in place for two weeks. According to a report from The Information, Prabhakar Raghavan, Google's senior vice president, sent out an email to inform workers about the decision. This follows Google's announcement of a hiring slowdown that will last until the end of this year.
-<a href='https://www.theverge.com/2022/7/20/23271634/google-hiring-pause-two-weeks-review-headcount-needs'> Source <a/>

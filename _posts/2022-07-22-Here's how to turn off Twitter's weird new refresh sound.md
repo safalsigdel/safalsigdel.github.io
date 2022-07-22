@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C6QQgEOEk5czgw-D_Et2jPp0t2Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71159915/acastro_170726_1777_0012.5.jpg' width='700px' /><br/>
+Recently, Twitter users noticed that the app has started making a new sound — when you pull down to refresh your timeline, notifications, DMs, or pretty much anything else in the official app, there's a robotic chirp sound that sounds like a futuristic bird or frog. The sound has been polarizing — some people have been mesmerized by it, while others hate it.
+<a href='https://www.theverge.com/2022/7/21/23273010/twitter-refresh-sound-turn-off-how-to'> Source <a/>

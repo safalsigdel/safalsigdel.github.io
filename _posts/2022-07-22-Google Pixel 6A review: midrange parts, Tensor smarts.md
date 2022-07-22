@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/szYFtYi2MS3ubH4NQAgYbEh2hBI=/0x0:2040x1360/1200x675/filters:focal(895x591:1221x917)/cdn.vox-cdn.com/uploads/chorus_image/image/71159335/vpavic_220708_5335_0017.0.jpg' width='700px' /><br/>
+For a few years running, the Pixel A-series phone was a no-brainer: always the best Android phone in its midrange class. With the Pixel 6A, things are a little different. Google is shifting its priorities for its Pixel phones, and competitors like Samsung have closed the gap. The 6A still has the best performance and camera quality at its price, but it's not quite the shoo-in that it once was.
+<a href='https://www.theverge.com/23272042/google-pixel-6a-review-screen-price-specs-battery-camera'> Source <a/>

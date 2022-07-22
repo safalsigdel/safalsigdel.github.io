@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1lLnvfNSXh0NaZ453uHcN1W5mbs=/0x0:2048x1280/1200x800/filters:focal(861x477:1187x803)/cdn.vox-cdn.com/uploads/chorus_image/image/71160920/Teenage_Mutant_Ninja_Pixels.0.png' width='700px' /><br/>
+A cool thing about Google's Pixel 6 series phones is their unique camera bar design. If the finish of that strip were a different color than black — specifically blue, orange, purple, or red — it would totally look kind of like the Teenage Mutant Ninja Turtles. And now that you can't unsee the resemblance, device outfitter Dbrand would like to help make your Pixel 6 device look like one of your favorite childhood heroes.
+<a href='https://www.theverge.com/2022/7/21/23273392/google-pixel-6-6a-dbrand-tmnt-tmnp-ninja-turtles-skin'> Source <a/>

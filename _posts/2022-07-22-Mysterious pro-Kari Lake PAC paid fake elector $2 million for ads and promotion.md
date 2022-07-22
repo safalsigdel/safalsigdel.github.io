@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jh8mzrejqTHKnKBRGYxXsLPihcA=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71159627/VRG_Illo_K_Radtke_226083_Keri_Lake.0.jpg' width='700px' /><br/>
+An alleged troll farm operator has received more than $2 million to boost the candidacy of GOP Arizona gubernatorial candidate Kari Lake — and no one is sure where the money is coming from.
+<a href='https://www.theverge.com/2022/7/21/23273007/kari-lake-arizona-governor-jake-hoffman-karrin-taylor-robson-rally-forge-pac'> Source <a/>

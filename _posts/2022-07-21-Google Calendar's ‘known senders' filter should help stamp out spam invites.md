@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-BzQfiuJtvmHvgZ-xagMr3DDtZo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71156160/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google Calendar's new “known senders” option is supposed to make it easier to keep spam from clogging up your schedule. Toggling on the setting prevents invites from people you don't know from automatically appearing in your Calendar. This way, Google Calendar will only automatically add invites from people in your contacts list, anyone you've interacted with through Workspace, and users in your company or organization.
-<a href='https://www.theverge.com/2022/7/20/23271485/google-calendar-known-senders-filter-spam-invites'> Source <a/>

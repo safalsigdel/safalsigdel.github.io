@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vqL_Z3JAw9bhUH1tPpMBfUCBW20=/0x0:1920x1080/1200x800/filters:focal(664x363:970x669)/cdn.vox-cdn.com/uploads/chorus_image/image/71159482/pixel6a.0.jpeg' width='700px' /><br/>
+Updated 4:13PM ET, July 21st: Added trade-in value info for older Google Pixel phones that the Google Store will offer at the time of purchase.
+<a href='https://www.theverge.com/2022/7/21/23268576/google-pixel-6a-buds-pro-phone-price-earbuds-buy-preorder'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uEh3XGqdLZ9NjgFTI023rA6DLlQ=/0x0:1320x743/1200x800/filters:focal(555x267:765x477)/cdn.vox-cdn.com/uploads/chorus_image/image/71158657/download__2_.0.jpg' width='700px' /><br/>
+Rivian's R1T electric trucks are becoming increasingly visible across the US, and now Amazon reveals the electric delivery vans it's buying from Rivian are ready for a nationwide rollout.
+<a href='https://www.theverge.com/2022/7/21/23272649/rivian-amazon-electric-delivery-vehicle-100-cities-2022'> Source <a/>

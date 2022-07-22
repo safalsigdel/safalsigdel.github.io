@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dduq-eE5Ke96o1dyEhLZCBWCUUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71158303/akrales_170802_1743_0094.0.jpg' width='700px' /><br/>
-Warner Music Group has cut a licensing deal with SoundCloud to adopt the streamer's Fan-Powered Royalties system, which allocates royalties based on individual user listening and is thought to be more artist-friendly. WMG is the first major label to adopt the system, and its embrace of the model could signal a larger shift for the industry.
-<a href='https://www.theverge.com/2022/7/21/23272548/warner-music-soundcloud-user-centric-model-spotify'> Source <a/>

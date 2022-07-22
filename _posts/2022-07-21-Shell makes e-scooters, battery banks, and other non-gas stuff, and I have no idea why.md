@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NoOLajaXAx1CRJDjKjD0T1z04bY=/0x0:1700x975/1200x800/filters:focal(714x352:986x624)/cdn.vox-cdn.com/uploads/chorus_image/image/71158379/SR_5S_Man_Hold_3.0.jpg' width='700px' /><br/>
-Shell, the company known for selling gasoline to fill your car, is trying to diversify with other forms of transit, like making electric scooters. That's right, instead of driving to the red and yellow mollusk in one of the corners of your town for a fossil fuel fill-up, you can just ride with it on a battery-powered Shell Ride scooter.
-<a href='https://www.theverge.com/2022/7/21/23271865/shell-e-scooters-consumer-gear-climate-change'> Source <a/>

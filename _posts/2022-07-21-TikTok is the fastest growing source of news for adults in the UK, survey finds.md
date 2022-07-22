@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aptceHF2aLykChxWDiU1beZ8uSY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71158073/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-A survey of news consumption habits has found that TikTok is the fastest growing news source among adults in the UK. According to a report from UK regulator Ofcom, the app is currently used by 7 percent of UK adults as a news source, compared to 1 percent in 2020.
-<a href='https://www.theverge.com/2022/7/21/23272503/tiktok-news-source-uk-ofcom-report-disinformation'> Source <a/>
