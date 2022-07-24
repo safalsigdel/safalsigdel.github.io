@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cxMlghVf6zUTEQ0SJlB7E2EjTHY=/0x0:2040x1360/1200x675/filters:focal(942x537:1268x863)/cdn.vox-cdn.com/uploads/chorus_image/image/71165259/jporter_220715_5336_0009.0.jpg' width='700px' /><br/>
-One of the core appeals of mechanical keyboards is their customizability. With the right keyboard, there's an almost infinite amount of parts to upgrade, swap out, or customize to get a keyboard that precisely suits your needs. There's obviously nothing wrong with using a keyboard exactly as it comes out of the box, but sometimes it's just plain fun to tinker.
-<a href='https://www.theverge.com/23274022/corsair-k70-pro-mini-wireless-review-60-percent-gaming-mechanical-keyboard'> Source <a/>
