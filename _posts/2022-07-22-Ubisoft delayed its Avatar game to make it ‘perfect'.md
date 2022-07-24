@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PTZbLVREvtnFkHksHOfs6MK7RC8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71159172/avfop_media_screenshot_001.0.jpeg' width='700px' /><br/>
-Ubisoft has delayed Avatar: Frontiers of Pandora from a 2022 release window to sometime in 2023 or 2024, the company announced as part of its Q1 earnings on Thursday (pdf). The delay keeps up with something of a tradition for Avatar properties to get pushed.
-<a href='https://www.theverge.com/2022/7/21/23272848/ubisoft-delays-avatar-frontiers-of-pandora'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zgpAhAXcqXLLUNyJw8GqMZoLq5k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71159246/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Twitch is rolling out a new safety tool that will allow streamers to share information on users they've banned from their chat. Shared Ban Info, as the new function will be known, will allow streamers to cooperate in keeping their communities safe from malicious actors.
-<a href='https://www.theverge.com/2022/7/21/23272830/twitch-banned-users-info-ban-evasion-trust-safety'> Source <a/>

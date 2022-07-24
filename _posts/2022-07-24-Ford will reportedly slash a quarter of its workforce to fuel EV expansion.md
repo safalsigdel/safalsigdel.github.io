@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_MM4BfQta7qxib2sW76uQFY0th0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71163704/acastro_200406_1777_ford_0001.0.0.jpg' width='700px' /><br/>
+Ford is eyeing major cuts to its workforce in the midst of a shift to electric vehicles. According to a recent report in Bloomberg, the Blue Oval is gearing up to lay off 8,000 salaried workers — about a quarter of its workforce in the US — as it aims to reduce $3 billion in operational costs by 2026.
+<a href='https://www.theverge.com/2022/7/22/23274230/ford-blue-layoffs-model-e-ev'> Source <a/>

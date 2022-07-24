@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UBzIg4mA3Tt1eRUw9gsfpnRte9Q=/0x0:2348x1448/1200x800/filters:focal(694x721:1068x1095)/cdn.vox-cdn.com/uploads/chorus_image/image/71165597/Screenshot_2022_07_22_at_09.22.53.0.png' width='700px' /><br/>
+Walk The Distance is the type of app that'll motivate a very specific type of person to get off the couch and get some exercise. Instead of having you walk to escape zombies or catch Pokxc3xa9mon, it lets you virtually walk long-distance routes like the Appalachian Trail (AT) and Pacific Crest Trail (PCT) — perfect for those of us who don't mind our local walking paths but wish for something a little more scenic.
+<a href='https://www.theverge.com/2022/7/23/23272407/walk-the-distance-app-exercise-motivation'> Source <a/>

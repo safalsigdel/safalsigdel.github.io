@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yO9d2OSu7281qEOJXYyYx4O1hj8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71161871/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
-Twitter would have earned more money over the past few months if Elon Musk hadn't been in the picture. At least, that's what the company says in its Q2 earnings release this morning, citing Musk as a factor in its revenue results, which fell year over year to $1.18 billion from $1.19 billion.
-<a href='https://www.theverge.com/2022/7/22/23273922/twitter-q2-2022-earnings-elon-musk-advertisers'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b2yVfbF_RMxoqx9UjBSgiACHqXk=/0x0:1648x1054/1200x800/filters:focal(693x396:955x658)/cdn.vox-cdn.com/uploads/chorus_image/image/71160031/Screen_Shot_2022_07_21_at_3.13.37_PM.0.png' width='700px' /><br/>
-Google's latest and most advanced wireless earbuds yet, the Pixel Buds Pro, won't be on store shelves for another week. But the company has announced that its Android software is already prepared for one of the earbuds' most convenient new features: the Pixel Buds Pro will be able to switch between devices automatically — no settings menus necessary.
-<a href='https://www.theverge.com/2022/7/21/23273231/android-pixel-buds-pro-audio-automatic-switching-headphones'> Source <a/>

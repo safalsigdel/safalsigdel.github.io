@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rr8uUfJr7IAma7k46VY9ZpJNjb0=/0x0:1252x704/1200x0/filters:focal(0x0:1252x704):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23893522/hulu.jpg' width='700px' /><br/>
+Earlier this week, Amazon announced a major redesign of Prime Video, and the overwhelming response was “finally.” Prime Video had become a relic frozen in time, with an ugly, laggy interface that seemed stuck in 2010. Amazon's streaming competitors, meanwhile, have routinely switched up and refined the user experience.
+<a href='https://www.theverge.com/23274393/amazon-prime-video-netflix-hbo-apps-look-the-same'> Source <a/>

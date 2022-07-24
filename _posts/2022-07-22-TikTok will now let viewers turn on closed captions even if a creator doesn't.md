@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h5YWFTr0Yx6dv6HgI8hnyREER1M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71158938/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-TikTok is making it easier for users to watch videos with auto-generated captions, the company announced today, updating a feature it introduced in 2021 that had a number of shortcomings.
-<a href='https://www.theverge.com/2022/7/21/23272700/tiktok-auto-captions-subtitles-accessibility-language-translations'> Source <a/>

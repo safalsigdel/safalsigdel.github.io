@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IBS1vSmo5ogp23ldaMfvCLzYc3U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71164583/acastro_180226_0001.0.jpg' width='700px' /><br/>
+There's been a bit of back and forth since the change was originally announced, but this week Microsoft started rolling out an update to Microsoft Office that blocks the use of Visual Basic for Applications (VBA) macros on downloaded documents.
+<a href='https://www.theverge.com/2022/7/22/23274905/microsoft-office-block-macros-security-malware-default-warning'> Source <a/>

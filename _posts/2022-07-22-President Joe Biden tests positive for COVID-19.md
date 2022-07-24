@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Us2dB5ddZybdUKD_hOJRnNEDDwU=/0x0:6000x4000/1200x800/filters:focal(2511x913:3471x1873)/cdn.vox-cdn.com/uploads/chorus_image/image/71158647/1242020956.0.jpg' width='700px' /><br/>
-President Joe Biden has tested positive for COVID-19, the White House announced today. Biden is experiencing mild symptoms and has started taking Paxlovid, an antiviral treatment.
-<a href='https://www.theverge.com/2022/7/21/23272693/joe-biden-covid-19-positive-test-symptoms-paxlovid'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ioR3_LbCU3RoqGHPLR9yjxmzGOY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71160589/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google says it's rolling back its decision to remove a section from the Play Store that listed which permissions an app uses. The company had more or less replaced that info with its Data Safety section, which is supposed to give you an idea of what data apps are collecting and how that data is used.
-<a href='https://www.theverge.com/2022/7/21/23273288/google-play-store-permissions-section-data-safety-reenabled'> Source <a/>

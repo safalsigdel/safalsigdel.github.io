@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2pnYOK67vje3lIB1kwtdI8om0Bo=/0x0:1500x750/1200x800/filters:focal(630x255:870x495)/cdn.vox-cdn.com/uploads/chorus_image/image/71163962/fitbit_sense_design_cover.0.jpeg' width='700px' /><br/>
+Buttons are a touchy subject among smartwatch owners, but new leaked Fitbit Sense 2 and Versa 4 photos from 9to5Google indicate the company is ditching capacitive buttons for both of its next-gen smartwatches.
+<a href='https://www.theverge.com/2022/7/22/23274463/fitbit-sense-2-versa-4-leaked-photos-buttons'> Source <a/>
