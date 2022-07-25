@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OAxCgG50yWwXHYQXgspZHLg36BI=/0x0:2048x1155/1200x800/filters:focal(861x415:1187x741)/cdn.vox-cdn.com/uploads/chorus_image/image/71170432/googleplay10.0.png' width='700px' /><br/>
+Google Play is getting a new logo today to celebrate its 10-year anniversary. Google has slightly tweaked the overall shape of its Google Play logo, but the most notable changes are the less vibrant colors that more closely match the green, yellow, blue, and red hues that Google uses for many of its other services. It's a subtle adjustment that also complements the new Chrome logo updated earlier this year.
+<a href='https://www.theverge.com/2022/7/25/23277042/google-play-new-logo-10-year-anniversary'> Source <a/>

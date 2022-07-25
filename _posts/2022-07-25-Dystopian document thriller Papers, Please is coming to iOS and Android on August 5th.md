@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n4cNSKDM7oSK0ILXb7T4b5fLJpk=/0x0:1100x617/1200x800/filters:focal(462x221:638x397)/cdn.vox-cdn.com/uploads/chorus_image/image/71169259/steamworkshop_webupload_previewfile_138290904_preview.0.png' width='700px' /><br/>
-The self-described “dystopian document thriller” Papers, Please is getting a new mobile port for iOS and Android, out on August 5th as a paid, standalone app.
-<a href='https://www.theverge.com/2022/7/25/23277003/papers-please-mobile-port-app-ios-android-release-date-august-5'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/n4cNSKDM7oSK0ILXb7T4b5fLJpk=/0x0:1100x617/1200x800/filters:focal(462x221:638x397)/cdn.vox-cdn.com/uploads/chorus_image/image/71169259/steamworkshop_webupload_previewfile_138290904_preview.0.png' width='700px' /><br/>
-The self-described “dystopian document thriller” Papers, Please is getting a new mobile port for iOS and Android, out on August 5th as a paid, standalone app.
-<a href='https://www.theverge.com/2022/7/25/23277003/papers-please-mobile-port-app-ios-android-release-date-august-5'> Source <a/>

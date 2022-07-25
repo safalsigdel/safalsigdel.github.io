@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/clhFuUAYpUuNS2VEZArR56pXp94=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71170419/acastro_200320_1777_huluStock_0001.0.0.jpg' width='700px' /><br/>
+Abortion rights, gun control, and climate change have taken center stage for Democrats running in this year's midterm elections. But the popular streaming service Hulu has repeatedly rejected Democratic ads focusing on these central campaign issues over the last few weeks, as first reported by The Washington Post on Monday.
+<a href='https://www.theverge.com/2022/7/25/23277391/hulu-blocks-democratic-ads-abortion-guns-climate-change-january-6-insurrection'> Source <a/>
