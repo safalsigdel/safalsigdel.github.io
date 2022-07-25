@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/IPd05_GudPsvoro4xhQnPCizC3E=/163x163:3223x2406/1200x800/filters:focal(1025x1043:1633x1651)/cdn.vox-cdn.com/uploads/chorus_image/image/71165698/1239850229.0.jpg' width='700px' /><br/>
 Dough is fantastic. You can make bread with it! Not to mention biscuits, cookies, pies, pizzas, pasta, and pastry. But — to the best of our knowledge — you cannot make a PC monitor with the stuff.
+<a href='https://www.theverge.com/2022/7/23/23274889/eve-dough-name-change-spectrum-monitor-eve-v-tablet'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/IPd05_GudPsvoro4xhQnPCizC3E=/163x163:3223x2406/1200x800/filters:focal(1025x1043:1633x1651)/cdn.vox-cdn.com/uploads/chorus_image/image/71165698/1239850229.0.jpg' width='700px' /><br/>
+Dough is fantastic. You can make bread with it! Not to mention biscuits, cookies, pies, pizzas, pasta, and pastry. But — to the best of our knowledge — you cannot make a PC monitor with the stuff.
 <a href='https://www.theverge.com/2022/7/23/23274889/eve-dough-name-change-spectrum-monitor-eve-v-tablet'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Sgl24eITR1haCkmpZLqM73c2DsQ=/0x0:6048x3400/1200x800/filters:focal(2541x1217:3507x2183)/cdn.vox-cdn.com/uploads/chorus_image/image/71169207/1272738198.0.jpg' width='700px' /><br/>
+A chess robot broke the finger of a seven-year-old boy playing in a tournament in Russia, according to reports from local news outlets (seen via The Guardian).
+<a href='https://www.theverge.com/2022/7/25/23276982/chess-robot-breaks-childs-finger-russia-tournament'> Source <a/>
