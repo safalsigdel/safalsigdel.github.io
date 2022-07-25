@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XVcwr6DlGqq5yqdOGUKAbhjyfsM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71170489/DSCF3896.0.jpg' width='700px' /><br/>
+It's another week of deals here at The Verge, and we've got some bangers ranging from the greatest hits to some of the most fun niches.
+<a href='https://www.theverge.com/good-deals/2022/7/25/23277088/apple-tv-4k-streaming-macbook-air-m1-beats-fit-pro-samsung-galaxy-flip-3-elgato-camlink-deal-sale'> Source <a/>
