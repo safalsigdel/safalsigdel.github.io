@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BUDzt9oiCJrdw-tIYev9rariGnY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71167454/ADF_Screenshot_09_3840x2160_RGB_5648dac2ac0f6dfc2971.0.jpg' width='700px' /><br/>
-As my wife and I played through As Dusk Falls, a tense new interactive thriller that recently launched on Xbox Game Pass, we would regularly turn to each other on the couch and say, “Coin flip.”
-<a href='https://www.theverge.com/2022/7/24/23274602/as-dusk-falls-xbox-game-pass-review-couch-co-op'> Source <a/>

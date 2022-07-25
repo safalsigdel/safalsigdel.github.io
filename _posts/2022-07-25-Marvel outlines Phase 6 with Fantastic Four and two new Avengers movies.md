@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MvdV2hB5ViQQc9DBS3mwgHFcSjM=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/71167057/FYZK4nLVEAEK0hU.0.jpg' width='700px' /><br/>
-Marvel is looking far into its future at San Diego Comic-Con. The company confirmed that Black Panther: Wakanda Forever (which just got its first trailer) will end phase four of its cinematic universe on November 11th, and outlined what to expect for phase five. But Marvel also took things one step farther and detailed phase six of the MCU with a trio of movie announcements.
-<a href='https://www.theverge.com/2022/7/23/23275861/marvel-phase-6-fantastic-four-avengers-sdcc'> Source <a/>
