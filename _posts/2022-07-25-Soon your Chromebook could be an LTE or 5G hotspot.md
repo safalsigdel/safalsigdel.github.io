@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kAWq9e_aHT4emIMuAsoRYe0zCA0=/0x0:6459x4306/1200x800/filters:focal(2714x1637:3746x2669)/cdn.vox-cdn.com/uploads/chorus_image/image/71170675/akrales_211012_4763_0139.0.jpg' width='700px' /><br/>
+If your Chromebook supports mobile connectivity, you may be able to start using it as a hotspot. The upcoming change was spotted by 9to5Google in Chromium Gerrit, the web-based code review system Google's developers use to work on future updates.
+<a href='https://www.theverge.com/2022/7/25/23277096/chromebook-hotspot-mobile-connectivity-google-developers'> Source <a/>
