@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qDR7M3fNF4Abv_OLDexPTWGu0to=/0x0:4835x3280/1200x800/filters:focal(2032x1254:2804x2026)/cdn.vox-cdn.com/uploads/chorus_image/image/71169614/1393875852.0.jpg' width='700px' /><br/>
-Our fearless leader, Nilay Patel, sent me an article about Chipotle accepting cryptocurrency for payment earlier this year. I did think about writing something to troll my cryptocurrency-hating editor who loves Chipotle, but then Elon Musk did some manner of nonsense, and I forgot.
-<a href='https://www.theverge.com/2022/7/25/23274297/chipotle-bitcoin-buy-the-dip-flexa'> Source <a/>
