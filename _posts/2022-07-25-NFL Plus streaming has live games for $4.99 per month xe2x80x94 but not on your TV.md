@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8RZ1M4dOg0JvJKJINYElnDb8gC0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71170059/NFL__PRODUCT_HERO.0.jpg' width='700px' /><br/>
+The National Football League (NFL) has finally launched its mobile streaming service, NFL Plus. The service is available in two different tiers: NFL Plus and NFL Plus Premium, for $4.99 / month ($39.99 / year) or $9.99 / month ($79.99 / year), respectively.
+<a href='https://www.theverge.com/2022/7/25/23277153/nfl-plus-streaming-live-games-super-bowl-premium-subscription'> Source <a/>
