@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/KQJR5nOASk5SUf6HEwaYZPrL0QI=/0x0:1584x1056/1200x800/filters:focal(666x402:918x654)/cdn.vox-cdn.com/uploads/chorus_image/image/71166223/game_of_thrones_4k.0.jpeg' width='700px' /><br/>
 Game of Thrones in 4K HDR is set to arrive on HBO Max this August. You'll get to stream all eight seasons with support for Dolby Vision and Dolby Atmos, making for a nice way to bide the time before the series premiere of House of the Dragon on August 21st.
-<a href='https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/KQJR5nOASk5SUf6HEwaYZPrL0QI=/0x0:1584x1056/1200x800/filters:focal(666x402:918x654)/cdn.vox-cdn.com/uploads/chorus_image/image/71166223/game_of_thrones_4k.0.jpeg' width='700px' /><br/>
-Game of Thrones in 4K HDR is set to arrive on HBO Max this August. You'll get to stream all eight seasons with support for Dolby Vision and Dolby Atmos, making for a nice way to bide the time before the series premiere of House of the Dragon on August 21st.
 <a href='https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august'> Source <a/>
