@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZizAz2Kt3XK5rv9DezFjboqmKWo=/0x0:1774x1182/1200x800/filters:focal(746x450:1028x732)/cdn.vox-cdn.com/uploads/chorus_image/image/71170429/0._Blog_header.0.jpg' width='700px' /><br/>
-Google is rolling out some much-needed upgrades to its Android tablet apps, the company has announced, as it attempts to make them work better on devices with larger screens. Updates are coming for apps including Drive, Docs, Sheets, Slides, and Keep, and Google's announcement says they should arrive over the coming weeks.
-<a href='https://www.theverge.com/2022/7/25/23277050/google-android-tablet-apps-update-docs-slides-drive-sheets'> Source <a/>
