@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fS81c0yuDTDYKf9jorSrT6FoCFQ=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/71173514/1236631423.0.jpg' width='700px' /><br/>
+General Motors needs a lot of cathode active materials (CAM) if it's to reach its goal of making enough electric vehicles to become a completely carbon neutral company by 2040. How much is enough? How about 950,000 tons of the stuff.
+<a href='https://www.theverge.com/2022/7/26/23278733/gm-lg-chem-cathode-deal-ev-battery-earnings'> Source <a/>
