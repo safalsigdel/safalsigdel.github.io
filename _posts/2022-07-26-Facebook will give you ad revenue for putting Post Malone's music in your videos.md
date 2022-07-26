@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jbXxyOFWQZ75Vt-zv4uSb4Q9v3E=/0x0:4087x2725/1200x800/filters:focal(1718x1037:2370x1689)/cdn.vox-cdn.com/uploads/chorus_image/image/71171430/1391908614.0.jpg' width='700px' /><br/>
-Meta launched a new feature on Monday that allows creators to monetize Facebook videos that feature music from major artists like Post Malone and Tove Lo. By incentivizing creators to stay within the legal bounds of music use on its platforms, Meta may be able to reassure the music industry that it takes copyright infringement seriously.
-<a href='https://www.theverge.com/2022/7/25/23277839/facebook-post-malone-meta-youtube-music'> Source <a/>

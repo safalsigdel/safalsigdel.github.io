@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1xWhdwFgcdcWkjBeY0XI4d_c77w=/0x0:2040x1360/1200x800/filters:focal(1035x346:1361x672)/cdn.vox-cdn.com/uploads/chorus_image/image/71173777/akrales_200423_3988_0002.0.0.jpg' width='700px' /><br/>
-Instagram's leader wants you to know that the company is going to keep leaning into video. In a short video this morning that seems like it's aimed at No. 2 Instagram user Kylie Jenner, Instagram head Adam Mosseri lays out bluntly that the app is going to keep shifting away from its photo roots.
-<a href='https://www.theverge.com/2022/7/26/23278763/instagram-video-adam-mosseri-photos-jenner-petition'> Source <a/>
