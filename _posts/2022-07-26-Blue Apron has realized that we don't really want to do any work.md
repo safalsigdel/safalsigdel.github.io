@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IC6Ogti0SWMHx6fr21ORLaAFX68=/0x0:5702x3567/1200x800/filters:focal(2395x1328:3307x2240)/cdn.vox-cdn.com/uploads/chorus_image/image/71170693/Q3_Ready_to_Cook_129_NEW.0.jpg' width='700px' /><br/>
-Struggling meal kit company Blue Apron has launched a new line of ready-to-make meals, addressing the complaint that its home-delivered, pre-portioned recipes still require too much work to make and too much cleanup afterward.
-<a href='https://www.theverge.com/2022/7/25/23277373/blue-apron-ready-to-cook-meal-kit-service'> Source <a/>
