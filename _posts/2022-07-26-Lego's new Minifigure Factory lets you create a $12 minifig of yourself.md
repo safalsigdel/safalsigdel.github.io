@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CSwesC4DhWFMnYZfRmNA1fTZMBA=/0x0:852x559/1200x800/filters:focal(358x212:494x348)/cdn.vox-cdn.com/uploads/chorus_image/image/71171403/Screen_Shot_2022_07_25_at_9.31.23_AM.0.png' width='700px' /><br/>
-Lego is testing a new online Minifigure maker, the Minifigure Factory, that lets you create a Lego person of your very own (via Jay's Brick Blog, which I promise has no relation to me).
-<a href='https://www.theverge.com/2022/7/25/23277421/lego-minifigure-factory-tool-customize'> Source <a/>
