@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eciBCDR4HOaDDFupUasC4vFjhAo=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/71174653/TGM_SU_20210716_06611rv2.0.jpg' width='700px' /><br/>
+The Gray Man just debuted on Netflix last week, but the streamer already has some big plans for it as a budding franchise. Today, Netflix announced not just a sequel for the thriller but also a spinoff, instantly turning The Gray Man into the company's next cinematic universe. The company says its plan is to turn it into “a major spy franchise.”
+<a href='https://www.theverge.com/2022/7/26/23279002/netflix-the-gray-man-sequel-spinoff-cinematic-universe'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sOV5-bjEH1EoTEKhyIA0gzFF_bI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71174061/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-Another one of Meta's social experiments is shutting down. It's called Tuned, and if you're like me, this is probably the first and last time you'll ever hear of it (via TechCrunch).
-<a href='https://www.theverge.com/2022/7/26/23278767/meta-tuned-social-app-couples-shutting-down-date'> Source <a/>

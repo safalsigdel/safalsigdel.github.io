@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m8laBblwAEVrT2UKm6LhliU4Jjs=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/71173478/Galaxy_S22_Bora_Purple_Front.0.jpg' width='700px' /><br/>
-Samsung's Galaxy S22 is launching in a new purple color today, which is officially called “Bora Purple.” As the company's press release helpfully points out, “Bora” is the Korean word for “purple,” meaning that the new color is effectively called “purple purple.” It goes on sale on August 10th for $799.99, the same price as the original Galaxy S22.
-<a href='https://www.theverge.com/2022/7/26/23278713/samsung-galaxy-s22-bora-purple-color'> Source <a/>

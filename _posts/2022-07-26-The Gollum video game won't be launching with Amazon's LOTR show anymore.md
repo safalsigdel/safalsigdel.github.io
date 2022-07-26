@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LBwRKF9jUqlLI1XhAsDt_WptL7g=/0x0:4424x2326/1200x800/filters:focal(2119x902:2825x1608)/cdn.vox-cdn.com/uploads/chorus_image/image/71171623/Screenshot_2022_07_25_at_12.10.11.0.png' width='700px' /><br/>
-The Lord of the Rings: Gollum, a video game where you play as the titular jewelry fan, has been delayed from its September 1st release date. According to a statement posted on Twitter by the game's developers, Daedalic Entertainment, it'll be releasing “a few months” later, with the exact date coming soon.
-<a href='https://www.theverge.com/2022/7/25/23277777/gollum-video-game-delay-lord-of-the-rings-of-power-amazon-show'> Source <a/>
