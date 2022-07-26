@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dKRo6DdKne0OV-CkImVguOHxSBw=/0x0:1920x1080/1200x800/filters:focal(821x639:1127x945)/cdn.vox-cdn.com/uploads/chorus_image/image/71174532/QF_header.0.png' width='700px' /><br/>
+Sometimes a word can be so hard to spell that any attempts are too garbled for autocorrect to offer helpful suggestions.
+<a href='https://www.theverge.com/23278069/how-to-spell-words-dictation-difficult-spelling-voice-autocorrect'> Source <a/>

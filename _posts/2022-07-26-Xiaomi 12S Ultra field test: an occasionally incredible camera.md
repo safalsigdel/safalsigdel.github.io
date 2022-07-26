@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h4a5iv3PRg6oEi9R19nCTiFv0IY=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71174191/DSC03015.0.jpg' width='700px' /><br/>
+The Xiaomi 12S Ultra's camera is a remarkable achievement: it's one of just a few smartphones ever to offer a 1-inch-type sensor. Relatively speaking, that's a huge sensor for a phone, and bigger sensors generally lead to better image quality.
+<a href='https://www.theverge.com/23278136/xiaomi-12s-ultra-camera-leica-versus-pixel-6-pro-galaxy-s22-iphone-13-max'> Source <a/>

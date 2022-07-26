@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p-z7yWHyX_fyld-GtyVleYJ5710=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71173508/akrales_220722_5342_0236.0.jpg' width='700px' /><br/>
+Mark Zuckerberg stared into his webcam, trying to make yet another remote meeting seem urgent.
+<a href='https://www.theverge.com/23277797/mark-zuckerberg-meta-facebook-employees-pressure'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/p-z7yWHyX_fyld-GtyVleYJ5710=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71173508/akrales_220722_5342_0236.0.jpg' width='700px' /><br/>
+Mark Zuckerberg stared into his webcam, trying to make yet another remote meeting seem urgent.
+<a href='https://www.theverge.com/23277797/mark-zuckerberg-meta-facebook-employees-pressure'> Source <a/>
