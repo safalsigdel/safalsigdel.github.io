@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n4kdhlG6_GoBrJDmmLbCfwenpvQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71172170/akrales_211015_4758_0067.0.jpg' width='700px' /><br/>
+Remember when everyone wanted to own your phone and your laptop? Dell's finally tossing in the towel (via Windows Central).
+<a href='https://www.theverge.com/2022/7/25/23278047/dell-mobile-connect-discontinued-2023'> Source <a/>
