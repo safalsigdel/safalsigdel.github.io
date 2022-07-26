@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J1_EAYhH0RtWEmoT-a6yeIKRJBk=/0x0:1520x1020/1200x800/filters:focal(639x389:881x631)/cdn.vox-cdn.com/uploads/chorus_image/image/71174610/SPo2_Hero_option1.0.png' width='700px' /><br/>
+SpO2 sensors, which enable blood oxygen monitoring, were one of the marquee upgrades when Oura announced its third-generation smart ring. The only catch was that, even though the new Oura Ring had the necessary hardware, the feature itself was still in the works. Now, roughly nine months after launch, Oura says blood oxygen sensing will finally start rolling out to users this week.
+<a href='https://www.theverge.com/2022/7/26/23278819/oura-ring-gen-3-spo2-blood-oxygen'> Source <a/>

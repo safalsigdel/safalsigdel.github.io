@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wgip7S75kURRB2hpak0QrsVIw5k=/0x0:2180x1306/1200x800/filters:focal(916x479:1264x827)/cdn.vox-cdn.com/uploads/chorus_image/image/71171566/Screen_Shot_2022_07_25_at_2.54.44_PM.0.png' width='700px' /><br/>
-There is no obvious way to download an image from a Google Docs document.
-<a href='https://www.theverge.com/23277254/how-to-download-an-image-from-a-google-doc-quick-fixes'> Source <a/>
