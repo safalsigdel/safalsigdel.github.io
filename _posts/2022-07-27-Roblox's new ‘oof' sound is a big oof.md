@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qYxFKgeeoG1q5IwaZ_KpZMpOpYI=/0x0:4000x2667/1200x800/filters:focal(1831x1066:2471x1706)/cdn.vox-cdn.com/uploads/chorus_image/image/71178786/1230048150.0.jpg' width='700px' /><br/>
+Roblox has gotten rid of the iconic “oof” sound your character makes when dying (that even I, as an adult, can find some semblance of joy in). In a thread on Twitter (via Kotaku), Roblox explains it removed the sound “due to a licensing issue” and replaced it with a new noise that, in my opinion, sounds weird as hell.
+<a href='https://www.theverge.com/2022/7/27/23280552/roblox-replaces-iconic-oof-sound'> Source <a/>
