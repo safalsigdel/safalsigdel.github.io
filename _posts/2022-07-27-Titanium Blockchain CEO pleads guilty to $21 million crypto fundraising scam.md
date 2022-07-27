@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IP-W9P_fZv_iyFyPHhfT7qTwIBc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71174924/acastro_211103_1777_tugnstenCube_0001.0.jpg' width='700px' /><br/>
-Michael Alan Stollery, the CEO of blockchain company Titanium Blockchain Infrastructure Services (TBIS), has pleaded guilty to securities fraud over a $21 million cryptocurrency scam. The California man admitted to falsifying details around the BAR coin, a crowdfunding token that should have — but wasn't — registered with the US Securities and Exchange Commission.
-<a href='https://www.theverge.com/2022/7/26/23278995/titanium-blockchain-ceo-michael-stollery-guilty-plea'> Source <a/>

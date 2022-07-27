@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tzA58z-JVgvsXGXS5TSUpzOSrPA=/0x0:9023x6013/1200x800/filters:focal(3791x2286:5233x3728)/cdn.vox-cdn.com/uploads/chorus_image/image/71174768/0003.0.jpeg' width='700px' /><br/>
-Faraday Future's first car is still a far way off in the future, according to recent regulatory filings.
-<a href='https://www.theverge.com/2022/7/26/23279021/faraday-future-delays-launch-ff91-ev-problems'> Source <a/>
