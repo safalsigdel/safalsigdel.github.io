@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S8biZ6WQ-W9ug7ZRbPkA5oVogdA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71178080/acasto_180123_1777_0003_v1.0.jpg' width='700px' /><br/>
+Today, let's talk about a settled question that Meta has decided to re-open: what should the company do about misinformation related to COVID-19?
+<a href='https://www.theverge.com/2022/7/27/23280404/facebook-instagram-covid-antivax-misinformation-oversight-board-review'> Source <a/>
