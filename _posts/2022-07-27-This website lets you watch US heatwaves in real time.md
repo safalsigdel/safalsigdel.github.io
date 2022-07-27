@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9gNwAE7XQh739x7sRsNH1yohrjU=/0x0:4123x2749/1200x800/filters:focal(1733x1046:2391x1704)/cdn.vox-cdn.com/uploads/chorus_image/image/71175178/1410346500.0.jpg' width='700px' /><br/>
-Summers are now so brutally hot that the US government created a new website, heat.gov, to help Americans stay safe during dangerous heat spells. It features maps that show current heat conditions across the country and provides other tools and resources to help people beat the heat.
-<a href='https://www.theverge.com/2022/7/26/23278982/extreme-heatwaves-real-time-us-data-federal-website'> Source <a/>
