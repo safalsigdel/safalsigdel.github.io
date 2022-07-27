@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ggaDWFdedHtub312OGRf98Xo4B0=/0x0:2353x2049/1200x800/filters:focal(1187x372:1563x748)/cdn.vox-cdn.com/uploads/chorus_image/image/71175494/1150620090.0.jpg' width='700px' /><br/>
-I hope you all had a good weekend. As you can tell, I did not get eaten by a shark, though that is because my husband forgot to register for a beach pass. Next time's the charm, Evan!!
-<a href='https://www.theverge.com/2022/7/26/23279369/cuomo-olberman-podcast-facebook-spotify-siriusxm'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jgskjIvw0-WXHwnPagIxA2_d_84=/0x0:2040x1360/1200x800/filters:focal(901x451:1227x777)/cdn.vox-cdn.com/uploads/chorus_image/image/71175433/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
-The incredibly popular Meta Quest 2 VR headset will have its price increased starting in August, with the 128GB configuration getting a price hike to $399.99 and the 256GB model being inflated to $499.99. However, you can still find both models on sale for their original price of $299.99 and $399.99 at multiple retailers, giving you some time to grab one before the price goes up.
-<a href='https://www.theverge.com/2022/7/26/23279286/meta-quest-2-oculus-vr-headset-deal-sale'> Source <a/>

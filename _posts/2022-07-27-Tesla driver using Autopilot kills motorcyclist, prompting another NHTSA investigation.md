@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A6Y9A4lZ26brRa34JhPrDE0skXo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71178343/jbareham_180213_2301_0136.0.jpg' width='700px' /><br/>
+A motorcyclist in Draper, Utah, was killed early Sunday morning when a Tesla driver using Autopilot slammed into the rear of his bike. It is the latest crash involving Tesla's advanced driver-assist system to draw scrutiny from federal investigators at the National Highway Traffic Safety Administration (NHTSA).
+<a href='https://www.theverge.com/2022/7/27/23280461/tesla-autopilot-crash-motorcyclist-fatal-utah-nhtsa'> Source <a/>
