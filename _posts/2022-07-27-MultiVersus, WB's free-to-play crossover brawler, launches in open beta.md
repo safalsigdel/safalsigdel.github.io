@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WMwxh2CodbBidLuU-7tXeKo7cfE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71174948/screenshot_05.0.jpeg' width='700px' /><br/>
+MultiVersus, Warner Bros. Games' free-to-play fighting game starring characters from many WB universes, launched in open beta in the Americas, Europe, Australia, and New Zealand on Tuesday. The game is available on PS4, PS5, Xbox One, Xbox Series X / S, and PC, and it has crossplay and cross-progression across all platforms.
+<a href='https://www.theverge.com/2022/7/26/23279073/multiversus-open-beta-wb-games-smash-bros'> Source <a/>

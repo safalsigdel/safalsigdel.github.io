@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6ST_0Uj-zfGIlxJAs5TreV5mOtE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175784/DSCF1179.0.0.jpg' width='700px' /><br/>
+Microsoft posted the fourth quarter of its 2022 financial results today, reporting revenue of $51.9 billion and a net income of $16.7 billion. Revenue is up 12 percent, and net income has increased by just 2 percent. But while revenue was up, Microsoft saw some of its core businesses, including Windows and Xbox, start to slip.
+<a href='https://www.theverge.com/2022/7/26/23278933/microsoft-q4-2022-earnings-revenue-cloud-windows-xbox-gaming-surface'> Source <a/>

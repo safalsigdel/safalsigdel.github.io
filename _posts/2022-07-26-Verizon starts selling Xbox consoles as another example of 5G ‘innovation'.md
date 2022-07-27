@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BZykBpyXs0D7ZScpDXHpsieV0_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71174236/vpavic_4275_20201030_0050.0.jpg' width='700px' /><br/>
-Did you know that Verizon sells game consoles? The carrier has stocked the PlayStation 5 on its online store at times, and today, it announced a partnership with Microsoft that will see Verizon offer both the Xbox Series X and Series S through the All Access monthly financing program.
-<a href='https://www.theverge.com/2022/7/26/23278838/verizon-xbox-series-x-s-all-access-5g-microsoft'> Source <a/>

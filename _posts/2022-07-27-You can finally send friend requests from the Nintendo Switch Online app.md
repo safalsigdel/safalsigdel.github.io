@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6OEo4qfe_Uf2F2BHoUOu6lUqxfw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175220/acastro_190530_1777_switch_0001.0.0.jpg' width='700px' /><br/>
+It's easier than it has ever been to add someone as a friend on your Nintendo Switch account with just your phone now that you can input a friend code into the Switch Online mobile app and send a request. An update in March made it simple for people to copy their code from the app to share it with others. Now you can more easily expand your friends list when you don't happen to have your Switch handy.
+<a href='https://www.theverge.com/2022/7/26/23278812/nintendo-switch-online-friend-requests-qr-code'> Source <a/>

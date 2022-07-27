@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zEZWsGH6rLaIuawMJ5EofNsmyQc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71176395/akrales_220309_4977_0336.0.jpg' width='700px' /><br/>
+You know, I didn't want to join Instagram, but I had adopted a kitten with an internet following, and the following wanted to know how the kitten was doing. For a while, I dutifully updated once a week. But then Instagram started to change.
+<a href='https://www.theverge.com/2022/7/26/23279815/instagram-feed-kardashians-criticism-fuck-it-im-out'> Source <a/>

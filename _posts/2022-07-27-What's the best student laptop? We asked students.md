@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4ofIYEIok3R4hjx9MtoKmzrVi9U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67232302/akrales_200421_3975_0080.0.jpg' width='700px' /><br/>
+Shopping for a laptop can be stressful — doubly stressful if you or your children will be learning online for the first time. Kids of different ages have a range of different laptop use cases and different needs. And as the choices for best laptop and best Chromebook evolve, so do students' needs. So I spoke to some experts on the subject: students themselves.
+<a href='https://www.theverge.com/21369381/best-student-laptops-school-high-college'> Source <a/>

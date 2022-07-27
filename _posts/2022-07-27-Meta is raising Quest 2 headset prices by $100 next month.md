@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tJodJm1YjWw5jkXCnHDCy01ldR8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175243/akrales_200904_4160_0216.0.0.jpg' width='700px' /><br/>
+The Meta Quest 2 (formerly known as the Oculus Quest 2) is about to get $100 more expensive, bringing the price for the 128GB model to $399.99 and the 256GB model to $499.99. According to a post from Meta, the price change for the almost two-year-old headset will take effect “starting in August.”
+<a href='https://www.theverge.com/2022/7/26/23279272/meta-quest-2-occulus-100-price-increase'> Source <a/>

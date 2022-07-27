@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a-3I0Xln0sv_muCHF94alp8LbtU=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/71174412/1238591177.0.jpg' width='700px' /><br/>
-Shopify is laying off 10 percent of its workforce, a move that affects about 1,000 of its employees, as first reported by The Wall Street Journal. In a memo posted on Shopify's website, CEO Tobi Lxc3xbctke says the company “has to go through a reduction in workforce” that mostly affects those working in recruiting, support, and sales.
-<a href='https://www.theverge.com/2022/7/26/23278873/shopify-lay-off-1000-employees'> Source <a/>

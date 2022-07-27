@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QKC6343vsatsHD2LuXVqcL3vw7U=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71176435/Star_Wars__Knights_of_the_Old_Republic_Remake___PlayStation_Showcase_2021_Trailer___PS5_0_33_screenshot.0.png' width='700px' /><br/>
+Development of the upcoming Star Wars: Knights of the Old Republic remake for the PS5 and PC is on pause, according to Bloomberg. The game's art director and design director were also fired earlier this month after the development team showed a demo of the game to Lucasfilm and Sony.
+<a href='https://www.theverge.com/2022/7/26/23279810/star-wars-knights-of-the-old-republic-kotor-remake-development-on-pause'> Source <a/>

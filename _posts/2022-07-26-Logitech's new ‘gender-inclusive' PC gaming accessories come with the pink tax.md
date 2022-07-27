@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3QwqkdaN_kP_JxF7KvAij3uCoM4=/0x0:4252x2835/1200x800/filters:focal(1786x1078:2466x1758)/cdn.vox-cdn.com/uploads/chorus_image/image/71172994/aurora32collection.0.jpg' width='700px' /><br/>
-Logitech has announced the Aurora collection, a lineup of PC gaming accessories that are designed to be more gender-inclusive. In this case, that means more fun colors, designs for a wider range of body types, lower capacity batteries, and higher prices
-<a href='https://www.theverge.com/2022/7/26/23271625/logitech-g-aurora-collection-g735-g715-g705-headset-keyboard-mouse-price-features'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/89mCQK3Ux2vGOD5bu33GqZsaDg4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175180/acastro_220524_STK428_0003.0.jpg' width='700px' /><br/>
+Cryptocurrency exchange Coinbase is reportedly facing an investigation from the US Securities and Exchange Commission (SEC) over whether it allowed users to trade unregistered securities, according to a report from Bloomberg. The SEC's probe hasn't yet been made public.
+<a href='https://www.theverge.com/2022/7/26/23279013/coinbase-cryptocurrency-exchange-sec-investigation-securities'> Source <a/>

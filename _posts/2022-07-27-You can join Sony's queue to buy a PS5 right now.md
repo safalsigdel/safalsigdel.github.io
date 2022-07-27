@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TgF0Sa45FcZ_cA08FnAx8Mx5sec=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175591/vpavic_4261_20201023_0027.0.jpg' width='700px' /><br/>
+Update July 26th, 6:38PM ET: The standard PS5 console is sold out but Sony is still offering a bundle with Horizon Forbidden West for $549.99.
+<a href='https://www.theverge.com/2022/7/26/23188423/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check'> Source <a/>

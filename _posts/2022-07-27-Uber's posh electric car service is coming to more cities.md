@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4qzhzHWhyn0qis5-WDs1iy1GLFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175413/ahawkins_20210321_4490_0013.0.jpg' width='700px' /><br/>
+Uber's premium electric car service is arriving in more US cities, the company said. Uber Comfort Electric, which is more expensive than Uber X but not as posh as Uber Black, is now available in seven additional cities, including Las Vegas, Seattle, Portland, Denver, Austin, Philadelphia, and Baltimore.
+<a href='https://www.theverge.com/2022/7/26/23279265/uber-comfort-electric-cities-polestar-tesla-mustang'> Source <a/>
