@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cU-D0Frpv5F-ELbe-sW5jM2Dbww=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/71178839/oM01vkkzyOX9kS2S4vXtpOxmB0RqGjXtvbG10OjNTaO83NLD_pIkuEYAStLUdAwTr0dZqEOkNIiyZr_M1t3DodNB4plLqOVhg8s34UjBeOmuqGw8jCOIBcksU9Yq1NNiwpMqR_JYJwpyhJ07aHIMDIbC.0.png' width='700px' /><br/>
+Starting next week, editing PDFs on a Chromebook is going to be a breeze. Users will be able to highlight text, fill out forms, sign documents, and add text annotations directly within the Gallery app.
+<a href='https://www.theverge.com/2022/7/27/23280660/google-photos-chromebook-gallery-pdf-video-movie-editor-themes'> Source <a/>

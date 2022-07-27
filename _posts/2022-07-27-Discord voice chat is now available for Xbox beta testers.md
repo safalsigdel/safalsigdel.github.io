@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dJUsqoYGB4qmUM6tIUBj1-oFYoM=/0x0:2560x1440/1200x800/filters:focal(251x522:659x930)/cdn.vox-cdn.com/uploads/chorus_image/image/71175639/3wvWQ3p.0.png' width='700px' /><br/>
-Discord and Microsoft announced Discord voice chat last week, making it available initially to invite-only Alpha and Alpha Skip-Ahead Xbox testers. The new feature is now available to Xbox Insiders in the Beta ring, which doesn't require an invite.
-<a href='https://www.theverge.com/2022/7/26/23279422/discord-xbox-voice-chat-beta-testers'> Source <a/>
