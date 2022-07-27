@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/z3i0HHt9Ez-JyE9G8ov9dxS4aKI=/0x0:5430x3620/1200x800/filters:focal(2133x1819:3001x2687)/cdn.vox-cdn.com/uploads/chorus_image/image/71176217/1140291793.0.jpg' width='700px' /><br/>
 Mark Zuckerberg believes that Apple and his company are in a “very deep, philosophical competition” to build the metaverse, suggesting the two tech giants are ready to butt heads in selling hardware for augmented and virtual reality.
+<a href='https://www.theverge.com/2022/7/26/23279478/meta-apple-mark-zuckerberg-metaverse-competition'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/z3i0HHt9Ez-JyE9G8ov9dxS4aKI=/0x0:5430x3620/1200x800/filters:focal(2133x1819:3001x2687)/cdn.vox-cdn.com/uploads/chorus_image/image/71176217/1140291793.0.jpg' width='700px' /><br/>
+Mark Zuckerberg believes that Apple and his company are in a “very deep, philosophical competition” to build the metaverse, suggesting the two tech giants are ready to butt heads in selling hardware for augmented and virtual reality.
 <a href='https://www.theverge.com/2022/7/26/23279478/meta-apple-mark-zuckerberg-metaverse-competition'> Source <a/>

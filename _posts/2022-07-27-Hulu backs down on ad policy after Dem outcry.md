@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/MSTWrDI-XbejMLqRsevVNLwkxFk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71178158/acastro_200320_1777_huluStock_0002.0.0.jpg' width='700px' /><br/>
 After weeks of mounting pressure from Democrats, Hulu will begin accepting political issue and candidate ads, according to a new report from Axios on Wednesday.
+<a href='https://www.theverge.com/2022/7/27/23280510/hulu-democrats-midterms-campaign-issue-ads-advertising-disney'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/MSTWrDI-XbejMLqRsevVNLwkxFk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71178158/acastro_200320_1777_huluStock_0002.0.0.jpg' width='700px' /><br/>
+After weeks of mounting pressure from Democrats, Hulu will begin accepting political issue and candidate ads, according to a new report from Axios on Wednesday.
 <a href='https://www.theverge.com/2022/7/27/23280510/hulu-democrats-midterms-campaign-issue-ads-advertising-disney'> Source <a/>

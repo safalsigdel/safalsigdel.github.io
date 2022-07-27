@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/5Of9fxhvrkVdbjtxf4EngmLv0w4=/0x0:1984x1036/1200x800/filters:focal(834x360:1150x676)/cdn.vox-cdn.com/uploads/chorus_image/image/71175931/Screen_Shot_2022_07_26_at_3.16.48_PM.0.png' width='700px' /><br/>
 Developers who use NPM, the popular JavaScript package manager, will now be able to connect their Twitter and GitHub accounts to the software as a recovery method.
+<a href='https://www.theverge.com/2022/7/26/23279502/npm-twitter-account-recovery-2fa-github-security'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/5Of9fxhvrkVdbjtxf4EngmLv0w4=/0x0:1984x1036/1200x800/filters:focal(834x360:1150x676)/cdn.vox-cdn.com/uploads/chorus_image/image/71175931/Screen_Shot_2022_07_26_at_3.16.48_PM.0.png' width='700px' /><br/>
+Developers who use NPM, the popular JavaScript package manager, will now be able to connect their Twitter and GitHub accounts to the software as a recovery method.
 <a href='https://www.theverge.com/2022/7/26/23279502/npm-twitter-account-recovery-2fa-github-security'> Source <a/>

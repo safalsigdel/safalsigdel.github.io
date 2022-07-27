@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ZooojgBi5un5Yxfj01YaL1ju4ck=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175618/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
 Uber's decision to not offer wheelchair-accessible service in every US market does not violate the federal law prohibiting discrimination against disabled individuals, a federal judge ruled this week.
+<a href='https://www.theverge.com/2022/7/26/23279408/uber-wheelchair-accessible-service-judge-ruling-ada'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ZooojgBi5un5Yxfj01YaL1ju4ck=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71175618/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber's decision to not offer wheelchair-accessible service in every US market does not violate the federal law prohibiting discrimination against disabled individuals, a federal judge ruled this week.
 <a href='https://www.theverge.com/2022/7/26/23279408/uber-wheelchair-accessible-service-judge-ruling-ada'> Source <a/>
