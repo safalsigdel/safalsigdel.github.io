@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vzDFEuYWwgT8CRZ5eXfTf5xXMx8=/0x0:1020x680/1200x800/filters:focal(498x258:660x420)/cdn.vox-cdn.com/uploads/chorus_image/image/71179811/instagram_timehop.0.jpg' width='700px' /><br/>
-When Facebook made a bid to buy Instagram in 2012 for a record-setting $1 billion, many people thought Mark Zuckerberg was making a mistake.
-<a href='https://www.theverge.com/2022/7/27/23281104/instagram-facebook-acquisition-changes-land-of-the-giants-podcast'> Source <a/>
