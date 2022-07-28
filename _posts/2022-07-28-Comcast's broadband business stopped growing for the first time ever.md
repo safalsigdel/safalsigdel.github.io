@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QdM_6wY9FqSW26CHXhtBRh89e2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71182233/acastro_180525_1777_comcast_0002.0.jpg' width='700px' /><br/>
+Comcast didn't add any new broadband subscribers between April and June, marking the first time the company has failed to grow its high-speed internet business. Broadband figures stayed flat from Q1 at 32.2 million subscribers, the company announced in its Q2 2022 earnings release this morning.
+<a href='https://www.theverge.com/2022/7/28/23282072/comcast-broadband-subscriber-flat-first-time-peacock-q2-2022-earnings'> Source <a/>
