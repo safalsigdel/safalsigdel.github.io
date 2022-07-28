@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5q6c3WnNX169klnM2X-3wL8yees=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71179359/1228936984.0.jpg' width='700px' /><br/>
+Video games aren't hurting people's mental health, and they're not helping it. In fact, they don't do much to move the needle at all, according to a new study of tens of thousands of gamers.
+<a href='https://www.theverge.com/2022/7/27/23280462/video-game-mental-health-animal-crossing-well-being'> Source <a/>

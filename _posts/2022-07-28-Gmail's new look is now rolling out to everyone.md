@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JZcqfgCGNraPQyg14JJmES6g2xI=/0x0:1600x1000/1200x0/filters:focal(0x0:1600x1000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23658720/gmail_newui.jpg' width='700px' /><br/>
+We've been tracking the progress of Google's interface refresh for Gmail since February, and as promised, the company says it's now becoming available for all Gmail users. The rework pulls Meet, Chat, and Spaces closer together as part of the overall experience and includes elements from Google's Material Design 3.
+<a href='https://www.theverge.com/2022/7/27/23281237/google-gmail-redesign-ui-opt-out-chat-meet-spaces'> Source <a/>

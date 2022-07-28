@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Xbox has released a clothing and accessory collection dedicated to camping. No, not the video game kind that esports organization 100 Thieves lambasted with its own clothing line — Microsoft's is about actually getting outside and touching grass. The camper collection includes a variety of shorts, shirts, and headgear, along with things like a hammock and camping chair.
+<a href='https://www.theverge.com/tldr/2022/7/27/23281416/xbox-camper-collection-outdoor-gear-hiking-cotton'> Source <a/>

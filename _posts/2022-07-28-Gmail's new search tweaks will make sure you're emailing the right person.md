@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jmZ2eN4gMib2sL74uhB1ReB-tEk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71179514/acastro_201210_1777_gmail_0001.0.jpg' width='700px' /><br/>
+Google's improving Gmail's search results, which should make it easier to find a specific contact. In a blog post, Google explains it's rolling out “intent matching for names and email addresses,” as well as new “personalized suggestions” in Gmail.
+<a href='https://www.theverge.com/2022/7/27/23280860/gmail-search-update-emailing-right-person'> Source <a/>

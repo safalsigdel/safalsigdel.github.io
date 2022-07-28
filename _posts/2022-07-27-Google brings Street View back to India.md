@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ok1cUKmuGx2fW-C4a_EFmKpXImM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71178764/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Street View has returned to select parts of India, Google announced today at an event hosted in New Delhi and on its blog. The 360-degree street-level viewpoint debuted in the country in 2011 but was then rejected by its government in 2016 due to security concerns. The navigation feature can be particularly useful for spotting landmarks that might help you find your way around.
-<a href='https://www.theverge.com/2022/7/27/23280526/google-maps-street-view-india-relaunch-app-genesys-tech-mahindra'> Source <a/>

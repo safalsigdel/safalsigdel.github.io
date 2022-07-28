@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J_KoCBJVeKg36dYjVZGW1Pk_MpY=/0x0:5394x3596/1200x800/filters:focal(2266x1367:3128x2229)/cdn.vox-cdn.com/uploads/chorus_image/image/71176313/1336980408.0.jpg' width='700px' /><br/>
-On Tuesday, the White House officially threw its support behind a bill pushed by Tiger King star Carole Baskin to restrict exotic animal ownership.
-<a href='https://www.theverge.com/2022/7/26/23279811/tiger-king-carole-baskin-joe-exotic-doc-antle-big-cats-lions-cub-petting'> Source <a/>

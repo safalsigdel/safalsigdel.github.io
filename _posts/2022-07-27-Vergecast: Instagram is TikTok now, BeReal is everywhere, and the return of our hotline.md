@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MOAxIwnfPyHHGFuy49uVoOFHgqk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71178897/vpavic_210916_4760_0323.0.jpg' width='700px' /><br/>
-Every Wednesday and Friday, The Verge publishes our flagship podcast, The Vergecast, where our editors make sense of the week's most important technology news. On Wednesdays, editor-at-large David Pierce leads a selection of The Verge's expert staffers in an exploration of how gadgets and software affect our lives — and which ones you should bring into your home.
-<a href='https://www.theverge.com/2022/7/27/23280540/instagram-video-changes-tiktok-bereal-podcast-vergecast'> Source <a/>

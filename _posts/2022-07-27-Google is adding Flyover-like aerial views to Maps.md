@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B-08H9cahwCVDqXhGOONGqP-kD8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71177360/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google is adding “photorealistic aerial views” to almost 100 landmarks in Google Maps, the company announced on Wednesday. The views, which remind me of Apple Maps' Flyover feature, give you an overhead look at landmarks in cities including Barcelona, London, New York, San Francisco, and Tokyo, according to Google.
-<a href='https://www.theverge.com/2022/7/27/23279880/google-maps-aerial-views-immersive-cycling-directions-location-sharing-notifications'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D1NhytVhI3Nsq7NICgCj8gOnyZ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71178216/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-TikTok is making it easier for researchers to delve into the data and protocols that make up the platform. In a blog post, TikTok COO Vanessa Pappas announced the company will soon grant researchers access to the framework behind the platform and its moderation system.
-<a href='https://www.theverge.com/2022/7/27/23280406/tiktok-researchers-api-transparency-damaging-reports-china'> Source <a/>
