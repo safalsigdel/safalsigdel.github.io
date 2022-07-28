@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dW05o6zLh6tj-mWWu8AclZqgOHQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71179622/acastro_201110_4286_spotify_0001.0.jpg' width='700px' /><br/>
-On the heels of Spotify's blockbuster audio drama Batman Unburied, the company is promoting Gimlet executive Mimi O'Donnell to head of scripted fiction at the streamer, according to an internal memo obtained by The Verge.
-<a href='https://www.theverge.com/2022/7/27/23281023/spotify-batman-unburied-fiction-podcasts-mimi-odonnell-scripted'> Source <a/>

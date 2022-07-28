@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ld6DP4dso3_mN_V9Kymf-hdsTN0=/0x0:3920x2688/1200x800/filters:focal(1647x1031:2273x1657)/cdn.vox-cdn.com/uploads/chorus_image/image/71181945/1386241070.0.jpg' width='700px' /><br/>
+The power demands of data centers can be staggering, with larger facilities using as much electricity as tens of thousands of homes. Now, in parts of London, those energy requirements are reportedly stopping developers from building new houses because there's simply not enough electricity to go around.
+<a href='https://www.theverge.com/2022/7/28/23282007/electricity-demands-london-data-centers-blocking-new-housing-development'> Source <a/>

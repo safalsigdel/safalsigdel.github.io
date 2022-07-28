@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zl0MLRWY-VmO5yJqfPLQ55Z9rYw=/44x102:1662x1935/1200x800/filters:focal(946x1301:1218x1573)/cdn.vox-cdn.com/uploads/chorus_image/image/71181961/Protein_CCR4_NOT_transcription__complex_subunit_9.0.jpg' width='700px' /><br/>
+DeepMind is releasing a free expanded database with its predictions of the structure of nearly every protein known to science, the company, a subsidiary of Google parent Alphabet, announced today.
+<a href='https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet'> Source <a/>

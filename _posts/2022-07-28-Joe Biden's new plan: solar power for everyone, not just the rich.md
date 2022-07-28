@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NwmAChQ-a3ZQbyp-1AIwaXaOUWg=/0x0:3000x2000/1200x800/filters:focal(1684x432:2164x912)/cdn.vox-cdn.com/uploads/chorus_image/image/71179575/693428786.0.jpg' width='700px' /><br/>
-The Biden administration has new plans to get lower-income households hooked up to solar energy. The White House announced two new programs today aimed at expanding access to “community solar” projects among subsidized housing residents and households that receive federal assistance to pay their utility bills. It also launched a new rewards program for existing community solar projects.
-<a href='https://www.theverge.com/2022/7/27/23280446/community-solar-power-biden-energy-bills-clean-electricity'> Source <a/>
