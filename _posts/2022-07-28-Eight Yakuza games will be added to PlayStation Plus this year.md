@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ay09Z118TlfbGPuFgJMS-zExsjM=/0x0:1399x787/1200x800/filters:focal(589x283:811x505)/cdn.vox-cdn.com/uploads/chorus_image/image/71179628/apps.40440.14427542363794747.182f58ca_3a24_4a65_93bd_cdd320a35776.ca7d8932_3916_440a_863a_cd2b21479bca.0.jpeg' width='700px' /><br/>
-Sony has announced that it's bringing eight games from the (mostly) beloved Yakuza series to PlayStation Plus throughout the rest of the year, with the first hitting the service in August. Be warned, though — if you're subscribed to the base PlayStation Plus Essential tier, you'll only get one of the games.
-<a href='https://www.theverge.com/2022/7/27/23280886/yakuza-games-playstation-plus-tony-hawk-game-catalog'> Source <a/>
