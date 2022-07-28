@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0AGaZ_11J9UI96PyIRYPTksKrcs=/0x0:5382x3588/1200x800/filters:focal(2261x1364:3121x2224)/cdn.vox-cdn.com/uploads/chorus_image/image/71179011/1242113673.0.jpg' width='700px' /><br/>
-The sports world has generally embraced wearable technology with open arms — though it's usually for the athletes themselves. However, English soccer club Manchester City is hoping to keep track of its fans' biometrics, too. The club has partnered with Cisco to create a connected scarf embedded with a biosensor to “get a better understanding of the emotion at the heart of the world's beautiful game.”
-<a href='https://www.theverge.com/2022/7/27/23280629/manchester-city-smart-scarf-wearables'> Source <a/>
