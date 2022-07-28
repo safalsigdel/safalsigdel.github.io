@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JG7bXYmtgFcXLkSjKqZO4J9npyc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71180416/VRG_ILLO_4033_007.0.jpg' width='700px' /><br/>
-Facebook's decade-long streak of nonstop revenue growth has come to end.
-<a href='https://www.theverge.com/2022/7/27/23281294/facebook-meta-revenue-declines-for-first-time'> Source <a/>

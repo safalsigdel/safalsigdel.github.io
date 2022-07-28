@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/blb_r1a1W1hjiXlsAMtKdWnyZHQ=/0x0:284x189/1200x800/filters:focal(127x61:171x105)/cdn.vox-cdn.com/uploads/chorus_image/image/71182723/findaway.0.jpg' width='700px' /><br/>
+Spotify's purchase of Findaway, a platform that allows users to create, distribute, and monetize their own audiobooks, cost it xe2x82xac117 million, or around $123 million USD, the company revealed today. Findaway will provide the infrastructure for what will become the third pillar of Spotify's business. The streaming service first announced the acquisition last November.
+<a href='https://www.theverge.com/2022/7/28/23280187/spotify-findaway-audiobook-podcasts-audible-amazon'> Source <a/>

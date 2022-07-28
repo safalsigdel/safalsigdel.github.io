@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VKFTLN9E5Xpw3bLPt60wy1pBoQs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71179911/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-Update July 27th, 8:20PM ET: Sony has sold out of both the standard PS5 console and the Horizon Forbidden West bundle, neither of which are currently available online at MSRP.
-<a href='https://www.theverge.com/2022/7/27/23281176/sony-playstation-5-ps5-console-public-restock-queue-availability-inventory-check'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G177RtSj0xmp4ZZiuc0hrpXlFyY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71180078/lgrush_220407_5139_0027.0.jpg' width='700px' /><br/>
-Tesla made a change to its free data connectivity tier that could potentially have a big impact on the way its customers use their vehicles. The included Standard Connectivity package, which adds basic navigation features without live traffic views or satellite maps and the ability to stream music over Bluetooth, will now expire after eight years (via Electrek).
-<a href='https://www.theverge.com/2022/7/27/23281022/tesla-standard-data-connectivity-navigation-limited-eight-years'> Source <a/>

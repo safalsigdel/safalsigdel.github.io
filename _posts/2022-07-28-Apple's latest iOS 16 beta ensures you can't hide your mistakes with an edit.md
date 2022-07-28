@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kth5cIypK4SgTIdYbUsrQq_kRfI=/0x0:1125x740/1200x800/filters:focal(473x280:653x460)/cdn.vox-cdn.com/uploads/chorus_image/image/71179980/IMG_2245_copy.0.png' width='700px' /><br/>
-Apple has added an edit history to iOS 16's new iMessage editing feature in the latest developer beta released on Wednesday (via 9to5Mac). You'll be able to check the edit history by tapping on the “Edited” text that sits below an edited message, and when you do, all of the edits will appear above the latest one. You're also now only allowed to make five edits to an individual message.
-<a href='https://www.theverge.com/2022/7/27/23281110/apple-imessage-edit-history-ios-16'> Source <a/>
