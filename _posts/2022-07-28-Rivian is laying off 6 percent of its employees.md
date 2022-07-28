@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gyJTGkznNHLl_uh5-nFRdwKdN74=/0x0:3000x2000/1200x800/filters:focal(1273x1359:1753x1839)/cdn.vox-cdn.com/uploads/chorus_image/image/71096622/20220622_Elliot_Ross_MediaDrives_R1S_On_Road_2823.0.jpg' width='700px' /><br/>
-Electric automaker Rivian is laying off around 6 percent of its 14,000 employees, or around  800 people, Amy Mast, a spokesperson for the company, confirmed in an email. The company made the decision in part to speed up development on future versions of its electric trucks and SUVs, she said.
-<a href='https://www.theverge.com/2022/7/11/23204199/rivian-electric-vehicles-layoffs-planned-manufacturing'> Source <a/>
