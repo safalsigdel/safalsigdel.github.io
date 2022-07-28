@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xDupBw2i3zmiWjK4UFZulOy0Y_E=/0x0:1066x790/1200x800/filters:focal(448x310:618x480)/cdn.vox-cdn.com/uploads/chorus_image/image/71179166/FJKO3wxXoAMGhVE.0.jpeg' width='700px' /><br/>
-The cryptocurrency collective built around a copy of Alejandro Jodorowsky's Dune script bible will no longer be a collective and is trying to sell its Dune bible.
-<a href='https://www.theverge.com/2022/7/27/23280490/spice-dao-jodorowsky-dune-bible-crypto-sale-planned-liquidation'> Source <a/>

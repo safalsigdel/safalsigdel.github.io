@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/__L8-NyZ1VIm1Ka4n23LQO0e_3M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71181811/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
+Sony is starting to test 1440p resolution support for its PlayStation 5 console, a highly-requested addition. Testers will get access to a new PS5 system software beta today that includes 1440p support, curated gamelists for their library, and new social features.
+<a href='https://www.theverge.com/2022/7/28/23281984/sony-playstation-5-1440p-resolution-support'> Source <a/>
