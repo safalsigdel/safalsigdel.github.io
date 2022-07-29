@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z5zexRksFitglGe56UXbTb_c1-Q=/0x0:5120x2880/1200x0/filters:focal(0x0:5120x2880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23906497/_.jpg' width='700px' /><br/>
-Nintendo has announced a release date — August 4th — for the next DLC courses coming to Mario Kart 8 Deluxe. This second wave includes eight courses, the same as what we saw when the first wave launched in March. They're mostly based around tracks found in previous Mario Kart games, but there's one that's brand new: an ice cream-themed course called Sky-High Sundae.
-<a href='https://www.theverge.com/2022/7/28/23282126/mario-kart-8-delxuxe-booster-pack-dlc-second-wave-2-release-date'> Source <a/>
