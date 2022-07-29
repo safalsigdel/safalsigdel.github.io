@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YloMX7eJFtpXLd3oNC66bhjpssg=/0x0:2001x1334/1200x800/filters:focal(841x507:1161x827)/cdn.vox-cdn.com/uploads/chorus_image/image/71182281/20220607_hydrogen_0922.0.jpeg' width='700px' /><br/>
-Microsoft has reached a new milestone in its effort to ditch diesel in favor of cleaner energy at its data centers. The company announced today that it successfully tested a hydrogen fuel cell system powerful enough to replace a traditional diesel-powered backup generator at a large data center.
-<a href='https://www.theverge.com/2022/7/28/23281394/microsoft-data-centers-hydrogen-fuel-cells'> Source <a/>
