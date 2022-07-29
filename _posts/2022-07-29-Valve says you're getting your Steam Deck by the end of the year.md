@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9Q-rYIJ87qcAsdOP54Pp_3sO78U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71187800/akrales_220628_5314_0021.0.jpg' width='700px' /><br/>
+Valve's Steam Deck has been in high demand from the moment reservations went live last year, but if you're still waiting for an order email to come through, good news: if you have a reservation, Valve says you'll get your Steam Deck by the end of the year. And even if you make a new reservation, as of this writing, Valve says you'll get your Steam Deck in Q4.
+<a href='https://www.theverge.com/2022/7/29/23283839/steam-deck-pre-order-reservation-valve'> Source <a/>
