@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4ddFH7g5JWETZdi_nGEIw9y2J-A=/0x0:2048x878/1200x800/filters:focal(861x276:1187x602)/cdn.vox-cdn.com/uploads/chorus_image/image/71183761/RECLAIM_KV_horizontal_desktop_header_V3.0.jpg' width='700px' /><br/>
-SoulCycle isn't pulling any punches with its latest campaign that offers Peloton users free in-person classes... if they trade in their bikes. The move comes while Peloton is still dealing with excess inventory after misjudging post-quarantine demand.
-<a href='https://www.theverge.com/2022/7/28/23282384/soulcycle-peloton-free-classes-bike-exchange-fitness'> Source <a/>

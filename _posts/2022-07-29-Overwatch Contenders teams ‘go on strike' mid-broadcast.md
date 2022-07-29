@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jaCblY_ipq8KXSdG6tgHGyohpNI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71185320/overwatch__1_.0.png' width='700px' /><br/>
-Blizzard is facing another walkout of sorts; this time, it's players in the regional Overwatch Contenders tournament. After a competitive ruling ended a match prematurely, players in the  European Overwatch Contenders Summer Series tournament refused to play.
-<a href='https://www.theverge.com/2022/7/28/23283023/overwatch-contenders-strike-blizzard-overwatch-league'> Source <a/>

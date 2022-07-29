@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4chpXjsWz5CSekCVBXDrqQTrIHc=/0x0:3840x2560/1200x800/filters:focal(1613x973:2227x1587)/cdn.vox-cdn.com/uploads/chorus_image/image/71183102/295441080_797411844759456_3255436029219103391_n.0.png' width='700px' /><br/>
-Instagram will begin asking some US users for race and ethnicity data in order to study how different groups experience the platform, the company says in a blog post published today.
-<a href='https://www.theverge.com/2022/7/28/23282148/instagram-race-ethnicity-survey-researchers-you-gov'> Source <a/>
