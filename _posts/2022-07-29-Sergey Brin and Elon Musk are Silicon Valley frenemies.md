@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0c4cap1KHlXCo0ziKNT6_8tII2k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71186481/VRG_Illo_STK022_K_Radtke_Musk_Crazy.0.jpg' width='700px' /><br/>
 I'm sorry for what I'm about to do here, but let's talk about some divorced men. I think Sergey Brin is attempting to smear his ex-wife, and I think he's using his history with Elon Musk to do it.
-<a href='https://www.theverge.com/2022/7/29/23282848/sergey-brin-elon-musk-divorce-tesla-waymo'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/0c4cap1KHlXCo0ziKNT6_8tII2k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71186481/VRG_Illo_STK022_K_Radtke_Musk_Crazy.0.jpg' width='700px' /><br/>
-I'm sorry for what I'm about to do here, but let's talk about some divorced men. I think Sergey Brin is attempting to smear his ex-wife, and I think he's using his history with Elon Musk to do it.
 <a href='https://www.theverge.com/2022/7/29/23282848/sergey-brin-elon-musk-divorce-tesla-waymo'> Source <a/>
