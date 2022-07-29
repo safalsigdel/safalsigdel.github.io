@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DuW7xz8WlRIlIU9yLHZpQFPj7LM=/0x0:2584x1762/1200x800/filters:focal(1075x534:1487x946)/cdn.vox-cdn.com/uploads/chorus_image/image/71185434/ImageJoiner_2019_10_24_at_2.17.31_PM.0.png' width='700px' /><br/>
+As you've probably heard, Facebook and Instagram will lean heavily into AI-curated creator content going forward, and the News Tab project Facebook launched a few years ago doesn't seem to be a big part of that. As reported by Axios and confirming earlier rumors, Facebook's parent company Meta is telling publishers it no longer plans to pay for the content it has been aggregating in the news tab.
+<a href='https://www.theverge.com/2022/7/28/23283078/meta-facebook-news-tab-paid-publishers-is-over'> Source <a/>

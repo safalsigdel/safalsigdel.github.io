@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qGXYzg_Gt4eHLExazLtYnX-EJE4=/0x0:1776x381/1200x0/filters:focal(0x0:1776x381):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23906354/0718_NECRO_1_WEB.jpeg' width='700px' /><br/>
-Why bother to design your own robots when you can just reuse what nature created?
-<a href='https://www.theverge.com/2022/7/28/23282023/dead-spiders-robot-grippers-necrobotics-research-rice-university'> Source <a/>

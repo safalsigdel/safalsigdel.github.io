@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/exzfmhb5eGailzDL1eJhvzrGezs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71181785/acastro_170726_1777_0012_v3.0.jpg' width='700px' /><br/>
-A new Status feature has started appearing for some Twitter users that lets them assign one of several pre-written labels to their tweets. A spokesperson for the company confirmed the limited test in a statement given to TechCrunch, while Twitter users have been sharing screenshots of the feature in action.
-<a href='https://www.theverge.com/2022/7/28/23281956/twitter-status-feature-test'> Source <a/>

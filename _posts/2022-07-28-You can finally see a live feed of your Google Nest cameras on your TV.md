@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VaRNe60ES0O2QJNzwPGU2m6oha0=/0x0:3000x2000/1200x800/filters:focal(1281x499:1761x979)/cdn.vox-cdn.com/uploads/chorus_image/image/71181097/dseifert_4748_nest_doorbell_cam_battery_13.0.jpg' width='700px' /><br/>
-Google is finally bringing an old feature to its new Nest cameras. Starting this week, you can stream the video feed from all your Nest cameras and video doorbells to your TV using a Chromecast with Google TV. Google announced the feature in a blog post on the Google Nest Community forum Wednesday morning.
-<a href='https://www.theverge.com/2022/7/27/23281580/google-nest-cam-chromecast-google-tv-live-video'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bRYJfe3t5XV3k-amxGPXaEf_Lso=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/71181882/2023_F_150_Lightning_Pro_SSV_01.0.jpeg' width='700px' /><br/>
-Ford, the leading automaker when it comes to making and selling specially designed vehicles for law enforcement, revealed the F-150 Lightning Pro SSV, an electric truck specially designed for law enforcement.
-<a href='https://www.theverge.com/2022/7/28/23281139/ford-f150-lightning-pro-ssv-police-cop'> Source <a/>

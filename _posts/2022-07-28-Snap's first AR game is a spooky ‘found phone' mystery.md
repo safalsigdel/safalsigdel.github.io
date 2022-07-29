@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/REKuKUSYQG89oRyFrgeWiNy5Aik=/0x0:1459x1080/1200x800/filters:focal(614x424:846x656)/cdn.vox-cdn.com/uploads/chorus_image/image/71181850/GhostPhone_Quad_en_US.0.png' width='700px' /><br/>
-Snap has launched its first in-Snapchat augmented reality game, a spooky “found phone” title called Ghost Phone. In the game, you'll work to solve the mystery of what happened to the previous owner of a smartphone, and you'll quickly learn that things are just a little bit... ghastly.
-<a href='https://www.theverge.com/2022/7/28/23281538/snap-snapchat-ar-game-ghost-phone-found-phone-mystery'> Source <a/>

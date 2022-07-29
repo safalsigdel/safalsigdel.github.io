@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MapAqdFK5ryo3y-OK_Xj9eMwTRc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71181091/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-If you already have strong feelings about your Instagram feed increasingly showing Reels from accounts you don't follow, just wait until next year.
-<a href='https://www.theverge.com/2022/7/27/23281451/facebook-instagram-meta-recommendation-discovery-engine-ai'> Source <a/>

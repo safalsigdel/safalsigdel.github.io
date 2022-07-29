@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hAUhzZuLlI90zVkbMu36nPdMuU4=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/71180731/1241613890.0.jpg' width='700px' /><br/>
-Spirit and Frontier Airlines have tossed out their proposed merger agreement, leaving room for Spirit's other suitor, JetBlue, to swoop in and score a deal, as first reported by CNBC. Shareholders were expected to reject the deal during a vote today, possibly because of JetBlue's higher offer, according to The Washington Post.
-<a href='https://www.theverge.com/2022/7/27/23281290/spirit-airlines-frontier-throw-out-merger-agreement-jetblue'> Source <a/>

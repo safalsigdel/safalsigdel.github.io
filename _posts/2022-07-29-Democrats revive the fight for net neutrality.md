@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XucXTev0cYe_js1LL4QmCcpqIBQ=/0x0:4500x3124/1200x800/filters:focal(1890x1202:2610x1922)/cdn.vox-cdn.com/uploads/chorus_image/image/71184114/1128846180.0.jpg' width='700px' /><br/>
+Democrats are recharging the fight for net neutrality by introducing a new bill on Thursday that would codify the deeply divisive open internet rules.
+<a href='https://www.theverge.com/2022/7/28/23282483/net-neutrality-ed-markey-bill-fcc-regulations-telecom-broadband-internet'> Source <a/>

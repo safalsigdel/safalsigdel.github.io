@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/99uDNQ2gnQ9j1ak9vf3yiZgPRHE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71181274/acastro_181114_1777_amazon_hq2_0002.0.jpg' width='700px' /><br/>
-Over two dozen Amazon workers claim the company didn't respond appropriately to racist death threats against Black workers at its MDW2 facility in Joliet, Illinois, and retaliated against an employee who spoke out, according to a report from the Chicago Tribune (via Engadget). The 26 workers have reportedly filed complaints with the U.S. Equal Employment Opportunity Commission (EEOC).
-<a href='https://www.theverge.com/2022/7/27/23281681/amazon-workers-eeoc-complaint-racist-death-threats-illinois'> Source <a/>
