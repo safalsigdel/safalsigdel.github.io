@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h9-RxRnC8mwGUXKzNALglB3mPYc=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/71186155/feat_1.0.jpg' width='700px' /><br/>
+We're still over a week away from the official launch of Samsung's latest foldables — the Z Fold 4 and Z Flip 4 — so naturally it's time for the devices' designs to leak in full online.
+<a href='https://www.theverge.com/2022/7/29/23283431/samsung-galaxy-z-flip-fold-4-press-images-leak-evan-blass-colors'> Source <a/>
