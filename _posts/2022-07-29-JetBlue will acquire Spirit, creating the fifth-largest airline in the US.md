@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BdTqHTtsxs6WTlbKhl4eNgSnsOo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71183406/1411275431.0.jpg' width='700px' /><br/>
+JetBlue and Spirit announced a $3.8 billion merger agreement after a previous deal between Spirit and Frontier Airlines fell apart Wednesday. The newly merged airline will be the fifth-largest in the US in a potential challenge to the dominance of the “Big Four” carriers.
+<a href='https://www.theverge.com/2022/7/28/23282392/jetblue-spirit-merge-acquire-airline-frontier-reject'> Source <a/>

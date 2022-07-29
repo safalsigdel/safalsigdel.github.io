@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qL0cJhFEhYz5YTBqzSUVDfOYL48=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71184123/acastro_210430_1777_semiCon_0002.0.jpg' width='700px' /><br/>
+It might get cheaper and easier to buy popular tech products, like gaming consoles and graphics cards, after Congress approved $52 billion in funding for domestic semiconductor manufacturing.
+<a href='https://www.theverge.com/2022/7/28/23282494/semiconductors-chips-and-science-act-joe-biden-congress-nvidia'> Source <a/>

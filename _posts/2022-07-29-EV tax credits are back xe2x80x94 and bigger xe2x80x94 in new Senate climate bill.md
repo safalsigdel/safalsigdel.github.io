@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/facO1LNdx16m98hNFQn0E0DOuYg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71182953/ahawkins_211028_4857_0013.0.jpg' width='700px' /><br/>
+Senator Joe Manchin has had a change of heart about electric vehicles.
+<a href='https://www.theverge.com/2022/7/28/23282156/ev-tax-credit-used-vehicle-senate-deal-schumer-manchin'> Source <a/>

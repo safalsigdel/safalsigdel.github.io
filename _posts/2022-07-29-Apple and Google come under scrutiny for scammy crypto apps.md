@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OvaBj8zA5Gy6RjV6legFs14uiCY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71182983/acastro_220204_STK008_0001.0.jpg' width='700px' /><br/>
+From Elon Musk Twitter impersonators to dubious Discord chats, cryptocurrency and non-fungible token (NFT) scammers have stolen billions of dollars from investors over the last few years. But now, politicians and law enforcement are turning their attention to Apple and Google — companies that operate huge app stores — and how they review fraudulent crypto apps.
+<a href='https://www.theverge.com/2022/7/28/23282297/apple-google-cryptocurrency-app-scams-trading-investors-senate'> Source <a/>
