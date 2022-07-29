@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f7K47CqUk_Ne9FvwLkbdktBsrfk=/0x0:1800x2700/1200x800/filters:focal(756x1206:1044x1494)/cdn.vox-cdn.com/uploads/chorus_image/image/71121154/akrales_181218_2952_0026_vrt.0.jpg' width='700px' /><br/>
-We've all done it: sent a text message and then instantly regretted it. Whether it was a text to your parent with a spelling error that they'd never let you live down, a message with a wrong word in it (“I don't want to come to the party!” instead of “I want to come to the party!”), or a sudden realization that you just sent your message to the wrong person — it can be embarrassing at the least and disastrous at the worst.
-<a href='https://www.theverge.com/23204468/imessage-ios-16-apple-unsend-edit-how-to'> Source <a/>
