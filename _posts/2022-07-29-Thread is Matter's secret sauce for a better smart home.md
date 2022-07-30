@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IkQAPe8Y0zKIjTlWEiB1ptL0QKw=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/71186492/VRG_ILLO_5281_ThreadGroup_Matter.0.jpg' width='700px' /><br/>
-As the new smart home standard Matter gets closer to launch, connected devices built on Thread — a technology that's integral to Matter — are starting to roll out. In the last year, Eve, Nanoleaf, Schlage, and Wemo have released smart home gadgets such as motion sensors, light bulbs, door locks, smart plugs, and motorized blinds that run on Thread. But just what is Thread, and why does it matter to Matter?
-<a href='https://www.theverge.com/23165855/thread-smart-home-protocol-matter-apple-google-interview'> Source <a/>

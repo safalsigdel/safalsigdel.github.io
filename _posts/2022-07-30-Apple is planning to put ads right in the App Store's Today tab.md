@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O00eth889p1W3fGI12X7ct5c_qI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71189040/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple is planning to show ads in the App Store's Today tab and on individual app pages, according to MacRumors, 9to5Mac, and AppleInsider. The two new ad placements will expand upon the ads you can already see in the App Store's search tab and in search results.
+<a href='https://www.theverge.com/2022/7/29/23284272/apple-app-store-ads-today-tab-page-search'> Source <a/>
