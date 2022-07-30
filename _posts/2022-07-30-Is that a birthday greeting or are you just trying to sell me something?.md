@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/1N8i9idNtuQ7IJ_qdAB8Q_VNKH0=/0x0:3425x2283/1200x800/filters:focal(1439x868:1987x1416)/cdn.vox-cdn.com/uploads/chorus_image/image/71188750/1411646314.0.jpg' width='700px' /><br/>
 Automated birthday emails are a constant of modern life, right up there with death, taxes, and computer updates with poor timing. Once a year, my inbox fills to the brim with reminders of just how many companies I've entrusted with my birthdate.
-<a href='https://www.theverge.com/2022/7/29/23284214/birthday-emails-automated-corporate-brands-unsubscribe'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/1N8i9idNtuQ7IJ_qdAB8Q_VNKH0=/0x0:3425x2283/1200x800/filters:focal(1439x868:1987x1416)/cdn.vox-cdn.com/uploads/chorus_image/image/71188750/1411646314.0.jpg' width='700px' /><br/>
-Automated birthday emails are a constant of modern life, right up there with death, taxes, and computer updates with poor timing. Once a year, my inbox fills to the brim with reminders of just how many companies I've entrusted with my birthdate.
 <a href='https://www.theverge.com/2022/7/29/23284214/birthday-emails-automated-corporate-brands-unsubscribe'> Source <a/>

@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/A3b1qfj3G3xsN9NtKI20KtAxsgg=/0x0:1351x1035/1200x800/filters:focal(568x410:784x626)/cdn.vox-cdn.com/uploads/chorus_image/image/71188494/notable_people_map.0.jpg' width='700px' /><br/>
 This interactive world map visualizes “a cross-verified database of notable people” to show you the most notable person in your hometown — or anywhere else you might want to look.
-<a href='https://www.theverge.com/2022/7/29/23283701/wikipediate-notable-people-ranking-map-search-scroll-zoom'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/A3b1qfj3G3xsN9NtKI20KtAxsgg=/0x0:1351x1035/1200x800/filters:focal(568x410:784x626)/cdn.vox-cdn.com/uploads/chorus_image/image/71188494/notable_people_map.0.jpg' width='700px' /><br/>
-This interactive world map visualizes “a cross-verified database of notable people” to show you the most notable person in your hometown — or anywhere else you might want to look.
 <a href='https://www.theverge.com/2022/7/29/23283701/wikipediate-notable-people-ranking-map-search-scroll-zoom'> Source <a/>
