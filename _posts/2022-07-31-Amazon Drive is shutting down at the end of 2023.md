@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iH3mt2qXBIugVcnF--AdEnVFyl8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71187430/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Bad news for the (presumably few) people out there who have relied on Amazon Drive for storing their important files in the cloud: Amazon is shutting down the service. On the plus side, you've got well over a year to figure out an alternative and get everything moved over.
-<a href='https://www.theverge.com/2022/7/29/23283743/amazon-drive-cloud-storage-shutting-down-2023'> Source <a/>

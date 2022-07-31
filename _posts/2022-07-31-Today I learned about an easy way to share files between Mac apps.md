@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ULKkYsxg8M5Tc-TIKP8hLVWelhQ=/0x0:2016x962/1200x800/filters:focal(847x320:1169x642)/cdn.vox-cdn.com/uploads/chorus_image/image/71192643/Screenshot_2022_07_29_at_09.27.53.0.png' width='700px' /><br/>
+Apple has made macOS very good at handling drag and drops. For example, I often pull a picture right out of the Photos app or Safari and drop it into iMessage or Slack. One thing that's always slowed me down, though, is moving around more traditional files, like PDFs or other documents.
+<a href='https://www.theverge.com/23283781/macos-drag-files-title-bar-tip-today-i-learned'> Source <a/>
