@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MFnauAuVXPMJ3OKX1e9dL2hvZDM=/0x0:2040x1360/1200x675/filters:focal(839x587:1165x913)/cdn.vox-cdn.com/uploads/chorus_image/image/71190210/mchin_201020_5350_0012.0.jpg' width='700px' /><br/>
-Dell collectively shocked everyone who follows the laptop market when it announced the XPS 13 Plus. After I published my first impressions last December, I got all kinds of DMs and emails from people asking what the heck this thing was. It's a laptop unlike anything ever seen — and many of us have spent the past half year wondering whether that's a good or bad thing.
-<a href='https://www.theverge.com/23284276/dell-xps-13-plus-intel-2022-review'> Source <a/>
