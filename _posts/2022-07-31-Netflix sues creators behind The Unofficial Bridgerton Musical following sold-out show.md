@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ozy0Qed5dyjdDndBP3X_senji8Y=/0x0:3600x2404/1200x800/filters:focal(1512x914:2088x1490)/cdn.vox-cdn.com/uploads/chorus_image/image/71191776/BRIDGERTON_102_Unit_02026R.0.jpg' width='700px' /><br/>
+Netflix is suing Abigail Barlow and Emily Bear, the duo behind The Unofficial Bridgerton Musical over copyright infringement, as first reported by Deadline. The streaming giant filed the complaint in a Washington, DC district court just days after Barlow and Bear held a live, sold-out show dedicated to their Bridgerton-inspired album.
+<a href='https://www.theverge.com/2022/7/30/23285371/netflix-sues-creators-unofficial-bridgerton-musical-emily-bear-abigail-barlow'> Source <a/>

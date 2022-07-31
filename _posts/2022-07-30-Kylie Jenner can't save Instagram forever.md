@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jh2-Ox8ooXfg28-NU4iRGiNzZKw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71187294/VRG_Illo_K_Radtke_STK070_Instagram_1.0.jpg' width='700px' /><br/>
-In early May, the Meta executive in charge of Instagram, Adam Mosseri, shared some news: the social media app's main feed would start looking dramatically different to some users.
-<a href='https://www.theverge.com/2022/7/29/23282330/instagram-reels-backlash-tiktok-adam-mosseri'> Source <a/>

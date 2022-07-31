@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fUD7uHo9Y8j-2bbkHyQuaGAKlJA=/0x0:3900x2600/1200x675/filters:focal(1638x988:2262x1612)/cdn.vox-cdn.com/uploads/chorus_image/image/71187263/PRGL_S1_UT_107_210903_PINANJ_00219RC.0.jpg' width='700px' /><br/>
-It doesn't take long for the Paper Girls comic books to get strange. The series from Brian K. Vaughan and Cliff Chiang starts out with a dream about an astronaut with angel wings and a skull for a face, and before the first issue is done, you'll have seen an odd partially-organic space capsule and read a completely incomprehensible language from people who might be monsters. Things only get weirder from there.
-<a href='https://www.theverge.com/23280703/paper-girls-review-amazon-prime-video'> Source <a/>

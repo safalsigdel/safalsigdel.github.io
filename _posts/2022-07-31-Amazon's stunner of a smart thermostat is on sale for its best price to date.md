@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/viszdtAAprAd34NAfeFlvagHm9s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71190681/jtuohy_211116_4885_0013.0.jpg' width='700px' /><br/>
+Amazon Prime Day is back, baby! OK, maybe not technically speaking, but so many Amazon devices are currently discounted at Best Buy and other retailers that it's giving us a major sense of deja vu. Right now, for example, you can buy Amazon's excellent Smart Thermostat at Best Buy and Target for just $41.99 ($18 off) — a record low set during Prime Day.
+<a href='https://www.theverge.com/good-deals/2022/7/30/23283710/amazon-smart-thermostat-echo-dot-show-apple-macbook-pro-14-sonos-roam-speaker-deal-sale'> Source <a/>
