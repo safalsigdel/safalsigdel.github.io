@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OsQ9XdsyJJn-18nNrB-uOSpo0uk=/0x0:672x448/1200x800/filters:focal(283x171:389x277)/cdn.vox-cdn.com/uploads/chorus_image/image/71194844/google_search_set_timer.0.jpg' width='700px' /><br/>
+Until recently, one of the most convenient ways to set a timer was to simply search for one on Google. Punch in a query like “10 minute timer” and, hey presto, you'd get a ten minute timer. But last month, reports started to emerge that this feature had disappeared from Google without warning. SEORoundTable was among the first to cover the missing timer on July 20th, citing tweets from around July 18th.
+<a href='https://www.theverge.com/2022/8/1/23286876/google-built-in-timer-stopwatch-disappeared-broken-bug'> Source <a/>
