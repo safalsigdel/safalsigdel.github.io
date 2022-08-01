@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tiX0NHd9jqE7k3X4TyQwxJNp1cs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71193469/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+Considering how intertwined music discovery is with TikTok, it wouldn't be all that surprising if the company launched a music streaming app of its own. Well, patent filings uncovered by Insider suggest TikTok's working on just that.
+<a href='https://www.theverge.com/2022/7/31/23286166/tiktok-music-app-challenge-spotify-apple-streaming-bytedance'> Source <a/>

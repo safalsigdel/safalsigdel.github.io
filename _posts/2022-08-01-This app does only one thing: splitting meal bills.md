@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WrDz65vhrkGDy_inaM28LeebZ1s=/0x0:986x600/1200x800/filters:focal(415x222:571x378)/cdn.vox-cdn.com/uploads/chorus_image/image/71193044/Screen_Shot_2022_07_28_at_3.14.48_PM.0.png' width='700px' /><br/>
+There's a lot to be said for an app with one singular function, and that's what makes the Tab app so magical. Unlike other bill splitting apps like Splitwise, which lets you split and track any type of expense, the Tab app exists to only split meal bills among a group of people. That's it — that's all it does.
+<a href='https://www.theverge.com/23282726/tab-app-bill-splitting-review'> Source <a/>

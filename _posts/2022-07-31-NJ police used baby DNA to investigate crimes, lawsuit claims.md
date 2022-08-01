@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iCfUm64uLzBPVF7Udi-aX9qHfnA=/0x0:2130x1420/1200x800/filters:focal(895x540:1235x880)/cdn.vox-cdn.com/uploads/chorus_image/image/71187678/VRG_ILLO_1777_AK_body_data.0.0.jpg' width='700px' /><br/>
-New Jersey police may have used blood samples taken from babies to investigate crimes, according to public defenders in the state.
-<a href='https://www.theverge.com/2022/7/29/23283837/nj-police-baby-dna-crimes-lawsuit-public-defender'> Source <a/>
