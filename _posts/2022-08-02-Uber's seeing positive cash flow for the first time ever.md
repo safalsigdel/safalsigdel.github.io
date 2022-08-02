@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gmPBCUmU8gCLmQubsu_fHbXeFyQ=/0x0:6640x4427/1200x800/filters:focal(2789x1683:3851x2745)/cdn.vox-cdn.com/uploads/chorus_image/image/71199379/1148200314.0.jpg' width='700px' /><br/>
+Uber reported $382 million in free cash flow for the first time ever, an indication that the rideshare company's “hardcore” effort to rein in costs is starting to pay off, even in the midst of a cooling economy.
+<a href='https://www.theverge.com/2022/8/2/23287945/uber-positive-cash-flow-q2-2022-earnings'> Source <a/>
