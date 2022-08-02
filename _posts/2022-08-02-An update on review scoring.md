@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9ypyvPVsA-SDZBnRKqci6oFpFsU=/0x0:1300x875/1200x800/filters:focal(546x334:754x542)/cdn.vox-cdn.com/uploads/chorus_image/image/71195797/image__3_.0.png' width='700px' /><br/>
-The most contentious part of any review is the numeric score that's given to the product. which reduces our evaluation of how a product performs in what is often a very competitive space to a value on a 10-point scale. We have often talked about getting rid of our scores, but readers tell us they often look to the score first when reading a review and rely on scores for their purchasing decisions.
-<a href='https://www.theverge.com/23286429/review-score-update-processes'> Source <a/>

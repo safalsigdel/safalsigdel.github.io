@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Njsh5ZBCxU1mcQwpF6JRqvikqJE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71199233/acastro_180509_1777_steam_0003.0.jpg' width='700px' /><br/>
+Indonesia has lifted its ban on Steam and Yahoo now that both companies complied with the country's restrictive laws that regulate online activity (via @ZhugeEX). The Indonesian Ministry of Communication and Information (Kominfo) announced the news in a translated update on Twitter, noting that Counter-Strike: Global Offensive and Dota 2 are back online as well.
+<a href='https://www.theverge.com/2022/8/2/23288488/indonesia-steam-yahoo-fortnite-fifa-block-epic-games-origin'> Source <a/>

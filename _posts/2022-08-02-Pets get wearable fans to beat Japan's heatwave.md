@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UIxjzEmK2CtTl_02Iwi_hxii9Jo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71195751/ons0032_0019_1.0.jpeg' width='700px' /><br/>
-Tokyo-based clothing company Sweet Mommy has a novel way to keep pets cool. Instead of romping in sprinklers or parking in front of the air conditioner, it's created “air-conditioned pet clothes” called COOL DOG (though cats can wear them as well). The device is a wearable fan that can be fixed to a pet's back and is designed to help prevent pooches from getting heat stroke during walks.
-<a href='https://www.theverge.com/2022/8/1/23286986/cats-dogs-wearable-fan-japan-heat-wave'> Source <a/>

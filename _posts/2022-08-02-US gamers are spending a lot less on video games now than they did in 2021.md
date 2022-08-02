@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lsf0_iuwwY1uMIM2jWdzz4NN5sY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71199120/acastro_210113_1777_gamingstock_0002.0.jpg' width='700px' /><br/>
+US consumer spending on video game products has fallen by $1.78 billion in Q2, according to market research firm NPD. Overall, spending in video gaming in the US totaled $12.35 billion in the recent quarter, down 13 percent year over year. The findings follow both Microsoft and Sony reporting revenue declines in gaming as the pandemic growth slows.
+<a href='https://www.theverge.com/2022/8/2/23288496/us-video-game-spending-npd-second-quarter-2022'> Source <a/>
