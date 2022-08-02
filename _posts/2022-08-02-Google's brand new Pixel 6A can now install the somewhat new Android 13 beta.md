@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WTVzWNSh2t6rR7gGv69JYMUjBkw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71198493/wjoel_180413_1777_android_003.0.jpg' width='700px' /><br/>
+The Pixel 6A may have only been released last Thursday, but Google is wasting no time in bringing the latest beta version of Android 13 to its new midrange device. 9to5Google reports that Android 13's latest beta, version 4.1, is now available for the Pixel 6A. The software was first released last Monday, when it was initially available for the Pixel 4 through 6 Pro.
+<a href='https://www.theverge.com/2022/8/2/23288385/google-pixel-6a-android-13-beta-4-1-released'> Source <a/>

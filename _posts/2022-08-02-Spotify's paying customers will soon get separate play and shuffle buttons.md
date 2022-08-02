@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k4-354lGDywHgM0e_fMS_Zcx4Cc=/0x0:2040x1264/1200x800/filters:focal(857x469:1183x795)/cdn.vox-cdn.com/uploads/chorus_image/image/71195593/spotify.0.jpg' width='700px' /><br/>
-Spotify is fully separating its play and shuffle buttons — but only for Premium subscribers. Today, the company announced that it's beginning to roll out individual buttons for the two functions, which will replace the combined play / shuffle button that's currently at the top of playlists and artist pages. The change is expected to hit Android and iOS devices “in the coming weeks.”
-<a href='https://www.theverge.com/2022/8/1/23287075/spotify-premium-individual-play-shuffle-announced'> Source <a/>
