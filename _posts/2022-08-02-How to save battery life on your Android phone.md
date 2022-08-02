@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J7szyH-h9TZbGYvWv9XIDi4vuHw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71196927/ajohnson_220216_5033_0010.0.jpg' width='700px' /><br/>
-Once upon a time, phones such as the original Motorola Droid had interchangeable batteries. You could keep an extra charged battery on hand and swap them out when needed. It was a lot more convenient and lightweight than dragging around a heavy battery pack, and it kept the phone going strong over the course of the busiest workday.
-<a href='https://www.theverge.com/23203572/android-phone-battery-save-drain-how-to'> Source <a/>
