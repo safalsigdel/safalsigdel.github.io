@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sPAQ8er0CWy1PpjK4cjqmOp-H94=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71199718/outlookandroidlite.0.png' width='700px' /><br/>
+Microsoft is releasing a new smaller and faster Outlook Lite app for Android this week. The lightweight version of Outlook is designed to have a smaller app size, faster performance, and lower battery usage, all while including the core features of the regular Microsoft Outlook mobile app.
+<a href='https://www.theverge.com/2022/8/2/23288708/microsoft-outlook-lite-android-app-available'> Source <a/>
