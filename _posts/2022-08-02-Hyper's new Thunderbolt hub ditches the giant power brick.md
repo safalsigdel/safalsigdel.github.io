@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ridJ383A6eGSDpYKZ36-rZmDJWg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71196194/Thunderbolt.0.png' width='700px' /><br/>
+Hyper, the company behind those stackable GaN chargers and powerful battery banks, is running a Kickstarter for a Thunderbolt 4 hub that's truly compact thanks to the fact that it doesn't need a massive power brick like the ones that weigh down other hubs. Instead, it plugs straight into the wall with a relatively standard figure-eight power cable, letting you add fast ports to your computer without eating up a bunch of backpack or desk space.
+<a href='https://www.theverge.com/2022/8/1/23287270/hyper-thunderbolt-4-hub-charging-power-brick'> Source <a/>

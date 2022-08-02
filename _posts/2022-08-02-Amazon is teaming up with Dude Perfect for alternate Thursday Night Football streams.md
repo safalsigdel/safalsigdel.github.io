@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JoHBFnfFUoG6N3FcjR98UAGUsYo=/0x0:1536x1203/1200x800/filters:focal(646x480:890x724)/cdn.vox-cdn.com/uploads/chorus_image/image/71197031/FZF3LP_XkAQ1v2f.0.jpeg' width='700px' /><br/>
+Beginning this season, Amazon Prime Video will be the exclusive home for the NFL's Thursday Night Football. But if you don't want to watch the main show featuring two of the biggest names in sports broadcasting, the company will be offering alternative streams, including ones starring the hugely popular YouTube channel Dude Perfect.
+<a href='https://www.theverge.com/2022/8/1/23287542/amazon-prime-video-nfl-thursday-night-football-tnf-streams-dude-perfect'> Source <a/>

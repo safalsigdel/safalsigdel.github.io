@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BT_2_K8tTJu0-ZxzUbz9UmKd3_Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71196412/VRG_Illo_STK010_K_Radtke_Ukraine_laptop.0.jpg' width='700px' /><br/>
+As the Russian war in Ukraine drags on, electronic warfare techniques may be giving Russian forces an edge, according to some intelligence analysts.
+<a href='https://www.theverge.com/2022/8/1/23287336/russia-ukraine-electronic-warfare-signals-jamming-analysts'> Source <a/>

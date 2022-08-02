@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y9uWkOILwYbxaxpx097dXxzxZuw=/0x0:880x495/1200x0/filters:focal(0x0:880x495):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23914981/illaoi_3.png' width='700px' /><br/>
+Riot Games' upcoming League of Legends-themed 2D fighting game will be free to play and will include the League champion Illaoi as one of its playable fighters, the studio announced in an update on Monday.
+<a href='https://www.theverge.com/2022/8/1/23287237/riot-games-project-l-league-of-legends-fighting-game-free-illaoi'> Source <a/>

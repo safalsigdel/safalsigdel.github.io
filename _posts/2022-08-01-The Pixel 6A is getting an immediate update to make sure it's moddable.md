@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nlzTwDQryls7rIDlGr9URc9qt7k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71193258/vpavic_220708_5335_0037.0.jpg' width='700px' /><br/>
-Just days after the Pixel 6A's launch, Google's rolling out an update to fix an issue preventing users from unlocking the bootloader and performing mods, according to a report from Android Police. The change is bundled within the Pixel 6A's first update, which Google just started releasing last week.
-<a href='https://www.theverge.com/2022/7/31/23286119/google-pixel-6a-update-moddable-unlocked-bootloader-rooting-custom-roms'> Source <a/>

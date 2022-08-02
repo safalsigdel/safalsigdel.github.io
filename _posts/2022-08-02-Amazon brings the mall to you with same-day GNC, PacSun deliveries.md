@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OedSR8SWE_oH_KuAgY4VLk4JvpA=/0x0:660x372/1200x800/filters:focal(313x71:417x175)/cdn.vox-cdn.com/uploads/chorus_image/image/71195970/amazon_mall_shopping.0.jpg' width='700px' /><br/>
+Amazon is partnering with select stores that we're used to seeing in local shopping malls to offer same-day Prime deliveries. For now, this only applies to orders from PacSun, GNC, Superdry, and Diesel, but Amazon says it's working on offering same-day deliveries from Sur La Table and 100% Pure in “the coming months.”
+<a href='https://www.theverge.com/2022/8/1/23287132/amazon-same-day-mall-retail-pacsun-gnc-superdry-diesel'> Source <a/>

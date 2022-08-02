@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EJxUvjmmVxiZzJPRZWXyHDVuCoU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71191152/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
-The Indonesian government has blocked access to a range of online services, including Steam, Epic Games, PayPal, and Yahoo after the companies failed to comply with a new requirement related to the country's restrictive content moderation laws, as reported earlier by Reuters.
-<a href='https://www.theverge.com/2022/7/30/23285091/indonesia-bans-access-steam-epic-games-paypal-yahoo'> Source <a/>

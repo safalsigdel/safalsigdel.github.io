@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ioYQxG0WqZ_p0NR3kP1us3O8dDw=/0x449:1600x1683/1200x800/filters:focal(642x908:898x1164)/cdn.vox-cdn.com/uploads/chorus_image/image/71195874/EconomicConnectednessIndividual_county_los_angeles_county_ca.0.png' width='700px' /><br/>
+Meta publicly released information on 21 billion Facebook friendships as part of a research project looking at economic inequality in the United States, the company announced today. Along with new insights into the intersection of money and friendships in America, the partnership between Meta and the researchers gives us another look at who Facebook is willing to share data with — and why.
+<a href='https://www.theverge.com/2022/8/1/23287026/facebook-data-economic-mobility-open-access'> Source <a/>

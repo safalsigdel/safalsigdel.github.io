@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8c4u2s3gqjp_gWJnUI2_6Lkh3Ls=/0x828:3402x3812/1200x800/filters:focal(1042x1855:1586x2399)/cdn.vox-cdn.com/uploads/chorus_image/image/71193690/1661297.0.jpg' width='700px' /><br/>
-Nichelle Nichols, who was best known for her groundbreaking role as Nyota Uhura in the original Star Trek series, died at age 89. Her son, Kyle Johnson, informed her fans in a post on Nichols' Instagram account.
-<a href='https://www.theverge.com/2022/7/31/23286342/star-trek-nichelle-nichols-dies-age-89-nyota-uhura'> Source <a/>

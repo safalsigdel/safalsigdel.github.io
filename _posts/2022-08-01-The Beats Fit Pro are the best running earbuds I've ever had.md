@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3rcQ9-IDJrJHZYfsemCb1DXkl5Y=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/71190468/DSCF6021_Edited_2.0.jpeg' width='700px' /><br/>
-One truth about me as a runner is that I need my jams. No jams, no run. I have meticulously curated playlists where the bass drops are strategically timed to gas me up when I lose steam. Aside from my sneakers, my earbuds are the most important piece of running tech I own. And yet, my decade-long search for the perfect pair only just ended a few weeks ago.
-<a href='https://www.theverge.com/23282855/beats-fit-pro-wireless-earbuds-running'> Source <a/>

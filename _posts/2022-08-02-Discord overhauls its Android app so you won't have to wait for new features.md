@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ov6iT61_RI4cr5fbZy9B46be7j4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71196143/acastro_200318_1777_discord_0002.0.0.jpg' width='700px' /><br/>
+Discord is overhauling its Android app in the coming weeks so that new features and updates arrive at the same time as iOS and desktop. If you're a Discord Android user, you're probably used to seeing new features not appear for months after they were announced on iOS, and we saw that most recently with the Server Profiles feature being available on iOS way before Android.
+<a href='https://www.theverge.com/2022/8/1/23286860/discord-react-native-android-new-app-ios-new-updates-features'> Source <a/>

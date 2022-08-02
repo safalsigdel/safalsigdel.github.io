@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V8o1Y7Q_tcZ5z5rr6yh-5cknRgc=/0x0:1400x933/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/71196396/sennheiser_momentum_4_leak.0.jpg' width='700px' /><br/>
+The comfy, classy, premium build of Sennheiser's third-gen Momentum Wireless headphones earned them a spot on our list of the very best noise-canceling cans — but a Canadian retailer leak has just revealed their next iteration will be quite different when they launch later this month.
+<a href='https://www.theverge.com/2022/8/1/23287327/sennheiser-momentum-4-wireless-headphones-leak-price'> Source <a/>

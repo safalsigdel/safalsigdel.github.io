@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I2lklPG-12ORSZldmKDN6fodgk0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71194881/226053_boostWifi.0.jpg' width='700px' /><br/>
-The coronavirus pandemic is now in its third year, which means that many former commuters are now in their third year of working from home. Even folks who are back in the office a few days a week are often working from home more than they did before the pandemic started. If your Wi-Fi is flaking out, slowing to a crawl, or dropping at inopportune moments, here's how to get it back in business, ranging from free and simple to complicated and kinda expensive.
-<a href='https://www.theverge.com/23277172/wifi-home-wfh-troubleshoot-fix-how-to'> Source <a/>

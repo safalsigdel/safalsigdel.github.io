@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O3-CcvCTo1iTVRtMaRzJBnjS3sA=/0x0:1168x767/1200x800/filters:focal(491x291:677x477)/cdn.vox-cdn.com/uploads/chorus_image/image/71190810/Screen_Shot_2022_07_29_at_3.20.37_PM.0.png' width='700px' /><br/>
-Google has a delightful new multiplayer Doodle that lets you play a game of pxc3xa9tanque online. If you haven't heard of pxc3xa9tanque — I hadn't before writing this article — it's a game that's kind of like bocce ball.
-<a href='https://www.theverge.com/2022/7/30/23284432/google-doodle-multiplayer-game-petanque'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LnxIah7RIUVMqsxcD2PufW99wNs=/0x0:1440x603/1200x800/filters:focal(448x87:678x317)/cdn.vox-cdn.com/uploads/chorus_image/image/71193082/tomb_raider_mgm_film.0.jpeg' width='700px' /><br/>
-Tomb Raider's movie rights are up for grabs. According to a report from TheWrap, the Amazon-owned MGM waited too long to create a sequel to its 2018 Tomb Raider film, freeing up the rights for the next Hollywood studio that wants to take a stab at creating an adaption of the long-running video game franchise.
-<a href='https://www.theverge.com/2022/7/31/23285976/tomb-raider-film-new-lara-croft-amazon-mgm-lose-rights-alicia-vikander'> Source <a/>
