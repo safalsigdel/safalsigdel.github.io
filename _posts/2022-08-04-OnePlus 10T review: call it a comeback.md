@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QW6OIIRc8rhUQ6aPGjDApAGDrg8=/0x0:3000x2000/1200x675/filters:focal(1178x727:1658x1207)/cdn.vox-cdn.com/uploads/chorus_image/image/71204367/op_10t_johnson_3.0.jpg' width='700px' /><br/>
+Technically, OnePlus didn't go anywhere. Especially in Europe and India, it's been very much present over the past few years, putting out midrange devices that perform better than their price points indicate. But in the US, it feels like the company hasn't quite had the same profile in recent years.
+<a href='https://www.theverge.com/23289302/oneplus-10t-review-specs-price-screen-fast-charging-camera'> Source <a/>

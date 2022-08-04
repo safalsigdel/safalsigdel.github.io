@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wSGJzgkvfOs5P4AA1Nl0ZwKY2xU=/0x0:4990x3327/1200x800/filters:focal(2096x1265:2894x2063)/cdn.vox-cdn.com/uploads/chorus_image/image/71197614/dseifert-nest-audio-4225-9.0.0.jpeg' width='700px' /><br/>
-It's officially August, which means we're getting close to the fall hardware season, and two recent FCC filings from Amazon and Google could hint at a couple products the companies may — or may not — reveal.
-<a href='https://www.theverge.com/2022/8/1/23287842/google-amazon-devices-fcc-filings-echo-studio-nest'> Source <a/>

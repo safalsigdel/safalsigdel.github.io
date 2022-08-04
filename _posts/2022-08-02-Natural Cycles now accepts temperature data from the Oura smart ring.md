@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T99BCoV14IQN7utBdEgqCgEBPKI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71198748/vsong_211117_4890_0008.0.jpg' width='700px' /><br/>
-The Oura smart ring is now compatible with Natural Cycles digital birth control, the companies announced today. The partnership lets Natural Cycles users pull in temperature information from their Oura Ring rather than manually take a temperature for the app each morning.
-<a href='https://www.theverge.com/2022/8/2/23287187/natural-cycles-digital-birth-control-oura-temperature'> Source <a/>

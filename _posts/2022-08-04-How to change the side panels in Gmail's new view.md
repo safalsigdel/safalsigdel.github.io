@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ij5iftfIbJ1wreWPcZbkBtW2-eg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71205166/Gmail_Master.0.png' width='700px' /><br/>
+When The Verge's Richard Lawler reported that Google was rolling out its newly stylized version of Gmail for the web, I decided I wanted to take a look as well. Since my Gmail page hadn't yet switched over, I clicked on the cog-like Settings icon in the upper-right corner of my page and then on the link labeled Try out the new Gmail view and refreshed my page.
+<a href='https://www.theverge.com/23290550/gmail-new-view-panel-meet-chat-how-to'> Source <a/>

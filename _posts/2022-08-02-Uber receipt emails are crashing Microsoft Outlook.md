@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LUBA5JLxw9L7Y3mHSaJfxdwSRCs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71199335/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Microsoft has acknowledged an issue where Outlook on Windows will stop responding or crash when you view Uber receipt emails. The issue started recently in what Microsoft calls the Current Channel Version of Outlook that's available for Microsoft 365 subscribers. Microsoft is developing a fix, but it won't be available until Patch Tuesday on August 9th.
-<a href='https://www.theverge.com/2022/8/2/23288589/microsoft-outlook-app-crash-uber-email-receipts'> Source <a/>

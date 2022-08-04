@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0kTc0kl4rFcf5tmhoBJsS8pHN8A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71205396/acastro_210429_1777_0001.0.jpg' width='700px' /><br/>
+Microsoft's first new Windows 11 widget should make it even easier to find out which games are coming to PC Game Pass. The widget is only available to Windows Insider testers for now and is supposed to provide a “window” into the service's game library, allowing you to check out recent additions and the games leaving soon.
+<a href='https://www.theverge.com/2022/8/3/23290791/microsoft-windows-11-testing-game-pass-widget'> Source <a/>

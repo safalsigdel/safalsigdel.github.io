@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SahzDYx4fV1Dor_LukRHR1z99h4=/0x0:1000x600/1200x800/filters:focal(420x220:580x380)/cdn.vox-cdn.com/uploads/chorus_image/image/71204635/wow_movie_screenwriter.0.jpg' width='700px' /><br/>
+Blizzard has canceled a World of Warcraft mobile game according to a report from Bloomberg. The game, made in collaboration with Blizzard's Chinese publishing partner NetEase, was in development for three years before a conflict about financing terms halted the project.
+<a href='https://www.theverge.com/2022/8/3/23290523/blizzard-world-of-warcraft-mobile-canceled-netease'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R67JhDM6bhkh1Z7s3DC74Cwzl7U=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/71204509/Wemo_Dimmer_environmental1.0.jpg' width='700px' /><br/>
+Wemo, the smart home arm of Belkin, announced an updated version of its in-wall dimmer switch this week. The new Wemo Smart Dimmer with Thread ($59.99) is a wired smart switch that lets you dim and turn lights on and off remotely. It works exclusively with Apple's HomeKit platform over Thread or Bluetooth and is available now from Belkin's web store (and coming soon to Amazon).
+<a href='https://www.theverge.com/2022/8/3/23290273/wemo-smart-dimmer-switch-thread-apple-homekit-price-specs'> Source <a/>

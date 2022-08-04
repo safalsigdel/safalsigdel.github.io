@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OaM9uZEukO91ePPdJxjluYS4p1s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71205921/ahawkins_210623_4646_0005.0.jpg' width='700px' /><br/>
+Luxury electric vehicle maker Lucid Motors is slashing its production forecast for 2022 for the second time this year. The Newark, California-based company announced it was revising its production expectations to between 6,000 and 7,000 vehicles.
+<a href='https://www.theverge.com/2022/8/3/23291120/lucid-motors-q2-2022-earnings-ev-air-production-slashed'> Source <a/>

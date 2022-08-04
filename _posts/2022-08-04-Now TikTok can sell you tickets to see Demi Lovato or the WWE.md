@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-HHg4CI2Gtxi-WrL7hozCBMvTuk=/0x0:3373x2249/1200x800/filters:focal(1096x513:1634x1051)/cdn.vox-cdn.com/uploads/chorus_image/image/71205052/980799038.0.jpg' width='700px' /><br/>
+Performers can reach some fans even more directly now that Ticketmaster is selling tickets inside the TikTok app. The partnership means Ticketmaster can take advantage of TikTok's recommendation feed that helps get artists — and now their event tickets — in front of fans.
+<a href='https://www.theverge.com/2022/8/3/23290490/tiktok-ticketmaster-buy-tickets-demi-lovato-wwe-onerepublic-usher-backstreet-boys'> Source <a/>

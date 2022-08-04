@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vJ-WIC5-v6u6S1bC7IxRU13ssa0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71199523/VRG_ILLO_226075_Decoder_Hank_Green.0.jpg' width='700px' /><br/>
-In October 2006, Google bought YouTube for $1.65 billion. On January 1st, 2007, the brothers Hank and John Green started making videos for each other and shared them publicly on YouTube. That same year, YouTube rolled out its partner program, which shared ad revenue between YouTube and the people making videos. The split was 55 / 45 in favor of the creators.
-<a href='https://www.theverge.com/23287496/hank-green-youtube-tiktok-creator-economy-vlogbrothers-socialmedia'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O7hP_PZz7MdIMPGANVsL6ALg8zM=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19880369/bfarsace_200407_3962_0002.jpg' width='700px' /><br/>
-Well into the third year of this pandemic, it is very clear that everyone could use a refresher course in looking their best on camera. Nice lighting and perfectly decorated bookshelves were once the standard for video meetings, but now, it seems as though my co-workers couldn't care less about hiding their messy living rooms, bedrooms, and offices. And long gone are the days of flattering lighting.
-<a href='https://www.theverge.com/22832137/video-call-how-to-look-good-zoom-webex'> Source <a/>

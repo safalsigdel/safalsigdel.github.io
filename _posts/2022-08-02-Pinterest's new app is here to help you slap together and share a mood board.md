@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CWVy4anSn1T9r-6WOU-JJmvtVo4=/0x0:2880x1638/1200x800/filters:focal(1210x589:1670x1049)/cdn.vox-cdn.com/uploads/chorus_image/image/71196985/Screen_Shot_2022_08_01_at_3.19.59_PM.0.png' width='700px' /><br/>
-Today, Pinterest has released a new app on iOS called Shuffles — a collage-style social app where users can create a digital mood board and collaborate with others on the platform, TechCrunch reports. As of today, Shuffles is available via invite, but you can request to be on the app's wait list.
-<a href='https://www.theverge.com/2022/8/1/23287425/pinterest-shuffles-mood-board-social-app'> Source <a/>

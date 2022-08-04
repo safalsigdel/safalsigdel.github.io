@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bKgc-d7K_kAtjVM0QGqToCWGjIw=/0x0:5855x3903/1200x800/filters:focal(2460x1484:3396x2420)/cdn.vox-cdn.com/uploads/chorus_image/image/71197169/1241287513.0.jpg' width='700px' /><br/>
-Amazon's greenhouse gas emissions ballooned big time last year despite the company's efforts to sell itself as a leader in climate action. Its carbon dioxide emissions grew an eye-popping 18 percent in 2021 compared to 2020, according to its latest sustainability report.
-<a href='https://www.theverge.com/2022/8/1/23287351/amazon-climate-change-carbon-emissions-worse-2021'> Source <a/>

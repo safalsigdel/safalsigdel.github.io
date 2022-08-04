@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hzTnJoWqJ-o8mlhy4IAqQL3x694=/0x0:2573x1448/1200x800/filters:focal(1082x519:1492x929)/cdn.vox-cdn.com/uploads/chorus_image/image/71204196/Luna_Announcement_Key_Visual.0.jpeg' width='700px' /><br/>
+Amazon's game streaming service, Luna, is launching on Samsung's 2022 smart TVs and monitors today. Luna will be part of the Samsung Gaming Hub, which includes services like Google Stadia, Xbox Cloud Gaming, and Nvidia's GeForce Now. Samsung launched the gaming hub in late June, with the Xbox TV app exclusive to Samsung's 2022 smart TVs and monitors.
+<a href='https://www.theverge.com/2022/8/3/23290130/amazon-luna-samsung-tv-monitors-gaming-hub-2022'> Source <a/>

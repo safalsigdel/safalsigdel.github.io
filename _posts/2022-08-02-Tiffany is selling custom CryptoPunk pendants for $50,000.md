@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/brxR6pOyYeXaqg-K8mlqm5PC8ZI=/0x0:1772x1644/1200x800/filters:focal(745x681:1027x963)/cdn.vox-cdn.com/uploads/chorus_image/image/71197575/nft_tiffany_cryptopunks.0.png' width='700px' /><br/>
-For about $50,000 (30 Ethereum), CryptoPunk holders can get a handcrafted pendant modeled after their NFT (non-fungible token) from Tiffany & Co. — and no, this is not a joke (via Decrypt). The pendant, which will feature “at least” 30 diamonds or gemstones, will hang on an 18K gold chain with five pave diamonds on the clasp.
-<a href='https://www.theverge.com/2022/8/1/23287775/tiffany-custom-cryptopunk-pendants-nfts-nftiff'> Source <a/>

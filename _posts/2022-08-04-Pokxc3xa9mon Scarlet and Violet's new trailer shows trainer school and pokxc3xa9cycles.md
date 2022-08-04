@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vS-he6oduj1dkkJ2d2jrSe7KZKw=/0x0:1024x1024/1200x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23920175/Pokemon_SV_Fidough_Key_Art.png' width='700px' /><br/>
+This morning, the Pokxc3xa9mon Company put out a new Pokxc3xa9mon showcase providing updates on the various Pokxc3xa9mon apps and games. The 19-minute video revealed all the fun things being added to games like Pokxc3xa9mon Go and Pokxc3xa9mon Unite as well as a new trailer for the next entries in the Pokxc3xa9mon series, Scarlet and Violet.
+<a href='https://www.theverge.com/23289326/pokemon-scarlet-violet-trailer-pokemon-direct'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gGceI3Hsj2sXXnRgYK3iwwXuTio=/0x0:3840x1608/1200x800/filters:focal(1613x497:2227x1111)/cdn.vox-cdn.com/uploads/chorus_image/image/71204994/hgl1020_108_comp_v324_0c87efac.0.jpeg' width='700px' /><br/>
+She-Hulk: Attorney at Law will now be debuting one day later than previously expected and is shifting to Thursday airdates instead of the typical Wednesday premieres for Disney Plus shows. She-Hulk, starring Tatiana Maslany as Jennifer Walters, will begin streaming on August 18th, and new episodes will stream on Thursdays, Disney announced.
+<a href='https://www.theverge.com/2022/8/3/23290694/disney-plus-she-hulk-episodes-streaming-thursdays'> Source <a/>

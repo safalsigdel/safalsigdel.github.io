@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ok1ZgrjcDQBq3gTrlduMGz_nyT0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71198127/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple is dropping its mask mandates for corporate employees at “most locations,” according to an internal email from the COVID-19 response team, obtained by The Verge.
-<a href='https://www.theverge.com/2022/8/1/23288197/apple-mask-mandate-covid-19-protocols-hq-apple-store'> Source <a/>

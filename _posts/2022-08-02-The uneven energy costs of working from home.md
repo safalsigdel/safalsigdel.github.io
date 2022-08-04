@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sR11gtyuev5EhhwDFKdg0uY2mJg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71198754/226053_energy.0.jpg' width='700px' /><br/>
-The COVID-19 pandemic has given us a sneak peek into how working from home changes electricity demand and what that might mean for Americans' utility bills. The picture it's painted so far isn't very pretty, particularly for anyone who's already struggling to meet their needs.
-<a href='https://www.theverge.com/23274595/work-from-home-wfh-energy-bills-utility'> Source <a/>

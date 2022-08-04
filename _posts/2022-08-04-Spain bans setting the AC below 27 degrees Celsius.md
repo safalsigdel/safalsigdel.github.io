@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OqUp5-yHePUOtmCl9tgZMWgnBS8=/0x0:3744x2496/1200x800/filters:focal(1573x949:2171x1547)/cdn.vox-cdn.com/uploads/chorus_image/image/71205873/1411602080.0.jpg' width='700px' /><br/>
+As Europe grapples with a scorching summer and skyrocketing energy prices, Spain has become the latest government to tell its citizens to turn down the AC.
+<a href='https://www.theverge.com/2022/8/3/23291066/spain-bans-setting-air-conditioning-below-27-degrees-celsius'> Source <a/>
