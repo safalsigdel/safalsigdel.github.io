@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bP-CApQ4p_efHXQoiYeOaxCozlY=/0x0:7202x4802/1200x800/filters:focal(3025x1825:4177x2977)/cdn.vox-cdn.com/uploads/chorus_image/image/71204371/OnePlus_10T_product___Green_and_Black_4.0.jpg' width='700px' /><br/>
-After not releasing a OnePlus 9T last year, OnePlus' T-series is making a return in 2022 with the OnePlus 10T, which sees its official launch today. Many of the device's details have already been made public, so today's news is about pricing and availability. Head over to Allison Johnson's full review for a rundown of what the phone is like to use in practice.
-<a href='https://www.theverge.com/2022/8/3/23288634/oneplus-10-price-release-date-specs-features-150w-fast-charging-alert-slider'> Source <a/>
