@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5rivEjyaIzyxjOBj6q2YJoxs714=/0x0:5225x3483/1200x800/filters:focal(2172x1049:3008x1885)/cdn.vox-cdn.com/uploads/chorus_image/image/71204639/1239556065.0.jpg' width='700px' /><br/>
-Even Beyoncxc3xa9 is not immune to the cycle of outrage. Though her critically acclaimed latest album, Renaissance, has been out for less than a week, Beyoncxc3xa9 is already making changes to two of her songs after being called out on social media.
-<a href='https://www.theverge.com/2022/8/3/23290473/beyonce-renaissance-twitter-kelis-slur-lewinsky'> Source <a/>

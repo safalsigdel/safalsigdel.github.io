@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5DqIr5chvUUXfji2go2gHJrND2E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71204716/akrales_181101_3056_0224.0.jpg' width='700px' /><br/>
-Textbook publisher Pearson suggests blockchain tech could let it take a cut of secondary textbook sales, capturing a section of the book market that's so far escaped it. As quoted by Bloomberg, Pearson CEO Andy Bird believes non-fungible tokens, or NFTs, could help publishers make money off textbook resales, although he stopped short of describing concrete plans.
-<a href='https://www.theverge.com/2022/8/3/23290335/pearson-textbook-publisher-nft-blockchain-secondhand-ebook-sales'> Source <a/>

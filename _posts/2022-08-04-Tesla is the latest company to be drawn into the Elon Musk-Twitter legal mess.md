@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8bzjT4RJQrW89vjs1bL4y4_fITo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71204583/VRG_Illo_STK022_K_Radtke_Musk_Crazy.0.jpg' width='700px' /><br/>
-Twitter wants all of Tesla's documents and communications related to Elon Musk's bid to take over the social media company, according to a new subpoena filed August 2nd. The electric car maker is the latest company to be drawn into the increasingly sticky mess that Musk created when he first proposed — and later attempted to abandon — a plan to buy Twitter.
-<a href='https://www.theverge.com/2022/8/3/23290436/twitter-elon-musk-tesla-subpoena-takeover-bid'> Source <a/>
