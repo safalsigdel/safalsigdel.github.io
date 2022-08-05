@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1oxrLDSjFy8_d74sYRQk2n5Jrbw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71207686/acastro_210329_1777_nft_0003.0.jpg' width='700px' /><br/>
-Earlier this week, thousands of crypto wallets connected to the Solana ecosystem were drained by attackers who used owners' private keys to steal both Solana (SOL) and USD Coin (USDC). Solana now says that, after an investigation “by developers, ecosystem teams, and security auditors,” it's linked the attack to accounts tied to the Slope mobile wallet app.
-<a href='https://www.theverge.com/2022/8/4/23291180/solana-cryptocurrency-slope-phantom-wallet-theft-supply-chain-attack'> Source <a/>
