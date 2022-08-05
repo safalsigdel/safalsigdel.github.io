@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5ex49Mu753mQVFZt-4vizXmkirk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71207356/226053_distracted.0.jpg' width='700px' /><br/>
-I've been working from home for close to 15 years. I also have ADHD. And a lot of streaming subscriptions. And a PlayStation. And hundreds of books. And a partner who also sometimes works from home and is equally aware of the presence of said streaming subscriptions, PlayStation, and books.
-<a href='https://www.theverge.com/23274524/work-from-home-distractions-wfh-how-to'> Source <a/>

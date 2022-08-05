@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Lv1_UIIWlfhsf15qyUxNa_lzEYA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71205025/acastro_210201_1777_robinhood_0002.0.jpg' width='700px' /><br/>
-Robinhood is trading just above $10 a share as of this publication, which is about a 73 percent decrease from its price at IPO, $38. The market cap is now under $10 billion. Friends, it's possible. The more the shares fall, the easier it is for the memestonkers to snatch. How would a bunch of retail investors seize Robinhood? Why not use a DAO?
-<a href='https://www.theverge.com/2022/8/3/23290510/robinhood-acquisition-target-takeover-dao-lol'> Source <a/>

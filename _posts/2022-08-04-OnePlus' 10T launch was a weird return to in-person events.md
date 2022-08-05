@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZzfwJW_qkAMsG9701v5R5ytW_w4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71207630/DSC03193.0.jpg' width='700px' /><br/>
-There's nothing minimalist about the scene at OnePlus' 10T launch event, and at a venue called Gotham Hall, how could it be? The ceiling and walls are lit up in bright red, and the audience is blanketed in a blue glow. There's also a chandelier in the middle of the ceiling giving real The Phantom of the Opera vibes.
-<a href='https://www.theverge.com/23291183/oneplus-10t-launch-event-ground-scene-report-new-york-2022'> Source <a/>

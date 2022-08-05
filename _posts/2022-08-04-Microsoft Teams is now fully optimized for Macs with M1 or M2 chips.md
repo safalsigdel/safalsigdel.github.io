@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8Ss2sDzPpJ2lNOtpNLIWpySmEJU=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71204817/Mac_Light.0.png' width='700px' /><br/>
-Microsoft has created a native version of its Microsoft Teams client for Macs with M1 or M2 chips. The software giant has developed a native Apple Silicon version of Microsoft Teams that should include performance benefits for Mac users with the latest M1 or M2 chips, and it's rolling out over the coming months.
-<a href='https://www.theverge.com/2022/8/3/23290572/microsoft-teams-apple-silicon-native-app-m1-m2-macs-performance-boost'> Source <a/>

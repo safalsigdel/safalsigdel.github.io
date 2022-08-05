@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The Rotom Phone is getting a big upgrade. Following its introduction in the Galar region three years ago, the updated version of the smartphone-that's-inhabited-by-a-Pokxc3xa9mon is finally making the jump from one back camera to two. The handset will soon be available in the new Paldea region as well.
-<a href='https://www.theverge.com/tldr/2022/8/3/23291273/pokemon-scarlet-violet-rotom-phone-second-camera'> Source <a/>

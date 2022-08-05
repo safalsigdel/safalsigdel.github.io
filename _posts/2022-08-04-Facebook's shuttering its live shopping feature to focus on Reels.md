@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1auHydUYQk5YS-sDs0KA7qFWX8o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71206144/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook is shutting down live shopping, its QVC-like livestream feature that lets creators broadcast and sell products to an audience (via TechCrunch). The feature will officially shut down on October 1st, and Facebook says it's part of the company's initiative to shift focus to Reels.
-<a href='https://www.theverge.com/2022/8/3/23291088/facebook-shuttering-live-shopping-feature-focus-reels-instagram'> Source <a/>

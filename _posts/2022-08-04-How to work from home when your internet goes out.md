@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ihBDy1i74AqxL2thJQHxxlGdA4U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71207484/226053_internetDead.0.jpg' width='700px' /><br/>
-You were working. Things were just fine. A landscaper puts a shovel through your buried internet cabling or tree limbs drop and kill a neighborhood's internet. Or the inexplicable happens, and the little green light on the cable modem goes red. You are, as the sailors say when a ship's engine becomes quiet, dead in the water. What now?
-<a href='https://www.theverge.com/23274076/work-from-home-internet-failure-how-to'> Source <a/>

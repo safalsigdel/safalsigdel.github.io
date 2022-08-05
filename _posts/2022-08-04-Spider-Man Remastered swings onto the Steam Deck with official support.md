@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZfAJmnwcYd7Z1yruN1577luWbFE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71205482/ss_7be97aa12cfc0e8feccdbb95dac3de71480f2140.1920x1080.0.jpg' width='700px' /><br/>
-Marvel's Spider-Man Remastered swings onto PC next week, and developer Insomniac Games just announced that the game has been verified for Steam Deck. Games that are verified should play great on the handheld gaming PC without having to make any major tweaks, meaning that you'll likely be able to jump right into the action when Spider-Man Remastered is released.
-<a href='https://www.theverge.com/2022/8/3/23290918/marvels-spider-man-remastered-pc-port-steam-deck-verified'> Source <a/>
