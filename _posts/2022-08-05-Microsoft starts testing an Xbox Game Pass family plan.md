@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eBldA4RluHidzbYEbI_7_IdAQ68=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71209033/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
-Microsoft is starting to test an Xbox Game Pass family plan that will allow subscribers to share their benefits with other people. A preview of this Xbox Game Pass family plan is available in Colombia and Ireland today, and testers will be able to add up to four people to their subscription as long as they're in the same country.
-<a href='https://www.theverge.com/2022/8/4/23292335/microsoft-xbox-game-pass-sharing-family-plan-preview'> Source <a/>
