@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AZr-fcsMLXsuOawjV7E4qOo5yC0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71208879/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
-Did you know you can search for an exact word or phrase on Google by putting quotation marks around it? It's a great way to get specific about something you're looking for. And on Thursday, Google announced what I think will be a nice improvement: the small snippets underneath a search result link will now be created based on where the quoted term appears on the page.
-<a href='https://www.theverge.com/2022/8/4/23292180/google-search-hack-quoted-phrases-better'> Source <a/>
