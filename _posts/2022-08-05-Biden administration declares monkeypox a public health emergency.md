@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q60IeECgmNgtG7oVJD_YMQBUTjY=/0x0:5400x3758/1200x800/filters:focal(2268x1447:3132x2311)/cdn.vox-cdn.com/uploads/chorus_image/image/71209161/1412757326.0.jpg' width='700px' /><br/>
+The monkeypox outbreak is a public health emergency in the United States, Xavier Becerra, the secretary of health and human services, said today. The disease has been spreading in the US since May, and cases have been rising around the world.
+<a href='https://www.theverge.com/2022/8/4/23292299/monkeypox-public-health-emergency-us-treatments-vaccines-biden'> Source <a/>
