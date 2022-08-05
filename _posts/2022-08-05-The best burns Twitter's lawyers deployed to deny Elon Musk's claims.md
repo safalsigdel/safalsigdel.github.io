@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/elaBtRNPyERJDEc7ndSIWQv-n0Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71210280/VRG_Illo_STK022_K_Radtke_Musk_Verified.0.jpg' width='700px' /><br/>
-So I don't know entirely what's in Elon Musk's counterclaims against Twitter — they are still under seal — but I did get an inkling today, when Twitter dropped its response. It's spicy! Rather than let Musk get his complaints out first, Twitter went ahead and released a blow-by-blow response, the better with which to dunk on Elon along the way.
-<a href='https://www.theverge.com/2022/8/4/23292747/elon-musk-counterclaims-twitter-filing-funny'> Source <a/>

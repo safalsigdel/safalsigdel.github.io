@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VbW2ENYt7xRi-Il5xX1XRP1N0fg=/0x0:4000x2538/1200x800/filters:focal(1680x949:2320x1589)/cdn.vox-cdn.com/uploads/chorus_image/image/71209808/1155290112.0.jpg' width='700px' /><br/>
-As autonomous vehicle testing ramps up, Argo AI announced the formation of a panel of outside experts to oversee the safe deployment of its technology.
-<a href='https://www.theverge.com/2022/8/4/23292533/argo-ai-safety-experts-advise-autonomous-vehicle'> Source <a/>
