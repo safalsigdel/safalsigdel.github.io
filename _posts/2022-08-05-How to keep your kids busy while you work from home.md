@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BGF2-7UAQnhvvJLFz3W2T9DHZyQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71211829/226053_kids.0.jpg' width='700px' /><br/>
+Working from home can be a balancing act between your business and personal life — especially if you've got kids. If your children are toddlers, then you must depend on partners, family, or childcare providers to keep them away from your Zoom sessions. If they are school age, you may have some time for yourself and your job during school hours — until the school day is done.
+<a href='https://www.theverge.com/23278781/work-from-home-kids-children-back-to-school'> Source <a/>

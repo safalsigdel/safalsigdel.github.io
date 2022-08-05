@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a_2im-0moRfGlb3eth4r6qlZ18s=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71211813/7.0.png' width='700px' /><br/>
+For a long time, Adobe's PDF file format has been the format for legal and business documents, largely because they most closely resemble their hardcopy versions — and because they can be locked down relatively easily so that no changes can be made. But while PDFs are great for producing accurate digital versions of paper documents, you can also very easily create a PDF out of an ordinary Word document as well.
+<a href='https://www.theverge.com/23291941/pdf-microsoft-word-convert-how-to'> Source <a/>
