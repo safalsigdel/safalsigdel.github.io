@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vn8t33zt1T22OCSwGy48xeDH_jU=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/71209481/bfarsace_171209_5072_0006.0.jpg' width='700px' /><br/>
+Apple has released a new software update for the Studio Display following reports of audio problems like sound dropouts and choppy playback (via MacRumors). The new update, which Apple only says “resolves an audio issue”, is a revised version of update 15.5, and to download and install it, your Mac will need to be on macOS Monterey 12.4 or later.
+<a href='https://www.theverge.com/2022/8/4/23292409/apple-studio-display-15-5-update-audio-issue-problem'> Source <a/>

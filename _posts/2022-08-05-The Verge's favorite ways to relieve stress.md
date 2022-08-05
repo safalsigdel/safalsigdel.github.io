@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/DSEkUMez5LirNlp_h6sDiSI2Lxw=/0x0:1536x2049/1200x800/filters:focal(646x903:890x1147)/cdn.vox-cdn.com/uploads/chorus_image/image/71208450/mitchell_hiking.0.jpg' width='700px' /><br/>
 It's been a really stressful few years. We've all been living through pandemics (plural!), political upheaval, economic awfulness — you name it. And this isn't even mentioning the normal pressure of work and family. So how do you deal?
+<a href='https://www.theverge.com/23287708/stress-run-exercise-yoga-garden'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/DSEkUMez5LirNlp_h6sDiSI2Lxw=/0x0:1536x2049/1200x800/filters:focal(646x903:890x1147)/cdn.vox-cdn.com/uploads/chorus_image/image/71208450/mitchell_hiking.0.jpg' width='700px' /><br/>
+It's been a really stressful few years. We've all been living through pandemics (plural!), political upheaval, economic awfulness — you name it. And this isn't even mentioning the normal pressure of work and family. So how do you deal?
 <a href='https://www.theverge.com/23287708/stress-run-exercise-yoga-garden'> Source <a/>
