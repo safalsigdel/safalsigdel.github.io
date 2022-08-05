@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kL0JUkkd0lM9Th0TQ_-1awdRWvM=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/71212479/1241146699.0.jpg' width='700px' /><br/>
+Tesla's Cybertruck, that object of intense fascination and ridicule that may or may not go into production next year, was supposed to start at the extremely attractive price of $39,900. But that was back in 2019 when the Cybertruck was first announced, and as Tesla CEO Elon Musk put it recently, “a lot has changed” since then.
+<a href='https://www.theverge.com/2022/8/5/23293309/tesla-cybertruck-price-expensive-elon-musk-shareholder'> Source <a/>
