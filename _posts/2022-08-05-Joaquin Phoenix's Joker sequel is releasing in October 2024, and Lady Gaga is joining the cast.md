@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TQYLt2A20IT-24oHyukkgGVimo8=/0x0:2316x1252/1200x800/filters:focal(864x431:1234x801)/cdn.vox-cdn.com/uploads/chorus_image/image/71207150/joker.0.png' width='700px' /><br/>
-The sequel to 2019's Oscar-winning Joker is planned for release on October 4th, 2024. Deadline reported the news Thursday, and director Todd Phillips confirmed the release date in an Instagram post. Joaquin Phoenix, who won the Oscar for Best Actor for his portrayal of the character in the first movie, is returning, and Lady Gaga will be joining the cast.
-<a href='https://www.theverge.com/2022/8/4/23291705/joker-sequel-folie-a-deux-todd-phillips-joaquin-phoenix-october-2024'> Source <a/>

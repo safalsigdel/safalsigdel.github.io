@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t0fn0IxgT0LgueLlPzYP4oWbAaE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71209972/acastro_210813_1777_amc_0001.0.jpg' width='700px' /><br/>
-You may remember our friends at AMC, the theater chain with the pantless CEO, who've leaned all the way in on the meme stock thing. Hordes of enthusiastic retail investors maybe rescued AMC from crushing debt. Now AMC is hoping to tap them again to create more shares of the company.
-<a href='https://www.theverge.com/2022/8/4/23292680/amc-ape-preferred-equity-shares'> Source <a/>
