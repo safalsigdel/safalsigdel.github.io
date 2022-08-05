@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aIbafjF2y8IO7D3JMs5cM0ST2YY=/0x0:5000x3333/1200x800/filters:focal(1391x1405:2191x2205)/cdn.vox-cdn.com/uploads/chorus_image/image/71209872/1235569421.0.jpg' width='700px' /><br/>
+Streaming company SoundCloud is cutting about 20 percent of its global workforce. Billboard reported on August 3rd that SoundCloud CEO Michael Weissman told the staff in a company memo that the change is mostly due to the current economic climate. Employees affected would be notified over the next several days.
+<a href='https://www.theverge.com/2022/8/4/23292362/soundcloud-firing-20-percent-workforce-layoffs'> Source <a/>

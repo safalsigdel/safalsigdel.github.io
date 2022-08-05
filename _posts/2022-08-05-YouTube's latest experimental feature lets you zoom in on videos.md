@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Fvn7PKBF7bTi__2DQQMWMzZpwQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71209354/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube is testing a new mobile app feature with its premium subscribers that allows them to zoom in on any video. As noted by 9to5Google, the latest opt-in experimental feature enables a pinch-to-zoom gesture for videos — and it works both in portrait and full-screen landscape view.
+<a href='https://www.theverge.com/2022/8/4/23292366/youtube-pinch-zoom-experimental-feature-now-available'> Source <a/>
