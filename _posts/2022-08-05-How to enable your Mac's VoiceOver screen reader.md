@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AP564VaVj3PU5QRDMPsNJmp8WYA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71209709/mchin_210701_4658_0001.0.jpg' width='700px' /><br/>
-Starting with macOS X, Apple has included a native screen reader called VoiceOver on its Macs and MacBooks. The feature is designed to help low-vision or blind users navigate their computers — and the internet — more easily. It works by reading aloud text descriptions of everything that appears on the screen, as well as reading any displayed text. The technology also allows users to interact with elements on the screen.
-<a href='https://www.theverge.com/23292344/macos-screen-reader-voiceover-accessibility-how-to'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KigRFtMrIj7K-c0PDv5PxKLRw_Y=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71208845/MultiVersus_111121_JAKE_HARLEY_BATS_ARYA.0.png' width='700px' /><br/>
-Player First Games, developer of MultiVersus, the arena brawler that pits Warner Bros. and DC Comics characters against each other in battles to the death, has announced it's delaying the start of season 1 and the release of the Morty character.
-<a href='https://www.theverge.com/2022/8/4/23291933/multiversus-warner-bros-delay-season-one-rick-and-morty'> Source <a/>
