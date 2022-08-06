@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EV90ZGNxF2pn20XrkfEepxRasnA=/0x0:1080x884/1200x800/filters:focal(454x356:626x528)/cdn.vox-cdn.com/uploads/chorus_image/image/71208926/mark_0zuck.0.jpg' width='700px' /><br/>
-Other than “turning up the heat a little bit” on Meta employees who shouldn't be there and hitting the metaverse runway, Mark Zuckerberg is highlighting Instagram's expanded NFT support. The founder and CEO took the opportunity of announcing expanded NFT support on Instagram to tell everyone his custom-made 1992 Little League baseball card is going on sale soon, with an NFT included as part of the deal.
-<a href='https://www.theverge.com/2022/8/4/23292066/instagram-nft-mark-zuckerberg-baseball-card-metaverse'> Source <a/>
