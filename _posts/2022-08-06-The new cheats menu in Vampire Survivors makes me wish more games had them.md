@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oNEiXRtbQNett4yuWTttTZ0HEvw=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/71210646/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.0.jpg' width='700px' /><br/>
-Vampire Survivors' new 0.10.0 update adds a cheats menu, and after using it to unlock some things I had been stuck on, I dearly wish that more games included one.
-<a href='https://www.theverge.com/2022/8/4/23292852/vampire-survivors-cheats-secrets-menu-0-10-update-spells'> Source <a/>
