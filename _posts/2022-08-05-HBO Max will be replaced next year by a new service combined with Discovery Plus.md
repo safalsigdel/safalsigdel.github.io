@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vJEtQnPF8rXLGDrqYrwuRJwPuF4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71210167/acastro_200602_1777_HBOMax_0002.0.0.jpg' width='700px' /><br/>
-HBO Max isn't dead...yet. But come the summer of 2023 it will be, and there will be a new service replacing both HBO Max and Discovery Plus, Warner Bros Discovery CEO David Zaslav said on an earnings call today.
-<a href='https://www.theverge.com/2022/8/4/23292742/hbo-max-discovery-plus-combo-streaming-app'> Source <a/>

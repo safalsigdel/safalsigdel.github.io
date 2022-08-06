@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/psF4uqllWyFsVgmvYxbx_B1w0PU=/0x0:3200x2133/1200x800/filters:focal(1344x811:1856x1323)/cdn.vox-cdn.com/uploads/chorus_image/image/71214348/1230096466.0.jpg' width='700px' /><br/>
+A Texas jury has ordered Alex Jones to pay around $45.2 million for spreading a false conspiracy theory about the Sandy Hook Elementary School shooting. The punitive damages come on top of a $4.1 million verdict from yesterday, potentially marking a major blow to Jones's Infowars media empire. But the number could be vastly reduced by limits built into the Texas legal code, which caps damages on defamation punishments.
+<a href='https://www.theverge.com/2022/8/5/23293411/alex-jones-punitive-damages-verdict-sandy-hook-defamation'> Source <a/>

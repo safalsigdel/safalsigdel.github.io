@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AwPzJk2a5364vXQga6vkC5faxJY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71209313/vpavic_201103_4275_0252.0.jpg' width='700px' /><br/>
-Microsoft is giving Xbox Series S game developers more control over memory on the console. A new Xbox software development kit has been released to developers recently, and it frees up more memory for developers to access for Xbox Series S games and boosts performance in certain titles.
-<a href='https://www.theverge.com/2022/8/4/23292391/microsoft-xbox-series-s-more-memory-game-development-performance'> Source <a/>
