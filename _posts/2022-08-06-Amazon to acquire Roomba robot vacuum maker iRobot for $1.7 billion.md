@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o3ENnKc9EWcjPvf3dojrfbtTIiU=/0x0:5120x3840/1200x800/filters:focal(2151x1511:2969x2329)/cdn.vox-cdn.com/uploads/chorus_image/image/71211815/Roomba_Pet_Lock.0.jpg' width='700px' /><br/>
-Amazon has signed an agreement to acquire iRobot, makers of Roomba robot vacuums. The deal is valued at approximately $1.7 billion, and Amazon will acquire iRobot for $61 per share in an all-cash transaction.
-<a href='https://www.theverge.com/2022/8/5/23293349/amazon-acquires-irobot-roomba-robot-vacuums'> Source <a/>
