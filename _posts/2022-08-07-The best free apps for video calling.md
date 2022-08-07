@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OgIzBK0udtxm3o22glpamJbF30k=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66922525/VRG_ILL_4947_Zoom_secure_call.5.jpg' width='700px' /><br/>
-The COVID-19 pandemic has had long-lasting effects on the way we work. Despite the semi-official “opening up” of many public and commercial venues, many of us are still relying on video calls to keep in touch with work colleagues, family, and friends. Zoom continues to top the list of videoconferencing apps, but there are a bunch of other free applications out there that will allow you to meet others online.
-<a href='https://www.theverge.com/21286781/best-video-call-apps-free'> Source <a/>

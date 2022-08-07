@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/atoYVUm3aImd13M9e5SOflr18rI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71212903/VRG_Illo_STK022_K_Radtke_Musk_Scales.0.jpg' width='700px' /><br/>
-Now, you can read the entire argument Elon Musk's lawyers are making that his latest change of heart is actually all Twitter's fault, laid out in this 165-page document just made public by the Delaware Court of Chancery.
-<a href='https://www.theverge.com/2022/8/5/23293527/elon-musk-countersuit-twitter-acquisition-fraud'> Source <a/>

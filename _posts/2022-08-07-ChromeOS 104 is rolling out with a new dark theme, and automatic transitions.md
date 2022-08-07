@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b3e2Y71B7ELSorgxZY4XMEFwwsQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71213428/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
-Google's newest update for ChromeOS is rolling out to users this week, and one of its new features  is support for switching to a dark theme, as 9to5Google reported. Previously hidden behind developer flags while in testing, it finally made an official debut on ChromeOS 104, following dark mode settings popping up more in other Google products.
-<a href='https://www.theverge.com/2022/8/5/23293471/google-chromeos-104-dark-mode-update'> Source <a/>
