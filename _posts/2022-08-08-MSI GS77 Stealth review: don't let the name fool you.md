@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X-SDNhaExKTlZFlbA5K7dXf2W6A=/0x0:2040x1360/1200x675/filters:focal(854x614:1180x940)/cdn.vox-cdn.com/uploads/chorus_image/image/71215330/akrales_220510_5162_0039.0.jpg' width='700px' /><br/>
+Don't let the name fool you — there is nothing stealthy about this device.
+<a href='https://www.theverge.com/23291973/msi-gs77-stealth-review-alder-lake-17-inch-gaming-laptop'> Source <a/>

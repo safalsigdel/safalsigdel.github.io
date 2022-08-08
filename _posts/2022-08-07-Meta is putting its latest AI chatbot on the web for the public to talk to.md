@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mUTQkCVgSSFOTZoxcL6Q_guQOGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71212537/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-Meta's AI research labs have created a new state-of-the-art chatbot and are letting members of the public talk to the system in order to collect feedback on its capabilities.
-<a href='https://www.theverge.com/2022/8/5/23293281/meta-ai-chatbot-blenderbot-3-web-access-research-safety'> Source <a/>
