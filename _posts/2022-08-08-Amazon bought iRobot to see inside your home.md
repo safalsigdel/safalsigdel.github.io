@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n01gcRtxTpYp4rsVVI6s63seZig=/0x0:2048x1536/1200x800/filters:focal(934x923:1260x1249)/cdn.vox-cdn.com/uploads/chorus_image/image/71213183/Roomba_j7__Alexa.0.jpg' width='700px' /><br/>
-When I spoke to iRobot's Colin Angle earlier this summer, he said iRobot OS — the latest software operating system for its robot vacuums and mops — would provide its household bots with a deeper understanding of your home and your habits. This takes on a whole new meaning with the news today that Amazon has bought iRobot for $1.7 billion.
-<a href='https://www.theverge.com/23293687/amazon-irobot-acquisition-purchase-smarthome-intelligence-privacy-analysis'> Source <a/>
