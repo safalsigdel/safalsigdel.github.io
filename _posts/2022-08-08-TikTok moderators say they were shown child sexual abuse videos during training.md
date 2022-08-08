@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/PpImFYX5AAClM8kSW5cnVxwgfT4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71214286/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
 A Forbes report raises questions about how TikTok's moderation team handles child sexual abuse material — alleging it granted broad, insecure access to illegal photos and videos.
-<a href='https://www.theverge.com/2022/8/5/23294017/tiktok-teleperformance-employees-shown-csam-moderation-report'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/PpImFYX5AAClM8kSW5cnVxwgfT4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71214286/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-A Forbes report raises questions about how TikTok's moderation team handles child sexual abuse material — alleging it granted broad, insecure access to illegal photos and videos.
 <a href='https://www.theverge.com/2022/8/5/23294017/tiktok-teleperformance-employees-shown-csam-moderation-report'> Source <a/>

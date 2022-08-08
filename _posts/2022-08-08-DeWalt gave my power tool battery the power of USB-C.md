@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/lxaQ0pweREl6TLHvOArevuoHgBg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71217860/vpavic_220210_5030_0132.0.jpg' width='700px' /><br/>
 Your leaf blower battery should be able to charge a laptop. Your drill battery should charge your phone. And while we're at it, why shouldn't our ever-more powerful USB-C power adapters be able to charge those power tool batteries as well?
-<a href='https://www.theverge.com/23287770/dewalt-dcb094-usb-c-pd-charging-kit-review'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/lxaQ0pweREl6TLHvOArevuoHgBg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71217860/vpavic_220210_5030_0132.0.jpg' width='700px' /><br/>
-Your leaf blower battery should be able to charge a laptop. Your drill battery should charge your phone. And while we're at it, why shouldn't our ever-more powerful USB-C power adapters be able to charge those power tool batteries as well?
 <a href='https://www.theverge.com/23287770/dewalt-dcb094-usb-c-pd-charging-kit-review'> Source <a/>
