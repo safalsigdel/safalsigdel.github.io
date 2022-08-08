@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jd8OIlHuJG6K7cHpo3Bq2ADCxx8=/0x0:4498x3000/1200x800/filters:focal(1890x1141:2608x1859)/cdn.vox-cdn.com/uploads/chorus_image/image/71220418/stealth_side_3_web.0.jpg' width='700px' /><br/>
+Lucid Motors is leaning into the dark side with a new trim package called “Stealth Look.” The subdued styling option, which features a total of 35 new exterior design cues, will be available for the full range of Air electric vehicles starting this week.
+<a href='https://www.theverge.com/2022/8/8/23296638/lucid-air-stealth-look-trim-price-ev'> Source <a/>
