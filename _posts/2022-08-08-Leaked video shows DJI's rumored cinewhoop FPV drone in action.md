@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aYOn-i2d5JeQBu6ngL9xdscT7lw=/0x0:1374x916/1200x800/filters:focal(578x349:796x567)/cdn.vox-cdn.com/uploads/chorus_image/image/71219584/FZeAa_TWAAE2lYp.0.jpg' width='700px' /><br/>
+A leaked video has given us another look at the DJI Avata, a rumored FPV (first-person view) drone from DJI that reports suggest will be designed to be flyable indoors thanks to a compact, so-called “cinewhoop” design. The Avata follows the release of the DJI FPV, the company's debut first-person drone released last year.
+<a href='https://www.theverge.com/2022/8/8/23296454/dji-avata-first-person-fpv-drone-cinewhoop-leaked-video-photos'> Source <a/>
