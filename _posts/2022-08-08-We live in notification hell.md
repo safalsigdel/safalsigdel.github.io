@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NA-ieOAKN60HmlgbFAIzz8pzRks=/0x0:1092x720/1200x800/filters:focal(459x273:633x447)/cdn.vox-cdn.com/uploads/chorus_image/image/71213769/verge-whatsapp-notification-2040pxl.0.0.jpg' width='700px' /><br/>
+It starts innocently enough. You download an app, and the app asks for your permission to send you push notifications. Sure, you think. What harm could come of it? I'd like to know when my package arrives or my burrito is ready. But then you download more apps, and they all need your permission to send you notifications, and before you know it your lock screen is awash with apps clamoring for your attention.
+<a href='https://www.theverge.com/2022/8/5/23293924/push-notifications-ios-android-daily-digest-time-sensitive'> Source <a/>
