@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wQEMx7yu9cHk-KU2a9bUQDb2s2A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71222187/acastro_180724_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Tesla has a new rewards program in China to encourage customers to trade in their used models for a brand new one (via electrek). From now until September 30th, Tesla vehicle owners in China who opt for the deal will receive half-off the Full Self Driving feature, 15,000km (9,320.57 miles) of Supercharging credits, and a home charger installation savings of about $1,184.
+<a href='https://www.theverge.com/2022/8/8/23297417/tesla-ownership-loyalty-program-china-free-supercharging-credits-fsd-half-off-full-self-driving'> Source <a/>

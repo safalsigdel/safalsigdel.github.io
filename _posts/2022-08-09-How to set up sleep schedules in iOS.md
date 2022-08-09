@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NpE46FepkTgMm39yWm4re19wgN4=/0x0:2040x1360/1200x800/filters:focal(883x568:1209x894)/cdn.vox-cdn.com/uploads/chorus_image/image/71221867/IMG_0376.0.jpg' width='700px' /><br/>
+With iOS 14, Apple introduced the ability to set your sleep schedules in the Health app. The feature itself isn't too complicated. You figure out how many hours you ideally want to get every night, then set a scheduled bedtime and wake time that suits that goal.
+<a href='https://www.theverge.com/23296761/sleep-schedules-ios-health-app-how-to'> Source <a/>
