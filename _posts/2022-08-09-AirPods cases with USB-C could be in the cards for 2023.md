@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/8rk1aHIzrHCbzGnvkpaz-9oh878=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224294/cwelch_191031_3763_0002.0.jpg' width='700px' /><br/>
-AirPods could come with a charging case that supports USB-C in 2023, according to Apple analyst Ming-Chi Kuo. It doesn't look like we should expect USB-C on the AirPods Pro 2 that Apple's expected to launch later this year, though, as Kuo still believes the case may still feature a Lightning port.
+AirPods could come with a charging case that supports USB-C in 2023, according to Apple analyst Ming-Chi Kuo. It doesn't look like we should expect USB-C on the AirPods Pro 2 that Apple's expected to launch later this year, though, as Kuo believes the case may still feature a Lightning port.
 <a href='https://www.theverge.com/2022/8/9/23298151/apple-usb-c-airpods-charging-case'> Source <a/>
