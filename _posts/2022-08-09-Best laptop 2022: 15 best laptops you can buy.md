@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Mk3gqYh3y_JJE8jRpzHtDDzns4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66770460/VRG_4013_Best_Laptop_Grid.0.jpg' width='700px' /><br/>
-The best laptop of 2022 can come with a variety of brands, prices, and features. Here, we've got the rest of the best laptops, Windows 10 business notebooks, gaming laptops, Chromebooks, laptops for school, and 2-in-1 convertibles.
-<a href='https://www.theverge.com/21250695/best-laptops'> Source <a/>
