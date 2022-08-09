@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SPaXR5k0YSjfWpRSiTEXqBLCJek=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71222440/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+Sent a wildly inappropriate text meant for your boo to, I don't know, your boss? Now you have some extra time to save face and delete it — well, if you're using WhatsApp, at least.
+<a href='https://www.theverge.com/2022/8/8/23297405/whatsapp-delete-texts-for-everyone-meta-apple-imessage'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/SPaXR5k0YSjfWpRSiTEXqBLCJek=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71222440/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+Sent a wildly inappropriate text meant for your boo to, I don't know, your boss? Now you have some extra time to save face and delete it — well, if you're using WhatsApp, at least.
+<a href='https://www.theverge.com/2022/8/8/23297405/whatsapp-delete-texts-for-everyone-meta-apple-imessage'> Source <a/>
