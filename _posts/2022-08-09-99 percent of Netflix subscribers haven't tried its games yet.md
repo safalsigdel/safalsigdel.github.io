@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CXyAdJPE_dFlLH5-DhOPkatacx0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71220493/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+As Netflix continues to build out its portfolio of games, the streamer's seeing less than 1 percent of its subscribers interact with them on a daily basis. According to data obtained by CNBC from app tracking group Apptopia, Netflix's games average 1.7 million users per day, a sliver of Netflix's 221 million subscribers globally.
+<a href='https://www.theverge.com/2022/8/8/23296545/netflix-games-1-percent-subscribers'> Source <a/>

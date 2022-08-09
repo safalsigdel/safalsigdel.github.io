@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WuHN1CrQoN-1SfN6XQWk81-AuXc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71223212/whatsapp_privacy_update.0.png' width='700px' /><br/>
+WhatsApp is rolling out a way to hide your “last seen” status from specific contacts, as well as the ability to leave a group without notifying other users.
+<a href='https://www.theverge.com/2022/8/9/23297350/whatsapp-privacy-update-hide-online-status-quietly-leave-group-chats'> Source <a/>

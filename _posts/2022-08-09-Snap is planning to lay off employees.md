@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_DNXfGMNLafEHdiWlU-e4Eo4q-0=/0x0:6720x3780/1200x800/filters:focal(2823x1353:3897x2427)/cdn.vox-cdn.com/uploads/chorus_image/image/71222705/1319094082.0.jpg' width='700px' /><br/>
+Snap is in the early stages of planning layoffs, according to two people familiar with the plans.
+<a href='https://www.theverge.com/2022/8/8/23297637/snap-snapchat-layoff-plans-weak-q2-earnings'> Source <a/>
