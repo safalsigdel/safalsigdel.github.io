@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3BGask4YVoelxA6LSHMoelrbLSg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71220779/newsroom_arcpro_overview.5.jpg' width='700px' /><br/>
+Intel is launching its Arc Pro series of GPUs today, designed primarily for powerful desktop workstations and laptops. The Intel Arc Pro A40 and A50 will both be available for workstations, while the A30M will be available in pro-focused laptops. All three GPUs are capable of hardware-based ray tracing and AV1 hardware acceleration — and are designed with AI tasks and creator apps like Adobe Premiere Pro in mind.
+<a href='https://www.theverge.com/2022/8/8/23296836/intel-arc-pro-gpu-workstations-mobile-specs'> Source <a/>
