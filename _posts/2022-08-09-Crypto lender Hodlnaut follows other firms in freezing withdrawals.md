@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wZO5kRohlExCYUGMa9BfU1rt8Ak=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224686/acastro_220524_STK428_0002.0.jpg' width='700px' /><br/>
+Cryptocurrency lender Hodlnaut is the latest firm to succumb to tumultuous market conditions and halt withdrawals (via Coindesk). In a post on its website, the Singapore-based company announced that it's freezing withdrawals, token swaps, and deposits due to an uncertain economy that some say triggered a “crypto winter.”
+<a href='https://www.theverge.com/2022/8/9/23298057/cryptocurrency-lender-hodlnaut-freezes-withdrawals'> Source <a/>
