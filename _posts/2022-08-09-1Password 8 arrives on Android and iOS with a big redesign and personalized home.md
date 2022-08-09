@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qu0f3n2_IZNvi1dpPrP7vlvL1Jo=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/71223836/1password8mobile.0.png' width='700px' /><br/>
+1Password is launching a big update to its Android and iOS apps today. 1Password 8 overhauls the design of the mobile password management apps in many of the same ways the 1Password 8 apps for Windows and Mac were redesigned in recent months. The new mobile interface includes a personalized home tab, which should make it easier to find logins, pin favorites, and organize your passwords.
+<a href='https://www.theverge.com/2022/8/9/23297972/1password-8-redesign-personalized-home-tab-features'> Source <a/>
