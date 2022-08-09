@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L7w4l-YMnT39p_tI-ldL3cqeupE=/0x0:2847x1455/1200x800/filters:focal(1197x501:1651x955)/cdn.vox-cdn.com/uploads/chorus_image/image/71224733/lang2.0.png' width='700px' /><br/>
+Google has released a browser version of its “Read Along” Android app. The website, while still in beta, is up and running now.
+<a href='https://www.theverge.com/2022/8/9/23297565/google-read-along-diya-pc-beta-release'> Source <a/>

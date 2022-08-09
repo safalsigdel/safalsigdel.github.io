@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lH5DT4KE0ECYU_-RTdmtWB9jSEc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224737/acastro_190503_1777_samsung_0002.0.0.jpg' width='700px' /><br/>
+Samsung Galaxy Unpacked is here, with the event starting for viewers on Wednesday, August 10th, at 9AM ET / 6AM PT.
+<a href='https://www.theverge.com/23289212/samsung-galaxy-unpacked-august-event-2022-news-rumors-updates'> Source <a/>
