@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nt69js3XNrzQoYzsMYY9g6RkWMk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224377/acastro_210430_1777_semiCon_0002.0.jpg' width='700px' /><br/>
+President Joe Biden signed the CHIPS and Science Act on Tuesday, writing into law the $280 billion package that includes $52 billion in funding to boost US domestic semiconductor manufacturing.
+<a href='https://www.theverge.com/2022/8/9/23298147/biden-chips-act-semiconductors-subsidies-ohio-arizona-plant-china'> Source <a/>
