@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ul-5jCu3j07HibMsXhNkXLOYzkw=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71218878/Ghost_UNBRANDED.0.png' width='700px' /><br/>
-The beta for Call of Duty: Modern Warfare II will arrive next month, with PlayStation players getting access first, followed by those on Xbox and PC. Infinity Ward shared the news at the CDL Champs (Call of Duty League Championship) tournament. As with its previous betas, the dates are separated by console and whether you preordered the game or not.
-<a href='https://www.theverge.com/2022/8/7/23296069/call-of-duty-modern-warfare-2-beta-coming-september-playstation-xbox-pc'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QZkuHMWBoi5VwuYKwFbDdgsNg4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71219606/acastro_181017_1777_brain_ai_0002.0.jpg' width='700px' /><br/>
-The US federal circuit court has confirmed that AI systems cannot patent inventions because they are not human beings.
-<a href='https://www.theverge.com/2022/8/8/23293353/ai-patent-legal-status-us-federal-circuit-court-rules-thaler-dabus'> Source <a/>

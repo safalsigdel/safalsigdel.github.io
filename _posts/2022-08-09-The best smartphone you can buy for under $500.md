@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rmR8kst6g7ZyqBps0Rj3tDZrTW4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67732463/Best_phone_grid_16x9_2022_v2.11.jpg' width='700px' /><br/>
+You can expect a lot from a midrange phone these days. Apple, Samsung, and Google all offer devices with many of the core features of their pricier phones, like top-of-the-line processors, weatherproofing, and software support for five or more years. You can't have everything, of course, but $400 or $500 goes a long way.
+<a href='https://www.theverge.com/21420196/best-budget-smartphone-cheap'> Source <a/>
