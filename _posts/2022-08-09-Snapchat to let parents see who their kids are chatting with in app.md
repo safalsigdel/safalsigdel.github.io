@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6hXHChlZnx0aYytlcBftX1tyaW0=/0x0:1100x619/1200x800/filters:focal(462x222:638x398)/cdn.vox-cdn.com/uploads/chorus_image/image/71223026/m9q649vs5xmbgpg5zkkcg3x.0.png' width='700px' /><br/>
+As part of Snap's child safety efforts, Snapchat is launching a new supervision tool on Tuesday that the company says mimics how parents and teenagers interact in the real world.
+<a href='https://www.theverge.com/2022/8/9/23296987/snapchat-family-center-snap-child-safety-online-privacy-tool'> Source <a/>
