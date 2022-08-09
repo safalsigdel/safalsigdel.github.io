@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/swFNHDbF7B25ecIYD19AZ-2DZE0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71222296/IMG_0379.0.jpg' width='700px' /><br/>
-Apple released the iOS 16 beta 5 today and with it comes the long-awaited return of battery percentage to the status bar. Unfortunately, it's ugly as hell and unreadable to boot.
-<a href='https://www.theverge.com/2022/8/8/23297253/apple-battery-percentage-ios-16-beta'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/swFNHDbF7B25ecIYD19AZ-2DZE0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71222296/IMG_0379.0.jpg' width='700px' /><br/>
-Apple released the iOS 16 beta 5 today and with it comes the long-awaited return of battery percentage to the status bar. Unfortunately, it's ugly as hell and unreadable to boot.
-<a href='https://www.theverge.com/2022/8/8/23297253/apple-battery-percentage-ios-16-beta'> Source <a/>
