@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UOr0c1U7gRYP0Zj3UTVb_d_D28s=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71223273/op_10t_johnson_4.0.jpg' width='700px' /><br/>
+Chinese smartphone maker Oppo and its sub-brand OnePlus have halted sales of smartphones in Germany after losing a patent lawsuit with Nokia.
+<a href='https://www.theverge.com/2022/8/9/23297947/oppo-oneplus-halt-sales-germany-nokia-patent-lawsuit'> Source <a/>
