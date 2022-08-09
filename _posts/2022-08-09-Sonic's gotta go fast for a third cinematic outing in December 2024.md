@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bLtwNZPZg_6QAtyX9ll1us4wDxQ=/0x0:579x361/1200x800/filters:focal(327x55:419x147)/cdn.vox-cdn.com/uploads/chorus_image/image/71223650/sonic.0.png' width='700px' /><br/>
+A third live-action Sonic the Hedgehog movie is on the way, and it's set for release on December 20th, 2024, the film's official Twitter account has confirmed.
+<a href='https://www.theverge.com/2022/8/9/23297992/sonic-the-hedgehog-3-live-action-movie-december-2024-release-date'> Source <a/>

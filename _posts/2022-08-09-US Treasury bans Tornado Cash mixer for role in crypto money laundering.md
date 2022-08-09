@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9vkEFz-r6ASNc11uYD7NT9ZPeHA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71220637/acastro_220524_STK428_0001.0.jpg' width='700px' /><br/>
-The US Department of the Treasury has added the Tornado Cash crypto mixer to a list of sanctioned organizations, barring all US citizens from interacting with it and requiring that US assets belonging to Tornado Cash be reported to the Office of Foreign Assets Control.
-<a href='https://www.theverge.com/2022/8/8/23296778/us-treasury-tornado-cash-crypto-mixer-sanctions-ethereum-north-korea'> Source <a/>
