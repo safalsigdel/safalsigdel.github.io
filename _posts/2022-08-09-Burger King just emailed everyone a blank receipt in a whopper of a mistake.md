@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n9UVIREHwHNj9GdLXiEea95ExoY=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/71223155/1240082239.0.jpg' width='700px' /><br/>
+Burger King has just emailed thousands or millions of customers with a blank order email receipt. The blank emails started appearing at around 12:15AM ET, leaving Burger King customers confused whether the company has been breached by a hungry hacker attempting a midnight feast, or if the emails are simply a giant whopper of a mistake.
+<a href='https://www.theverge.com/2022/8/9/23297891/burger-king-blank-email-order-receipt'> Source <a/>
