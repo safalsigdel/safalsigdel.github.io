@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1BzPTc8lCaXWFlT3rtfqe-oPCKw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224069/acastro_STK457__01.0.png' width='700px' /><br/>
-With less than 100 days until the midterm elections, the Democrats are equipping influencers and TikTok creators with digital tools to reach voters across the internet with party-sponsored content.
-<a href='https://www.theverge.com/2022/8/9/23298040/dnc-democrats-midterms-elections-tiktok-instagram-influencers'> Source <a/>

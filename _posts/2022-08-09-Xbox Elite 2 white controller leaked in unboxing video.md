@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O3LTVHXkDB415XIF7fqJNE6hjMw=/0x0:805x564/1200x800/filters:focal(339x218:467x346)/cdn.vox-cdn.com/uploads/chorus_image/image/71223287/xboxelitewhite.0.jpg' width='700px' /><br/>
-Microsoft appears to be working on a new white version of the Xbox Elite 2 controller. Video of the unannounced Xbox Elite 2 controller has appeared on YouTube, sporting a white face plate and black grips. The video comes months after a white Xbox Elite 2 controller was reportedly spotted at a retailer in the US earlier this year.
-<a href='https://www.theverge.com/2022/8/9/23297965/microsoft-xbox-elite-2-white-controller-video-leak'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wdPKdVrBMZyqOIY_8KpDDcmu3m8=/0x0:1530x982/1200x800/filters:focal(382x102:626x346)/cdn.vox-cdn.com/uploads/chorus_image/image/71225170/627441594.0.jpg' width='700px' /><br/>
+I had never held a piece by Issey Miyake before the tail end of a trip back home to Japan in 2019, when I wandered into the Pleats Please boutique in the Narita International Airport before my flight.
+<a href='https://www.theverge.com/2022/8/9/23298201/issey-miyake-dead-steve-jobs-turtlenecks-pioneer-fashion-designer'> Source <a/>

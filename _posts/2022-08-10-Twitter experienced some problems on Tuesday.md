@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tfzt2rMfpoU0mTXudAxS3t1fdUs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71225378/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter had some issues for some on Tuesday. I personally didn't experience any problems, but a colleague says that things loaded very slowly, specifically when it comes to new tweets and replies. They were also logged out on the web and weren't able to sign back in.
+<a href='https://www.theverge.com/2022/8/9/23298627/twitter-down-issues-problems-not-loading'> Source <a/>

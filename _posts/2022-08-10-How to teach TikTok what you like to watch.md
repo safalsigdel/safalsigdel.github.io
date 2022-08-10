@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4zyiB99SzrI5xUw6-SIFeJhFSgI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69575538/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+For those who may not yet be familiar with it, TikTok is a different type of social media platform. Unlike more traditional platforms like Instagram or Twitter where you manually curate your feeds by choosing to follow others — most likely, people you know — TikTok uses an algorithm to curate a highly personalized feed of videos. This algorithm can get shockingly specific as it gathers the videos it thinks you'll like.
+<a href='https://www.theverge.com/22574404/tiktok-videos-for-you-page-curate-algorithm-discover-how-to'> Source <a/>

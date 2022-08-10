@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z98xcnSFZknlZe4BksTDmR_71T0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71223982/ahawkins_220504_5202_0022.0.jpg' width='700px' /><br/>
-Nearly nine months after it stopped taking reservations, Ford is ready to reopen the order banks for the F-150 Lightning. But buyers beware: the price for the electric truck has gone up by around $7,000 across all trim levels.
-<a href='https://www.theverge.com/2022/8/9/23298076/ford-f-150-lightning-electric-truck-price-order-2023'> Source <a/>

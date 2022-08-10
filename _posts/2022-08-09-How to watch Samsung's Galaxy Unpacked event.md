@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0YCDNelz9PBINLXNWZw64x1whag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224250/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
-Samsung Galaxy Unpacked is set to begin on Wednesday, August 10th.
-<a href='https://www.theverge.com/2022/8/9/23288950/samsung-galaxy-unpacked-watch-live-stream-start-time'> Source <a/>

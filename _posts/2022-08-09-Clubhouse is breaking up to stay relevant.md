@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CCLoi3ljymym-Nhph8Uf0bGIGZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224265/acastro_210430_1777_audioApps_0003.0.jpg' width='700px' /><br/>
-Hello again everyone — it's been a while! Ariel's on vacation for the next week-plus, which means I get to tap in again and do my best impression of your usual host. Today, I chat about Clubhouse's big revamp, Panera adding a branded sound, and PRX Productions boosting its output through a new partnership.
-<a href='https://www.theverge.com/2022/8/9/23298097/clubhouse-houses-panera-sonic-branding-prx-productions-goat-rodeo'> Source <a/>

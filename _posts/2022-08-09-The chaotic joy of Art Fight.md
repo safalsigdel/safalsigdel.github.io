@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3tr6FmXZ8uGkIV3VxuiEZ_xEDig=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71223613/VRG_Illo__226036_C_Du.0.jpg' width='700px' /><br/>
-In the summer of 2017, I was stuck between high school and college and stuck between two versions of myself. There was the high school version of me, someone with a laser focus on traditional academic success, and the college version of myself, a mystery that burst with the potential to do and create outside of the box that I had formed around myself.
-<a href='https://www.theverge.com/23281344/art-fight-portrait-drawing-sharing-next-gen'> Source <a/>

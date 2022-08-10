@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8yHVWMPkajuOuAcSM5Y1sWJR1IE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71223727/VRG_Illo__226036_L_Park.0.jpg' width='700px' /><br/>
-In May 2020, I was searching for something — anything — to bring me joy. The world had become a dark place, and I just wanted to feel hopeful. And so, rationally, I went looking in the most obvious place: Twitch. And what I found was the Twitch stream of music producer Kenny Beats.
-<a href='https://www.theverge.com/23288510/kenny-beats-twitch-discord-community'> Source <a/>

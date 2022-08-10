@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eRz0D4Hxqfy7BvDhk-WDzKbX9UU=/0x0:5196x3464/1200x800/filters:focal(2183x1317:3013x2147)/cdn.vox-cdn.com/uploads/chorus_image/image/71223373/1340510831.0.jpg' width='700px' /><br/>
-As Hollywood looks ever further afield for IP to turn into new film franchises, the classic arcade game Pac-Man has emerged as the next potential basis for a live-action adaptation. According to The Hollywood Reporter, the film is currently under development at Wayfarer (the studio behind Disney Plus's Clouds) with assistance from Bandai Namco, based on an idea from Sonic the Hedgehog associate producer Chuck Williams.
-<a href='https://www.theverge.com/2022/8/9/23297973/pac-man-live-action-movie-in-development-wayfarer'> Source <a/>

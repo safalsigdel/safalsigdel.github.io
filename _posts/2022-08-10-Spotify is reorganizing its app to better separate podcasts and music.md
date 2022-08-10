@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QtfbkLQzwFg7AngbKnGbmV4f5Oo=/0x0:1440x820/1200x800/filters:focal(562x91:792x321)/cdn.vox-cdn.com/uploads/chorus_image/image/71225746/PR_header_1440_820_e.0.png' width='700px' /><br/>
+Spotify has been working on a new design for its home tab that will create separate feeds for your music and your podcasts. The company says it's part of an effort to give you more and better recommendations, but it also addresses a common criticism of the Spotify experience: with every kind of audio smushed together in the app, it can sometimes be hard to figure out.
+<a href='https://www.theverge.com/2022/8/9/23298679/spotify-app-redesign-podcasts-music'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TH9FdWVtJprnA78GQT6y-ZMEkm8=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/71225191/wiz_mobile_lamp_2.0.jpg' width='700px' /><br/>
+WiZ, the more budget-friendly, hubless sibling to Philips Hue (both companies are owned by Signify), beefed up its range of Wi-Fi-powered smart lighting products with new releases this week.
+<a href='https://www.theverge.com/2022/8/9/23298077/signify-wiz-smart-lighting-mobile-portable-light-release-date-price'> Source <a/>

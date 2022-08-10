@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hPTjETHikh0MAFzjaCs4wQXShtY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71226115/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
+Former Twitter employee Ahmad Abouammo was found guilty of spying for the government of Saudi Arabia, according to a report from Bloomberg. The jury handed down its judgment in a San Francisco federal court on Tuesday, where Abouammo was also convicted of conspiracy to commit wire fraud, money laundering, and falsifying records.
+<a href='https://www.theverge.com/2022/8/9/23298841/former-twitter-employee-convicted-spying-saudi-arabia'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ua4-Nuv8ZnE9tRwUqnypnY-vGR0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224284/dbohn_210820_4722_0003.0.jpg' width='700px' /><br/>
-Samsung is throwing itself a party tomorrow with a couple of guests of honor: its foldable phones. We'll likely see some updated watches and earbuds, but really, it's a birthday party for the Z Fold and the Z Flip. They've been around for years now, but last August was when they really hit their stride with the most mainstream models yet.
-<a href='https://www.theverge.com/2022/8/9/23297794/samsung-galaxy-unpacked-august-2022-z-fold-flip'> Source <a/>
