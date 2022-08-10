@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XeXvcu4c6hSvAvsq0sBuhY8cxX8=/0x0:705x470/1200x800/filters:focal(297x179:409x291)/cdn.vox-cdn.com/uploads/chorus_image/image/71224383/Image_bubbles_green_blue.0.jpg' width='700px' /><br/>
-Google is kicking off a new publicity campaign today to pressure Apple into adopting RCS, the cross-platform messaging protocol that's meant to be a successor to the aging SMS and MMS standards.
-<a href='https://www.theverge.com/2022/8/9/23297951/google-apple-rcs-adoption-campaign-getthemessage-blue-green-messages'> Source <a/>
