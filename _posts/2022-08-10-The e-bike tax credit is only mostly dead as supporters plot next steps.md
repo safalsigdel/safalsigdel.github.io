@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VWz_of1_hdmA5X28Iiy5lklgLos=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71224547/VRG_ILLO_4348_BikeBoom.0.jpg' width='700px' /><br/>
-The Inflation Reduction Act of 2022 is a major piece of legislation that would invest an eye-popping $369 billion in clean energy and other climate fighting tools, including billions of dollars for expanded tax credits for electric cars.
-<a href='https://www.theverge.com/2022/8/9/23297209/ebike-tax-credit-climate-bill-ev-car-congress'> Source <a/>
