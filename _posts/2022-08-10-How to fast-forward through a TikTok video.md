@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z6S0RYv-ENhz_rUrdIaB7Q_dIbs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69550026/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
-TikTok videos aren't what you would call long, but sometimes you might want to skip a few seconds ahead — especially now that the videos can be up to 10 minutes long. Or you may have a favorite moment that you want to replay over and over and over. Either way, TikTok has a way to go forward and back on its videos.
-<a href='https://www.theverge.com/22565619/tiktok-video-fast-forward'> Source <a/>

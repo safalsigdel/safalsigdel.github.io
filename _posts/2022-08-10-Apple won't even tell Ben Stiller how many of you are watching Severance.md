@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KHjZYhpfn889kiqOZxA0FqqCxyA=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/71226511/Severance_Photo_010101.0.jpg' width='700px' /><br/>
-There's no doubt that Severance is a hit — the show's first season made our best entertainment of 2022 list even as it “paints the darkest possible portrait of how megacorporations think about and treat their employees.” For a real-life example of that treatment, all you have to ask is what happens when the people who make Severance ask Apple how big of a hit it really is.
-<a href='https://www.theverge.com/23298275/apple-severance-ben-stiller-ratings-viewers-emmys'> Source <a/>

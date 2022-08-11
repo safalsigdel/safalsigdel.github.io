@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OCELT0uxKOcEMqCp3_APqWR7qnE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71229879/DSC03323_fold_4.5.jpg' width='700px' /><br/>
+The Flip and Fold turned a corner last year. Previous versions of Samsung's folding phones were more tech demos than anything — awkward, very expensive, and too fragile for just anyone to consider against a garden-variety slab-style phone. That started to change in August 2021 when Samsung figured out how to waterproof folding phones.
+<a href='https://www.theverge.com/2022/8/10/23300113/samsung-galaxy-z-fold-4-flip-4-durability-price-cameras-samsung-care-plus'> Source <a/>

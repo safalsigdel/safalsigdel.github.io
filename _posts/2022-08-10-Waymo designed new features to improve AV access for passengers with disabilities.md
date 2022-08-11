@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q_Pi92G7XBhSHohNFsiZncAnffw=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71225836/vpavic_4412_20210111_0003.0.jpg' width='700px' /><br/>
-Waymo is introducing a raft of new features designed to make its fleet of autonomous taxis more accessible to passengers with visual impairments and other disabilities.
-<a href='https://www.theverge.com/2022/8/9/23298488/waymo-accessible-disability-dot-design-challenge-av'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/muuK27-HviLaowgTnv17tXoAD7s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71226260/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
-Microsoft's marking OneDrive's 15th anniversary with a new landing page, called OneDrive Home, and it should make it easier to keep tabs on your work. Instead of arriving on the My files tab when you first open OneDrive, you'll find yourself on the new Home page that resembles that dashboard in the online version of Office.
-<a href='https://www.theverge.com/2022/8/9/23298562/microsoft-15-years-onedrive-home-redesign-new-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I-Fw3teUSvrIzu2jYwXzpMDg4CY=/205x0:1075x653/1200x800/filters:focal(533x104:737x308)/cdn.vox-cdn.com/uploads/chorus_image/image/71225391/IMG_2280.0.jpeg' width='700px' /><br/>
-Super Punch-Out!! has a hidden two-player mode that was just discovered nearly three decades after the game's original 1994 release (via Kotaku). If you want to mess around with it but don't have an SNES hooked up, you can actually give the secret mode a shot on the version of the game currently available to Nintendo Switch Online subscribers.
-<a href='https://www.theverge.com/2022/8/9/23298518/super-punch-out-hidden-two-player-mode-snes-nintendo-switch'> Source <a/>

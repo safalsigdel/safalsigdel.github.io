@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Apple finally added the battery percent indicator back to the status bar in the latest iOS 16 beta, and as my colleague Victoria Song wrote, it's hideous. I'm normally somebody who keeps battery percentages off anyway, but the new one seems like it's just bad. As Victoria pointed out, one particularly egregious issue is that the icon's “battery” is full no matter what the percentage says, which makes the icon harder to parse.
-<a href='https://www.theverge.com/tldr/2022/8/9/23298785/apple-ios-16-better-battery-percent-indicator-mockup'> Source <a/>

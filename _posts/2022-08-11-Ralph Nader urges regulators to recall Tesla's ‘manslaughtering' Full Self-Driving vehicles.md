@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lfKpQiOCGU0YbT9zftFfgicESTI=/0x0:5000x3334/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/71228804/1179063892.0.jpg' width='700px' /><br/>
+Ralph Nader, a former presidential candidate and nationally recognized consumer protection advocate, called on federal regulators to recall Tesla's “Full Self-Driving” (FSD) driver-assist feature, calling its deployment “one of the most dangerous and irresponsible actions by a car company in decades.”
+<a href='https://www.theverge.com/2022/8/10/23299973/ralph-nader-tesla-fsd-recall-nhtsa-autopilot-crash'> Source <a/>

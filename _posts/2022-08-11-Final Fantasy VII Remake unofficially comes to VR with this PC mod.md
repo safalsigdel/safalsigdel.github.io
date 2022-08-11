@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TnKxzrw4PqOCwvjkVTJ1Et4aL60=/0x0:1024x576/1200x800/filters:focal(374x195:536x357)/cdn.vox-cdn.com/uploads/chorus_image/image/71230011/final_fantasy_vii_remake_aerith.0.jpg' width='700px' /><br/>
+I still remember the hush that fell over the audience when Sony revealed the first trailer for Final Fantasy VII Remake — and the cheers. Fans couldn't wait to see these characters again in HD. But there may now be an even more immersive way to thrust yourself into the world of Cloud, Tifa, Barret, and Aerith: a virtual reality mod by Luke Ross for the PC version of the game.
+<a href='https://www.theverge.com/2022/8/10/23300463/ffvii-remake-intergrade-pc-vr-luke-ross-mod'> Source <a/>

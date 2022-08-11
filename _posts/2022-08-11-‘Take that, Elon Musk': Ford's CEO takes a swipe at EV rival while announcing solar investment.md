@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/81tWzq6H00flWVDtDfx9l4pWh2A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71228570/1240263023.0.jpg' width='700px' /><br/>
+Ford CEO Jim Farley took a swipe at Tesla CEO Elon Musk Wednesday while announcing a major investment in solar energy. The comment was intended to draw a comparison between Tesla's long-delayed Cybertruck and Ford's plug-in pickup, the F-150 Lightning.
+<a href='https://www.theverge.com/2022/8/10/23299790/ford-jim-farley-tesla-elon-musk-solar-energy'> Source <a/>

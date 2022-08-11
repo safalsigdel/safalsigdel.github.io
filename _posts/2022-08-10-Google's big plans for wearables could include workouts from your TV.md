@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6VXYZWfUxD9GOcjBNzbpd_YssCE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71224828/DSCF2108.0.jpg' width='700px' /><br/>
-Google has yet to launch its first smartwatch, but the company may already be working on the next steps for its wearable plans. According to a Protocol report, Google is planning to integrate fitness trackers into Google TV and Android TV as part of a broader push to strengthen its product ecosystem. The question is whether the historically fragmented Wear OS platform is up for the challenge.
-<a href='https://www.theverge.com/2022/8/9/23298103/google-tv-fitness-tracker-wear-os-smart-home'> Source <a/>

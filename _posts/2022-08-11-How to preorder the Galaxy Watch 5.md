@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cslktCEZld6EL7aLSCzVwO0Pzvc=/0x0:6309x7907/1200x800/filters:focal(2651x3450:3659x4458)/cdn.vox-cdn.com/uploads/chorus_image/image/71228392/galaxywatch5family.0.jpeg' width='700px' /><br/>
+Samsung announced the new Galaxy Watch 5 and Watch 5 Pro alongside the Galaxy Z Fold 4, Galaxy Z Flip 4, and the forthcoming Galaxy Buds Pro 2 during its Galaxy Unpacked event this week. Both smartwatches are set to launch on August 26th but are available for preorder today starting at $279.99 and $449.99, respectively.
+<a href='https://www.theverge.com/23280577/samsung-galaxy-watch-5-smartwatch-preorder-buy-price-availability-release-date'> Source <a/>

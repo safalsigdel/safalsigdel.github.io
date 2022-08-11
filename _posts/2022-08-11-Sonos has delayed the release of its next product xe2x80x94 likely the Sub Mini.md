@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SrDCvAH5Pj9Jc1b6blO-BIOW6_E=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71230207/VRG_ILLO_5226_Sonos_Leak_Pillbox.0.jpg' width='700px' /><br/>
+After reporting bumpy third quarter earnings on Wednesday, Sonos announced that it has decided to push back a product launch that was originally penciled in for the near future. The product in question is almost certainly the long-awaited Sub Mini, a more affordable subwoofer that would join the company's home theater lineup alongside the existing $749 Sub.
+<a href='https://www.theverge.com/2022/8/10/23300377/sonos-new-product-delayed-sub-mini'> Source <a/>

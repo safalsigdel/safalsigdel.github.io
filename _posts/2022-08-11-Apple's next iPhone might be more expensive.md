@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SCvbrOk2HrcmfXPjX1OqhXEuohE=/0x0:1000x1000/1200x800/filters:focal(427x321:587x481)/cdn.vox-cdn.com/uploads/chorus_image/image/71229094/vpavic_210916_4760_0082.0.jpeg' width='700px' /><br/>
+Apple could make the upcoming iPhone 14 more expensive than the iPhone 13, according to Apple analyst Ming-Chi Kuo. Kuo believes that the average selling price (ASP) of the combined iPhone 14 lineup may increase by 15 percent when compared to the iPhone 13 lineup.
+<a href='https://www.theverge.com/2022/8/10/23300000/iphone-14-more-expensive-cost-iphone-13-pro-max-apple-rumors'> Source <a/>

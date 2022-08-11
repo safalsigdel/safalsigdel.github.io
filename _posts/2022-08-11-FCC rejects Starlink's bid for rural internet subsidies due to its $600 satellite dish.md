@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GcRhkBlHUq8fhjr4U_jUWwDnI_s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71229877/npatel_20210512_4552_0005.0.jpg' width='700px' /><br/>
+The Federal Communications Commission (FCC) has rejected Starlink's application for $885 million in federal subsidies that it would use to provide satellite internet to broadband customers in rural areas. The FCC cites the SpaceX-owned company's $600 dish and states that Starlink “failed to demonstrate” that it “could deliver the promised service.”
+<a href='https://www.theverge.com/2022/8/10/23300301/fcc-rejects-starlink-spacex-application-885-million-rural-broadband-subsidies-elon-musk'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6uiYOu3fjheUw3iEVzsapNlXt74=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71227376/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-A 17-year-old from Nebraska and her mother are facing criminal charges including performing an illegal abortion and concealing a dead body after police obtained the pair's private chat history from Facebook, court documents published by Motherboard show.
-<a href='https://www.theverge.com/2022/8/10/23299502/facebook-chat-messenger-history-nebraska-teen-abortion-case'> Source <a/>

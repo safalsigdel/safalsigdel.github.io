@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kjryuAp-UxGNTn1z2h5AYYV7rwY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69571942/1__1_.5.png' width='700px' /><br/>
-You can create a great TikTok video by doing nothing more than simply talking to the camera. However, if you want to do something a little fancier or you're still unsure of your own ability to spruce up your video, you can start with some of the predesigned templates that come with the app.
-<a href='https://www.theverge.com/22573640/tiktok-video-template-how-to-beginner'> Source <a/>

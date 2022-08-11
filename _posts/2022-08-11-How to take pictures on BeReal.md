@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xWkGO1RgkJJtx7DcP40LBLT27XM=/0x0:5803x3869/1200x800/filters:focal(2438x1471:3366x2399)/cdn.vox-cdn.com/uploads/chorus_image/image/71229456/1242373352.0.jpg' width='700px' /><br/>
+If you've been hearing about this BeReal thing but you're not exactly sure what it is or how to use it, fear not. The concept can be an odd one to wrap your head around, but the app is, by design, one of the more intuitive and low-effort social networks out there.
+<a href='https://www.theverge.com/23299821/bereal-download-take-photo-how-to'> Source <a/>

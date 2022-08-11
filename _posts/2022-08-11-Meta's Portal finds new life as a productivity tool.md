@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G9SCfUoSJ6W7s9zx2gslGDX_Aog=/0x0:890x668/1200x800/filters:focal(374x263:516x405)/cdn.vox-cdn.com/uploads/chorus_image/image/71229462/01_Meta_Portal_Companion_App.0.jpg' width='700px' /><br/>
+As the corporate world embraces its work-from-home future, Meta is doubling down on turning its line of smart displays into ultimate video calling devices. This week, the company announced its $349 Portal Plus (second-gen) and $199 Portal Go can now do extra work as a second display for your Mac or PC thanks to new support for the Duet Display app.
+<a href='https://www.theverge.com/2022/8/10/23299937/meta-portal-duet-display-companion-app-second-screen-mac-pc'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sZ2BDXI1o0XKQk5InwvsvGkL980=/0x0:5100x3824/1200x800/filters:focal(2142x1504:2958x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/71225399/1041936014.0.jpg' width='700px' /><br/>
-Unauthorized mole and skin tag removers sold on Amazon put the company in the crosshairs of the Food and Drug Administration, which sent a warning letter to the retail giant this month asking that it remove the products from its website.
-<a href='https://www.theverge.com/2022/8/9/23298443/amazon-fda-warning-letter-mole-skin-tag-remover'> Source <a/>

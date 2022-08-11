@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/41N_UntRczAtMiYlp9Q991bYI2Q=/0x0:5831x3720/1200x800/filters:focal(2450x1394:3382x2326)/cdn.vox-cdn.com/uploads/chorus_image/image/71225590/1412937977.0.jpg' width='700px' /><br/>
-Walmart is investigating building its own streaming service, The New York Times reported, and is talking to some big-name content players about which shows and movies it can offer to Walmart Plus subscribers. The company has apparently held discussions with Paramount, Disney, and Comcast about the service, though it's not clear whether those discussions came to anything. (Walmart declined to comment.)
-<a href='https://www.theverge.com/2022/8/9/23298617/walmart-streaming-service-tv-movies'> Source <a/>
