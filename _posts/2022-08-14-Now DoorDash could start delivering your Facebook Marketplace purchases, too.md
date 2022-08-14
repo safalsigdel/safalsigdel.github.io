@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ji2ahD-wWwnSG8fedAKm4IA9BLI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71239831/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
+You may soon have the option to have your Facebook Marketplace purchases picked up and delivered by DoorDash. According to a report from The Wall Street Journal, Facebook's parent company, Meta, is partnering with DoorDash to deliver Marketplace items located up to 15 miles away.
+<a href='https://www.theverge.com/2022/8/13/23304106/doordash-deliveries-facebook-marketplace-purchases-meta-partnership'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xidBL9pEif_3YSBzJj-nPO5Cgm4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71235965/Xiaomi_Mix_Fold_2.0.jpg' width='700px' /><br/>
+The Xiaomi Mix Fold 2 has launched in China just days after Samsung announced its next generation of foldable handsets, with Xiaomi looking to gain an advantage over its competition with a slimmer design, bigger displays, and a more affordable price.
+<a href='https://www.theverge.com/2022/8/12/23302758/xiaomi-mix-fold-2-folding-phone-announced'> Source <a/>

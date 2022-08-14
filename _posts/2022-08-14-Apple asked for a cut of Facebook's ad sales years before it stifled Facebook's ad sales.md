@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Er0nnnnbLKF6BuoxAF04IuWgZzk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71237128/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+Apple and Meta may not be the best of friends right now, but at one point, Apple was in discussions with the social media company about how it could make more money from its presence on the App Store, according to The Wall Street Journal.
+<a href='https://www.theverge.com/2022/8/12/23303095/apple-meta-facebook-ad-sales-subscription'> Source <a/>

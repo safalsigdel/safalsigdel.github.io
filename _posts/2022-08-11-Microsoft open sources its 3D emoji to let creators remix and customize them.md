@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KFa1gjmwCSUJw44jbR6Cf5Gsj1o=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71228545/img_microsoft_fluent_emoji_figma_wide.0.png' width='700px' /><br/>
-Microsoft is open sourcing more than 1,500 of its 3D emoji, making them free for creators to remix and build upon. Almost all of Microsoft's 1,538 emoji library will be available on Figma and GitHub starting today in a move that Microsoft hopes will encourage more creativity and inclusivity in the emoji space.
-<a href='https://www.theverge.com/2022/8/10/23299527/microsoft-emoji-open-source-creators'> Source <a/>

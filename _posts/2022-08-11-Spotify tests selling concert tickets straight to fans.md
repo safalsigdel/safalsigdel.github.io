@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wTDJwOcujbFVFJa5KfSw17XFi-E=/0x0:1383x869/1200x800/filters:focal(582x325:802x545)/cdn.vox-cdn.com/uploads/chorus_image/image/71228665/spotify_tickets_home.12.jpeg' width='700px' /><br/>
-Spotify's testing a new website to sell concert tickets directly to fans, as first reported by Music Ally. The site, dubbed Spotify Tickets, currently has a limited selection of upcoming US-based concerts for participating artists like Limbeck, Tokimonsta, and Annie DiRusso.
-<a href='https://www.theverge.com/2022/8/10/23299732/spotify-concert-tickets-test-selling-fans'> Source <a/>

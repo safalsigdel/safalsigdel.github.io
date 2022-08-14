@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wVqZ-v-RSTbG8fqIrya14AZsUJE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71229625/acastro_211103_1777_tugnstenCube_0001.0.jpg' width='700px' /><br/>
-Hackers, fraudsters, and others laundered at least $540 million through the cryptocurrency bridge network RenBridge since 2020, according to blockchain analysis group Elliptic. Elliptic researchers published the report today, citing RenBridge as an example of the risks of decentralized cross-chain networks.
-<a href='https://www.theverge.com/2022/8/10/23299841/crypto-bridge-renbridge-used-launder-money-russia-north-korea-ransomware-report'> Source <a/>

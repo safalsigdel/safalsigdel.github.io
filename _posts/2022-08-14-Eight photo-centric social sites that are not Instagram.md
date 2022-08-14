@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6k1xH5TSH-iq0KoFbSQioeGvz0s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71195474/akrales_200423_3988_0013.0.0.jpg' width='700px' /><br/>
+In a recent (and very funny) blog post, The Verge's Liz Lopatto bemoans the ad-ification and TikTok-ification of Instagram and other social media sites. “Can someone just build a simple photo app that isn't sleazy and let me know where it is so that my friends can join it?” she asks. And she apparently hasn't been the only one — it's gotten to the point where Instagram is starting to walk back some of its changes due to user complaints.
+<a href='https://www.theverge.com/23280518/instagram-flickr-vero-photos-social-networks'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CMKWbT_U6jYcQbF-8KBgwvI62WI=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/71229545/xboxplaystation.0.jpg' width='700px' /><br/>
-Microsoft has claimed Sony pays for “blocking rights” to stop developers from adding their content to Xbox Game Pass. The explosive claims are part of documents (Word doc) filed with Brazil's national competition regulator and part of a review of Microsoft's acquisition of Activision Blizzard.
-<a href='https://www.theverge.com/2022/8/10/23300133/microsoft-sony-xbox-game-pass-blocking-rights-accusation'> Source <a/>

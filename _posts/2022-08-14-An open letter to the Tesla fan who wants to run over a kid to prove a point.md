@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SZV1Icxki_6Txao_i-rEVvYFZQc=/0x0:2040x1360/1200x800/filters:focal(907x766:1233x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/71236642/jbareham_180213_2301_0134.0.jpg' width='700px' /><br/>
+Dear Tesla fan who wants to run over a kid to prove a point,
+<a href='https://www.theverge.com/2022/8/12/23302850/tesla-full-self-driving-child-crash-open-letter'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/El45M2Z5N5QMgfTQsGfrV7YCqCA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71237291/VRG_Illo_S_Haddad_HT003_Z_Fold_4.0.jpg' width='700px' /><br/>
+So you're the proud owner of one of Samsung's foldables. Look at you, you early adopter! There are obviously a few more ways to use your phone than a typical slab-style phone, and that's probably why you bought one.
+<a href='https://www.theverge.com/23303069/galaxy-z-flip-fold-flex-mode-panel-touchpad-how-to-use'> Source <a/>

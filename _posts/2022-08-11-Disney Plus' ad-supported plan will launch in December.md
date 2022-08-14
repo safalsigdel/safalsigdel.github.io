@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/brQ-wN0bl13lgakgx_ebLnYY-Gk=/0x0:3840x1608/1200x800/filters:focal(2136x232:2750x846)/cdn.vox-cdn.com/uploads/chorus_image/image/71229858/BKP1740_102_comp_v007.1039_R2__1_.0.jpg' width='700px' /><br/>
-Disney's ad-supported tier of Disney Plus will cost $7.99 per month — the current cost of the ad-free plan — and will be available beginning December 8th, the company announced on Wednesday. That same day, there will be a price hike for the ad-free plan, which will cost $10.99 per month.
-<a href='https://www.theverge.com/2022/8/10/23300471/disney-plus-ad-supported-plan-launch-date-pricing-announced'> Source <a/>

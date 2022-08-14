@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VtPwvRJ-owqLky3jL9kYLS8NF-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71229846/acastro_190411_1777_Disney_Streaming_0003.0.0.jpg' width='700px' /><br/>
-Disney has announced that it's raising the price of Disney Plus to $10.99 / month, up from its current price of $7.99 / month, starting December 8th in the US. The move comes as the company is looking to restructure its pricing options, which will soon include a $7.99 / month ad-supported tier.
-<a href='https://www.theverge.com/2022/8/10/23300460/disney-plus-price-increase-ads-streaming'> Source <a/>
