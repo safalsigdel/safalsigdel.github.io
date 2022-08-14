@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CHzqF4LxXxlTOvel6E2ntv9WSXA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71237551/akrales_170407_1569_0683.0.0.jpg' width='700px' /><br/>
+Peloton CEO Barry McCarthy had his job cut out for him when he took over the helm in February as the company laid off 2,800 employees. Now, roughly six months later, McCarthy has sent out a memo to staffers warning the company plans to eliminate an additional 784 jobs in a third round of layoffs, reports Bloomberg. Peloton will also increase the prices of the Bike Plus and Tread, while shuttering retail showrooms starting in 2023.
+<a href='https://www.theverge.com/2022/8/12/23303209/peloton-layoffs-bike-tread-price-increase'> Source <a/>

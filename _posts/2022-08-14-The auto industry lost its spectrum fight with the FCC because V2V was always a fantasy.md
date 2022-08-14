@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O9RpKhGRCD-gUhBqiFMkpojrdVY=/0x0:637x396/1200x800/filters:focal(269x148:369x248)/cdn.vox-cdn.com/uploads/chorus_image/image/71237338/dot-v2v-program.0.0.jpg' width='700px' /><br/>
+Today, the DC circuit court released its decision, siding with the Federal Communications Commission, on its reallocation of part of the 5.9GHz band. It's a big win for the FCC and a big loss for the auto industry, which has promised to use the airwaves to improve safety through a technology called “vehicle-to-vehicle” (V2V) or “vehicle-to-everything” (V2X) communication.
+<a href='https://www.theverge.com/2022/8/12/23303191/car-v2v-fcc-spectrum-wifi-court-ruling'> Source <a/>

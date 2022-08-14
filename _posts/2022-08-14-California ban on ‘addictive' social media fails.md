@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4J-IkOg5EnMfsAPlw4TfibczUI0=/0x0:2040x1360/1200x800/filters:focal(825x603:1151x929)/cdn.vox-cdn.com/uploads/chorus_image/image/71236914/akrales_180614_1777_0176.0.jpg' width='700px' /><br/>
+A proposal to let parents sue over addictive social media features failed in the California legislature this week. The bill, AB 2408, failed to pass out of committee for a full state Senate vote. It at least temporarily ends a controversial push to increase liability for social media in the state — an increasingly common practice among legislators.
+<a href='https://www.theverge.com/2022/8/12/23302990/california-ab2408-social-media-children-addiction-bill'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y2XxORGbYG96Ttf32xdfLl2ROHg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/71237807/TwitchCon_Keynote_1.0.0.jpg' width='700px' /><br/>
+Twitch was all set to hold a giant maskless convention in San Diego this October in the midst of monkeypox and the continued threat of COVID-19 — but after an outcry that included both attendees and some of its own streamer partners, the platform has decided to require masks and proof of vaccination once again.
+<a href='https://www.theverge.com/2022/8/12/23303457/twitch-twitchcon-2022-mask-requirement-covid-19-monkeypox'> Source <a/>

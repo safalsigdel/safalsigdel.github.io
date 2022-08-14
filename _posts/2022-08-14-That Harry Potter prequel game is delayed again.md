@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NCOXO1K7rleDQrgkehF-J05TThs=/0x0:3840x2160/1200x800/filters:focal(2081x540:2695x1154)/cdn.vox-cdn.com/uploads/chorus_image/image/71237188/EnIVQHKUYAEGfed.0.0.jpg' width='700px' /><br/>
+Hogwarts Legacy, the Harry Potter prequel game, has been delayed a second time according to a tweet from the game's official Twitter account.
+<a href='https://www.theverge.com/2022/8/12/23303100/hogwarts-legacy-delayed-harry-potter-prequel'> Source <a/>
