@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4PV6ByXM4dLe3qWUsSpGlUVXnCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71237839/acastro_180417_1777_telegram_0004.0.jpg' width='700px' /><br/>
-Telegram released a new update on Friday, just one day after Telegram CEO and founder Pavel Durov said the update had been in Apple's app review for two weeks without explanation. The update is packed with emoji-related features, but one is missing because Apple specifically requested its removal, according to Durov.
-<a href='https://www.theverge.com/2022/8/12/23303446/telegram-update-apple-emoji-telemoji'> Source <a/>

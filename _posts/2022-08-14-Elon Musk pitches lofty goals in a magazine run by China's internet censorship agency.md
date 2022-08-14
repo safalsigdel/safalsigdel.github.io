@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OMqLYMRbREaoqej-F7J11ArmHyE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71240617/VRG_Illo_STK022_K_Radtke_Musk_Stock_Neutral.0.jpg' width='700px' /><br/>
-Elon Musk pitched sustainable energy, brain implants, and space exploration in an article published in a Chinese magazine run by the country's internet watchdog and censorship agency, according to a translation from Yang Liu, a reporter for the Chinese state press agency, Xinhua. (via WSJ reporter Karen Hao).
-<a href='https://www.theverge.com/2022/8/13/23304250/elon-musk-pitch-magazine-china-cyberspace-cac-censorship-agency-tesla-spacex-neuralink'> Source <a/>

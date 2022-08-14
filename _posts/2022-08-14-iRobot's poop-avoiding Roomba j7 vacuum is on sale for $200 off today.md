@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eZADx11LHKQFkoKmejx_7N4l4vg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71239920/vtuohy_211029_4963_0013.0.jpg' width='700px' /><br/>
-Great news, folks! Wellbots is currently taking up to $200 off cat Ubers — err, robot vacuums. OK, it may not be the most exciting news of the week, but most people would agree that there is nothing remotely fun about cleaning. Luckily, robot vacuums like iRobot's Roomba j7 and Roomba i3 Plus EVO can expedite the entire process and make it a lot less hands-on.
-<a href='https://www.theverge.com/good-deals/2022/8/13/23302903/irobot-roomba-j7-robot-vacuum-i3-plus-evo-lg-c2-oled-marvels-spiderman-remastered-deal-sale'> Source <a/>
