@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G0b2q0o7K1IFhSze0eBV5lDzHjs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71243941/tpina_160731_1175_0023.0.0.jpg' width='700px' /><br/>
+Official Xbox One sales have largely been a mystery, but now Microsoft is finally admitting the obvious: the PS4 outsold the Xbox One — by a lot.
+<a href='https://www.theverge.com/2022/8/15/23306068/microsoft-xbox-one-sales-lifetime-versus-ps4-sales'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q1kOj36Rs2sqB4ki8Y_wW9M2JqU=/0x0:2040x1360/1200x800/filters:focal(749x784:1075x1110)/cdn.vox-cdn.com/uploads/chorus_image/image/71236528/cwelch_210809_4705_0003.0.jpg' width='700px' /><br/>
-We're just a couple days removed from Samsung's Unpacked event, where it announced two new foldable phones, two new smartwatches, and one new premium set of earbuds — the Galaxy Buds 2 Pro. While there are some trade-in deals if you preorder those buds before their release on August 26th, there's a better deal happening on the similarly named base model.
-<a href='https://www.theverge.com/good-deals/2022/8/12/23302801/samsung-galaxy-buds-2-google-nest-hub-mashall-emberton-roborock-s7-plus-deal-sale'> Source <a/>
