@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bYTch2r4Uguo1NOTOEl_cx0lg9Y=/0x0:2040x1360/1200x675/filters:focal(842x579:1168x905)/cdn.vox-cdn.com/uploads/chorus_image/image/71244463/akrales_220607_5264_0017.0.jpg' width='700px' /><br/>
+At this point, if you've used one Asus Zenbook, you've used them all. They're the closest thing Asus has to a MacBook Air competitor, with chassis that are slightly flimsier, touchpads with fancier features, and price tags that are a bit less intimidating. In recent years, they've also become one of the cheapest ways to get an OLED screen on a laptop.
+<a href='https://www.theverge.com/23303084/asus-zenbook-13-s-oled-2022-review-ryzen-6000-specs-features-price'> Source <a/>

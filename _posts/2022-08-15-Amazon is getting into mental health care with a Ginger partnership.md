@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fm0jvr-htBcSmHV_CPbgTc31d1U=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71236877/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
-Amazon is everywhere: in the doctor's office, in people's homes, in their shopping carts, and now — in their therapist's office, too. Amazon's virtual healthcare program, Amazon Care, now includes a partnership with mental health company Ginger, according to an Amazon Care webpage. The new offerings were first reported by Insider.
-<a href='https://www.theverge.com/2022/8/12/23303006/amazon-care-ginger-mental-health-therapy'> Source <a/>

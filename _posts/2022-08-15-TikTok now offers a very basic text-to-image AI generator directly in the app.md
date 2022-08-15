@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Iv_o5TRc_BocZeL3JaOPkz2CcVk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71244263/acastro_211111_4875_0001.0.jpg' width='700px' /><br/>
+Text-to-image AI systems are booming in both ability and popularity right now, and what better proof than their appearance in the world's hottest app: TikTok.
+<a href='https://www.theverge.com/2022/8/15/23306101/tiktok-ai-greenscreen-filter-text-to-image-mainstream'> Source <a/>
