@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MtisyFzkpJLLMf14-gBn_thRH_o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71242982/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
+Zoom has issued a patch for a bug on macOS that could allow a hacker to take control of a user's operating system (via MacRumors). In an update on its security bulletin, Zoom acknowledges the issue (CVE-2022-28756) and says a fix is included in version 5.11.5 of the app on Mac, which you can (and should) download now.
+<a href='https://www.theverge.com/2022/8/14/23305548/zoom-update-macos-fix-dangerous-security-flaw-hackers'> Source <a/>

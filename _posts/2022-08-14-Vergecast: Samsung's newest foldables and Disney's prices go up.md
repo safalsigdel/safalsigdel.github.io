@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KZkKoauOchHmNuFzuVdnh-7_MmY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71236436/DSC03332_fold_4.0.jpg' width='700px' /><br/>
-Every Wednesday and Friday, The Verge publishes our flagship podcast, The Vergecast, where our editors make sense of the week's most important technology news. On Fridays, Verge editor-in-chief Nilay Patel, editor-at-large David Pierce, and managing editor Alex Cranz discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2022/8/12/23302109/samsung-galaxy-unpacked-z-fold-4-flip-disney-plus-streaming-podcast-vergecast'> Source <a/>
