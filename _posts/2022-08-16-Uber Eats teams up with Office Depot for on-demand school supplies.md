@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/866HJdBBnUcoLyH7En23FMjUnbY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71244757/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber is teaming up with Office Depot to bring on-demand office and school supplies to the Uber Eats platform. It's the latest effort by the ride-hailing company to diversify its delivery options beyond takeout and groceries.
-<a href='https://www.theverge.com/2022/8/15/23306260/uber-eats-office-depot-delivery-school-supplies'> Source <a/>
