@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hdXHdm-ySsQuTfJydAlIYDKeIfA=/0x0:2284x1212/1200x800/filters:focal(960x424:1324x788)/cdn.vox-cdn.com/uploads/chorus_image/image/71248354/Screenshot_2022_08_16_at_12.56.08.0.png' width='700px' /><br/>
+Chinese tech company Xiaomi — perhaps best known in the West for ripping off Apple's designs — has unveiled a prototype bipedal robot: the slick-looking CyberOne.
+<a href='https://www.theverge.com/2022/8/16/23307808/xiaomi-cyberone-humanoid-robot-tesla-optimus-bot-specs-comparison'> Source <a/>
