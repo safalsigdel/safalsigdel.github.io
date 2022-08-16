@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xP-FWivOJGYz_I4ZSdso9A795rQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71245007/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snap is finding early success with its paid subscription service Snapchat Plus. The company says it has amassed 1 million paid users since launching Snapchat Plus in late June.
-<a href='https://www.theverge.com/2022/8/15/23306268/snapchat-plus-subscription-one-million-users-new-features'> Source <a/>
