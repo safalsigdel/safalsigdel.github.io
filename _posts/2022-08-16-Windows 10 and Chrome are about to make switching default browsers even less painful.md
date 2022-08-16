@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pSOautUWnyodYb6vX3c_XuuI4vw=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/71246832/windows11darkmode.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/jVyfz9ki-xX3keel6vyyp6Tuopw=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/71246832/windows2_2040.0.5.jpg' width='700px' /><br/>
 Microsoft lost quite a bit of goodwill by forcing the Microsoft Edge browser on uninterested users — but maybe those days are nearing an end? For a possible preview of the future, check this GIF from Leopeva64, who has a future version of Google's Chrome web browser on their machine, alongside the 2H22 update to Windows 10.
 <a href='https://www.theverge.com/2022/8/15/23307162/windows-11-chrome-default-browser-one-click-22h2'> Source <a/>

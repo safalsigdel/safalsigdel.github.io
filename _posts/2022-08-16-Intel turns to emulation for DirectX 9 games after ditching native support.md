@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_sCn9mWqdf8Kxy_YW_EN4Bg468s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71244538/acastro_210120_1777_intel_0002.0.jpg' width='700px' /><br/>
-Intel is removing native support for DirectX 9 (DX9) from its new Arc graphics cards and Xe integrated graphics on 12th Gen processors, with support now coming from emulation thanks to DirectX 12.
-<a href='https://www.theverge.com/2022/8/15/23306160/intel-directx-9-support-emulation-direct-x-12'> Source <a/>
