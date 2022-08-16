@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xnn7qhbNiCazFhKZQd9Lq2VvXQg=/0x0:2250x1500/1200x800/filters:focal(945x570:1305x930)/cdn.vox-cdn.com/uploads/chorus_image/image/71239853/youtube_social_square_red.0.jpg' width='700px' /><br/>
-YouTube is building a system that would allow users to subscribe to streaming services through the YouTube app, The Wall Street Journal reported, and could launch the so-called “channel store” as early as this fall. The Journal's report didn't say which services might be part of the store, only that YouTube has been talking with various entertainment companies.
-<a href='https://www.theverge.com/2022/8/13/23304183/channel-bundles-youtube-streaming'> Source <a/>

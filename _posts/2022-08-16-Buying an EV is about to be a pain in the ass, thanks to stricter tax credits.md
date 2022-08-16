@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cSA8ubI77h0rG71PIlG1RMTSEnI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71245253/akrales_200915_4161_0003.0.0.jpg' width='700px' /><br/>
+Volkswagen “cannot guarantee” that its ID.4 compact electric SUV will be eligible for the new electric vehicle tax credits that are set to go into effect after President Joe Biden signs the Inflation Reduction Act. The automaker isn't alone in its confusion.
+<a href='https://www.theverge.com/2022/8/15/23306417/ev-tax-credit-binding-contract-electric-vehicle'> Source <a/>

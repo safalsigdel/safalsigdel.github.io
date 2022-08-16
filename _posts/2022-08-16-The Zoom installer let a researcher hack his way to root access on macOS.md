@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ljhzLOc9CFrpIMyiO0bN2ekd5oQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71237770/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-A security researcher has found a way that an attacker could leverage the macOS version of Zoom to gain access over the entire operating system.
+Update August 15th, 10:55AM ET: Zoom has updated its Mac app to address the vulnerability, with version 5.11.5, which is available for download now.
 <a href='https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle'> Source <a/>

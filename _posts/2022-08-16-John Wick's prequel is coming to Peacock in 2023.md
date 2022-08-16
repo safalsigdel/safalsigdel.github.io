@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UrPG_WND1EpO01JzJUvn-ekLdv0=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/71245926/JohnWicksHorribleHair.0.jpg' width='700px' /><br/>
+The Continental, a three-episode series that takes place before the events of the John Wick films, is coming to Peacock in 2023. In a press release, NBC announced that it has reached “a multi-year deal” for The Continental, which was originally set to premiere on Starz.
+<a href='https://www.theverge.com/2022/8/15/23306687/john-wick-prequel-the-continental-peacock-2023-nbc'> Source <a/>

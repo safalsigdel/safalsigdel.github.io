@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PlZCh-HwhnV04UXSUq8XVxav25E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71242217/vpavic_210916_untitled_0004.0.jpg' width='700px' /><br/>
-Apple could eventually bring ads to more of the apps that come pre-installed on your iPhone and other Apple devices, including Maps, Books, and Podcasts. According to a report from Bloomberg's Mark Gurman, Apple has internally tested search ads in Maps, which could display recommendations when you search for restaurants, stores, or other nearby businesses.
-<a href='https://www.theverge.com/2022/8/14/23305200/iphone-more-ads-advertising-apple-maps-podcasts-books-mark-gurman-rumors'> Source <a/>

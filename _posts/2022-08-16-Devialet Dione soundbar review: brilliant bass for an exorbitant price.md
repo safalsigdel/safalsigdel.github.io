@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IjuONbEKZwYqOwfjEJUsfq8ognc=/0x0:2040x1360/1200x675/filters:focal(778x766:1104x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/71245100/DSCF8671.0.jpg' width='700px' /><br/>
+By the magnitude of its $2,400 price alone, the Devialet Dione soundbar comes with sky-high expectations. This ultra-premium Dolby Atmos bar is a solo performer: it doesn't come with a separate subwoofer, nor does Diavelet even sell such a thing. At 26.5 pounds and measuring nearly four feet wide, it's a hulking piece of home theater equipment that's considerably heavier than Sony's HT-A7000 — let alone something like the Sonos Arc.
+<a href='https://www.theverge.com/23306308/devialet-dione-soundbar-review'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0ZTs2UhAH318b87yaiKFDL4g1uE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71244847/acastro_226087_0001.0.jpg' width='700px' /><br/>
+In May 2007, fanfiction and traditionally published author Naomi Novik wrote a post on LiveJournal. “We are sitting quietly by the fireside, creating piles and piles of content around us, and other people are going to look at that and see an opportunity,” she wrote, referring to LiveJournal's booming fanfiction community.
+<a href='https://www.theverge.com/2022/8/15/23200176/history-of-ao3-archive-of-our-own-fanfiction'> Source <a/>

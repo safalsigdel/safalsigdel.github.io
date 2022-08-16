@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yvpRskk4VJ_BvzcmQxNWlAZU6Cg=/0x0:5000x3350/1200x800/filters:focal(2100x1275:2900x2075)/cdn.vox-cdn.com/uploads/chorus_image/image/71246035/1241981291.0.jpg' width='700px' /><br/>
+Apple is allegedly threatening to fire an employee who posted a TikTok video with basic iPhone security tips. The employee, Paris Campbell, says she was told that she breached company policy by identifying herself as an Apple employee and posting about Apple-related topics.
+<a href='https://www.theverge.com/2022/8/15/23306722/apple-fire-employee-viral-tiktok-video'> Source <a/>

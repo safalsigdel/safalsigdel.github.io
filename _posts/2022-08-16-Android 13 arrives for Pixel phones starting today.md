@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9y306f7lyVinDaPEDoFbdRKZA2g=/0x0:1720x1146/1200x800/filters:focal(723x436:997x710)/cdn.vox-cdn.com/uploads/chorus_image/image/71245543/0._Blog_header.0.jpg' width='700px' /><br/>
+This year's major Android update, Android 13, is officially releasing today for Google's Pixel phones, the search giant has announced. The annual update is getting an official release a little earlier than usual, following Android 12's release last October and Android 11's release in September 2020.
+<a href='https://www.theverge.com/2022/8/15/23306058/android-13-release-date-pixel-devices-features'> Source <a/>

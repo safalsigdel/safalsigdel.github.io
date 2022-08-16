@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZU1cymsPoCI69IwfJlRmNngFQHc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71246749/wjoel_180413_1777_android_002.0.jpg' width='700px' /><br/>
+Android 13 is now rolling out to Google's Pixel phones, but if you want to flash the update onto your Pixel 6, Pixel 6 Pro, or Pixel 6A, with the company's custom Tensor chip, you won't be able to flash back to Android 12 because of a bootloader update, according to a notice on Google's developer website.
+<a href='https://www.theverge.com/2022/8/15/23306798/android-13-roll-back-android-12-pixel-6-tensor-bootloader'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o9kiljZzYpW3l6STjZ9CdShQ5NM=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/71237216/an_ikea_parking_lot_with_ev_car_chargers_and_a_gray_sky_abov_de7a65b78573515f49994d08007469e1.0.jpg' width='700px' /><br/>
-Get ready for your shortest walk-through of an Ikea store yet because Electrify America is bringing its fast charging EV network to more than 25 Ikea locations in the US (via Electrek).
-<a href='https://www.theverge.com/2022/8/12/23303144/ikea-electrify-america-public-ev-electric-vehicle-fast-charging-deal'> Source <a/>

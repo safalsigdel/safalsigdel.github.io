@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZPs-FrDKVlq80vz1Ht9ujvx1Smc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71240148/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber is ending its free loyalty program, Uber Rewards, so it can turn its attention to its subscription-based Uber One membership. In an email sent to customers, Uber explains that users can still earn points until the end of August, and that the last day to redeem points is October 31st.
-<a href='https://www.theverge.com/2022/8/13/23304267/uber-shutting-down-rewards-loyalty-program-this-year-one-subscription'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z7JfTB-aQdTvdaFoQfazxQGEsfQ=/0x0:4000x3012/1200x675/filters:focal(1680x1186:2320x1826)/cdn.vox-cdn.com/uploads/chorus_image/image/71241896/20220801HueSyncBox18.0.jpg' width='700px' /><br/>
-Am I wrong for thinking our TVs should be a lot cooler by now? We can pretend 3D TVs didn't happen because they were bad, and curved TVs were a gimmick at best. Yeah, picture quality and form factor has improved a lot since the 1980s, but it's 2022! Where's my awesome sci-fi TV?
-<a href='https://www.theverge.com/23302947/philips-hue-play-sync-box-gradient-lightstrip-review'> Source <a/>

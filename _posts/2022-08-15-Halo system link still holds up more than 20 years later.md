@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Ijbj3ddD_yZe7nOQCUjFkYnWwI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71241992/akrales_220124_4964_0009.0.jpg' width='700px' /><br/>
-Moments after booting up Halo: Combat Evolved with some friends, stepping onto the legendary Blood Gulch map, and dying nearly instantly from a few well-placed pistol shots, I remembered exactly why wires are good.
-<a href='https://www.theverge.com/2022/8/14/23303392/halo-combat-evolved-system-link-xbox-multiplayer-still-holds-up'> Source <a/>

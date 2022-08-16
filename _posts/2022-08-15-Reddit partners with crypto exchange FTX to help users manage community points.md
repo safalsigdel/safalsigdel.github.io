@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cw6P3L26cVl0QgNjfpECaJ4vsDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71242633/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
-Reddit now lets users purchase Ethereum cryptocurrency on the platform through an integration with FTX, the crypto exchange owned by billionaire Sam Bankman-Fried. In a press release, FTX announced that Reddit users can now use the firm's payment system, FTX Pay, when managing their blockchain-based community points.
-<a href='https://www.theverge.com/2022/8/14/23305354/reddit-partners-ftx-cryptocurrency-exchange-community-points-sam-bankman-fried-sbf'> Source <a/>
