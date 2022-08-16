@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7Au69o4_yo4K1Amk80l5vATN_Fw=/0x0:2880x1598/1200x800/filters:focal(1210x569:1670x1029)/cdn.vox-cdn.com/uploads/chorus_image/image/71247993/Screen_Shot_2021_06_24_at_9.30.02_AM.0.png' width='700px' /><br/>
+Microsoft is now allowing developers to access a preview version of its Microsoft Dev Box cloud-powered workstations. The software giant announced Microsoft Dev Box earlier this year, and it's effectively an easy way for developer to spin up powerful cloud PCs for testing applications. Dev Box includes apps and services designed specifically for developers to quickly access preconfigured workstations.
+<a href='https://www.theverge.com/2022/8/16/23307742/microsoft-dev-box-preview-cloud-workstations'> Source <a/>
