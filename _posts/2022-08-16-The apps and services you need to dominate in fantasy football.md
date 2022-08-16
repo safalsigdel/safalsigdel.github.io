@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bh3nqcBHuaZjI3LY8FtVrX2008Q=/0x0:5254x3723/1200x675/filters:focal(2207x1442:3047x2282)/cdn.vox-cdn.com/uploads/chorus_image/image/71248582/1359770399.0.jpg' width='700px' /><br/>
+It's fantasy football season! For the next few months, millions of people will compete to be the smartest football thinker in their friend group. We'll spend hours (too many hours) looking for sleepers, learning the names and play styles of guys who will never even sniff the field, and having such strong attachment to their play that the NFL players will occasionally have to remind us that there's actually, like, real football happening out here, too.
+<a href='https://www.theverge.com/2022/8/16/23306667/best-fantasy-football-apps-websites'> Source <a/>
