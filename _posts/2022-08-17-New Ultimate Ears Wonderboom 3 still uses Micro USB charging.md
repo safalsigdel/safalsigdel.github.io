@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zpB_QMiExjhOd1i5e2VxfvEsdBc=/0x0:6720x4480/1200x800/filters:focal(3025x2062:4099x3136)/cdn.vox-cdn.com/uploads/chorus_image/image/71251973/High_Resolution_JPG_Wonderboom_3_LIFE_Product_Double_Up.0.jpg' width='700px' /><br/>
+Ultimate Ears just announced the Wonderboom 3, the latest iteration of its beloved entry-level portable speaker that promises high-quality 360-degree audio and up to 14 hours of battery life in an adorably compact package that still floats on water.
+<a href='https://www.theverge.com/2022/8/17/23307765/ue-wonderboom-3-ultimate-ears-price-specs-date'> Source <a/>

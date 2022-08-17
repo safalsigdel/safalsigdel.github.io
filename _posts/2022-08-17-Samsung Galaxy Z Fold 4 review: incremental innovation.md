@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k3yJJofJr5ZL5nLZhkhuIZj3meg=/0x0:3000x2000/1200x675/filters:focal(1256x860:1736x1340)/cdn.vox-cdn.com/uploads/chorus_image/image/71252558/DSC03400_resized.0.jpg' width='700px' /><br/>
+I have a confession: I'm not really into tablets. The last one I bought was in 2012, and I think my cat technically owns it now. They feel too much like a neither-here-nor-there device to me — too underpowered to do computer stuff, too big and cumbersome to do phone stuff.
+<a href='https://www.theverge.com/23308459/samsung-galaxy-z-fold-4-review-screen-battery-camera-price'> Source <a/>

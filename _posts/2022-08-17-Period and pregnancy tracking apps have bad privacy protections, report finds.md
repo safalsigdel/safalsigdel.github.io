@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cs4pYqorT5Nb1iEucE3RODOz1n8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71251987/akrales_220309_4977_0292.0.jpg' width='700px' /><br/>
+Most popular period and pregnancy tracking apps don't have strong privacy protections, according to a new analysis from researchers at Mozilla. Leaky privacy policies in health apps are always a problem, but issues that fall into this particular category are especially concerning now that abortion is illegal in many places in the United States.
+<a href='https://www.theverge.com/2022/8/17/23306570/period-tracking-apps-privacy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_ubaZR3ZQw4qajnlcLdJ0BorsAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71250862/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+WhatsApp's new app on Windows no longer requires you to link your phone to send, receive, and sync messages. An update on WhatsApp's site reveals the refreshed Windows app is out of beta and available to download on the Microsoft Store.
+<a href='https://www.theverge.com/2022/8/16/23308672/whatsapp-windows-refresh-linked-devices-desktop-meta'> Source <a/>

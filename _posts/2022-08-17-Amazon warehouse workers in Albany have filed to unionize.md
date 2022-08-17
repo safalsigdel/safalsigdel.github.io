@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3rzh6r2jIVc6nmkbTBtbNM3iuLY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71250785/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Amazon warehouse staff that work at a fulfillment center outside of Albany, New York have filed a petition for a union election with the National Labor Relations Board (NLRB), the NLRB told The Verge on Tuesday. The employees, who work at Amazon's ALB1 warehouse, have filed for a unit that would encompass around 400 workers at the facility.
+<a href='https://www.theverge.com/2022/8/16/23308851/amazon-warehouse-workers-albany-union-petition-nlrb-alb1'> Source <a/>
