@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j9lvCPJzN-OHImFdu02MMCt7yIU=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/71249158/windows11main.0.jpg' width='700px' /><br/>
-Microsoft is planning to release its next big Windows 11 update, version 22H2, on September 20th. Sources familiar with Microsoft's plans tell The Verge Microsoft will roll out Windows 11 22H2 through Windows Update on September 20th, a week after the company's regular Patch Tuesday fixes.
-<a href='https://www.theverge.com/2022/8/16/23308059/microsoft-windows-11-version-22h2-update-release-date'> Source <a/>
