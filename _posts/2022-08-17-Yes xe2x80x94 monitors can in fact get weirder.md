@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ip5KuTm-TtgV0W26DPzcHMt7huQ=/0x0:3539x1878/1200x800/filters:focal(630x549:1196x1115)/cdn.vox-cdn.com/uploads/chorus_image/image/71249406/Mobile_Pixels_Geminos.0.jpeg' width='700px' /><br/>
-Mobile Pixels is running a crowdfunding campaign for this Geminos range of folding dual-screen clamshell displays, which offers an interesting alternative for folks looking to replace a side-by-side monitor setup. It claims those “take up too much space” and are “not ergonomically designed” — or maybe you just need something that resembles Samsung's aggressively quirky Odyssey Ark gaming monitor without the $3,500 price.
-<a href='https://www.theverge.com/2022/8/16/23308009/geminos-folding-monitor-kickstarter-mobile-pixels'> Source <a/>
