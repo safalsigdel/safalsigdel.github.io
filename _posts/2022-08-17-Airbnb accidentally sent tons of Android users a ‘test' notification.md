@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/omh7ttal5nTLZ__6aw0m9Czv_lk=/0x0:4226x2817/1200x800/filters:focal(1597x1447:2273x2123)/cdn.vox-cdn.com/uploads/chorus_image/image/71253449/1174204842.0.jpg' width='700px' /><br/>
+Airbnb lit up Android phones around the globe with a notification that reads: “Test dev.” The apparent blunder occurred early Wednesday morning, and judging by how many users are posting about it on Twitter, it seems like a lot of people received the accidental alert (via 9to5Google).
+<a href='https://www.theverge.com/2022/8/17/23309796/airbnb-android-users-accidental-test-notification'> Source <a/>
