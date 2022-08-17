@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HjlVgdYAmD5LitmfO8k0EIqy-4E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71252042/bfarsace_211004_4777_0007.0.jpg' width='700px' /><br/>
-Microsoft is rolling out a taskbar notification system to its Windows 11 widgets this week. While the weather widget returned to Windows 11 earlier this year, it's largely been a static experience that displays a sunny icon when the weather is good and an umbrella icon when it's raining and sucks to be outside. That's all changing this week, as Microsoft is now adding live animations to this taskbar widget.
-<a href='https://www.theverge.com/2022/8/17/23309429/microsoft-windows-11-widgets-notifications-taskbar'> Source <a/>

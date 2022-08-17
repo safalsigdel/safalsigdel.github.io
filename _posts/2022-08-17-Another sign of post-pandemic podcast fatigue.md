@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/79mIZjecz83ziJ9NrVSoSVmbKIE=/0x0:4200x2800/1200x800/filters:focal(1963x1012:2635x1684)/cdn.vox-cdn.com/uploads/chorus_image/image/71250365/1228803887.0.jpg' width='700px' /><br/>
-Surprise! I had a bit of a vacation detour, so I am back for a two-day stint before taking off again Thursday. The TL;DR of my trip is that Sweden is great — let's all move there and take our four weeks of summer vacation and eat princess cake.
-<a href='https://www.theverge.com/2022/8/16/23308570/podcast-latinos-libsyn-edison-spotify-shakira'> Source <a/>
