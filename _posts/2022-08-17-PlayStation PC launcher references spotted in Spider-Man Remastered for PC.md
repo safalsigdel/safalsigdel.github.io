@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RLF1PLSPl-bzQYoU6r6-qHlvuLc=/0x0:917x610/1200x800/filters:focal(386x232:532x378)/cdn.vox-cdn.com/uploads/chorus_image/image/71248907/playstation_logo_black_background.0.jpg' width='700px' /><br/>
-Sony could be working on its own PlayStation PC launcher. References to a PlayStation PC launcher have been discovered in the recent release of Marvel's Spider-Man Remastered on PC, and VGC has verified the references are legitimate.
-<a href='https://www.theverge.com/2022/8/16/23307990/playstation-pc-launcher-references-spider-man-remastered-rumors'> Source <a/>

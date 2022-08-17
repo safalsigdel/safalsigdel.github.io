@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4Ef_i9WU9A9M3EinggYygYn_OOk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71248847/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-Google Maps continues to show results for anti-abortion crisis pregnancy centers (CPCs) when users search for a nearby abortion clinic. A new analysis from Bloomberg shows that CPCs make up about a fourth of the top 10 search results on average in all 50 states and Washington, DC.
-<a href='https://www.theverge.com/2022/8/16/23307850/google-maps-results-abortion-clinics-crisis-pregnancy-centers'> Source <a/>
