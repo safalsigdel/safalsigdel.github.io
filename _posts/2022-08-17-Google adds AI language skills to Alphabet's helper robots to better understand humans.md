@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/COEGFRT7hgTDG4M5iqYurHO6AWY=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/71248745/google_everyday_robot.0.jpg' width='700px' /><br/>
+Google's parent company Alphabet is bringing together two of its most ambitious research projects — robotics and AI language understanding — in an attempt to make a “helper robot” that can understand natural language commands.
+<a href='https://www.theverge.com/2022/8/16/23307730/google-everyday-robots-project-ai-language-skills-palm-saycan'> Source <a/>

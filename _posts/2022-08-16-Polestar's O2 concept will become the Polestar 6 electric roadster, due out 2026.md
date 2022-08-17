@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lnKODIievOSvnRnridMOnLQ3IGs=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/71248095/DSCF8222.0.jpg' width='700px' /><br/>
-Polestar announced that its O2 electric roadster concept has graduated to a production model as the Polestar 6, with assembly expected to kick off in 2026.
-<a href='https://www.theverge.com/2022/8/16/23306656/polestar-o2-concept-polestar-6-production-2026'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qwCPLqZDR2P78cIQQFagLK2QnYM=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23947638/1.jpeg' width='700px' /><br/>
-Fortnite's Dragon Ball event is finally here, and it's poised to be one of the biggest collaborations that has ever taken place in the game. Not only will there be four playable Dragon Ball characters, but Epic Games is also adding Dragon Ball-themed quests, locations, items, and even dedicated areas to watch episodes of Dragon Ball Super.
-<a href='https://www.theverge.com/2022/8/16/23307300/fortnite-dragon-ball-event-island-collaboration-crossover-goku-vegeta'> Source <a/>

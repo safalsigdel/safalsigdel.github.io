@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pug5kf8hITn5nJ1Mqsy5_BPK0jI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71246530/vpavic_191010_3722_0009.0.jpg' width='700px' /><br/>
-Google appears poised to launch an updated Nest router equipped with Wi-Fi 6E, Bluetooth Low Energy, and Thread mesh networking radios later this year, according to a new FCC filing. It has the model number A4R-G6ZUC, which is similar to IDs assigned to not only the previous Nest Wifi but also the Nest Mini, Thermostat, and even the Google Glass.
-<a href='https://www.theverge.com/2022/8/15/23306716/google-wifi-6e-router-nest-fcc-thread-bluetooth'> Source <a/>

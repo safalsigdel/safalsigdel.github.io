@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-9NhE9FCdwFmHwL8K6z3XEJMF4g=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/71247989/HyperJuice_245W_GaN_Desktop_Charger.0.jpg' width='700px' /><br/>
-After initially crowdfunding them via an Indiegogo campaign, the HyperJuice 245W GaN Desktop Charger charger and the 245W USB-C Battery Pack are now generally available for $200 and $250, respectively. Judging from this story from AppleInsider it looks like both quietly went on sale last week, but Hyper's official announcement is somewhat confusingly dated both August 15th and August 8th.
-<a href='https://www.theverge.com/2022/8/16/23307739/hyper-hyperjuice-245w-gan-desktop-charger-usb-c-battery-pack'> Source <a/>

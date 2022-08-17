@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nwtOH5nnA-pYC6qV1AF9g0gBexQ=/0x0:4000x4000/1200x800/filters:focal(1766x1766:2406x2406)/cdn.vox-cdn.com/uploads/chorus_image/image/71248495/lioITM5w.0.jpeg' width='700px' /><br/>
-Twelve South has announced the Curve Flex, a laptop stand designed with MacBooks in mind that elevates your device from two to 22 inches and can fold flat for portability. The Curve Flex is offered in a matte finish in either black or white and is available for $79.99 / xc2xa379.99 / xe2x82xac89.99.
-<a href='https://www.theverge.com/2022/8/16/23306066/curve-flex-twelve-south-macbook-stand-price-date'> Source <a/>

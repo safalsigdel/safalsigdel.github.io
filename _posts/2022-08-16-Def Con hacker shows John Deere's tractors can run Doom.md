@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6D3SrqcIWKOxowbWmKvkHsFEQB0=/0x0:4941x3294/1200x800/filters:focal(2130x525:2920x1315)/cdn.vox-cdn.com/uploads/chorus_image/image/71246793/1237541882.0.jpg' width='700px' /><br/>
-The internet has shown us that Doom can run on everything from a cardboard box to a Roomba and even a single keyboard key, but now we can add a John Deere tractor to that list. Security researcher Sick Codes worked with Doom modder Skelegant to get the game running on a John Deere tractor display and showed off some gameplay at the Def Con hacking conference in Las Vegas.
-<a href='https://www.theverge.com/2022/8/15/23306650/def-con-hacker-john-deere-tractors-run-doom-right-to-repair'> Source <a/>

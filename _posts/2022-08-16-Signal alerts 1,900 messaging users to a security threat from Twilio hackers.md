@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E3npEKtfomvlSC8kldoKvCdzE9M=/0x0:5000x3333/1200x800/filters:focal(3440x1348:4240x2148)/cdn.vox-cdn.com/uploads/chorus_image/image/71246580/1230791248.0.jpg' width='700px' /><br/>
-A data breach earlier this month affecting Twilio, a gateway that helps web platforms communicate over SMS or voice, may have had repercussions for users of Signal, the encrypted messaging platform. Today, Signal announced it has alerted 1,900 users that their accounts were potentially revealed to whoever hacked Twilio and said that the attackers searched for three specific numbers during the time they had access.
-<a href='https://www.theverge.com/2022/8/15/23306949/signal-messaging-app-sms-twilio-data-breach-security-privacy'> Source <a/>

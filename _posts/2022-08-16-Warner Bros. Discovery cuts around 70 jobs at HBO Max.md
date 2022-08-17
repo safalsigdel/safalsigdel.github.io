@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d_HKLEB8JaNNwcQfbHN0h6wI_kY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71246627/acastro_200602_1777_HBOMax_0004.0.0.jpg' width='700px' /><br/>
-After rumors swirled that Warner Bros. Discovery would be announcing a massive restructuring for HBO Max, the company has reportedly eliminated some jobs — though not nearly as many as had been feared. Warner Bros. Discovery is cutting around 14 percent of staff, or about 70 jobs, that had been under the purview of HBO and HBO Max chief content officer Casey Bloys, according to Variety.
-<a href='https://www.theverge.com/2022/8/15/23306975/hbo-max-job-cuts-layoffs-reality-programming-warner-bros-discovery'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gqtnoIWNTkmRYS3L821EHuunKXw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71245687/acastro_220524_STK428_0003.0.jpg' width='700px' /><br/>
-The now bankrupt Three Arrows Capital (3AC) presented signs of mismanagement before the cryptocurrency hedge fund's ultimate collapse. A report from New York Magazine reveals that 3AC co-founders Kyle Davies and Su Zhu faced criticism from banks and other traders before the company even entered the crypto market.
-<a href='https://www.theverge.com/2022/8/15/23306349/three-arrows-capital-3ac-collapse-kyle-davies-su-zhu-cryptocurrency'> Source <a/>

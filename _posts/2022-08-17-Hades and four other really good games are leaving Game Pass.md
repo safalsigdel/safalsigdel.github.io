@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MROoHZHVgCuOjoVqnOh7tbjXnVE=/0x0:1920x1079/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71249098/Hades_Wallpaper_01.0.jpg' width='700px' /><br/>
+If you have a Game Pass subscription and have somehow, inexplicably, never gotten around to playing what was arguably the best game of 2020, your time is running out. Xbox has announced that Hades, along with a treasure trove of games — some of the best on the service — are leaving on August 31st. Here's the full list:
+<a href='https://www.theverge.com/2022/8/16/23307942/xbox-game-pass-hades-spiritfarer-leaving'> Source <a/>

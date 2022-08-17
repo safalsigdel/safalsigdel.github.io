@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0YQdpxH1bcOJ4pdT7YU7K-iGTcg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71246860/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple has informed staff that they will be expected to return to the office three days per week starting September 5th, according to internal emails viewed by The Verge. The news was first reported by Bloomberg.
-<a href='https://www.theverge.com/2022/8/15/23307268/apple-hybrid-working-model-return-to-office-september'> Source <a/>

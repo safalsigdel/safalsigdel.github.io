@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r3LAzPWvvjKwVop1kg7Pb_dBDKk=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/71248469/Motional_Lyft3.0.jpg' width='700px' /><br/>
-A new robotaxi service has officially launched for public use in Las Vegas. It's being run by Lyft and an autonomous vehicle company called Motional and is a prelude to a fully driverless service that is set to launch in the city in 2023.
-<a href='https://www.theverge.com/2022/8/16/23306770/lyft-motional-robotaxi-service-las-vegas-hyundai-ev'> Source <a/>

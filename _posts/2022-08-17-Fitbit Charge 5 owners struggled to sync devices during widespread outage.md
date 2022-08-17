@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Av9Tc9TD9FEE7GAGgWu79xb4w0w=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71249233/jpeters_210910_4757_0001.0.jpg' width='700px' /><br/>
+If you spent Tuesday wondering why your Fitbit Charge 5 won't sync, you're not alone. Frustrated Charge 5 owners have taken to Reddit and Twitter to report their fitness trackers simply won't sync in what appears to be a widespread outage. It's the latest in a series of complaints this summer following slow Ionic recalls and messed-up blood oxygen graphs for Android users.
+<a href='https://www.theverge.com/2022/8/16/23307975/fitbit-charge-5-outage-fitness-tracker'> Source <a/>
