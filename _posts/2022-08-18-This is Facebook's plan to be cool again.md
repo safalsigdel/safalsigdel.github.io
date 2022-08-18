@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wq6arnuJU03jXxWMuLJM0nd2k4Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71254280/STK040_VRG_Illo_N_Barclay_2_facebook.0.jpg' width='700px' /><br/>
-Facebook was once, believe it or not, cool.
-<a href='https://www.theverge.com/2022/8/17/23309770/future-of-facebook-feed-discovery-engine-land-of-the-giants-podcast'> Source <a/>

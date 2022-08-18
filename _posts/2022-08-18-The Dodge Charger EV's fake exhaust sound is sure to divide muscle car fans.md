@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1U6EQUiCRGFOHQ6s3aEgCR_wvAg=/0x0:3000x2160/1200x800/filters:focal(1260x840:1740x1320)/cdn.vox-cdn.com/uploads/chorus_image/image/71257286/CN022_001DGmj9se71rgdnrearjn7ugp4sbhb.0.jpg' width='700px' /><br/>
+For those bemoaning the imminent demise of Dodge's gas-powered muscle cars, the automaker has a message: fear not the future, for it is electric.
+<a href='https://www.theverge.com/2022/8/18/23311254/dodge-charger-ev-daytona-srt-concept-muscle-car-exhaust-sound'> Source <a/>

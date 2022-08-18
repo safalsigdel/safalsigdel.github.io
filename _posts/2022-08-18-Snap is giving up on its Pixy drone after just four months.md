@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QKj5QgFJ-2y5P-egdPpFNWe-dpk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71257400/vpavic_220418_5168_0131.0.jpg' width='700px' /><br/>
+Snap just introduced its selfie drone, Pixy, in April, but the company won't be developing any future versions of the product, according to The Wall Street Journal. Snap CEO Evan Spiegel apparently told employees at a Q&A session about the choice to no longer develop the Pixy line. A source told the publication the company plans to sell the current Pixy and that model is still available for purchase on the Pixy website.
+<a href='https://www.theverge.com/2022/8/18/23311542/snap-pixy-drone-giving-up-four-months'> Source <a/>
