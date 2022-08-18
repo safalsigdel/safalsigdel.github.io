@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gQdJAk8KcIM4dzgJHzufLV1QG6Q=/0x0:4800x2010/1200x800/filters:focal(2016x621:2784x1389)/cdn.vox-cdn.com/uploads/chorus_image/image/71256035/S1_EpisodicStill_RPAZ_S1_FG_00250307_Still003_R1.0.jpg' width='700px' /><br/>
-Embracer Group has embarked on an acquisition spree today that includes Limited Run Games, Tripwire Interactive, and the IP rights to Lord of the Rings and The Hobbit. There are five acquisitions in total today, alongside a sixth undisclosed deal for a company in the PC and console gaming space.
-<a href='https://www.theverge.com/2022/8/18/23311082/embracer-group-acquisition-lord-of-the-rings-hobbit-limited-run-games-tripwire'> Source <a/>
