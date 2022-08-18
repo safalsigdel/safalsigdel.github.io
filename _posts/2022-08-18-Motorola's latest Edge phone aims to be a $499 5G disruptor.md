@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CIXRDFimvzDcdeVnXmTkSJFXEjU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71256547/DSCF8751.0.jpg' width='700px' /><br/>
-Motorola is today announcing its latest smartphone for the US market. And while I wish it were the sleek new 2022 Razr — currently only available in China — we're instead looking at another entry in the company's Edge lineup. The Edge phones are designed to offer several flagship-tier features at an accessible price point. (Motorola's Edge Plus, meanwhile, directly competes in the premium, more expensive bracket.)
-<a href='https://www.theverge.com/2022/8/18/23310116/motorola-edge-2022-announced-features-specs-price'> Source <a/>
