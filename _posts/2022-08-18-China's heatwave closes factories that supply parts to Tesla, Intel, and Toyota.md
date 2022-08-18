@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dqHFFSu5AcxBXGjf4x2oItLso5A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71254675/acastro_180430_1777_tesla_0003.5.jpg' width='700px' /><br/>
+The world's biggest electric vehicle battery maker, Contemporary Amperex Technology Co. Limited (CATL), and Intel are among the major companies shutting down their factories for six days in China's Sichuan province because of a heatwave-related power shortage in the area, according to CNN and Bloomberg.
+<a href='https://www.theverge.com/2022/8/17/23310205/china-sichuan-heatwave-intel-tesla-apple-foxconn-toyota-electric-cars-catl'> Source <a/>

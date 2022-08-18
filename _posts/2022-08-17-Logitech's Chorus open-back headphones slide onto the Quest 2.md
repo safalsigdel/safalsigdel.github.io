@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JaUC_gB99Hw1njPyerTwRqs4bDM=/0x0:4672x3114/1200x800/filters:focal(1963x1184:2709x1930)/cdn.vox-cdn.com/uploads/chorus_image/image/71251971/Chorus_Lifestyle_1_Right_Side.0.jpg' width='700px' /><br/>
-Logitech has announced the Chorus, a $99 audio accessory that aims to bolster sound quality coming out of the Meta Quest 2 VR headset. The appeal of the Chorus, as opposed to using over-ear or in-ear headphones you may already own, is that it lets you remain more present in reality with its open-back, off-ear speakers a la Valve Index.
-<a href='https://www.theverge.com/2022/8/17/23308098/logitech-chorus-meta-oculus-quest-2-speakers-headphones-accessory-snap-on'> Source <a/>

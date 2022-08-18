@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cvtc4dZWLFTi3GLmSDCWEqMJny8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71254734/STK072_VRG_Illo_N_Barclay_8_netflix.0.jpg' width='700px' /><br/>
+If you thought ad-supported Netflix would just be the regular service with some commercial breaks, then I regret to inform you you were wrong. According to language in the code of the Netflix app, discovered by developer Steve Moser and shared with Bloomberg, Netflix may limit offline downloads to the ad-free tiers of Netflix.
+<a href='https://www.theverge.com/2022/8/17/23310288/netflix-ad-supported-offline-downloads-code'> Source <a/>
