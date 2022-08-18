@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i2k7A6pkqZHXtO0t-XbGN3Bqg6w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71257101/HT032_How_to_Be_Real.0.jpg' width='700px' /><br/>
+BeReal is a fun app. But one of its less fun qualities is the element of surprise. You don't see a preview of yourself while the front-facing camera is shooting, and you don't know exactly when it's taking your picture. As a consequence, if you're in a hurry or otherwise distracted, you may end up posting a photo that you're unhappy with for the world to see.
+<a href='https://www.theverge.com/23309847/bereal-post-delete-how-to'> Source <a/>

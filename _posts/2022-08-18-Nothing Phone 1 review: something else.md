@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/smBooHY4AopFEGAARUvnw5JOqSU=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23843996/ajohnson_220709_5332_0013_sq.jpg' width='700px' /><br/>
-Nothing claims its new Phone 1 can “Bring us back. To us” with “deeper interactions” and “brave simplicity.” It's not the life-changing phone that Nothing makes it out to be; it's just a good midrange device with flashing lights on the back.
-<a href='https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price'> Source <a/>
