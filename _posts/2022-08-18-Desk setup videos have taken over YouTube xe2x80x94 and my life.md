@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_r-vM9O-DNyFKsJI5KxoV7S8AHc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71203407/226053_youtube.0.jpg' width='700px' /><br/>
-It all started — for me at least — with a desk mat. In the early days of the pandemic, like millions of others, I was suddenly working from home every day and needed to turn a tiny corner of my living room into a usable home office. I wanted to buy a desk mat so my keyboard and mouse wouldn't slide around or scratch up my desk. I bought the cheapest one I could find on Amazon, but it was too small. A bigger one started to pill and tear almost immediately.
-<a href='https://www.theverge.com/23272016/youtube-desk-setup-home-office-videos'> Source <a/>
