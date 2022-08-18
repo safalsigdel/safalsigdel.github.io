@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vTVJbHbsp3fyydOQzFgZjBuhK74=/0x0:8256x5504/1200x800/filters:focal(1871x1173:3191x2493)/cdn.vox-cdn.com/uploads/chorus_image/image/71253575/1413333546.0.jpg' width='700px' /><br/>
-Facebook won't rush to review its decision to ban Donald Trump even if the former president announces he's running for office again in the coming weeks, according to a new report from Politico on Tuesday.
-<a href='https://www.theverge.com/2022/8/17/23309932/facebook-donald-trump-ban-january-6th-twitter-presidential-bid'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/vTVJbHbsp3fyydOQzFgZjBuhK74=/0x0:8256x5504/1200x800/filters:focal(1871x1173:3191x2493)/cdn.vox-cdn.com/uploads/chorus_image/image/71253575/1413333546.0.jpg' width='700px' /><br/>
-Facebook won't rush to review its decision to ban Donald Trump even if the former president announces he's running for office again in the coming weeks, according to a new report from Politico on Tuesday.
-<a href='https://www.theverge.com/2022/8/17/23309932/facebook-donald-trump-ban-january-6th-twitter-presidential-bid'> Source <a/>
