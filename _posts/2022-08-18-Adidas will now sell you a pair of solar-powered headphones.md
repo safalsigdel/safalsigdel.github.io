@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/583egOJvSMJOndR84f_q4VBCZTI=/0x0:3330x1950/1200x800/filters:focal(1399x709:1931x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/71254495/RPT_02_SOL_Carrousel_desktop2.0.jpg' width='700px' /><br/>
+Solar-powered gadgets are nothing new — Logitech has sold keyboards you never have to plug in for over a decade now. But an audio headset where barely-there solar cells blend into the design? Until this week, we'd only ever tried one of those. Now, there are at least four.
+<a href='https://www.theverge.com/2022/8/17/23310136/adidas-solar-powered-headphones-rpt-02-sol-blue-tiger'> Source <a/>
