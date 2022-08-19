@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qiyek-_FlfUj2LdJxyc7cE8V-UI=/0x0:2040x1360/1200x800/filters:focal(1082x543:1408x869)/cdn.vox-cdn.com/uploads/chorus_image/image/71259220/mclark_210923_4776_0019.0.jpg' width='700px' /><br/>
+Rivian canceled the entry-level version of the R1T, effectively raising the price of its base model electric truck by over $6,000, according to an online forum for customers and later confirmed by the company.
+<a href='https://www.theverge.com/2022/8/18/23312081/rivian-r1t-r1s-price-increase-explore-package-discontinued'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MTREPwyvK7Qc4AsMB5ttGKBS3wc=/0x0:1271x956/1200x800/filters:focal(535x377:737x579)/cdn.vox-cdn.com/uploads/chorus_image/image/71258379/chrome_jMVgc4AZYw.0.jpg' width='700px' /><br/>
+In 1822, Augustin Fresnel invented a lens made of ringed prisms that could concentrate beams of light more effectively than reflectors or huge convex pieces of glass. These days, they're used in spotlights and even most VR headsets. But originally, he designed them for lighthouses — it's the invention that's said to have saved a million ships — and today, Lego has announced a motorized lighthouse with its very own fresnel lens.
+<a href='https://www.theverge.com/2022/8/18/23311743/lego-motorized-lighthouse-fresnel-lens'> Source <a/>

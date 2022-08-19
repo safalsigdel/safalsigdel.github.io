@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BZMcf4PA4xTOA-p9UVPMxKwDvOA=/0x0:5494x3924/1200x800/filters:focal(2347x2166:3225x3044)/cdn.vox-cdn.com/uploads/chorus_image/image/71258506/1242465174.0.jpg' width='700px' /><br/>
+Democratic Senate hopeful John Fetterman's campaign to troll Republican opponent Dr. Mehmet Oz into defeat has dominated Facebook and Twitter over the last few weeks. But on Thursday, the campaign announced it is launching an official TikTok account to expand the reach of its already viral videos.
+<a href='https://www.theverge.com/2022/8/18/23311931/tiktok-john-fetterman-crudite-dr-mehmet-oz-pennsylvania-senate-election-twitter'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DEcSpJD81wgf53DGecsZKjzQHo4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71256501/acastro_200729_1777_nintendo_0001.0.jpg' width='700px' /><br/>
-Nintendo of America is investigating reports that female game testers were subject to discrimination and harassment, according to internal messages seen by Kotaku. Earlier this week, the publication published a scathing report exposing a toxic workplace culture at the company in which female staff and contractors were targeted by male colleagues.
-<a href='https://www.theverge.com/2022/8/18/23311202/nintendo-harassment-and-discrimination-claims-investigation'> Source <a/>

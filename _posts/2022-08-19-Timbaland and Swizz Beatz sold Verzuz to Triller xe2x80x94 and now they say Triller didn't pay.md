@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QcqZtC7Dic5DHX3COlwgBf7FX3w=/0x0:2441x3661/1200x800/filters:focal(1023x602:1413x992)/cdn.vox-cdn.com/uploads/chorus_image/image/71253141/1174251271.0.jpg' width='700px' /><br/>
+Timbaland and Swizz Beatz are suing Triller after the short-form video platform allegedly failed to make a $28 million payment for the acquisition of their live music face-off series, Verzuz.
+<a href='https://www.theverge.com/2022/8/17/23309519/timbaland-swizz-beatz-sue-triller-verzuz-acquisition-28-million-payment'> Source <a/>

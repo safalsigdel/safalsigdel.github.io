@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BproNMLxVHBs45uTFY75ECFZIUc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71256564/acastro_170808_1777_google_logo_03.0.jpg' width='700px' /><br/>
-More than 650 Google employees have signed a petition calling on the company to extend abortion-related health benefits to contractors and better protect user privacy in the wake of a Supreme Court decision overturning Roe v. Wade in June.
-<a href='https://www.theverge.com/2022/8/18/23308694/google-employees-petition-abortion-benefits-contractors-alphabet-workers-union'> Source <a/>

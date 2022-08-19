@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bSfRkXwarmBtfgSPq8zkt4WPHmA=/0x0:1180x786/1200x0/filters:focal(0x0:1180x786):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23953766/Screen_Shot_2022_08_18_at_12.01.11_PM.jpg' width='700px' /><br/>
-Celeb shoutout service Cameo is taking another swing at selling virtual meet-and-greets with the celebrities on its platform. Cameo Live is a new service the company is announcing today that offers a 10-minute live video call with a celebrity, which customers can choose to have either as a one-on-one session, send as a gift, or take part in with up to nine friends.
-<a href='https://www.theverge.com/2022/8/18/23311152/cameo-live-celebrity-video-calls-meet-and-greets'> Source <a/>

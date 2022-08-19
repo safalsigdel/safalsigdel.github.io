@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jn4SEKzjWsIlUKs907eGTp3-2pI=/0x0:2124x1104/1200x800/filters:focal(440x307:778x645)/cdn.vox-cdn.com/uploads/chorus_image/image/71257775/Screenshot_2022_08_18_at_09.18.18.0.png' width='700px' /><br/>
+Verizon is making some big changes to its Visible cell service, which is meant to be a simpler and more affordable alternative to the carrier's mainline options. On Wednesday, it replaced Visible's single plan with two options, called Visible and Visible Plus, and is doing away with the Party Pay discount that let most of the carrier's customers get the now-legacy Visible Unlimited plan for only $25 a month.
+<a href='https://www.theverge.com/2022/8/18/23310640/verizon-visible-party-pay-plan-changes'> Source <a/>
