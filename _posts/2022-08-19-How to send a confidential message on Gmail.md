@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-rpcddpNzhaEVxQ0rt8NH_4Jbek=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71258259/1__2_.0.png' width='700px' /><br/>
-Google uses TLS (what is called standard encryption) to keep your emails relatively safe in transit. (The service does also have the more secure S/MIME encryption, but it's only available for business and educational institutions.) There are, however, other ways you can keep your personal data a little safer, and one is by using Google's confidential mode.
-<a href='https://www.theverge.com/23311465/confidential-email-gmail-privacy-how-to'> Source <a/>

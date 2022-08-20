@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rLW1b1e8ih6i3FqVdwRYcxm0K2w=/32x0:1663x964/1200x800/filters:focal(707x350:1001x644)/cdn.vox-cdn.com/uploads/chorus_image/image/71261823/Screen_Shot_2022_08_19_at_8.12.50_AM.0.png' width='700px' /><br/>
+Google's handy timer and stopwatch that you can use right from Search have returned. The tools have been unavailable for weeks, but Google public search liaison Danny Sullivan announced that the timer was back in a tweet on Wednesday.
+<a href='https://www.theverge.com/2022/8/19/23313010/google-timer-stopwatch-search-back'> Source <a/>

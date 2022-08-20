@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ek0hiJgRytlEc2bPjeYFhQR7NII=/0x0:5803x3869/1200x800/filters:focal(2438x1471:3366x2399)/cdn.vox-cdn.com/uploads/chorus_image/image/71264970/1242373352.0.jpg' width='700px' /><br/>
+Some of you are using BeReal exactly the way it was intended to be used. For that, I applaud you. But some of you are using it in a very, very wrong way. You people know exactly who you are.
+<a href='https://www.theverge.com/2022/8/20/23313295/bereal-instagram-app-curation-change'> Source <a/>

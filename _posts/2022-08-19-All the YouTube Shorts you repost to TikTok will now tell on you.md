@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8JYWudWCtbi-CaPcgyPmKo0MepM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71257466/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube knows you're resharing videos you made on YouTube Shorts — and the company wants to be credited.
-<a href='https://www.theverge.com/2022/8/18/23311438/youtube-shorts-watermark-tiktok-instagram-reels-cross-platform-sharing'> Source <a/>

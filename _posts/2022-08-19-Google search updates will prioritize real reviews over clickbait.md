@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T8rONMppXMjw9A60nIVfu6VvSD8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71257409/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-Google is making a series of updates to Search that aim to tackle clickbait and improve the relevancy of search results, prioritizing original and authentic reviews over recycled information that passes around aggregator sites. The changes in the form of two updates are being rolled out in the weeks ahead, according to a blog post announcing the ranking updates.
-<a href='https://www.theverge.com/2022/8/18/23309465/google-search-updates-reviews-clickbait'> Source <a/>

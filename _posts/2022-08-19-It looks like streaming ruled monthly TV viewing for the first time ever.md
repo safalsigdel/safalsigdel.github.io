@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LJojQG-wNmEg-E_8tQXBrcULi4E=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71258401/corporate_xclass_tv_inline_yellowstone_1.0.jpg' width='700px' /><br/>
-More people spent their TV time watching a streaming service than cable or broadcast last month, according to a report from Nielsen (via The Wall Street Journal). The audience measurement company says that this is the first time ever that streaming services have accounted for the biggest chunk of people's viewing habits.
-<a href='https://www.theverge.com/2022/8/18/23311791/streaming-most-viewers-july-2022-beats-cable'> Source <a/>

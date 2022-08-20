@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ws02dWm5OEqoZ5yj0UyzVOowHPw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71260470/akrales_180614_1777_0110.0.jpg' width='700px' /><br/>
+Did you know you're potentially being tracked when you load an in-app browser on iOS? A new tool reveals exactly how, showing how applications like TikTok and Instagram can potentially use JavaScript to view sensitive data, including your address, passwords and credit card information, without your consent.
+<a href='https://www.theverge.com/2022/8/19/23312725/in-app-browser-tracking-facebook-instagram-privacy-tool'> Source <a/>

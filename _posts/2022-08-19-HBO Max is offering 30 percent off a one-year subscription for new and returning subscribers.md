@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PUjq5VToZEWJ8T-WVmQIRl7Akcc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71257616/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-New HBO Max owner Warner Bros. Discovery has been playing fast and loose with content recently on the streaming service as a result of fallout from the messy megamerger. Even though it's been shedding shows and movies from the service to save money — and even canceling late-stage projects — it's trying to course-correct any lost subscriptions by offering a new deal to bring in subscribers.
-<a href='https://www.theverge.com/good-deals/2022/8/18/23311533/hbo-max-30-percent-off-one-year-subscription-deal-sale'> Source <a/>

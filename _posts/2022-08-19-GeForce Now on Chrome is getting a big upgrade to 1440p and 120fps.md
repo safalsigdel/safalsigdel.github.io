@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XzZU3-YVgG5a3xynHNo9H7hmJCQ=/0x0:1536x920/1200x800/filters:focal(646x338:890x582)/cdn.vox-cdn.com/uploads/chorus_image/image/71256586/GFN_Thursday_August_18.0.jpg' width='700px' /><br/>
-Nvidia is upgrading its GeForce Now game streaming service to support 1440p resolution at 120fps in a Chrome or Edge browser. GeForce Now members on the RTX 3080 tier of the service will be able to access the new browser gameplay options today by selecting 1440p on the GeForce Now web version.
-<a href='https://www.theverge.com/2022/8/18/23310728/nvidia-geforce-now-chrome-1440p-120fps-upgrade-support'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RGTK3eID8vov-y4Fpm5Z3U362IE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71258472/STK480_defcon_02.0.jpg' width='700px' /><br/>
-In February, when the Def Con hacker conference released its annual transparency report, the public learned that one of the most prominent figures in the field of social engineering had been permanently banned from attending.
-<a href='https://www.theverge.com/2022/8/18/23311573/chris-hadnagy-social-engineering-def-con-ban-lawsuit-jeff-moss'> Source <a/>

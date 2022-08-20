@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yJ7RUe0FEVUTAh1Ju89OlZPw4Qg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71257094/VRG_Illo_STK427_K_Radtke_Getty_Mics.0.jpg' width='700px' /><br/>
-Apple Podcasts is introducing a pair of new top 100 charts today that track subscription podcasts and subscription podcast channels. And as of day one, Amazon is at the top.
-<a href='https://www.theverge.com/2022/8/18/23311290/apple-top-subscription-podcast-charts-amazon-wondery-smartless'> Source <a/>

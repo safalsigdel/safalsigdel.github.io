@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cFal__MGOezCE14kgFtZSYlOU-U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71254489/vpavic_4278_20201030_0234.0.jpg' width='700px' /><br/>
-Update August 18th, 4:00PM ET: Sony has started another restock event, giving you another change to score a PlayStation 5. Click here to join the queue.
-<a href='https://www.theverge.com/2022/8/17/23310313/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check'> Source <a/>
