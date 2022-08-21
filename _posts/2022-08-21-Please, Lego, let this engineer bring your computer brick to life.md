@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Lx08q9VcgYWm6tu2uoprtW4SmZ4=/0x0:921x601/1200x0/filters:focal(0x0:921x601):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23956155/james_brown_lego_computers.jpg' width='700px' /><br/>
-James Brown loves building weird displays. Like animatronic skulls, or mechanical bit-flipping cellular automatons. Or, in this case, an entire computer inside a mock Lego brick.
-<a href='https://www.theverge.com/2022/8/20/23308217/lego-brick-computer-james-brown'> Source <a/>

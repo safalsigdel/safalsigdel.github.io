@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c6xuv4BrsYt-vWv97h2-TZT5arA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71264723/IMG_0626-1.0.0.jpeg' width='700px' /><br/>
-After a week of solid deals, we've got some bangers to cap off your weekend. Starting off, Woot has excellent prices for some of Sony's top-of-the-line headphones — both for those who prefer over-ear cans and true wireless earbuds.
-<a href='https://www.theverge.com/good-deals/2022/8/20/23312878/sony-wh-1000xm4-headphones-wf-1000xm4-earbuds-wireless-anc-samsung-galaxy-buds-pro-arlo-deal-sale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r_DtjfQdvCZWfsHnHDYTV5Q7Iq4=/0x0:4200x2800/1200x800/filters:focal(1807x530:2479x1202)/cdn.vox-cdn.com/uploads/chorus_image/image/71265861/1242563713.0.jpg' width='700px' /><br/>
-The Federal Deposit Insurance Corporation (FDIC) slapped the Sam Bankman-Fried-owned cryptocurrency exchange FTX with a cease-and-desist order over “false and misleading statements” that suggest its assets are FDIC-insured. The FDIC doesn't cover stocks or crypto, and only safeguards funds held in insured bank accounts.
-<a href='https://www.theverge.com/2022/8/20/23314401/ftx-money-isnt-insured-fdic-sam-bankman-fried-crypto-cease-and-desist'> Source <a/>

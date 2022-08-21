@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LKHhmepVQXutr4QzkNWm_8xkvFg=/0x0:2748x2104/1200x800/filters:focal(1155x833:1593x1271)/cdn.vox-cdn.com/uploads/chorus_image/image/71262589/z690_hero.0.jpg' width='700px' /><br/>
-Did you buy a flagship Asus motherboard for your 12th Gen Intel processor anytime before December 2021? You'd best check if it's the ROG Maximus Z690 Hero and get it swapped out if so because it could potentially start a fire in your house.
-<a href='https://www.theverge.com/2022/8/19/23313300/asus-z690-hero-recall-cpsc'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/LKHhmepVQXutr4QzkNWm_8xkvFg=/0x0:2748x2104/1200x800/filters:focal(1155x833:1593x1271)/cdn.vox-cdn.com/uploads/chorus_image/image/71262589/z690_hero.0.jpg' width='700px' /><br/>
-Did you buy a flagship Asus motherboard for your 12th Gen Intel processor anytime before December 2021? You'd best check if it's the ROG Maximus Z690 Hero and get it swapped out if so because it could potentially start a fire in your house.
-<a href='https://www.theverge.com/2022/8/19/23313300/asus-z690-hero-recall-cpsc'> Source <a/>
