@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/9tCHoJYuNyEq-g9DVlvA-UPLj1M=/0x0:6728x4485/1200x800/filters:focal(2826x1705:3902x2781)/cdn.vox-cdn.com/uploads/chorus_image/image/71262269/03_Acura_Precision_EV_Concept.0.jpeg' width='700px' /><br/>
 Acura revealed a chonky new electric vehicle concept this week, apparently taking some inspiration from the shape of luxury Italian power boats.
+<a href='https://www.theverge.com/2022/8/19/23313144/acura-precision-ev-concept-electric-suv-italian-performance-boat-design'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/9tCHoJYuNyEq-g9DVlvA-UPLj1M=/0x0:6728x4485/1200x800/filters:focal(2826x1705:3902x2781)/cdn.vox-cdn.com/uploads/chorus_image/image/71262269/03_Acura_Precision_EV_Concept.0.jpeg' width='700px' /><br/>
+Acura revealed a chonky new electric vehicle concept this week, apparently taking some inspiration from the shape of luxury Italian power boats.
 <a href='https://www.theverge.com/2022/8/19/23313144/acura-precision-ev-concept-electric-suv-italian-performance-boat-design'> Source <a/>
