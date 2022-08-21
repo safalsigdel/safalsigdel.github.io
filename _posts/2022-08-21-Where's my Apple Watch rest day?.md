@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/K_0KGdtA1IrFcllJXbqqis-iH64=/0x0:2030x1353/1200x800/filters:focal(853x515:1177x839)/cdn.vox-cdn.com/uploads/chorus_image/image/71262476/IMG_0312.0.jpg' width='700px' /><br/>
 In 2017, I tested out the Apple Watch for several months. One big limitation, I discovered, was that it didn't acknowledge my rest days. Rest days are essential for building muscle, but the Watch's goals don't really acknowledge that.
+<a href='https://www.theverge.com/2022/8/19/23313204/apple-watch-rest-days-recovery-athlete-cheat'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/K_0KGdtA1IrFcllJXbqqis-iH64=/0x0:2030x1353/1200x800/filters:focal(853x515:1177x839)/cdn.vox-cdn.com/uploads/chorus_image/image/71262476/IMG_0312.0.jpg' width='700px' /><br/>
+In 2017, I tested out the Apple Watch for several months. One big limitation, I discovered, was that it didn't acknowledge my rest days. Rest days are essential for building muscle, but the Watch's goals don't really acknowledge that.
 <a href='https://www.theverge.com/2022/8/19/23313204/apple-watch-rest-days-recovery-athlete-cheat'> Source <a/>
