@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bsQ3XBmne7KMIKIVvvFFfECHsG4=/0x0:4295x2966/1200x800/filters:focal(1805x1140:2491x1826)/cdn.vox-cdn.com/uploads/chorus_image/image/71262844/1200820758.0.jpg' width='700px' /><br/>
-Wayfair saw a spike in sales at the beginning of the pandemic as customers stayed home and took an interest in renovating their space and shopping online but today announced it's laying off 870 employees. In a filing to the Securities and Exchange Commission (SEC), the online furniture and home decor retailer indicated that the “workforce reduction” affects 5 percent of its global workforce and 10 percent of its corporate team.
-<a href='https://www.theverge.com/2022/8/19/23313103/wayfair-870-layoffs-boston-retail-furniture-home'> Source <a/>
