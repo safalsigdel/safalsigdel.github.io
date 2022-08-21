@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EphevQ9BydriTs7X-XeqcJkAgq8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71267620/acastro_180524_1777_tesla_0003.0.jpg' width='700px' /><br/>
+Tesla's increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th, representing a $3,000 jump.
+<a href='https://www.theverge.com/2022/8/21/23315270/tesla-full-self-driving-fsd-feature-price-increase-electric-vehicle-elon-musk'> Source <a/>
