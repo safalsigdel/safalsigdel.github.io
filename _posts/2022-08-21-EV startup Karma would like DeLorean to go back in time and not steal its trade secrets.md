@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y3OW7n1J2TYOTyA-xTG2MSucTr4=/0x0:4000x2251/1200x800/filters:focal(1680x806:2320x1446)/cdn.vox-cdn.com/uploads/chorus_image/image/71262984/DAL500017.0.jpg' width='700px' /><br/>
-The effort to electrify an iconic car has run into its first speed bump. Earlier this month, electric vehicle company Karma Automotive filed a lawsuit against DeLorean Motors Reimagined, the Texas-based company that holds the branding rights for the original DeLorean Motor Company (DMC), and four of its employees, alleging stolen intellectual property.
-<a href='https://www.theverge.com/2022/8/19/23311792/karma-delorean-lawsuit-ev-trade-secret-theft'> Source <a/>
