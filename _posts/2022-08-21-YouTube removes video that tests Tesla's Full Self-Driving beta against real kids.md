@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EaXC2dNpj1JXlQJO7r6ZXw-kRlo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71265114/tesla_model_y_3543.0.jpg' width='700px' /><br/>
+YouTube has removed a video that shows Tesla drivers carrying out their own safety tests to determine whether the EV's (electric vehicle) Full Self-Driving (FSD) capabilities would make it automatically stop for children walking across or standing in the road, as first reported by CNBC.
+<a href='https://www.theverge.com/2022/8/20/23314117/youtube-tesla-removes-video-full-self-driving-beta-real-kids'> Source <a/>

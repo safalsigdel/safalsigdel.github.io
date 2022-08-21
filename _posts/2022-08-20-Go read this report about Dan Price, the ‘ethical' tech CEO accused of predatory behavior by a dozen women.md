@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ejFq3uMIxRd3nY7Vf4EuztoOgG0=/0x0:5000x3334/1200x800/filters:focal(1849x574:2649x1374)/cdn.vox-cdn.com/uploads/chorus_image/image/71261965/1386070454.0.jpg' width='700px' /><br/>
-You've probably seen posts from Dan Price, a Seattle-based tech CEO who regularly goes viral for his activism-tinged posts about treating employees well, politics, and how he's not like other guys when it comes to his leadership style.
-<a href='https://www.theverge.com/2022/8/19/23312871/dan-price-gravity-payments-ethical-tech-ceo-abuse'> Source <a/>
