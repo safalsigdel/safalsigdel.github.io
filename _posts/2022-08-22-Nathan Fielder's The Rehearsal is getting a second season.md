@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RpEAZmEHa6wcDid19MmzqKzoG-c=/0x0:1080x720/1200x800/filters:focal(454x274:626x446)/cdn.vox-cdn.com/uploads/chorus_image/image/71269393/Faier61WIAA_NSd.0.jpg' width='700px' /><br/>
+The Rehearsal, the docu-comedy TV show created by and starring Nathan Fielder, has been renewed for a second season, HBO has announced. The new came just ahead of the show's sixth episode and season one finale on Friday night. “One more chance to get it right,” reads the Season 2 tagline, though a premiere date is missing from the announcement.
+<a href='https://www.theverge.com/2022/8/22/23316109/the-rehearsal-nathan-fielder-hbo-second-season-announced'> Source <a/>
