@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qKV0wlal55DYzebCkum7dFBvHH4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71270786/vpavic_220621_5352_0004.0.jpg' width='700px' /><br/>
+Ford is laying off about 3,000 employees and contract workers, with the cuts primarily affecting staff in the US, Canada, and India, The Wall Street Journal reports. Chairman Bill Ford and CEO Jim Farley sent a memo on Monday informing staff of the layoffs, with affected workers being told later this week.
+<a href='https://www.theverge.com/2022/8/22/23316491/ford-layoffs-3000-workers-employees'> Source <a/>

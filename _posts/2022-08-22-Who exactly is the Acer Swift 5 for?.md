@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/etzoECiuBdGlJAbJcWIsEbnwZmA=/0x0:2040x1360/1200x800/filters:focal(823x632:1149x958)/cdn.vox-cdn.com/uploads/chorus_image/image/71270367/akrales_220525_5238_0117.0.jpg' width='700px' /><br/>
+The Acer Swift 5 is Acer's top ultraportable laptop. It's essentially the closest thing the company has to a MacBook Air competitor. It's thin and light, it looks nice, and it's powerful enough for most office use cases (though probably not for demanding computing workloads).
+<a href='https://www.theverge.com/laptop-review/23308655/acer-swift-5-review-2022-14-inch-laptop-specs-features-price'> Source <a/>
