@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SnG9bKB4CA8ziZZCD4_X-IYEqnM=/0x0:2100x878/1200x800/filters:focal(897x175:1233x511)/cdn.vox-cdn.com/uploads/chorus_image/image/71269622/sth2_ff_067.0.jpeg' width='700px' /><br/>
+Fresh off the success of Uncharted and Sonic the Hedgehog 2 respectively, Sony and Sega are planning film adaptations of even more of their franchises. Deadline reports that Sony is developing Days Gone for the big screen, while Sega says it's developing adaptations of Space Channel 5 and Comix Zone.
+<a href='https://www.theverge.com/2022/8/22/23316140/video-game-movies-days-gone-comix-zone'> Source <a/>
