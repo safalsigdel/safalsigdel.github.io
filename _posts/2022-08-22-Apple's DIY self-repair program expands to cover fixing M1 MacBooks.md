@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DaeLYSySDVcva3S4imgxdH4LkoY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71270126/akramer_201113_4290_0021.0.0.jpg' width='700px' /><br/>
+Apple's expanding its DIY repair program to include MacBook Air and MacBook Pro laptops equipped with the M1 chip. Once the program officially opens tomorrow, you'll get to purchase genuine parts for the 2020 M1 MacBook Air, 13-inch MacBook Pro, and the 14- and 16-inch 2021 M1 MacBook Pros from Apple's Self Service Repair Store.
+<a href='https://www.theverge.com/2022/8/22/23316259/apple-laptop-self-service-diy-repair-m1-macbook-air-pro'> Source <a/>
