@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-G1HWR8Uw2Cd9Zlz79ZITrEo-fc=/0x0:1500x844/1200x800/filters:focal(630x302:870x542)/cdn.vox-cdn.com/uploads/chorus_image/image/71268845/full_dmx_family_gradient_HOTD_FINAL_1__1_.0.jpg' width='700px' /><br/>
+Besides unreleased and disappearing content, there have been plenty of complaints about the HBO Max streaming apps since they launched. Still, they've generally held up well under the stress of premieres for content like Tenet, Wonder Woman, The Matrix, or Westworld, but for HBO there may not be anything like a Game of Thrones premiere.
+<a href='https://www.theverge.com/2022/8/21/23315873/hbo-max-down-fire-stick-house-of-the-dragon'> Source <a/>

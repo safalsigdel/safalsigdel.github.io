@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bQ2nqxkVTc_u21huigc-1t1MPIU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71267944/acastro_STK072_04.0.jpg' width='700px' /><br/>
+Netflix's upcoming ad-supported tier might not show commercials on all the content included in the cheaper subscription plan. A report from Bloomberg suggests that Netflix may cut commercials from newer original films, as well as certain kids' shows.
+<a href='https://www.theverge.com/2022/8/21/23315404/netflix-ad-supported-tier-some-commercial-free-content'> Source <a/>
