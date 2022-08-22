@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/R5npx8zBoPXiftUiCiOZv-nhgJ4=/0x0:2398x1600/1200x800/filters:focal(1008x609:1390x991)/cdn.vox-cdn.com/uploads/chorus_image/image/71269908/outlookmobile.0.jpg' width='700px' /><br/>
-Microsoft has started putting more ads in Outlook Mobile for iOS and Android in recent months.
+Microsoft has started putting more ads in Outlook mobile for iOS and Android in recent months.
 <a href='https://www.theverge.com/2022/8/22/23316102/microsoft-outlook-mobile-ads-ios-android-focused-inbox'> Source <a/>
