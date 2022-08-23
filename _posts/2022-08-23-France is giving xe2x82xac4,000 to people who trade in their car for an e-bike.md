@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qx4bfqvbZ1iA97aWNfbH9VbaQfg=/0x0:5568x3840/1200x800/filters:focal(2339x1475:3229x2365)/cdn.vox-cdn.com/uploads/chorus_image/image/71271850/1242435171.0.jpg' width='700px' /><br/>
-France's government increased the size of the subsidy it offers to people who trade in their gas-powered cars for electric bikes to as much as xe2x82xac4,000 (approx. $3,976) per person, according to The Times. The money is meant to incentivize people to ditch their polluting modes of transportation in favor of cleaner, more environmentally friendly alternatives.
-<a href='https://www.theverge.com/2022/8/22/23316962/france-ebike-car-trade-subsidy-climate-change'> Source <a/>
