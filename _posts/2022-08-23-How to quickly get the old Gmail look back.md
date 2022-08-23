@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7vnXow3Fi4fDlhSR1y5z6WKZaY0=/0x0:1600x1000/1200x800/filters:focal(672x372:928x628)/cdn.vox-cdn.com/uploads/chorus_image/image/71270884/gmail_newui.0.jpg' width='700px' /><br/>
-Not a fan of Gmail's new look for the web? I feel you. Even though the changes rolled out were small, that side panel featuring apps like Mail, Chat, Spaces, and Meet has cluttered things up, making checking emails first thing in the morning feel more overwhelming.
-<a href='https://www.theverge.com/23316378/gmail-old-design-back-how-to'> Source <a/>
