@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VFAOcvSv4CZg7W32YXULszhBGEk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71271769/DSCF2108.0.jpg' width='700px' /><br/>
-Google has been working on making its TV experience faster, more responsive, and less of a hassle for users. According to a post on its support forums on Monday, the company has been working on improving boot time, general performance, and the number of options for managing storage on both third-party TVs as well as its Chromecast with Google TV streaming puck.
-<a href='https://www.theverge.com/2022/8/22/23316875/google-tv-performance-improvements-storage-free-up-space'> Source <a/>
