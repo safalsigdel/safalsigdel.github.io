@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Slfd7DctAegyEY24XRUAsqo_pA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71270942/acastro_STK464.0.jpg' width='700px' /><br/>
-Celsys announced version 2.0 of Clip Studio Paint, its popular digital illustration and animation software, alongside plans to move over to a monthly subscription for updates to the service when it launches. It's left some longtime fans who praised it for its one-time purchase model feeling very betrayed.
-<a href='https://www.theverge.com/2022/8/22/23316413/clip-studio-paint-subscription-plan-angry-artists-digital-illustration'> Source <a/>
