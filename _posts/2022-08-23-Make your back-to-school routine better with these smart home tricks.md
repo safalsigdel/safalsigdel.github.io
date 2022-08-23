@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wR7JyKQQUPREMeh--cHf6sX8_0g=/0x0:5760x4320/1200x800/filters:focal(2420x1700:3340x2620)/cdn.vox-cdn.com/uploads/chorus_image/image/71272312/Echo_Dot_Kids_Edition__Panda__Space.0.jpeg' width='700px' /><br/>
-This week, my kids headed back to school. For most parents, that means a weekend spent buying composition notebooks and Ticonderoga pencils and unearthing moldy lunchboxes from last year's book bag (just me?). In my household, it also means reenabling all my back-to-school smart home routines.
-<a href='https://www.theverge.com/2022/8/22/23317067/amazon-alexa-google-assistant-smart-home-back-to-school-routines'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DQKur0_qOdr87mr_BbLMWrFmdhM=/0x0:800x600/1200x800/filters:focal(336x236:464x364)/cdn.vox-cdn.com/uploads/chorus_image/image/71275082/A125A678_F0B8_4D56_B008_E79BF801550B.0.jpg' width='700px' /><br/>
+Bungie first teased its next major Destiny 2: Lightfall expansion more than two years ago, and since then, players have gained control of the Darkness, fought Savathxc3xbbn and her undead army, and witnessed... The Witness. Now it's time to shake things up again with the launch of Destiny 2: Lightfall on February 28th, with its new cyberpunk world, new Strand subclasses, and much more.
+<a href='https://www.theverge.com/2022/8/23/23317872/destiny-2-lightfall-bungie-strand-subclass-content-release-date'> Source <a/>
