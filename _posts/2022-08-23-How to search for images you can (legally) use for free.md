@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pgblxziFBuupcK6WXeOGz0x9dIw=/0x0:2040x1360/1200x800/filters:focal(943x345:1269x671)/cdn.vox-cdn.com/uploads/chorus_image/image/71271820/akrales_211027_4820_0399.0.jpg' width='700px' /><br/>
-If you're looking for an image that you can repurpose for one of your projects and aren't able to take a photo yourself, there are a ton of free images you can use online without running into any copyright issues — you just have to know where to look.
-<a href='https://www.theverge.com/23308003/image-search-free-legal-use-how-to-wikimedia-creative-commons'> Source <a/>

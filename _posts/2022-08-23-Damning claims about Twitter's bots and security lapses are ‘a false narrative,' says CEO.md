@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/FLGKFrtInQykvNWQVtWrwp_EtF0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71274449/VRG_Illo_STK182_L_Normand_ParagAgrawal_Neutral.0.jpg' width='700px' /><br/>
-This morning CNN and The Washington Post reported new whistleblower claims by Twitter's former head of security, Peiter “Mudge” Zatko, that the company's statistics on bot activity are misleading, its security approach sucks, and that execs aren't incentivized to look further.
+This morning, CNN and The Washington Post reported new whistleblower claims by Twitter's former head of security, Peiter “Mudge” Zatko, that the company's statistics on bot activity are misleading, its security approach sucks, and that execs aren't incentivized to look further.
 <a href='https://www.theverge.com/2022/8/23/23318002/twitter-bots-lawsuit-elon-musk-mudge-zatko-ceo-agrawal'> Source <a/>
