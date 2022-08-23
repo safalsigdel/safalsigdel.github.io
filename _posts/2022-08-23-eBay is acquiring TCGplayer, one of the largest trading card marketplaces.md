@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uqcKPElZN7sj7OEF_zC6jprKO7c=/0x0:1600x900/1200x800/filters:focal(165x321:421x577)/cdn.vox-cdn.com/uploads/chorus_image/image/71271963/tcg_player_ebay.0.jpeg' width='700px' /><br/>
+eBay will acquire TCGplayer, an online marketplace for trading cards, the companies announced today. The deal, worth up to $295 million, marks eBay's latest push into the growing trading card market, which experienced a huge boom during the pandemic.
+<a href='https://www.theverge.com/2022/8/22/23316958/ebay-tcgplayer-acquiring-trading-card-games-collectibles'> Source <a/>

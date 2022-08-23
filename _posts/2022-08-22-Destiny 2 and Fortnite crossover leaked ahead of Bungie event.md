@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bed0zuzgKzEAycZQN_4G14sAPnU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71266831/fortnitedestinyleak.0.jpg' width='700px' /><br/>
-Bungie appears to be getting ready to add Fortnite skins to Destiny 2. After Fortnite leaker MidaRado teased a potential Destiny 2 collab over the weekend, Ginsor — a well-known Destiny dataminer — has confirmed the crossover with an image showing off several classic Fortnite skins in Destiny 2.
-<a href='https://www.theverge.com/2022/8/21/23314871/destiny-2-fortnite-skins-crossover-rumors-bungie-event'> Source <a/>

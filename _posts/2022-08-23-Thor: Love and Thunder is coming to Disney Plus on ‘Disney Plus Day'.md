@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gji2OlOe4miw_KgAKv9581HSftY=/0x0:2048x858/1200x800/filters:focal(617x195:943x521)/cdn.vox-cdn.com/uploads/chorus_image/image/71270982/vlcsnap_2022_06_27_15h33m24s078.0.png' width='700px' /><br/>
+Marvel's latest theatrical release, Thor: Love and Thunder, will be making its way to the Disney Plus streaming service on September 8th (via Deadline). While my colleague Charles Pulliam-Moore described the movie as “messy” in his excellent review, which you can read here, it still did reasonably well at the box office. Soon, though, it'll be available on streaming for anyone who'd rather watch it at home.
+<a href='https://www.theverge.com/2022/8/22/23316645/thor-love-and-thunder-disney-plus-streaming-september'> Source <a/>

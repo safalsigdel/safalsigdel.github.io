@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T71vHm6FTqyDmUrZkziLtNEXC2U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71272468/bfarsace_190101_5333_0006.0.jpg' width='700px' /><br/>
+We may need to wait longer for the 3nm MacBook than we'd previously hoped. New 14-inch and 16-inch MacBook Pros are on the horizon, according to a new prediction from analyst Ming-Chi Kuo, but they're unlikely to be the 3nm process. Refreshes of the excellent professional MacBooks “will enter mass production” in Q4 of 2022, Kuo tweeted this morning.
+<a href='https://www.theverge.com/2022/8/22/23316481/apple-m2-macbook-pro-14-16-release-q4'> Source <a/>

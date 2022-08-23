@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qvf77eRBmBZuWvlrBak_bCK6Rro=/0x0:2040x1530/1200x675/filters:focal(777x691:1103x1017)/cdn.vox-cdn.com/uploads/chorus_image/image/71270013/verge_910110CC_5813_4124_AAD4_4412B4838202_1_201_a_2040pxl.0.jpg' width='700px' /><br/>
-One major draw of #vanlife is the pursuit of unbridled exploration. But custom vans and RVs suitable for extended off-grid living tend to be hulking monstrosities that can be difficult to maneuver in tight spaces. That means bringing along an alternative mode of transportation like an e-bike to scout the viability of unpaved roads and to explore nearby towns unsuitable for large vehicles.
-<a href='https://www.theverge.com/23311184/super73-zx-camper-van-scout-bike-review-unlock-unlimited-off-rad'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r3lEgl76_7Fu6_sP7phKZLKZUDw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71271505/VRG_Illo_STK427_Podcasting_buttons.0.jpg' width='700px' /><br/>
+YouTube is embracing its position as the (unintentional) most-used podcast platform by launching a dedicated podcast page. As the lines between podcasting and YouTube blur, any step the company takes toward consolidating listening could pose a challenge for competitors Spotify and Apple Podcasts.
+<a href='https://www.theverge.com/2022/8/22/23316907/youtube-podcast-page-spotify-apple'> Source <a/>

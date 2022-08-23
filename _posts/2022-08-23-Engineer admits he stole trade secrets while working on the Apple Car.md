@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ax9ILqgh8Qw6YOeulCKWMp2Lb18=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71272974/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+Xiaolang Zhang has pled guilty to stealing trade secrets from Apple, where he worked on a self-driving car project from 2015 to 2018 (via CNBC). When he quit his job at Apple, he told his supervisor that he was going to work for Guangzhou Xiaopeng Motors Technology, a Chinese EV startup also known as Xpeng.
+<a href='https://www.theverge.com/2022/8/22/23317502/xiaolang-zhang-pleads-guilty-trade-secret-theft-xpeng-self-driving-car'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gbFQOzPUvvJ-J1vHc8VdFRs3sOk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71271479/TGA2020_PosterPack1_PosterB_HD.0.jpg' width='700px' /><br/>
+Mark your calendars and get those predictions in because The Game Awards returns on December 8th. Geoff Keighley's award show / marketing sizzle reel will be held at the Microsoft Theater in Los Angeles for the show's ninth year.
+<a href='https://www.theverge.com/2022/8/22/23316711/the-game-awards-date-geoff-keighley-december-8'> Source <a/>

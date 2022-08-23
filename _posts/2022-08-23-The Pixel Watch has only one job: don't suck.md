@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Sti5kfE-HOp9zzv9FHIO5AtzOZ0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71271110/Google_Pixel_Watch_1.0.png' width='700px' /><br/>
+Later this fall, Google is expected to launch the Pixel Watch. Given Wear OS's history, there's understandably a lot of anticipation. Will the watch be good? Will it fail to deliver the promise of Wear OS 3? Honestly, those questions might be more appropriate for future iterations of the watch. For now, all Google has to do is create a smartwatch that does the basics well.
+<a href='https://www.theverge.com/2022/8/22/23316396/pixel-watch-google-wear-os-backups-smartwatches'> Source <a/>

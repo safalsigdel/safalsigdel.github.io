@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DgfgQaLINTDhnY93vREl633Plvs=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71272567/Star_Wars__Knights_of_the_Old_Republic_Remake___PlayStation_Showcase_2021_Trailer___PS5_0_30_screenshot.0.png' width='700px' /><br/>
+Embracer Group is moving development on the upcoming Star Wars: Knights of the Old Republic (KOTOR) remake for PS5 and PC from Aspyr Media to a Saber Interactive studio in Eastern Europe, according to Bloomberg.
+<a href='https://www.theverge.com/2022/8/22/23317285/star-wars-knights-of-the-old-republic-kotor-remake-developer-saber-interactive-aspyr-media-ps5-pc'> Source <a/>

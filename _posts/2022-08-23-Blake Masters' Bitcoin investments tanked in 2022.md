@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AS54JnQyO0wCebXk5pn5BEm8zlk=/0x0:3846x3254/1200x800/filters:focal(1577x409:2191x1023)/cdn.vox-cdn.com/uploads/chorus_image/image/71271455/1412614983.0.jpg' width='700px' /><br/>
+Bitcoin evangelist and Republican Senate hopeful Blake Masters has invested millions into a wide variety of cryptocurrencies. But according to recent financial filings viewed by The Verge, Masters' own digital investments have seemingly tanked in value over this past year's cryptocurrency crash.
+<a href='https://www.theverge.com/2022/8/22/23316860/bitcoin-ethereum-cryptocurrency-blake-masters-arizona-mark-kelly-senate-election'> Source <a/>
