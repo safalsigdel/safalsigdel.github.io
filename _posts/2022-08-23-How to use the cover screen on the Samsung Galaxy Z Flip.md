@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BZ13IFJkv3FwQIt5UVN6PMulegY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71271679/4.0.png' width='700px' /><br/>
-Part of the Samsung Galaxy Z Flip's appeal is what you can do with the phone halfway open in Flex Mode, like make a hands-free video call or take a selfie. But there's also plenty you can do with the phone closed, thanks to that little 1.9-inch OLED on the front panel, aka the cover screen.
-<a href='https://www.theverge.com/23316946/samsung-galaxy-z-flip-cover-screen-widgets-clock-options-always-on-display'> Source <a/>
