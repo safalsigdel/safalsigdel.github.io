@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xRB2K5AJEaljf2OpuWtziF9KN_s=/0x0:6184x3320/1200x800/filters:focal(2598x1166:3586x2154)/cdn.vox-cdn.com/uploads/chorus_image/image/71271130/Lincoln_Model_L100_Concept_Exterior_1.0.jpg' width='700px' /><br/>
-Lincoln is celebrating its 100-year anniversary with the release of the L100, a concept car that harkens back to the automaker's legacy while also looking ahead to a future where pesky controls like steering wheels may no longer be needed.
-<a href='https://www.theverge.com/2022/8/22/23316583/lincoln-l100-concept-car-ev-autonomous-ford'> Source <a/>

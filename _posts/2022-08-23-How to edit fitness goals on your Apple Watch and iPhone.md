@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S6j1E3Lp6_Yoe5WvhvoNm4Gz4-Y=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71274200/1.0.png' width='700px' /><br/>
+Apple makes a big deal out of closing your rings, but sometimes we all need a little help doing that. Whether you're injured and need a rest day or want to challenge yourself, you can edit your fitness goals directly from your Apple Watch or iPhone.
+<a href='https://www.theverge.com/23317909/apple-watch-fitness-goals-iphone-edit-how-to'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YjI6MbcU6_GWbzktdWF52EOlwQs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71271408/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg' width='700px' /><br/>
-As Twitter and Elon Musk prepare for their October 17th trial date in the Delaware Court of Chancery to argue over his attempt to break their $44 billion acquisition agreement, Musk's legal team submitted a subpoena for evidence from a familiar face: former Twitter CEO Jack Dorsey.
-<a href='https://www.theverge.com/2022/8/22/23316862/elon-musk-jack-dorsey-twitter-trial-subpoena'> Source <a/>
