@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ey4r62WIsrXWfKrHtXrhuWJR5NU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71273793/acastro_STK050_08.0.jpg' width='700px' /><br/>
+Twitter has hidden negligent security practices, misled federal regulators about its safety, and failed to properly estimate the number of bots on its platform, according to testimony from the company's former head of security, the legendary hacker-turned-cybersecurity-expert Peiter “Mudge” Zatko. The explosive complaint will have huge potential consequences, including federal fines and the unravelling of Elon Musk's Twitter bid.
+<a href='https://www.theverge.com/2022/8/23/23317857/twitter-whistleblower-zatko-security-spam-safety'> Source <a/>
