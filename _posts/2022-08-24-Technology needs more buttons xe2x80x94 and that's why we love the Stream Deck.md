@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MERgoFQLxLxdTNsCr6twAMCqWzE=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/71279276/DSC01895.0.jpeg' width='700px' /><br/>
+I initially bought a Stream Deck for one purpose: to control the lights in my home office. There's just one light switch in there, and that switch controls the lightxe2x80xa6 and also every outlet in the room. Lights off, everything off. So that switch now has a piece of tape on it, and I bought a smart bulb and a Stream Deck so I could still control the lamp in the corner.
+<a href='https://www.theverge.com/23319758/stream-deck-tips-tricks-podcast'> Source <a/>
