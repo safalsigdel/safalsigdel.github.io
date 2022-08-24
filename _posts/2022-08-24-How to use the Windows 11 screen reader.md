@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VOf-jbmnymjvl4bbIClYmqI-bD0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71275906/akrales_220426_5143_0136.0.jpg' width='700px' /><br/>
-There are numerous third-party screen readers available for Windows 11. The most popular ones include Job Access With Speech (JAWS) and NonVisual Desktop Access (NVDA). (Microsoft has a full list on its website.)
-<a href='https://www.theverge.com/23317665/windows-11-narrator-screen-reader-how-to-start-keyboard-accessibility'> Source <a/>

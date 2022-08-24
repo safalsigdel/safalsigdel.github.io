@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LfNvE5hUS2hbLEPOaL1sTYfq5mg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71276052/TFTBL_Xbox_Wire_Hero_ab867bee886ccf082bae.0.jpeg' width='700px' /><br/>
-Gearbox's new Tales from the Borderlands game, which is just called New Tales from the Borderlands, will be released on October 21st, the studio announced Tuesday at the Gamescom Opening Night Live event. The game will be available on PlayStation, Xbox, Nintendo Switch, and PC.
-<a href='https://www.theverge.com/2022/8/23/23318597/gearbox-new-tales-from-the-borderlands-release-date'> Source <a/>
