@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rozVa5SzclUHQaeYOEPPR5SHKAQ=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/71275659/fitbit_teaser.001.0.jpeg' width='700px' /><br/>
-Fitbit teased a new wearable that it'll reveal tomorrow during a special product event. The company posted a shadowy close-up of what looks like a new Fitbit Sense or Versa device on Twitter, and lo and behold: there's a physical button again.
-<a href='https://www.theverge.com/2022/8/23/23318186/fitbit-versa-sense-buttons-teaser-rumor-announcement'> Source <a/>
