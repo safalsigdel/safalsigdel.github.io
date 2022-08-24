@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nVNQfclnUx1v_Bt-KKGSIkNfUhg=/0x0:5119x2726/1200x800/filters:focal(1688x1232:2506x2050)/cdn.vox-cdn.com/uploads/chorus_image/image/71280173/Screenshot_2022_08_24_at_10.19.56.0.png' width='700px' /><br/>
+There's a new trailer out for Disney's upcoming live-action Pinocchio movie, directed by Robert Zemeckis (the man behind Back to the Future, Who Framed Roger Rabbit, and The Polar Express). Compared to what we've seen of the movie up until this point, it shows off a lot more of Benjamin Evan Ainsworth's performance as the titular character as well as Joseph Gordon-Levitt's Jiminy Cricket.
+<a href='https://www.theverge.com/23320127/pinocchio-trailer-movie-disney-plus-premiere-date'> Source <a/>
