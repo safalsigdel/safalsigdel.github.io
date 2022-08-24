@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aQdPEjmyZ9he9qysvri7sHQyQ3o=/0x0:4803x2934/1200x800/filters:focal(2018x1083:2786x1851)/cdn.vox-cdn.com/uploads/chorus_image/image/71275207/1242659864.0.jpg' width='700px' /><br/>
-An Ohio judge has ruled that a Cleveland State University's virtual scan of a student's room prior to an online test was unconstitutional. The ruling marks a victory for digital privacy advocates around the country, who have spoken loudly against the practices of online test proctoring for many years.
-<a href='https://www.theverge.com/2022/8/23/23318067/cleveland-state-university-online-proctoring-decision-room-scan'> Source <a/>
