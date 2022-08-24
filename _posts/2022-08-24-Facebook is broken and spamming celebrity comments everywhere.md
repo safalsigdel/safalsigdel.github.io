@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0xosLgFHbvcH3d7kBIGEdSnRWvQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71278233/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+Facebook is currently experiencing a bizarre bug that's filling user feeds with endless posts from celebrity accounts. Multiple Verge staffers who attempted to use the social media network this morning experienced the same issue, where their main News Feed is flooded with minor posts sent to pages for artists like Lady Gaga, Nirvana, and The Beatles.
+<a href='https://www.theverge.com/2022/8/24/23319552/facebook-bug-celebrity-spam-memes-carnage'> Source <a/>
