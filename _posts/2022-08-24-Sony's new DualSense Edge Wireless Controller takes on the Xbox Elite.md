@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jf1D2cUevBfVwFAbO6WnR0A6I7g=/0x0:1871x1239/1200x0/filters:focal(0x0:1871x1239):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23965994/P04wwtj.png' width='700px' /><br/>
-Sony has just announced a new DualSense Edge Wireless Controller. The “high performance” controller is fully customizable, much like the Xbox Elite controller. Sony appears to have the best features from the Scuf and Elite controllers, with removable analog thumbsticks, rear buttons, changeable stick caps, and multiple control profiles.
-<a href='https://www.theverge.com/2022/8/23/23318564/sony-dualsense-edge-wireless-controller-features'> Source <a/>
