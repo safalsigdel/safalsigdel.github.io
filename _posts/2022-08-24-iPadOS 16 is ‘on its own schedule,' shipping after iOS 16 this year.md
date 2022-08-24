@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ccdhw_WjIJTKnbDX6gsoBdLzn7c=/0x0:5381x3617/1200x800/filters:focal(2261x1379:3121x2239)/cdn.vox-cdn.com/uploads/chorus_image/image/71275824/DSC01635.0.jpeg' width='700px' /><br/>
+Apple has confirmed that iPadOS 16.0 won't be getting a public release and that the tablet-centered OS won't be coming out until after iOS starts hitting phones. In a statement to TechCrunch, attributed only to “the company,” it said: “we have the flexibility to deliver iPadOS on its own schedule. This Fall, iPadOS will ship after iOS, as version 16.1 in a free software update.”
+<a href='https://www.theverge.com/2022/8/23/23318437/ipados-16-delay-release-after-ios-stage-manager'> Source <a/>

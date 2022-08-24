@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cSUp7jHxZOrdRRfgWlmwLKuMVpc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71275992/image.0.jpeg' width='700px' /><br/>
+Return to Monkey Island, the new entry in the popular point-and-click series from Ron Gilbert, will be released on September 19th, which just so happens to be International Talk Like a Pirate Day, according to a trailer shown at the Gamescom Opening Night Live event. The game will be available on PC and Nintendo Switch.
+<a href='https://www.theverge.com/2022/8/23/23318498/return-to-monkey-island-release-date-pc-steam-nintendo-switch'> Source <a/>

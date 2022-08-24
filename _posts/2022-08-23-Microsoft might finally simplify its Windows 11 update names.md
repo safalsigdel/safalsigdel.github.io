@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z901LKRSWKm0oe-6phsbblueAHk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71273516/bfarsace_211004_4777_0003.0.jpg' width='700px' /><br/>
-Microsoft could be preparing to name its next big OS update the “Windows 11 2022 Update.” References to this naming have appeared in near-final versions of the next big Windows 11 release, currently named 22H2. Twitter user XenoPanther spotted the Windows 11 2022 Update naming in the Get Started app that appears when you set up a new PC.
-<a href='https://www.theverge.com/2022/8/23/23317795/microsoft-windows-11-2022-update-naming'> Source <a/>

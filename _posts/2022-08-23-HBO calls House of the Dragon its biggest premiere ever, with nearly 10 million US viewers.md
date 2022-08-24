@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vPOGWFayk1ZGrxXIlIj-zAgyRIk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/71272606/unnamed__9_.0.jpg' width='700px' /><br/>
-Despite glitches for some people trying to watch via Fire TV Sticks, HBO announced that the first episode of its Game of Thrones spinoff House of the Dragon recorded the network's biggest premiere of all time, recording 9.986 million viewers across linear and HBO Max streaming on Sunday night in the US alone.
-<a href='https://www.theverge.com/hbo/2022/8/22/23317333/hbo-max-house-of-the-dragon-game-of-thrones-biggest-premiere-ever'> Source <a/>

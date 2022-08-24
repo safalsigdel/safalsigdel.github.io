@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nq_kl2PZ0P8QC1Fn58NLGHSEutw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71273512/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Meta has confirmed that it's internally prototyping a new Instagram feature that's suspiciously similar to BeReal, the social media app that's recently exploded in popularity. The so-called “IG Candid” feature discovered by leaker Alessandro Paluzzi mirrors BeReal by prompting the user to share an authentic photo at a random time each day.
-<a href='https://www.theverge.com/2022/8/23/23317802/instagram-ig-candid-prototype-bereal-murder-clone'> Source <a/>

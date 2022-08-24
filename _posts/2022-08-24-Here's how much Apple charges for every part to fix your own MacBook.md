@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TS5m-Pr0jow6tTmjqn8xPKFSzno=/0x0:1448x965/1200x800/filters:focal(609x368:839x598)/cdn.vox-cdn.com/uploads/chorus_image/image/71276825/macbook_repair.0.jpg' width='700px' /><br/>
+Yesterday, Apple revealed it would expand its Self Service Repair program to let you fix your own MacBooks, and today the program is here. You can now download full repair manuals for your 2021 14-inch and 16-inch MacBook Pros and the 2020 13-inch M1 MacBook Pro and M1 MacBook Air — and shop for parts you might need.
+<a href='https://www.theverge.com/2022/8/23/23318736/apple-macbook-part-prices-self-service-repair-program'> Source <a/>

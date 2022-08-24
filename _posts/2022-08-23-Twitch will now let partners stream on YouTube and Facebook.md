@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i1qstOABD2PKyyHEt5l0kQJwOP8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71274171/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
-The days of Twitch partner exclusivity are over. Twitch told partnered streamers in an email this morning that the platform was lifting its long-standing exclusivity agreement that denied partners the ability to stream on other services. Partners will now be able to stream on YouTube, Facebook Live, and other platforms — though in some cases, Twitch still limits what they're able to do.
-<a href='https://www.theverge.com/2022/8/23/23317939/twitch-ends-partner-exclusivity-youtube-tiktok-facebook-gaming'> Source <a/>

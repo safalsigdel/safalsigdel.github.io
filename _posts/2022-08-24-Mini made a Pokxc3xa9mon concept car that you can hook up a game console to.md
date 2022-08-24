@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bl2S7AzJ_htHPDSAlzAwpHwf6f0=/0x0:2178x1254/1200x800/filters:focal(392x655:740x1003)/cdn.vox-cdn.com/uploads/chorus_image/image/71276600/mini_pokemon_concept_game_car.0.png' width='700px' /><br/>
+Mini teamed up with Pokxc3xa9mon to develop a Pikachu-themed concept car that's, fittingly, all-electric. The automaker showcased the car during the Gamescom Opening Night Live event, which lets you hook up your game console and project your gameplay from the front of the vehicle.
+<a href='https://www.theverge.com/2022/8/23/23318787/mini-pokemon-aceman-concept-car-game-console-pikachu-ev-gamescom-2022'> Source <a/>

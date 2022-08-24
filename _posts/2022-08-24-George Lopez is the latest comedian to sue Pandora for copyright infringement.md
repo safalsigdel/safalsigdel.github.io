@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zeaH25H1aC_BM5nyeALtrFl0dro=/0x0:5477x3651/1200x800/filters:focal(2104x1586:2980x2462)/cdn.vox-cdn.com/uploads/chorus_image/image/71276979/1397545745.0.jpg' width='700px' /><br/>
+The lawsuits are piling up for Pandora, which has been accused by comedians, including Lewis Black and Andrew Dice Clay, of streaming their works without the proper license. Now, George Lopez is joining the fray, seeking $5.5 million from the streamer.
+<a href='https://www.theverge.com/2022/8/23/23318930/george-lopez-comedian-sues-pandora-siriusxm-lewis-black-spotify'> Source <a/>

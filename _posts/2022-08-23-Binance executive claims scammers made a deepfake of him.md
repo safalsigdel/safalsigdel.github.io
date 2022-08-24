@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OPRZDgHqRNEDOuB09Q_OlSkq22Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71274754/acastro_210512_1777_deepfake_0003.0.jpg' width='700px' /><br/>
-Patrick Hillmann, chief communications officer at the world's largest crypto exchange, Binance, claims scammers made a deepfake of him to trick contacts into taking meetings.
-<a href='https://www.theverge.com/2022/8/23/23318053/binance-comms-crypto-chief-deepfake-scam-claim-patrick-hillmann'> Source <a/>

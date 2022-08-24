@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RgADC7KzkUJoVG7n8x4XsNgV7vU=/0x0:2040x1360/1200x800/filters:focal(773x439:1099x765)/cdn.vox-cdn.com/uploads/chorus_image/image/71276483/VRG_Illo_STK172_L_Normand_JackDorsey_Neutral.0.jpg' width='700px' /><br/>
+Listen, I'm sure there will be a lot of sturm und drang about what the whistleblower disclosures mean for Elon Musk's Twitter deal, but I want to focus on something dumber and pettier: Jack Dorsey.
+<a href='https://www.theverge.com/2022/8/23/23318799/elon-musk-jack-dorsey-twitter-block-bitcoin-ceo'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rrMHjmuZ98WlkewBVrgbaRWAvyQ=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/71274513/1313210569.0.jpg' width='700px' /><br/>
-For some budding restauranteurs, CloudKitchens might sound like a great opportunity to get off the ground. The service, owned by Uber founder and ex-CEO Travis Kalanick, promises restaurateurs delivery-only kitchens in rented warehouse spaces with low startup fees. But a report from Insider reveals that many CloudKitchens operators are struggling to keep their business alive due to a lack of both safety and technical support.
-<a href='https://www.theverge.com/2022/8/23/23317897/ghost-kitchens-cloudkitchens-uber-travis-kalanick'> Source <a/>

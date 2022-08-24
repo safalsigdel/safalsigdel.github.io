@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u-ut_-x6bj-PXYzPQQH5P793lCk=/0x0:3200x2400/1200x800/filters:focal(1344x944:1856x1456)/cdn.vox-cdn.com/uploads/chorus_image/image/71275217/LG_air_purifier_table.0.jpg' width='700px' /><br/>
-LG's latest attempt to make air purifiers more “innovative” and less of an eyesore has come to fruition with its range of Aero Furniture, a collection of tables with an air purifier, mood lighting, and wireless charging for your gadgets shoved inside.
-<a href='https://www.theverge.com/2022/8/23/23318139/lg-aero-furniture-air-purifier-puricare-objet-collection'> Source <a/>

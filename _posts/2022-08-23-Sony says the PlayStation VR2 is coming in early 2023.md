@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IHFgn0DHwKXdpgI87Bkoj6cQ_dQ=/0x0:1080x1080/1200x800/filters:focal(449x329:621x501)/cdn.vox-cdn.com/uploads/chorus_image/image/71272478/FazBkAQXEAUm7ay.0.jpeg' width='700px' /><br/>
-Sony's PlayStation VR2 headset is coming in “early 2023,” according to posts the company made on Twitter and Instagram. Sony has been trickling information out about the upcoming headset over the past several months, and now we have at least a timeframe for when we can expect to get our hands on the hardware.
-<a href='https://www.theverge.com/2022/8/22/23317342/sony-playstation-ps-vr2-release-date-early-2023'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P5pFp4aNh2LcKB_hkSFjl1gJeKI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71276399/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+Congress is investigating new whistleblower claims made by Twitter's former head of security following two bombshell reports published on Tuesday — and some are calling on top federal law enforcement officials to follow suit.
+<a href='https://www.theverge.com/2022/8/23/23318794/twitter-mudge-zatko-cybersecurity-whistleblower-markey-durbin-blumenthal'> Source <a/>

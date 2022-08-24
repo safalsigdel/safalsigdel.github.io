@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jg6ig5SY6D2beA0ojuQ_rIC_S8E=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/71276578/GK_VillainScreenshot_HARLEYQ_Final.0.png' width='700px' /><br/>
+Gotham Knights, an open-world RPG set in the Batman universe, will be available just a little bit sooner than we originally knew. The game was set to be released on October 25th, but now it's coming out on October 21st, according to a trailer that debuted at Gamescom's Opening Night Live show.
+<a href='https://www.theverge.com/2022/8/23/23318685/gotham-knights-release-date-moved-up-october'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yF5H0Vgp3asvgwAizfNf8zBqZ-g=/0x0:1440x733/1200x800/filters:focal(710x91:940x321)/cdn.vox-cdn.com/uploads/chorus_image/image/71276593/IMG_5115_1_copy_1440x733.0.jpeg' width='700px' /><br/>
+Have you ever wanted to know how in the hell a man like Hideo Kojima comes up with some of the outlandish stuff you see in his games? Well, you're about to, as he's coming soon to earholes near you.
+<a href='https://www.theverge.com/2022/8/23/23318748/hideo-kojima-podcast-brain-structure-spotify-september-eight'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zMd4e1Csmq2yOpCMc7XQcnuPs3Q=/0x0:1424x802/1200x800/filters:focal(599x288:825x514)/cdn.vox-cdn.com/uploads/chorus_image/image/71275227/VDC5yzU.0.png' width='700px' /><br/>
-Destiny 2 is arriving on the Epic Games Store today. The latest expansion of Bungie's looter shooter comes just as Epic and Bungie announce a special Destiny 2 and Fortnite crossover that will involve skins, maps, and more. The expansion to the Epic Games Store will also see Destiny 2's recent 30th Anniversary go free on the Epic Games Store.
-<a href='https://www.theverge.com/2022/8/23/23317944/destiny-2-epic-games-store-release-free-dlc'> Source <a/>

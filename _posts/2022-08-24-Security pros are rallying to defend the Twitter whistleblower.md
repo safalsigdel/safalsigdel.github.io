@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fUv5ETrpUgrZz7VpXfzPPW0_Zc8=/0x0:4500x3061/1200x800/filters:focal(1780x220:2500x940)/cdn.vox-cdn.com/uploads/chorus_image/image/71276281/1242664198.0.jpg' width='700px' /><br/>
+Peiter “Mudge” Zatko, the former Twitter security chief who has alleged that the company covered up negligent security practices and lied to regulators about data management, was a credible, capable, and brutally honest security expert, according to peers and colleagues.
+<a href='https://www.theverge.com/2022/8/23/23318554/cybersecurity-pros-defend-twitter-whistleblower-peiter-mudge-zatko'> Source <a/>
