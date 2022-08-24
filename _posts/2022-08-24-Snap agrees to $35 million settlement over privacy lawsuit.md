@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rkPkfnUw187XIuwl14UKtDpFEyg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71276343/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snapchat users in Illinois who used filters or lenses may be eligible for a payout. Illinois reached a $35 million settlement with Snap this month, according to the Chicago Tribune, in a class action lawsuit over how user data was collected.
-<a href='https://www.theverge.com/2022/8/23/23318545/illinois-snapchat-biometric-privacy-lawsuit-settlement-facebook-location-tracking'> Source <a/>

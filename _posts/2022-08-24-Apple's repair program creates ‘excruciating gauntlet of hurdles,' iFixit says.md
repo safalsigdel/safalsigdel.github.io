@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F1re5Xz23cfEk8MdmbVtFeFUpAQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71279924/akrales_211028_4820_0680.0.jpg' width='700px' /><br/>
+On Monday, Apple expanded its DIY repair program to include MacBook Air and MacBook Pro laptops equipped with M1 chips (including the Pro and Max). At least, in theory. The repairability experts at iFixit, who regularly dissect Apple's gadgets, have taken a look at the new program, and their outlook is...mixed.
+<a href='https://www.theverge.com/2022/8/24/23319881/apple-macbook-repair-program-ifixit-complaints'> Source <a/>

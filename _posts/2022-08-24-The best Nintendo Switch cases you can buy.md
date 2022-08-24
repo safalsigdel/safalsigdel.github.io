@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7h7Cto9P5BBzTBg4ETGXgVY4KOI=/0x0:2050x1367/1200x675/filters:focal(870x494:1198x822)/cdn.vox-cdn.com/uploads/chorus_image/image/70956045/VRG_ILLO_5235_Nintendo_Switch_Case_Guide.0.jpg' width='700px' /><br/>
-Let's face it: protective carrying cases for the Nintendo Switch are a dime a dozen. A quick Google search will yield no shortage of options that largely work as intended; however, most cases on the market may not do well against drops and other blunt force trauma, even if they can protect your console from more superficial damage.
-<a href='https://www.theverge.com/23034290/nintendo-switch-cases-best-recommendations'> Source <a/>

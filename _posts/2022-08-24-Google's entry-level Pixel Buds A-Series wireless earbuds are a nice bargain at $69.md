@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gGpnVe0w4_qPl9DIaGa-gAHGe-I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71279670/cwelch_20210528_4608_0005.0.jpg' width='700px' /><br/>
+Google's Pixel Buds Pro may be getting a lot of attention — and deservedly so — but if you don't mind not having noise cancellation or multipoint support, the lower-tier Pixel Buds A-Series are a great deal at $69.
+<a href='https://www.theverge.com/good-deals/2022/8/24/23318047/google-pixel-buds-a-series-game-pass-resident-evil-bundle-deal-sale'> Source <a/>

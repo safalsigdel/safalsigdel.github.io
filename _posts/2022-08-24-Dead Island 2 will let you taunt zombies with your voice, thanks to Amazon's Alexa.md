@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J6uqGODTXmL1Ozt-ts_n0TGhwfc=/0x0:2000x1125/1200x800/filters:focal(986x321:1306x641)/cdn.vox-cdn.com/uploads/chorus_image/image/71276802/DS_Venice_Streets_Thug.0.jpg' width='700px' /><br/>
-Amazon is launching a new tool called Alexa Game Control that's designed to let gamers use natural language voice commands so they can accomplish actions in video games. The first game to feature the technology will be the zombie-filled Dead Island 2, which was just re-revealed at Gamescom's Opening Night Live event.
-<a href='https://www.theverge.com/2022/8/23/23318871/dead-island-2-amazon-alexa-voice-control-zombies'> Source <a/>

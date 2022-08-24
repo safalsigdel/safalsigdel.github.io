@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m7RTAzljucHN9BqxOuPmnZjGK_A=/0x0:1472x986/1200x800/filters:focal(619x376:853x610)/cdn.vox-cdn.com/uploads/chorus_image/image/71279746/Apple_Event_image.5.jpg' width='700px' /><br/>
+Apple's next product launch event will take place on September 7th, the company announced in an invitation sent out to journalists today. At the show, Apple is expected to share details on upcoming iPhones and Apple Watches.
+<a href='https://www.theverge.com/2022/8/24/23310522/apple-iphone-14-event-announcement-date-time-september-2022'> Source <a/>

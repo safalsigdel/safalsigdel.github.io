@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_I_ZtOv0qzWOCuyqOklVyInkFFY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67061349/3.5.png' width='700px' /><br/>
-Bad stuff happens — and occasionally, it happens to your Google account. One nightmare for those who depend on their Gmail, Google Photos, and other Google apps is to lose access to all that data. This is what happened to a father who sent photos of his child to a doctor using his Android phone and found himself suddenly without access to the years of personal data — contacts, family photos, you name it — that were in his Google accounts.
-<a href='https://www.theverge.com/21324801/gmail-download-data-back-up-save-email'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f9dre4ofTGaheUI1L2qjhWjTmW0=/0x0:940x528/1200x800/filters:focal(395x189:545x339)/cdn.vox-cdn.com/uploads/chorus_image/image/71279971/01_213fb5e04d8b329b5d4e.0.jpeg' width='700px' /><br/>
+Pentiment, the new narrative game from Microsoft's Obsidian Entertainment that looks like medieval art come to life, will be released on Xbox and PC on November 15th. Microsoft first announced the game during its recent Xbox Showcase but, at the time, only provided an open-ended “November 2022” release window.
+<a href='https://www.theverge.com/2022/8/24/23319985/pentiment-xbox-pc-release-date-game-pass-obsidian-microsoft'> Source <a/>

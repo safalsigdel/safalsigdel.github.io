@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ss3tOBQRswtcT-zKfMdAlwIGGU4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70756559/VRG_Illo_STK022_K_Radtke_Musk_Verified.5.jpg' width='700px' /><br/>
-On Thursday, April 14th, Elon Musk announced an offer to buy Twitter for $54.20 a share. On April 25th, Twitter accepted the deal. By July 8th, Musk wanted out. Then Twitter sued Musk. And now we're headed for Chancery Court in Delaware for a five-day trial in October that will determine who owns Twitter — and what happens after.
-<a href='https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates'> Source <a/>
