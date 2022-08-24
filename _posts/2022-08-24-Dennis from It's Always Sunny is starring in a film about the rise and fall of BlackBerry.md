@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XAb4_siW6ajrlulpWjvisovSAUo=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/71278390/1235451837.0.jpg' width='700px' /><br/>
+Well, we didn't know this one was coming: they're making a film about former-mobile-titan BlackBerry, and it's going to star Glenn Howerton of It's Always Sunny in Philadelphia as the company's co-CEO, Jim Balsillie. According to The Globe and Mail, production wrapped this week, though when exactly the film will hit cinemas is unknown.
+<a href='https://www.theverge.com/2022/8/24/23319608/blackberry-film-production-wrapped-glenn-howerton'> Source <a/>
