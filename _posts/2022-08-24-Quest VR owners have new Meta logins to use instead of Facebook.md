@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WIZ6CCo-bpabbTgoyDhIKV8W54s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71275729/akrales_200904_4160_0010.0.0.jpg' width='700px' /><br/>
-Meta will now allow users of its Quest VR headsets to log in with a new Meta account instead of a Facebook account, the company announced on Tuesday. The company had said in July that this change would be rolling out in August, and it marks a shift from an unpopular policy announced in 2020 that required users to log in to their headsets with a Facebook account instead of a separate Oculus account.
-<a href='https://www.theverge.com/2022/8/23/23318359/meta-quest-vr-account-login-facebook-oculus'> Source <a/>
