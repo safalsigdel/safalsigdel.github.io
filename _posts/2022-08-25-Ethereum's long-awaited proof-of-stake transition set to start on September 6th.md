@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w04reR2bEZFsIIBT0J4nHrYjOKg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71282650/STK015_VRG_Illo_N_Barclay_2_ethereum.0.jpg' width='700px' /><br/>
+The Ethereum Foundation has announced that September 6th will be the starting date for the system-wide transition known as the Merge. The first domino will be toppled on the 6th with the activation of the Bellatrix upgrade, which will then set the rest of the Merge process in action, with a completion date expected between September 10th and 20th.
+<a href='https://www.theverge.com/2022/8/25/23321312/ethereum-merge-date-start-september-6-bellatrix-upgrade'> Source <a/>
