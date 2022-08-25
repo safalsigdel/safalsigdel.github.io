@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pwyJW9vHGNrCDfAWN1CKeoeav2U=/0x0:1200x735/1200x800/filters:focal(504x272:696x464)/cdn.vox-cdn.com/uploads/chorus_image/image/71279892/starlink_dish.0.jpg' width='700px' /><br/>
-SpaceX and T-Mobile will host a joint event on Thursday at 8PM ET announcing plans to “increase connectivity.” SpaceX “chief engineer” Elon Musk and T-Mobile's CEO and president Mike Sievert will be presenting at the event, which will happen at SpaceX's Starbase launch site in South Texas, where a Starship prototype was recently loaded onto the launchpad.
-<a href='https://www.theverge.com/2022/8/24/23320133/spacex-starlink-t-mobile-connectivity-5g-satellite-elon-musk'> Source <a/>
