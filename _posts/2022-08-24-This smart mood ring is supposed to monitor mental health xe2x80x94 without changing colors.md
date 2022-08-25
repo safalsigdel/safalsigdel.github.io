@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-41jw8e30qyE46NhhT55CvQltnI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71279156/8c1c32429d4ef3a0bcd95b69c81ec45b.0.jpeg' width='700px' /><br/>
-Startup Happy Health is looking to give the mood ring a “smart” makeover. Instead of dubious color-changing stones, it has created the Happy Ring, which aims to alert users about their mental health using biometric sensors and artificial intelligence.
-<a href='https://www.theverge.com/2022/8/24/23318664/happy-ring-smart-ring-wearables-mental-health'> Source <a/>

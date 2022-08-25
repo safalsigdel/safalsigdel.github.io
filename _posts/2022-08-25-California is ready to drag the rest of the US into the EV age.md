@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gFFRbgBIZBXacSg5V5h4LdnzEzY=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/71280341/1241216633.0.jpg' width='700px' /><br/>
+California is poised to ban the sale of new gas-powered vehicles — a far-reaching policy that is likely to reverberate throughout the rest of the country and the world.
+<a href='https://www.theverge.com/2022/8/24/23320148/california-gas-car-ban-2035-ev-climate-change'> Source <a/>

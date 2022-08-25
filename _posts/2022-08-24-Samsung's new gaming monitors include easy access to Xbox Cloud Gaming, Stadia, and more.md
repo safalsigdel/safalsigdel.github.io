@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VX6nM0g9XrEg1kKxvReG1DN0poM=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/71278303/Rw6EAw4SLXekhkeR8r5EWa_1200_80.0.jpg' width='700px' /><br/>
-Samsung is introducing four new gaming monitors at Gamescom today, and they're the first Odyssey models to have Samsung's Gaming Hub built in. This gaming hub provides quick and easy access to Xbox Cloud Gaming, Google Stadia, Amazon Luna, and Nvidia GeForce Now game streaming services.
-<a href='https://www.theverge.com/2022/8/24/23319565/samsung-odyssey-g70b-g65b-gaming-monitors-hub-cloud-gaming'> Source <a/>

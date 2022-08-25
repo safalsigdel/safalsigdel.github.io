@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5H-JWuSqvrA7eqAVpp-b2iJnpWU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71279553/vsong_220331_5109_0008.0.jpg' width='700px' /><br/>
-Peloton recently dropped the news that it would cut its distribution network, shift further toward third-party logistics, and plans to shutter retail showrooms starting next year. So it shouldn't be a surprise that the company is now partnering with Amazon to sell its original Bike, the Guide, and apparel.
-<a href='https://www.theverge.com/2022/8/24/23319728/peloton-bike-guide-amazon-connected-fitness'> Source <a/>

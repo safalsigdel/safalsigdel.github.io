@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mSP-2qaLbJp80swOmqlFJYNPaWM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71279513/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
-This summer, the SEC conducted an active review of Twitter's user numbers in response to concerns of bot activity, as revealed in new filings made public on Wednesday. The review came in the weeks after Elon Musk raised concerns over the same user figures and suggests federal regulators took Musk's allegations seriously.
-<a href='https://www.theverge.com/2022/8/24/23319885/elon-musk-twitter-bot-sec-review-mdau-whistleblower-mudge'> Source <a/>

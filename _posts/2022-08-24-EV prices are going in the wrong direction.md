@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vaG7ySN_qi_qxOCPlzACR88cwxU=/0x0:6720x4352/1200x800/filters:focal(2823x1639:3897x2713)/cdn.vox-cdn.com/uploads/chorus_image/image/71279446/1241982221.0.jpg' width='700px' /><br/>
-One of the major barriers to mass adoption of electric vehicles is cost. EVs are just way too expensive, with the average price hitting an all-time high earlier this summer of $66,000. That's disappointing because the auto industry has always promised that prices would come down as EV battery packs became more efficient to manufacture.
-<a href='https://www.theverge.com/2022/8/24/23319794/ev-price-increase-used-cars-analysis-iseecars'> Source <a/>

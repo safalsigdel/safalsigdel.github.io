@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Cf0KrQVfYmU3aa9gEQzywNBhzo=/0x0:1600x900/1200x800/filters:focal(651x312:907x568)/cdn.vox-cdn.com/uploads/chorus_image/image/71281690/Play_Games_Future.0.jpg' width='700px' /><br/>
+Starting today, users in Korea, Hong Kong, Taiwan, Thailand, and Australia will be able to register for the open beta for Google Play Games on their PCs. Normally, this catalog of games would be restricted to Chromebooks or other Android-enabled devices, but it will soon be available able to run natively on PCs for users in those select countries.
+<a href='https://www.theverge.com/2022/8/24/23320014/google-play-games-beta-korea-australia-hong-kong-taiwan-thailand'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7Si26-hEB6wBuQ0P8GJ3GCfyv2s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71281199/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
+If you're used to getting your fill of Saturday Night Live and Law & Order on Hulu, all that's going to change on September 19th. From then on, next-day premieres from NBC land on Peacock as part of the streaming service's plan to consolidate NBC-branded content on its home platform.
+<a href='https://www.theverge.com/2022/8/24/23320338/nbc-shows-peacock-next-day-streaming-law-and-order-snl-hulu-september'> Source <a/>

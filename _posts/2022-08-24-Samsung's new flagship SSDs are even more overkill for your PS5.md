@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UUelz3tGgQ9OJp43K6Mck1NwO5E=/0x0:2048x1365/1200x800/filters:focal(846x710:1172x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/71279527/1.0.jpg' width='700px' /><br/>
-Samsung has announced a new version of its flagship PCIe SSD, dubbed the 990 Pro. Not only does the PCIe 4.0 M.2 storage device get even closer to being as fast as it can theoretically be, but there's also the option of getting it with a heatsink that comes complete with RGB lighting (though, if you get that version to upgrade a PlayStation 5, which requires add-on SSDs to have a heatsink, those lights will likely get lost behind a layer of textured plastic).
-<a href='https://www.theverge.com/2022/8/24/23319258/samsung-990-pro-ssd-speeds-heatsink-ps5'> Source <a/>

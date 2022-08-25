@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KXU53gNySrq_OESPlkVs-IdDwY8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71281473/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
+Amazon plans to shut down Amazon Care, the virtual health service it first launched in 2019, by the end of the year. The company announced the decision to Amazon Care employees on Wednesday, The Washington Post reported.
+<a href='https://www.theverge.com/2022/8/24/23320768/amazon-care-shut-down-virtual-care-telehealth'> Source <a/>

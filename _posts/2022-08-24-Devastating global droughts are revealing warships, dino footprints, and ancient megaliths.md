@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RMA2MOWQyImffPDOTL7LxmgIIYs=/0x0:1920x1080/1200x800/filters:focal(727x128:1033x434)/cdn.vox-cdn.com/uploads/chorus_image/image/71279339/REUTERS_D_9315_EUROPE_WEATHER_DROUGHT_DISCOVERIES.0.jpg' width='700px' /><br/>
-Drought conditions around the world are so extreme this summer that rivers are drying up, exposing previously inaccessible or undiscovered relics. This week, the treasures include a bevy of Nazi ships, an entire lost island, and dinosaur tracks.
-<a href='https://www.theverge.com/2022/8/24/23319687/global-droughts-reveal-artifacts-ancient-history-dinosaur-tracks'> Source <a/>

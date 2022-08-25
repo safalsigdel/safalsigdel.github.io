@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Slvp92Gej-dkpuBu445npamG4mg=/0x0:5562x3708/1200x800/filters:focal(2337x1410:3225x2298)/cdn.vox-cdn.com/uploads/chorus_image/image/71280339/1411248971.0.jpg' width='700px' /><br/>
+The government's financial aid website is crashing after President Joe Biden's announcement of a federal student loan forgiveness program that cancels up to $20,000 of student loan debt for some people. According to several user reports on Twitter, Downdetector.com, and testing done by Verge staffers, people are having issues logging into StudentAid.gov or even getting the site to load at all.
+<a href='https://www.theverge.com/2022/8/24/23320250/student-aid-fafsa-sites-down-debt-relief-announcement'> Source <a/>

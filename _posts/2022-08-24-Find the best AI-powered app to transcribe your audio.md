@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XeR1n9i4Gw5JJXYVxbrKCv2hNmo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71278946/VRG_Illo_STK427_K_Radtke_Getty_Mics_2.0.jpg' width='700px' /><br/>
-Whenever a popular online app announces a change to its fees, or in the services it provides for those fees, you're going to get a reaction from its subscribers — especially the long-term ones. The latest app to cause this type of dismay is Otter, a recording and transcription service that recently announced downgrades of the services it provides on two of its plans and raised the price on a monthly plan.
-<a href='https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to'> Source <a/>

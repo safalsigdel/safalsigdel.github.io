@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zk2mbDDektZPyAH8v2Wv_joUKBc=/0x0:765x524/1200x800/filters:focal(322x201:444x323)/cdn.vox-cdn.com/uploads/chorus_image/image/71278741/windows8-stock-765.0.jpg' width='700px' /><br/>
-A former Microsoft employee has revealed what the missing Windows 8 startup sound was supposed to be. Microsoft has used unique startup sounds in Windows versions for decades, but Windows 8 ended that tradition with a silent bootup process. While startup sounds eventually returned for Windows 11, the missing Windows 8 sound has been hiding in Windows 10 and Windows 11 for years now.
-<a href='https://www.theverge.com/2022/8/24/23319642/microsoft-windows-8-missing-startup-sound'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bjLPrrYrEEl2ye9SmXtoWVBYZmU=/0x0:840x472/1200x800/filters:focal(337x164:471x298)/cdn.vox-cdn.com/uploads/chorus_image/image/71278300/plex-hero-970-80-840x472.0.0.jpg' width='700px' /><br/>
-Streaming media platform Plex sent out an email to its customers earlier today notifying them of a security breach that may have compromised account information, including usernames, email addresses, and passwords. While Plex's message says “all account passwords that could have been accessed were hashed and secured in accordance with best practices,” it is still advising all users to change their passwords immediately.
-<a href='https://www.theverge.com/2022/8/24/23319570/plex-security-breach-exposes-usernames-emails-passwords'> Source <a/>
