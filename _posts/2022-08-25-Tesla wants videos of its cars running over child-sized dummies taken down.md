@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Oe9YDNoaAn7VMJUsfhaQgUhDaK8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71283529/tesla.0.jpg' width='700px' /><br/>
+Tesla is demanding that an advocacy group remove videos of its vehicles running over child-sized mannequins, escalating the debate over the safety of the company's Full Self-Driving software.
+<a href='https://www.theverge.com/2022/8/25/23321553/tesla-takedown-videos-child-mannequins-dawn-project'> Source <a/>
