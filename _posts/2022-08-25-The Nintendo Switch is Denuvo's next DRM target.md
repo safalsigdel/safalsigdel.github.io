@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-FZ7GnnBP6KxmsNeclUDce0Rsmw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71279979/akrales_171025_2091_0013.0.jpg' width='700px' /><br/>
-Denuvo, an anti-cheat and DRM (digital rights management) software that has become synonymous with performance issues, is coming to Nintendo Switch games in an attempt to block users from emulating games on PC. The service claims the new software has “no impact on the gaming experience.”
-<a href='https://www.theverge.com/2022/8/24/23319847/nintendo-switch-denuvo-drm-anti-cheat-software-emulated-games-pc'> Source <a/>

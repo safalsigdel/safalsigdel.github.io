@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kQyhh0FZqcQQh6O4NsZv0G0YtYQ=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/71283121/B08_Walamrt_InHome_Closing_Garage.0.jpg' width='700px' /><br/>
+Walmart is expanding its Walmart Plus InHome program, adding Chamberlain's myQ smart garage door controller technology to its list of in-home / in-garage delivery partners. Starting in September, Walmart Plus InHome delivery customers can have their groceries securely delivered into their garage if they have a myQ smart garage door controller. And if they don't have one, the company will install one for free.
+<a href='https://www.theverge.com/2022/8/25/23318691/walmart-in-home-delivery-myq-garage-door-openers'> Source <a/>

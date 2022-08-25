@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UZwGagy0NvwmQk4kfkqjNCaZIZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71280004/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook removed a Planned Parenthood of Michigan post that shared resources for medication abortions earlier this month, as first reported by the Michigan Advance.
-<a href='https://www.theverge.com/2022/8/24/23319916/facebook-planned-parenthood-abortion-pill-post-removal-roe-v-wade-moderation'> Source <a/>

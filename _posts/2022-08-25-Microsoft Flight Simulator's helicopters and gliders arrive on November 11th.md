@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6VMcNpi8ZXmTBgxjRPM1CixeT4Y=/0x0:1776x999/1200x0/filters:focal(0x0:1776x999):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23970007/MSFS_40th_Anniversary_Screenshots05_3769b2ce579f3a3217a8.jpg' width='700px' /><br/>
+Microsoft is adding helicopters and gliders to Microsoft Flight Simulator on November 11th. The 40th Anniversary Edition of the game will be available free to existing owners or Xbox Game Pass members and includes helicopters and gliders for the first time since 2006.
+<a href='https://www.theverge.com/2022/8/25/23321422/microsoft-flight-simulator-helicopters-gliders-40th-anniversary-edition'> Source <a/>

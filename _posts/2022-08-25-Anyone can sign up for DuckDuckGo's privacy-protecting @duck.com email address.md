@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o88W11Cc_Cl4XahbI5Wt_rvKZyM=/0x0:1600x900/1200x800/filters:focal(685x399:941x655)/cdn.vox-cdn.com/uploads/chorus_image/image/71282880/duckduckgo_email_protection.0.jpeg' width='700px' /><br/>
+After rolling out its Email Protection service in private beta last year, DuckDuckGo has announced that it's finally available to all users. Email Protection is a forwarding service that assigns you a free “@duck.com” email address and intercepts email trackers before they hit your personal inbox.
+<a href='https://www.theverge.com/2022/8/25/23318759/duckduckgo-email-protection-service-available-everyone-open-beta'> Source <a/>
