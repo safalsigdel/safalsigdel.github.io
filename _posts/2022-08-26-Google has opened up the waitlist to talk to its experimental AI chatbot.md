@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ezWPGo6fEK2cHmw3DaM_XOY1DGU=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/71284119/TestKitchen_still.0.png' width='700px' /><br/>
-Earlier this year, Google unveiled AI Test Kitchen — an Android app that lets users talk to one of its most advanced AI chatbots, LaMDA 2. Today, the company is opening up registrations for early access. You can sign up here, and Google says it will soon be letting people download the app and start chatting. (Though it's limited to US users right now.)
-<a href='https://www.theverge.com/2022/8/25/23321718/google-ai-chatbot-lamda-2-test-kitchen-experimental-waitlist'> Source <a/>
