@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QWzjKxzBQYW_pnyug9a1eQeq6XM=/0x0:1352x1151/1200x800/filters:focal(551x733:767x949)/cdn.vox-cdn.com/uploads/chorus_image/image/71288493/81DQDAK9SJL._AC_SL1500_.0.jpg' width='700px' /><br/>
+Signify looks set to release a stunning new line of light bulbs for its Philips Hue brand, as the company continues to innovate its LED-based smart lighting line. The new Lightguide line features oversized, dimmable smart bulbs that come in three shapes and are designed for open lighting fixtures. These look like they could add some seriously stylish mood lighting to any setup.
+<a href='https://www.theverge.com/23323232/philips-hue-lightguide-smart-led-bulbs-new-pricing-availability'> Source <a/>

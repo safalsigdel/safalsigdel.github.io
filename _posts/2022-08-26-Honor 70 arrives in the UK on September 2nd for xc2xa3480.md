@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1a9HBpvFfIZ8xClKFPM_6Dl4R-o=/0x0:2040x1360/1200x800/filters:focal(1181x397:1507x723)/cdn.vox-cdn.com/uploads/chorus_image/image/71284954/226159_HONOR_70_PHO_jporter_0003.0.jpg' width='700px' /><br/>
-A little under three months after it was first announced in China, Honor has launched its midrange Honor 70 smartphone in the UK. The phone is set to start at xc2xa3480 for 8GB of RAM and 128GB of storage, rising to xc2xa3530 for 256GB of storage. Both versions will go on general sale on September 2nd, with preorders opening tomorrow. Stay tuned for our full review next week.
-<a href='https://www.theverge.com/2022/8/25/23321302/honor-70-uk-release-date-price-specs-details-cameras-solo-cut-mode'> Source <a/>
