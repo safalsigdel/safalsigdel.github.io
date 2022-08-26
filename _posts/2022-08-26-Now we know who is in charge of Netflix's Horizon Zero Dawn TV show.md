@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z1lSffonFGjyec-CbwhyHTWLdfs=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/71284144/horizon_zero_dawn_screen_07_ps4.0.jpeg' width='700px' /><br/>
-We may have just learned that The Umbrella Academy's next season will be its last, but we also now know that showrunner Steve Blackman will be developing Netflix's series based on the PlayStation game Horizon Zero Dawn. Blackman's involvement in the upcoming show — and his new multiyear deal with Netflix that also includes developing the sci-fi show Orbital — was reported by Deadline on Thursday.
-<a href='https://www.theverge.com/2022/8/25/23321655/horizon-zero-dawn-netflix-tv-show-series-steve-blackman'> Source <a/>
