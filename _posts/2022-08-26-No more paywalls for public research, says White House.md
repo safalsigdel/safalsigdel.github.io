@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-e7kXL710yaY52-j71nkjvrVQ5c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71287969/Beakers-science-stock-Dec2015-verge-11.0.0.jpg' width='700px' /><br/>
+The White House has instructed federal agencies to make publicly funded research freely available immediately after publication, ending a loophole that let journals put it behind a paywall for a year. The updated guidance will take effect by the end of 2025, and it expands rules first announced in 2013 but criticized as insufficient by President Joe Biden.
+<a href='https://www.theverge.com/2022/8/26/23322194/white-house-ostp-open-access-federal-research-policy-update'> Source <a/>
