@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/McnOME_fJlkDibxkTTM1nxmXPJA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71283166/acastro_STK465.0.jpg' width='700px' /><br/>
-MoviePass is back, kind of. Starting today, you can sign up to be on a waitlist to become a MoviePass subscriber, and if you want to, you should move quickly since the waitlist will only be open for five days. The new MoviePass is scheduled to launch around Labor Day, and its first users will be those at the top of the waitlist.
-<a href='https://www.theverge.com/2022/8/25/23317932/moviepass-waitlist-price-movie-subscription'> Source <a/>

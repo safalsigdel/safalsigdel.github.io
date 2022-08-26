@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qlr5pQvrOVYRaBQo9t1aDgt2LbI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71286044/vpavic_220210_5030_0090.0.jpg' width='700px' /><br/>
+On Thursday, Valve released a digital “booklet” all about the Steam Deck, Steam, and the company itself. Valve says it released the book ahead of the Steam Deck's launch in Japan, South Korea, Taiwan, and Hong Kong, but the book also happens to arrive on the six-month anniversary of when Valve sent the first order emails allowing people to buy their Steam Deck.
+<a href='https://www.theverge.com/2022/8/25/23322516/valve-steam-deck-long-term-vision-digital-book-ebook-booklet'> Source <a/>

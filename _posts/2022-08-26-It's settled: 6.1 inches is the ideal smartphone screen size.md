@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P2Pjqn1mvobrPJRNeDTG61azBeI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71285488/vpavic_220708_5335_0076.0.jpg' width='700px' /><br/>
+I come to you today with good and bad news. The bad news is that small phones are dead. Apple is all but certainly killing off the iPhone Mini this year, and the smallest Android phone I've used all year is the 5.9-inch Asus Zenfone 9 — quite a bit larger than the 5.4-inch Mini. But that's what passes for “small” now.
+<a href='https://www.theverge.com/2022/8/25/23321978/iphone-14-pixel-6a-phone-screen-size-6-1-inches'> Source <a/>

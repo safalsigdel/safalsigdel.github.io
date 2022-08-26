@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uM_pAs69Dqw2QpO2eoHdDlFAhkc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71285564/vpavic_210916_untitled_0004.0.jpg' width='700px' /><br/>
+Apple is rumored to ditch the notch in the iPhone 14 Pro and Pro Max in favor of a pill-shaped cutout and a spot for the selfie cam, and the US Patent and Trademark Office (USPTO) has published a patent application that seems to show how the company could do that, according to Patently Apple (via 9to5Mac).
+<a href='https://www.theverge.com/2022/8/25/23322166/apple-iphone-14-pro-notch-patent-leaks'> Source <a/>

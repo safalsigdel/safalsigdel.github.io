@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sNJUL-BAFz9aLAplnC9T_JOnIV8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71281673/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
-I've been using the Steam iOS app quite a bit since getting a Steam Deck, but every time I opened the app, I had to deal with an interface that just felt old — the overall design hadn't been updated in a very long time. It seems Valve felt that way, too, because it's now beta testing a new version of the app that looks dramatically different and, if you ask me, dramatically better.
-<a href='https://www.theverge.com/2022/8/24/23320795/valve-steam-mobile-app-new-redesign-ios-android-beta'> Source <a/>

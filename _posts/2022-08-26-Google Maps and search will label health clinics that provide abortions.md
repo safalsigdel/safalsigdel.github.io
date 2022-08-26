@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IhmulWfNboEGH_t8NKKtwfU8hjg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71285009/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+Google Maps and Search will now explicitly label healthcare facilities that provide abortion services, TechCrunch reported. It's another change made in the aftermath of the Supreme Court decision to overturn Roe v. Wade and end federal protection for abortion.
+<a href='https://www.theverge.com/2022/8/25/23322025/abortion-providers-google-search-maps-label'> Source <a/>

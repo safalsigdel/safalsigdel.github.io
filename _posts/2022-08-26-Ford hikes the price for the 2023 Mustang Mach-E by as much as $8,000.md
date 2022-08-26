@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fEzpehq3QdK29IZDYf68N7i2ZAg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71285025/sokane_210125_4386_0012.0.jpg' width='700px' /><br/>
+Ford is raising the price of the 2023 Mustang Mach-E a few weeks after doing the same to its other major EV, the F-150 Lightning.
+<a href='https://www.theverge.com/2022/8/25/23322086/ford-mustang-mach-e-price-increase-2023'> Source <a/>

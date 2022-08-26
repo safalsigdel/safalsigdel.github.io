@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UsKFcDKt8Cp3G5pzPk7tYV9Sr8Q=/0x0:768x432/1200x800/filters:focal(323x155:445x277)/cdn.vox-cdn.com/uploads/chorus_image/image/71284948/screen9__RZ6feGre.0.jpeg' width='700px' /><br/>
+Nintendo just shared a detailed look at Harvestella, the upcoming farming sim / RPG from Square Enix, in its latest Treehouse Live presentation, and after watching the video, the game is now one of my most anticipated titles of the year.
+<a href='https://www.theverge.com/2022/8/25/23322036/harvestella-nintendo-treehouse-live-square-enix-rpg-stardew-valley'> Source <a/>

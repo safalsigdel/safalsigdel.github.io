@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RcsDEAoJylerovPUjsPZ16nPlbA=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/71284470/1229667718.0.jpg' width='700px' /><br/>
+It was only last year that Amazon's CEO, Andy Jassy, called Amazon Care one of the most exciting innovations at the company. But on Wednesday, employees learned that Amazon Care would shut down at the end of the year, an abrupt end to a program once central to its plans to reshape healthcare.
+<a href='https://www.theverge.com/2022/8/25/23321851/amazon-care-tech-health-google-apple'> Source <a/>

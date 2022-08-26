@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UwdPRdOYgUOi_arFCnkTum694Bg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71280790/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
-If you live in the US, chances are you've at least heard of WhatsApp, the messaging app that Meta acquired in 2014.
-<a href='https://www.theverge.com/23320306/whatsapp-india-messaging-business-privacy-land-of-the-giants'> Source <a/>

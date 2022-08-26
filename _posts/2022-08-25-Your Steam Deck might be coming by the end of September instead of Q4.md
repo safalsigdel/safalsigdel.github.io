@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ntt-OnVP7njJqDnhUDfvm_uHI-Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71280981/vpavic_220210_5030_0096.0.jpg' width='700px' /><br/>
-Not only are you getting your Steam Deck by the end of the year, but you might also see your long-awaited handheld gaming PC even sooner than that — Valve has just announced that “a bunch of folks” should see their reservations moved up to Q3 instead of Q4, meaning they'll get emailed an opportunity to purchase the $400-plus portable by the end of September, if not sooner.
-<a href='https://www.theverge.com/2022/8/24/23316748/steam-deck-shipping-production-reservation-q3-q4'> Source <a/>

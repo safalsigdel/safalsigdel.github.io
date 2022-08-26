@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JAh-bJO0P2RCa2AoS3CCKnvlwhg=/0x0:2040x1360/1200x675/filters:focal(883x690:1209x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/71283158/226168_DJI_AVATA__GOGGLES_2_PHO_shollister0013.0.jpg' width='700px' /><br/>
-The DJI Avata is something special. I knew it the very first time I flew.
-<a href='https://www.theverge.com/2022/8/25/23311957/dji-avata-fpv-drone-goggles-2-price-release-date-preview'> Source <a/>

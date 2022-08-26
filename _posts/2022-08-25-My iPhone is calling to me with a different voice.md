@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Apple's upcoming iOS 16 update brings with it a lot of new features — things like the ability to customize your Lock Screen, edit iMessages, or copy written text from a video. But Apple's also made an under-the-radar change to some of the iPhone's sounds, which some of us here at The Verge noticed while using the betas.
-<a href='https://www.theverge.com/tldr/2022/8/24/23320873/iphone-ios-16-find-my-alert-sounds-changed-siri-carplay'> Source <a/>

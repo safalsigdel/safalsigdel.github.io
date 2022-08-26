@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/atVbpf-8TaK3RSbG5Rmymz-Rb0M=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71284586/acastro_STK050_04.5.jpg' width='700px' /><br/>
+Twitter is officially getting into podcasts. The app will launch a test version of Twitter Spaces today that includes podcasts, letting you listen to full shows through curated playlists based on your interests.
+<a href='https://www.theverge.com/2022/8/25/23321940/twitter-podcast-spaces-spotify-apple'> Source <a/>

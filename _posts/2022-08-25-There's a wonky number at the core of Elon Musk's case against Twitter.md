@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IvHFj7D5xH246sVIUpq0-FXdgxQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71280893/VRG_Illo_STK022_K_Radtke_Musk_Scales_2.0.jpg' width='700px' /><br/>
-Listening to the lawyers representing Elon Musk and Twitter argue over which documents need to be provided as part of legal discovery today, I began to wonder if it is possible to measure anything at all.
-<a href='https://www.theverge.com/2022/8/24/23320461/twitter-mdau-mudge-zatko-elon-musk-discovery'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NXGv-rnvv5-ZcvZXmW5XHsEMssc=/0x0:2263x1270/1200x800/filters:focal(951x454:1313x816)/cdn.vox-cdn.com/uploads/chorus_image/image/71283335/Screenshot_2022_08_24_at_15.0.jpg' width='700px' /><br/>
-Radio juggernaut iHeartMedia is launching its own dedicated space in Fortnite to host events and concerts. The virtual park, which has been given the rather obnoxious name of iHeartLand, is being developed using the game's creative mode and will feature several different areas.
-<a href='https://www.theverge.com/2022/8/25/23321395/fortnite-charlie-puth-metaverse-concert-iheartland'> Source <a/>

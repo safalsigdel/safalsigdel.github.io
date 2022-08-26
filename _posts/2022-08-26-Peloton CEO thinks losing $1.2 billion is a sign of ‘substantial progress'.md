@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dPLFdvUNueUgSuz_Vuml2tEZgVk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71284698/akrales210108_4344_0020.0.jpg' width='700px' /><br/>
+Peloton's numbers don't look great. In its Q4 2022 earnings release this morning, the company reported a $1.2 billion operating loss, a 28 percent revenue drop, a membership decline, and a monthly subscriber churn exceeding 1 percent for the first time in a long while. (Perhaps ever?) And that's just the tip of the iceberg. In a nutshell, losses were greater than both Peloton and investors had anticipated.
+<a href='https://www.theverge.com/2022/8/25/23321488/peloton-q4-earnings-barry-mccarthy-fitness'> Source <a/>

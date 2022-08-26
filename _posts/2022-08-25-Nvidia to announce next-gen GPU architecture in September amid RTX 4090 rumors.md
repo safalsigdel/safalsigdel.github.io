@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zqtvT3G5pXbM-KQ0ll1gSyTXTLA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71282612/DSC00697.0.jpg' width='700px' /><br/>
-Nvidia is getting ready to announce its next-gen GPU architecture, codenamed Lovelace. Ampere is the current GPU architecture that powers Nvidia's RTX 30-series GPUs, after Turing debuted with the first RTX cards in 2018. Nvidia is now expected to detail its Lovelace GPU architecture at GTC 2022 in September, with CEO Jensen Huang hinting at an announce during the company's recent earnings call.
-<a href='https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022'> Source <a/>

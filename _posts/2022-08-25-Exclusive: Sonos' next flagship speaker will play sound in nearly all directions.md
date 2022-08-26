@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8sBWfTKnq_iXM70qMxAxvgWSBKA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71280734/acastro_226171_0001.0.jpg' width='700px' /><br/>
-After spending 2022 focused on midrange products like the Ray and the rollout of its own voice service, Sonos is about to shift its attention back to upscale devices. Aside from the upcoming, delayed Sub Mini, the company is also at work on a completely new high-end speaker codenamed Optimo 2.
-<a href='https://www.theverge.com/2022/8/24/23319989/sonos-optimo-speaker-features-design'> Source <a/>

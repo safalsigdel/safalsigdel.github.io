@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sULQDu1O0yKqxC1DkKv6B_NJXgM=/0x0:5123x3415/1200x800/filters:focal(2153x1299:2971x2117)/cdn.vox-cdn.com/uploads/chorus_image/image/71281714/1240134539.0.jpg' width='700px' /><br/>
-Wordle is now available in The New York Times Crossword app for both iOS and Android users. The addictive guessing game joins both The New York Times Crossword variants, Spelling Bee, and more. Users can also continue to play the game on their desktop and through the mobile website.
-<a href='https://www.theverge.com/2022/8/24/23320567/wordle-word-game-new-york-times-crossword-app'> Source <a/>

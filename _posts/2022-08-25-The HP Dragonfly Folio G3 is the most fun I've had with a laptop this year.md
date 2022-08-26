@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TILkUSSaQB9X0YBqaOLLVzsyVHM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71282888/226152_DRAGONFLY_G3_FOLIO_PHO_mchin_0005.0.jpg' width='700px' /><br/>
-Listen. Is a $2,379 folio-style laptop an impractical and illogical purchase for most people? Yes. But is it a heck of a lot of fun to use while coveting a more luxurious life? Also yes.
-<a href='https://www.theverge.com/23319245/hp-dragonfly-folio-g3-convertible-business-laptop-mic-specs-price'> Source <a/>

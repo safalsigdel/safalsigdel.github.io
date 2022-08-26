@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RYqfUp12J7NZ6grEzFRQlJLwkSM=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/71282740/1242701025.0.jpg' width='700px' /><br/>
-Twitter's former security chief Peiter “Mudge” Zatko will testify in Congress next month after he went public with damning allegations about the social media company's security practices and attempts to mislead regulators, the Washington Post reports. Zatko is scheduled to speak at a hearing on September 13th and is expected to address the privacy and national security concerns raised in his complaint.
-<a href='https://www.theverge.com/2022/8/25/23321341/twitter-peiter-mudge-zatko-congress-testify-whistleblower-security'> Source <a/>

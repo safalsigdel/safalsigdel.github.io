@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v-X5y9kG-Cp_ogPyCwnxnxEVL74=/0x0:1160x595/1200x0/filters:focal(0x0:1160x595):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23971937/t_mobile_spacex.jpg' width='700px' /><br/>
+T-Mobile says it's getting rid of mobile dead zones thanks to a new partnership with SpaceX's Starlink satellite internet, at an event hosted by T-Mobile CEO Mike Sievert and Elon Musk. With their “Coverage Above and Beyond” setup, mobile phones could connect to satellites and use a slice of a connection providing around 2 to 4 Megabits per second connection (total) across a given coverage area.
+<a href='https://www.theverge.com/2022/8/25/23320722/spacex-starlink-t-mobile-satellite-internet-mobile-messaging'> Source <a/>
