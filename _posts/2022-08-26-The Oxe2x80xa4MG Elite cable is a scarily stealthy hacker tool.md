@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F4cM_7PeYZ3vKQCo4J33d1ESFkE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71284176/acastro_226156_omgCable_0001.0.jpg' width='700px' /><br/>
-I didn't think I would be scared of a USB cable until I went to Def Con. But that's where I first learned about the O.MG Cable. Released at the notorious hacker conference, the Elite cable wowed me with a combination of technical prowess and its extremely stealth design.
-<a href='https://www.theverge.com/23321517/omg-elite-cable-hacker-tool-review-defcon'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RjAiUbPvYLL_icIiqPrtH3tHrg0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71287654/ahawkins_220221_5115_0007.0.jpg' width='700px' /><br/>
+The auto industry is still processing the new and confusing electric vehicle credits signed into law by President Joe Biden as part of the Inflation Reduction Act of 2022. Foreign automakers, in particular, are scrambling to find some loophole through the new rules that would seem to disqualify the vast majority of their EV fleets, while others are speeding up plans to build new factories in the US.
+<a href='https://www.theverge.com/2022/8/26/23323115/ev-tax-credit-foreign-automaker-hyundai-wto-discriminate'> Source <a/>

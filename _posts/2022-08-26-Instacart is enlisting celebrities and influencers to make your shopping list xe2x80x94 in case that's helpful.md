@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v0lEg-EOJp2JbUPOMK3B7dTRZf4=/0x0:2400x1200/1200x800/filters:focal(1008x408:1392x792)/cdn.vox-cdn.com/uploads/chorus_image/image/71284505/4._Cart_Product_Imagery.0.png' width='700px' /><br/>
-Instacart customers who know they need sustenance but don't know what to buy will soon be able to browse suggestions from celebrities. Beginning today, the company is rolling out product collections curated by public figures, influencers, and retailers for customers to shop from.
-<a href='https://www.theverge.com/2022/8/25/23320625/instacart-celebrity-influencer-curated-grocery-carts-lizzo'> Source <a/>
