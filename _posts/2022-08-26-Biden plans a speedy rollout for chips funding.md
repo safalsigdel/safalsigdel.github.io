@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mII7k7MOppMwG_BlfzUMEUzzZCg=/0x0:3000x2000/1200x800/filters:focal(981x594:1461x1074)/cdn.vox-cdn.com/uploads/chorus_image/image/71284089/52259005895_45b8e2b098_o.0.jpg' width='700px' /><br/>
-President Joe Biden isn't wasting any time in rolling out the $280 billion law to boost domestic semiconductor manufacturing. On Thursday, Biden signed an executive order to get the money flowing out to companies like Intel who want to build fabrication sites in the US.
-<a href='https://www.theverge.com/2022/8/25/23321723/chips-and-science-act-semiconductor-chip-shortage-joe-biden-white-house'> Source <a/>
