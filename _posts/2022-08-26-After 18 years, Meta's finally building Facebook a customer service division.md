@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LqH5POLAz0FqqMLi59YrkPT7zAo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71284862/acastro_211101_1777_meta_0004.0.jpg' width='700px' /><br/>
-Meta is trying to make it easier for its users to get support when their accounts or posts are removed, according to a report from Bloomberg. The report quotes Brent Harris, Meta's vice president of governance, who says that the company is “spending a bunch of time on” customer service. Since Facebook's inception, people haven't really had any recourse or way to talk to the company about moderation decisions.
-<a href='https://www.theverge.com/2022/8/25/23321884/meta-customer-support-service-oversight-board'> Source <a/>
