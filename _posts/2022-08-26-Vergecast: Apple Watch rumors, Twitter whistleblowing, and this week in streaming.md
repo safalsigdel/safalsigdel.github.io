@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nYCwwSgo8MN62ZO9rtPfVC1SDhA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71288175/vpavic_211006_4796_0029.0.jpg' width='700px' /><br/>
+Every Wednesday and Friday, The Verge publishes our flagship podcast, The Vergecast, where our editors make sense of the week's most important technology news. On Fridays, Verge editor-in-chief Nilay Patel, editor-at-large David Pierce, and managing editor Alex Cranz discuss the week in tech news with the reporters and editors covering the biggest stories.
+<a href='https://www.theverge.com/2022/8/26/23323242/apple-far-out-event-sports-watch-rumors-vergecast-podcast'> Source <a/>
