@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/56GZQbGakUJNsqc6Cgr6Eo8ydBc=/0x0:5000x3337/1200x800/filters:focal(2100x1269:2900x2069)/cdn.vox-cdn.com/uploads/chorus_image/image/71287327/1237571730.0.jpg' width='700px' /><br/>
 Moderna is suing Pfizer and BioNTech over alleged infringement of its mRNA vaccine technology patents, the company announced today.
-<a href='https://www.theverge.com/2022/8/26/23323082/moderna-lawsuit-pfizer-mrna-vaccine-patent'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/56GZQbGakUJNsqc6Cgr6Eo8ydBc=/0x0:5000x3337/1200x800/filters:focal(2100x1269:2900x2069)/cdn.vox-cdn.com/uploads/chorus_image/image/71287327/1237571730.0.jpg' width='700px' /><br/>
-Moderna is suing Pfizer and BioNTech over alleged infringement of its mRNA vaccine technology patents, the company announced today.
 <a href='https://www.theverge.com/2022/8/26/23323082/moderna-lawsuit-pfizer-mrna-vaccine-patent'> Source <a/>
