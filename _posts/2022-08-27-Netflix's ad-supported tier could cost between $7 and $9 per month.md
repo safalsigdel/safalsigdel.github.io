@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MzbVLsCcnRrE81uzJlo1oTqetlg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71290342/acastro_STK072_04.0.jpg' width='700px' /><br/>
+Netflix's forthcoming ad-supported tier may cost between $7 and $9 per month, according to a report from Bloomberg. Depending on which plan you currently pay for, that could be a significant savings; the company currently offers plans at $9.99, $15.49, and $19.99 per month.
+<a href='https://www.theverge.com/2022/8/26/23324142/netflix-is-getting-ads-price-streaming-tv-movies'> Source <a/>

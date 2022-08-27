@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rK5W5z6bj2fy5SbpJOI-UHev8lM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71291875/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
+A leak of potential branding for Microsoft's upcoming Xbox Game Pass family subscription suggests you'll be able to share a subscription with friends, too. Microsoft started testing its Xbox Game Pass family plan in Ireland and Colombia earlier this month, and now Twitter leaker Aggiornamenti Lumia has spotted “Game Pass Friends & Family” branding.
+<a href='https://www.theverge.com/2022/8/27/23324623/microsoft-xbox-game-pass-friends-family-subscription-leak'> Source <a/>

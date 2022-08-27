@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6txx6B11qjQdzYj4ceV_57uBhvw=/0x0:776x517/1200x800/filters:focal(326x197:450x321)/cdn.vox-cdn.com/uploads/chorus_image/image/71291769/netflix_gamertag_test.0.jpg' width='700px' /><br/>
+Netflix is testing gamertag-style handles that users can create and publicly display when playing its selection of mobile games, as first spotted by mobile developer Steve Moser (via TechCrunch). This should let members identify and invite other users to play games based on their handles, as well as see where they rank on leaderboards.
+<a href='https://www.theverge.com/2022/8/27/23324515/netflix-gamertags-game-handles-mobile-gaming-community'> Source <a/>
