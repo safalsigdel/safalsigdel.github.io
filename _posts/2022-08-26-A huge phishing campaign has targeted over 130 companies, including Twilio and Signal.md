@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rybXY4aEB90uZNFVIio_vXgbXtk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71287300/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
-Over 130 organizations, including Twilio, DoorDash, and Signal, have been potentially compromised by hackers as part of a months-long phishing campaign nicknamed “0ktapus” by security researchers. Login credentials belonging to nearly 10,000 individuals were stolen by attackers who imitated the popular single sign-on service Okta, according to a report from cybersecurity outfit Group-IB.
-<a href='https://www.theverge.com/2022/8/26/23323036/phishing-scam-campaign-twilio-hack-companies'> Source <a/>

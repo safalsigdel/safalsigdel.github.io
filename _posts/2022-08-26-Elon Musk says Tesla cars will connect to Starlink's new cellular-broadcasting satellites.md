@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u8RubzLy3vlxSd_Jsj-Qki6aTiE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71286315/lgrush_220407_5139_0027.0.jpg' width='700px' /><br/>
-Elon Musk just announced that the upcoming second-generation Starlink internet satellites include cellular antennas for connections with phones from T-Mobile in the US and potentially other operators as well.
-<a href='https://www.theverge.com/2022/8/25/23322757/tesla-connectivity-lte-5g-starlink-t-mobile'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P5DAD_2dCFHiyTN--xVXHDdOvR8=/0x0:2578x1624/1200x800/filters:focal(1083x606:1495x1018)/cdn.vox-cdn.com/uploads/chorus_image/image/71286647/Math_App_Lesson_Still.0.png' width='700px' /><br/>
-Yes, you read that headline correctly. Duolingo, the language learning app famous for the owl that haunts my dreams every night, now has a companion app to teach you (and children — but mostly you, reader) mathematics.
-<a href='https://www.theverge.com/2022/8/26/23319398/duolingo-math-app-beta-launch-duocon-2022'> Source <a/>

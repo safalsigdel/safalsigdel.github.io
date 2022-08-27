@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gJa3Deh9d7pIZo41rBWuETdkpME=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71285115/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-Meta CEO Mark Zuckerberg has confirmed that Meta's next virtual reality headset will arrive in October. Zuckerberg made the comments on Joe Rogan's podcast, indicating the device — almost certainly the headset codenamed “Project Cambria” — will likely launch around the company's annual Connect event.
-<a href='https://www.theverge.com/2022/8/25/23322159/mark-zuckerberg-joe-rogan-meta-quest-cambria-headset-launch-date-october'> Source <a/>
