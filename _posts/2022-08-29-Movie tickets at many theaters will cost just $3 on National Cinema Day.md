@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/prpaTxpqASiREig6jg86T_kRmwg=/0x0:6048x4024/1200x800/filters:focal(2541x1529:3507x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/71295366/1306214956.0.jpg' width='700px' /><br/>
+Movie tickets across the US will cost just $3 on Saturday, September 3rd in celebration of National Cinema Day (via Associated Press). If you've never heard of such a holiday before (at least in the US), that's because it never existed until now, apparently.
+<a href='https://www.theverge.com/2022/8/28/23325916/tickets-movie-theaters-cost-3-dollars-national-cinema-day'> Source <a/>

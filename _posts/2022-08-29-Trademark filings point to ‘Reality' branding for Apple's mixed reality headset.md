@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BJ4jikZT2rtZgmrpgNdIHhectbI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71295184/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Trademark filings spotted by Bloomberg suggest Apple might incorporate “Reality” in the name and branding of its long-rumored mixed reality headset. Three separate filings show trademarks for “Reality One,” “Reality Pro,” and “Reality Processor,” matching the realityOS name that cropped up in Apple's code and a trademark application that potentially refers to the headset's operating system.
+<a href='https://www.theverge.com/2022/8/28/23326041/apple-trademark-filings-reality-branding-virtual-ar-vr-mixed-headset'> Source <a/>

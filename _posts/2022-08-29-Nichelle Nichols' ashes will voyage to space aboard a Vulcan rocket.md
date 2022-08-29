@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dRudYCjCzgyutr6ZZBJNp1Uo8lU=/0x0:3000x2282/1200x800/filters:focal(788x791:1268x1271)/cdn.vox-cdn.com/uploads/chorus_image/image/71294458/490925648.0.jpg' width='700px' /><br/>
+The ashes of Nichelle Nichols, the actress who played Lieutenant Nyota Uhura in the original Star Trek, will get sent into deep space on a rocket that memorializes her and several other Star Trek veterans (via Reuters). Nichols' son, Kyle Johnson, donated her ashes after she died in July at age 89.
+<a href='https://www.theverge.com/2022/8/28/23325680/nichelle-nichols-star-trek-ashes-space-vulcan-centaur-celestis'> Source <a/>

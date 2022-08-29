@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/REqTRD9zZHKUQKIPHF5EgSfnSXE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71294148/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+As Google carries out the needlessly complex process of combining both the Meet and Duo apps, now it's throwing a feature copied from Zoom in the mix. In an update on the Google Workspace blog, the company announced that Google Meet will soon give you the ability to unmute yourself by holding down the spacebar and to mute yourself again by releasing it.
+<a href='https://www.theverge.com/2022/8/28/23325575/google-meet-stealing-zoom-trick-easily-unmute-push-to-talk'> Source <a/>

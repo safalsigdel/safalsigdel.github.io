@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PbBeZUJizlKfN36VthTfK80PCRg=/0x0:3840x3840/1200x800/filters:focal(1806x507:2420x1121)/cdn.vox-cdn.com/uploads/chorus_image/image/69747142/missionworkshop2.0.jpeg' width='700px' /><br/>
+In August 2021, we asked the staff of The Verge to tell us about their go-to laptop bags. Now, a year later, some are still using the same bags — but not all.
+<a href='https://www.theverge.com/22630435/laptop-bag-messenger-backpack-tote-favorite'> Source <a/>
