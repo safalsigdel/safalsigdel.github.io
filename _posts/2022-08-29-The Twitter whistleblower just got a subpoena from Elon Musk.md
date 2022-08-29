@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GSMOr5t5sPI82eXEAFe3u-1qbCI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71297649/VRG_Illo_STK022_K_Radtke_Musk_Bolts.0.jpg' width='700px' /><br/>
+Peiter “Mudge” Zatko, the former Twitter security chief whose explosive disclosures alleged serious security flaws and misleading practices within the company, has received a subpoena to appear for a deposition in the ongoing lawsuit between Twitter and Elon Musk.
+<a href='https://www.theverge.com/2022/8/29/23327036/elon-musk-zatko-mudge-subpoena-twitter-trial-documents-bots'> Source <a/>

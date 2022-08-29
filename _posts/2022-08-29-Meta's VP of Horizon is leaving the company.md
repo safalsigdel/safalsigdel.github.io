@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5wGwH39-AjMw2FvFXXZjGSZO1B4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71290016/acastro_211101_1777_meta_0003.0.jpg' width='700px' /><br/>
-Meta's Vivek Sharma, the company's VP of its Horizon social VR platform, is leaving the company, as reported by Reuters. Meta spokesperson Bryan Pope confirmed Sharma's departure to The Verge and said that Sharma is leaving to pursue an unrelated career opportunity.
-<a href='https://www.theverge.com/2022/8/26/23323975/meta-vp-horizon-social-vr-vivek-sharma-leaving'> Source <a/>

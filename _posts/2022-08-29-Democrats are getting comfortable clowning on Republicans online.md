@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Uf-4t2LGxgyQFuCVqaACEwq-gZY=/0x0:2000x1000/1200x800/filters:focal(840x340:1160x660)/cdn.vox-cdn.com/uploads/chorus_image/image/71289080/FZlSG30XEAI1nJa.0.jpeg' width='700px' /><br/>
-There's only a few weeks until the midterms, and President Joe Biden is starting beef on Twitter.
-<a href='https://www.theverge.com/2022/8/26/23323665/joe-biden-dark-brandon-student-loan-forgiveness-republicans-midterm-elections'> Source <a/>

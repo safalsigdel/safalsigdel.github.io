@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p10t2t895I1bE9dxU0xbeAah5AE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71289232/acastro_170731_1777_0006_v5.0.jpg' width='700px' /><br/>
-So far, the biggest tech antitrust cases have focused on Facebook and Google — but Apple may soon be joining the pack. Politico is reporting that the Department of Justice is in the early stages of drafting an antitrust case against Apple, alleging that the company “abused its market power to stifle smaller tech companies, including app developers and competing hardware makers.”
-<a href='https://www.theverge.com/2022/8/26/23323631/apple-antitrust-lawsuit-department-of-justice-case'> Source <a/>

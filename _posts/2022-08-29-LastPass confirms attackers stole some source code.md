@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FFlmyhEl8PzzCNybgdISGmMqENw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71289732/akrales_220309_4977_0232.0.jpg' width='700px' /><br/>
-Earlier this week, LastPass started notifying its users of a “recent security incident” where an “unauthorized party” used a compromised developer account to access parts of its password manager's source code and “some proprietary LastPass technical information.” In a letter to its users, the company's CEO Karim Toubba explains that its investigation hasn't turned up evidence that any user data or encrypted passwords were accessed.
-<a href='https://www.theverge.com/2022/8/26/23323738/lastpass-security-incident-source-code'> Source <a/>
