@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KE6qDCytY9IqeyRdyHfaf6vTGr8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71298668/vpavic_210916_4760_0323.0.jpg' width='700px' /><br/>
-As Apple's iPhone 14 event gets closer, rumors continue to swirl around the phone's potential ability to provide emergency communications via a satellite network. On Monday, noted analyst Ming-Chi Kuo said that Apple had “completed hardware tests for this feature” with the iPhone 14, but it would have to negotiate a business model with carriers if it wants to include it.
-<a href='https://www.theverge.com/2022/8/29/23327158/iphone-14-satellite-capabilities-carrier-agreement-negotiations'> Source <a/>
