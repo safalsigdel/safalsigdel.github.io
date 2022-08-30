@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jNV2vU6Tai_1vVWoy7UGJjy8Rwk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71297731/npatel_220626_5328_0049.0.jpg' width='700px' /><br/>
-Ford's future electric lineup is coming more into focus. (No, not that Focus.)
-<a href='https://www.theverge.com/2022/8/29/23326940/ford-mystery-electric-truck-ev-2025'> Source <a/>

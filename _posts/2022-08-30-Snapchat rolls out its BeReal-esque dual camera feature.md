@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/swydjAfc8XBUPMPU0N7sCtC7RS0=/0x0:1920x1080/1200x800/filters:focal(546x353:852x659)/cdn.vox-cdn.com/uploads/chorus_image/image/71297630/Dual_Cam.0.png' width='700px' /><br/>
-Snapchat is adding a new feature to its main camera, allowing users to capture photo and video using the front- and back-facing cameras on their phones at the same time.
-<a href='https://www.theverge.com/2022/8/29/23326795/snapchat-dual-camera-mode-bereal'> Source <a/>

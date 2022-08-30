@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DznFW6EtV86_n8KIX0cmRT0bo-c=/0x0:2040x1362/1200x800/filters:focal(883x574:1209x900)/cdn.vox-cdn.com/uploads/chorus_image/image/71301562/sonyhta3000.0.jpg' width='700px' /><br/>
+Sony's rounding out its A-series of soundbars with today's introduction of the $699 HT-A3000. It's a 3.1-channel bar with virtualized Dolby Atmos or DTS:X surround sound, and it joins the steeply priced HT-A7000 (7.1.2 channels) and mid-level HT-A5000 (5.1.2). At the very top of the lineup is the wireless, four-speaker HT-A9 system, which retails for $1,999.
+<a href='https://www.theverge.com/2022/8/30/23327989/sony-ht-a3000-soundbar-features-price'> Source <a/>
