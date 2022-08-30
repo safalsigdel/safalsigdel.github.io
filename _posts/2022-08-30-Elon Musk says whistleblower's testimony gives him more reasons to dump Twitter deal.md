@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/svc78niaVjUMpfP4PeAAgD_7guw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71300810/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.0.jpg' width='700px' /><br/>
+Elon Musk says the disclosures of Twitter's former security chief have given him new justifications to walk away from his $44 billion deal to buy the social media platform.
+<a href='https://www.theverge.com/2022/8/30/23328499/elon-musk-twitter-deal-termination-letter-whistleblower-testimony-mudge-zatko'> Source <a/>
