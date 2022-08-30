@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4qePd71tQ3EzZzyJBalDs1YF9Zw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71303162/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Upside_Down.0.jpg' width='700px' /><br/>
+After Elon Musk tried to get out of his $44 billion deal to buy Twitter and the company sued to hold him to it, his lawyers unsuccessfully tried to hold off the trial until next year, and now they're pushing for another delay. The Musk team's proposing a new timeline that would push the week-long trial's start from the currently scheduled October 17th date until some time in mid- to late-November.
+<a href='https://www.theverge.com/2022/8/30/23329134/elon-musk-twitter-lawsuit-delay-whistleblower-testimony'> Source <a/>

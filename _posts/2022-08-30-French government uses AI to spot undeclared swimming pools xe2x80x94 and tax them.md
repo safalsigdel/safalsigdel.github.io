@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TIFmO-OC9Yt2dQ4cpAlZEeoczOA=/0x0:1397x886/1200x800/filters:focal(588x332:810x554)/cdn.vox-cdn.com/uploads/chorus_image/image/71300627/1413170635.0.jpg' width='700px' /><br/>
-The French government has collected nearly xe2x82xac10 million in additional taxes after using machine learning to spot undeclared swimming pools in aerial photos. In France, housing taxes are calculated based on a property's rental value, so homeowners who don't declare swimming pools are potentially avoiding hundreds of euros in additional payments.
-<a href='https://www.theverge.com/2022/8/30/23328442/france-ai-swimming-pool-tax-aerial-photos'> Source <a/>

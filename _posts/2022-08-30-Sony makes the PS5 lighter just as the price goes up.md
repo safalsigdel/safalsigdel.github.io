@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T1AdoNRz2NZQTdZAAIY4N_PwvKY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71300633/vpavic_4278_20201030_0120.0.jpg' width='700px' /><br/>
-Sony has once again quietly launched a revised PS5 model that's more lightweight. Press Start, an Australian-based gaming site, reports that both the disc and digital versions of the PS5 are a lot lighter now, after new models began appearing in Australia this week.
-<a href='https://www.theverge.com/2022/8/30/23328484/sony-playstation-5-lighter-model-australia'> Source <a/>
