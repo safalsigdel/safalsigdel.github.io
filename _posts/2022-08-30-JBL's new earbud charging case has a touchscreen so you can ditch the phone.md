@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kl2GHalT-Jy2hnS72IS69RYuMaE=/0x0:3200x2400/1200x800/filters:focal(1344x944:1856x1456)/cdn.vox-cdn.com/uploads/chorus_image/image/71301412/JBL_Tour_Pro_2.0.jpg' width='700px' /><br/>
+JBL has just announced the Tour Pro 2 wireless earbuds, featuring adaptive noise cancellation and customizable ANC alongside a charging case with a 1.45-inch LED touchscreen control panel.
+<a href='https://www.theverge.com/2022/8/30/23328582/jbl-touchscreen-tour-pro-2-charging-case-one-m2-features'> Source <a/>
