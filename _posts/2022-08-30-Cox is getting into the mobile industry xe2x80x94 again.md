@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HP331Dtz5y8fmu_X_Ennvb9BqPQ=/0x0:640x480/1200x800/filters:focal(269x189:371x291)/cdn.vox-cdn.com/uploads/chorus_image/image/71303024/Coxtruck3.0.jpg' width='700px' /><br/>
+Cox announced on Monday that it is launching a pilot for Cox Mobile that will be available to Cox's internet customers. This will be the company's second major attempt to get into the mobile industry, after its effort launched in 2010 shut down after less than two years, citing an inability to offer “iconic phones” (like Apple's iPhone, for example) along with its suite of feature phones and Android handsets.
+<a href='https://www.theverge.com/2022/8/30/23328728/cox-mobile-communications-launch'> Source <a/>
