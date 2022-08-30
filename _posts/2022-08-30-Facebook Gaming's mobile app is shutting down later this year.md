@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9S4cjyiJvcGILeeipuujYvhaI7w=/0x0:720x480/1200x800/filters:focal(303x183:417x297)/cdn.vox-cdn.com/uploads/chorus_image/image/71302221/acastro_210722_1777_facebookgaming_720.0.jpg' width='700px' /><br/>
-Facebook's Gaming app for iOS and Android is shutting down a little over two years after it launched. In a notice sent to users, Facebook says the app will no longer work or be available to download starting on October 28th, 2022.
-<a href='https://www.theverge.com/2022/8/30/23328568/facebook-gaming-mobile-app-shutting-down-october-2022'> Source <a/>

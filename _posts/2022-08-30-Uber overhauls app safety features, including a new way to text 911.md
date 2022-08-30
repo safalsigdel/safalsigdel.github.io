@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xe4XM6jUsUV7F0MdwNydQGDZ01w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71301293/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Uber is overhauling its four-year-old app safety toolkit, adding a new feature for riders to contact security company ADT during rides. The company is also expanding the availability of a feature enabling customers to text 911.
-<a href='https://www.theverge.com/2022/8/30/23327515/uber-safety-toolkit-911-text-adt-agent'> Source <a/>

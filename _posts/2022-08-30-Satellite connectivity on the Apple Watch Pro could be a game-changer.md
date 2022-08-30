@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bpTjE5exBgshmaeAEiev3vz9aTU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71302120/IMG_2990.0.jpg' width='700px' /><br/>
-If you're the type to read into Apple Event taglines, next week's “Far Out” event certainly feels... space-y. It's led Apple prognosticators to revive theories that Apple may be working on satellite features for emergency communications — both for the iPhone and perhaps the rumored Apple Watch Pro. Since the Apple Watch Pro is meant to be a Garmin competitor, satellite features could make it a real contender in the multisport GPS watch space.
-<a href='https://www.theverge.com/2022/8/30/23328650/apple-watch-pro-satellite-smartwatch-fitness'> Source <a/>
