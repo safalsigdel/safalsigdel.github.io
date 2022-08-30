@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VsYexdSQkZg8GQTCLfgq7RBOYGI=/0x0:2880x1622/1200x800/filters:focal(1210x581:1670x1041)/cdn.vox-cdn.com/uploads/chorus_image/image/71296705/Screen_Shot_2022_08_29_at_8.34.15_AM.0.png' width='700px' /><br/>
-NASA delayed the launch of its colossal next-generation Space Launch System (SLS) rocket, as an engine bleed issue forced the agency to scrub its plans.
-<a href='https://www.theverge.com/2022/8/29/23326681/nasa-artemis-sls-orion-rocket-moon-first-launch-delay-engine'> Source <a/>
