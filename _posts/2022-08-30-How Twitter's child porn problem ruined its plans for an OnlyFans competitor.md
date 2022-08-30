@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Sg5wNXna7mbckNIKu5iUuv8VADU=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71301623/226247_Twitter_Red_Team_K_Radtke_2.0.jpg' width='700px' /><br/>
+In the spring of 2022, Twitter considered making a radical change to the platform. After years of quietly allowing adult content on the service, the company would monetize it. The proposal: give adult content creators the ability to begin selling OnlyFans-style paid subscriptions, with Twitter keeping a share of the revenue.
+<a href='https://www.theverge.com/23327809/twitter-onlyfans-child-sexual-content-problem-elon-musk'> Source <a/>

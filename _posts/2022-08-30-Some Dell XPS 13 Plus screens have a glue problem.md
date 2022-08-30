@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k5o0aadf30hNmSJvPwvaf_56UzY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71302241/mchin_201020_5350_0012.0.jpg' width='700px' /><br/>
+Some early adopters of the new, beautiful, and undoubtedly polarizing Dell XPS 13 Plus have reported issues with its screen. Dell has confirmed to The Verge that it is aware of a screen issue on some OLED models of the device. The company is reaching out to impacted customers and appears to be recalling some products.
+<a href='https://www.theverge.com/2022/8/30/23328681/dell-xps-13-plus-oled-display-problems'> Source <a/>

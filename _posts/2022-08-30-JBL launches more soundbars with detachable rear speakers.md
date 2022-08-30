@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Oqrvq-0SwVuSyVqzgXjXhuaxhbw=/0x0:1605x1070/1200x800/filters:focal(675x407:931x663)/cdn.vox-cdn.com/uploads/chorus_image/image/71301397/JBL_BAR_1000_GROUP_HERO_35682_x4.0.jpeg' width='700px' /><br/>
+JBL is launching a quartet of new Atmos-capable soundbars for the fall, and two of them have battery-powered wireless rear speakers that quickly deploy for a tidy home theater setup. When not watching a movie, the speakers can be docked into the sides of the new soundbars to recharge.
+<a href='https://www.theverge.com/2022/8/30/23323398/jbl-2022-soundbar-lineup-bar-1000-800-500-300-dolby-atmos'> Source <a/>
