@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p8YPK7bN5ciEsGmbNNOtgfcNdXE=/0x0:5300x3533/1200x800/filters:focal(1822x1079:2670x1927)/cdn.vox-cdn.com/uploads/chorus_image/image/71291657/1242549824.0.jpg' width='700px' /><br/>
-NASA's massive Space Launch System (SLS) is almost ready for liftoff. This highly anticipated rocket launch has been over a decade in the making and marks NASA's return to crewed missions to the moon. This mission is called Artemis I, and while there won't be any astronauts on board during this launch, it will serve as a test for the future goal of putting the first woman and the first person of color on the Moon.
-<a href='https://www.theverge.com/2022/8/27/23318116/nasa-artemis-i-sls-megarocket-launch-orion-how-to-watch'> Source <a/>

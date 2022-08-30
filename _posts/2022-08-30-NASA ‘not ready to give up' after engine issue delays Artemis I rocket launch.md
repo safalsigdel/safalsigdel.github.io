@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lsxVsR0c_-mOTttGcSO-KBu70II=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71298070/lgrush_220318_5079_0053.0.jpg' width='700px' /><br/>
+NASA is moving ahead with plans for a second attempt to launch its next-generation rocket Friday, September 2nd, after an engine issue forced the agency to scrub today's planned launch.
+<a href='https://www.theverge.com/2022/8/29/23327237/nasa-artemis-sls-orion-rocket-scrub-next-launch'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/owgDf_eJ4vyVMoEVlHBTcCmN0Yg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71299647/sokane_181116_3101_fremont_0066.0.jpg' width='700px' /><br/>
+Union swag at Tesla is in. The National Labor Relations Board (NLRB) said that Tesla's current dress code policy was unlawful. Specifically, the part where it only allowed employees to wear Tesla or other pre-approved black tee shirts. That policy meant union swag was not allowed — a hindrance to anyone trying to organize or show union solidarity.
+<a href='https://www.theverge.com/2022/8/29/23327765/tesla-nlrb-ruling-union-busting-black-shirt-policy'> Source <a/>

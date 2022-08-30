@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ywZE1lK57UPqFr4dCsU-OSU7Y10=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71298205/vpavic_211006_4796_0084.0.jpg' width='700px' /><br/>
+While Apple has increased the size of the Apple Watch over the years, users have always been able to use older watch bands with newer models. That might soon change. Initially spotted by MacRumors, leaker UnclePan claims that the so-called Pro — Apple's forthcoming rugged smartwatch — may not be compatible with existing straps.
+<a href='https://www.theverge.com/2022/8/29/23326839/apple-watch-pro-rumors-band-compatibility-wearables'> Source <a/>

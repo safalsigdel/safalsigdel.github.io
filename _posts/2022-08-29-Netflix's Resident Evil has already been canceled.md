@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SK0NwuOpw83JQBQZjxSpD8CKRgE=/0x0:1422x750/1200x800/filters:focal(598x262:824x488)/cdn.vox-cdn.com/uploads/chorus_image/image/71292669/resident_evil_netflix_1.0.jpeg' width='700px' /><br/>
-Netflix's Resident Evil series has been canceled a little over a month after its initial debut, according to a report from Deadline. The streamer reportedly decided against renewing the series due to lackluster ratings and viewership.
-<a href='https://www.theverge.com/2022/8/27/23324830/netflix-resident-evil-canceled-after-season-one'> Source <a/>

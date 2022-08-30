@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6Ze4f5eraefdOsNnEtYQCfBvoVk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71298394/acastro_STK070__02.0.jpg' width='700px' /><br/>
+Instagram has fixed a recent bug that removed the sound from Reels video clips that were downloaded from the editing screen. The bug impacted iOS users and was detrimental to creators who use Reels as a filming tool and then export to other platforms, like TikTok.
+<a href='https://www.theverge.com/2022/8/29/23327404/instagram-reels-sound-export-tiktok-bug-fix'> Source <a/>

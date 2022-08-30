@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/suEw6wtJPpWyZmFR9uTHnpOn-Rc=/0x0:3000x2000/1200x675/filters:focal(1290x835:1770x1315)/cdn.vox-cdn.com/uploads/chorus_image/image/71291494/zenfone_9__1.0.jpg' width='700px' /><br/>
-Unboxing the Asus Zenfone 9 was like meeting someone new and learning that you like the same obscure movies or went to the same high school. I could tell immediately we'd get along. “You're IP68 and you have a headphone jack? No way! I love headphone jacks!”
-<a href='https://www.theverge.com/phone-review/23322445/asus-zenfone-9-review-screen-price-battery-camera-specs'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dRkKKOYFjozBhj1sz87Us21C9fQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71292209/wjoel_180413_1777_android_001.0.jpg' width='700px' /><br/>
-Google's trying to make it easier for developers to create Android apps that connect in some way across a range of devices. In a blog post, Google explains that it's launching a new cross-device software development kit (SDK) that contains the tools developers need to make their apps play nice across Android devices, and, eventually non-Android phones, tablets, TVs, cars, and more.
-<a href='https://www.theverge.com/2022/8/27/23324635/google-cross-device-android-apps-sdk-windows-ios-phones-tablets'> Source <a/>
