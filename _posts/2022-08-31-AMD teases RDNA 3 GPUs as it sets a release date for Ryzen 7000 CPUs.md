@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EsXVGk55tVIaRSE7UWf9wJ9BYs4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71300641/acastro_180529_1777_amd_0001.0.0.jpg' width='700px' /><br/>
-AMD revealed price, performance, some release dates, and more about the upcoming RDNA 3 graphics cards and Ryzen 7000 series processors during its “together we advance_PCs” livestream on Monday.
-<a href='https://www.theverge.com/2022/8/30/23328478/amd-rdna-3-gpu-ryzen-7000-cpu-announcement-livestream'> Source <a/>
