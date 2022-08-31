@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/-29uHTTKklgqvKmcQHFst_7wWbI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71303107/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
 Instagram is testing new settings for users to control what kind of content they see on the platform.
+<a href='https://www.theverge.com/2022/8/30/23329021/instagram-explore-page-not-interested-flag-posts'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-29uHTTKklgqvKmcQHFst_7wWbI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71303107/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+Instagram is testing new settings for users to control what kind of content they see on the platform.
 <a href='https://www.theverge.com/2022/8/30/23329021/instagram-explore-page-not-interested-flag-posts'> Source <a/>
