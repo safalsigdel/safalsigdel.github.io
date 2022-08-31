@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fcvhETkAE-vaL0qw8CoIBWCfLgU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71302552/akrales_180614_1777_0176.0.jpg' width='700px' /><br/>
+California has passed a sweeping law regulating how sites operate for minors. AB 2273, the California Age-Appropriate Design Code Act, passed the state senate and now proceeds to Governor Gavin Newsom, who has not yet indicated whether he'll sign it. If he does, the bill could raise legal challenges and major questions about the future of anonymity online.
+<a href='https://www.theverge.com/2022/8/30/23326822/california-ab-2273-passes-senate-children-social-media-bill-gavin-newsom'> Source <a/>

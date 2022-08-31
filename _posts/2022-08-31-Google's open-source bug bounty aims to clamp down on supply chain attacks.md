@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PVdOfS0tPVUYeGmoao8SGAVcUEY=/0x0:2040x1360/1200x800/filters:focal(860x905:1186x1231)/cdn.vox-cdn.com/uploads/chorus_image/image/71303228/akrales_220309_4977_0232.0.jpg' width='700px' /><br/>
+Google has introduced a new vulnerability rewards program to pay researchers who find security flaws in its open-source software or in the building blocks that its software is built on. It'll pay anywhere from $101 to $31,337 for information about bugs in projects like Angular, GoLang, and Fuchsia or for vulnerabilities in the third-party dependencies that are included in those projects' codebases.
+<a href='https://www.theverge.com/2022/8/30/23328977/google-open-source-bug-bounty-supply-chain-hacks-dependencies'> Source <a/>
