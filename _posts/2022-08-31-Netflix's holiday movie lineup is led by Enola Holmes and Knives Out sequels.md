@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jYsIohG05H21kT6AGI_LS3L1M68=/0x0:7200x4800/1200x800/filters:focal(3024x1824:4176x2976)/cdn.vox-cdn.com/uploads/chorus_image/image/71301477/EH2_20211006_03498_C_R.0.jpeg' width='700px' /><br/>
-It's almost September, which means the holidays are creeping up on us — and for Netflix, that means a lot of movies. The streamer just released its schedule for holiday film releases in 2022, and it's led by a pair of big sequels in Enola Holmes 2 on November 4th and Glass Onion: A Knives Out Mystery on December 23rd.
-<a href='https://www.theverge.com/23328543/netflix-holiday-2022-movie-lineup-enola-holmes-knives-out'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fHNyeZS6cZDgG5TOBj5z_tjwz-o=/0x0:1000x563/1200x800/filters:focal(576x216:736x376)/cdn.vox-cdn.com/uploads/chorus_image/image/71303405/Low_Resolution_JPG_G502_X_Plus_Black_Bionic_Fluid_1920x1080.0.jpg' width='700px' /><br/>
+Logitech has three new gaming mice, and the wireless ones finally have USB-C up front. That's right, Micro USB's reign of terror continues to be on the decline as Logitech's new G502 X series gaming mice come to succeed the company's popular G502 line.
+<a href='https://www.theverge.com/2022/8/30/23328970/logitech-g502-x-lightspeed-plus-gaming-mouse-mice-optical-buttons-usb-c'> Source <a/>
