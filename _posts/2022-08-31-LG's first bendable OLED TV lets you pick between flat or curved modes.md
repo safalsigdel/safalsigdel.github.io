@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EFytk3Tf09uvzB1SSUrXxZI_ZZs=/0x0:1422x964/1200x800/filters:focal(598x369:824x595)/cdn.vox-cdn.com/uploads/chorus_image/image/71305999/LG_OLED_Flex_Product_01_e1661761613837.0.jpg' width='700px' /><br/>
+LG has announced its first bendable OLED TV which works either completely flat or as a curved display. The LG OLED Flex (model LX3) is a 42-inch OLED TV that bends into a curved (900R) TV thanks to LG's latest display technology. Curved displays are suited for a more immersive gaming experience, while flat screens are better for watching TV broadcasts or streaming services.
+<a href='https://www.theverge.com/2022/8/31/23330370/lg-oled-flex-tv-bendable-ifa-2022'> Source <a/>
