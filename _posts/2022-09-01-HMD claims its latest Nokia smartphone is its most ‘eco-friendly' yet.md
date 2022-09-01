@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HKbl1kqSinL773JCJKApGJF_rNs=/0x0:2207x1471/1200x800/filters:focal(836x510:1188x862)/cdn.vox-cdn.com/uploads/chorus_image/image/71310869/Hero_image_IFA_2022.0.jpg' width='700px' /><br/>
+HMD is announcing a trio of new smartphones today — the Nokia G60 5G, C31, and X30 5G — and says the X30 5G is the “most eco-friendly smartphone” it's ever produced. The three phones are focused on Europe, and are distinct from the range of devices that HMD sells in the US.
+<a href='https://www.theverge.com/2022/9/1/23326591/hmd-nokia-x30-g60-c31-sustainable-eco-friendly-smartphone'> Source <a/>
