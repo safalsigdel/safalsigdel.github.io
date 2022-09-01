@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UZGLU_b0r2ZiOP2JDTPqjrnv8t4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71310456/thinkpad_rotated.0.jpg' width='700px' /><br/>
-I reviewed Lenovo's ThinkPad X1 Fold, the first PC with a foldable screen, in late 2020. At the time, it was a very cool idea, but not particularly, shall we say, usable. Today, Lenovo has announced its second go at this, the “Next-generation” ThinkPad X1 Fold. I spent a few minutes with the device, and let me tell you: I am much more optimistic about this one.
-<a href='https://www.theverge.com/2022/9/1/23331619/lenovo-thinkpad-x1-fold-gen-2-announced-features-specs-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-DaxzjS_zswW0ctK7xk0ahVAMKo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71309418/STK043_VRG_Illo_N_Barclay_2_Meta.0.jpg' width='700px' /><br/>
-Meta is setting up a product organization to identify and build “possible paid features” for Facebook, Instagram, and WhatsApp, according to an internal memo sent to employees last week that was obtained by The Verge.
-<a href='https://www.theverge.com/2022/8/31/23331342/meta-plans-paid-features-facebook-instagram-whatsapp'> Source <a/>

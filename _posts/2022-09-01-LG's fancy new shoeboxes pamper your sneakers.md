@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ayCkPp8c4sY5jfytXnA_kFefSC8=/0x0:1685x1123/1200x800/filters:focal(709x428:977x696)/cdn.vox-cdn.com/uploads/chorus_image/image/71309227/LG_Styler_ShoeCare_ShoeCase_03.0.jpg' width='700px' /><br/>
-If you've browsed around the Container Store looking for the perfect sneaker storage, you're looking in the wrong places. Maybe what you really need is LG's new Styler ShoeCase — a shoebox with a window that's currently being displayed at IFA. The enclosure can keep your shoes safe from moisture and has filters to protect them from UV light.
-<a href='https://www.theverge.com/2022/8/31/23330865/lg-styler-shoecase-shoecare-sneaker-shelf-cleaner-ifa'> Source <a/>
