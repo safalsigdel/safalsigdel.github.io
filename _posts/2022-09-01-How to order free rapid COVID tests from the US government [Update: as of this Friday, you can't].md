@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JYun9gF3Aykhlhj3215Ot7E6xU8=/0x0:2596x1524/1200x800/filters:focal(1091x555:1505x969)/cdn.vox-cdn.com/uploads/chorus_image/image/70404906/Screen_Shot_2022_01_18_at_1.39.58_PM.0.png' width='700px' /><br/>
-[NOTE: As of Friday, September 2nd, 2022, the program offering free home COVID-19 rapid antigen tests has been suspended due, according to the website, to a lack of funding from Congress. In other words, we're on our own.]
-<a href='https://www.theverge.com/22889745/rapid-covid-tests-free-website-how-to'> Source <a/>
