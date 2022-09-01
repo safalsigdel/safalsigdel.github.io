@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/WtCUn9QpSEiO0zKCtOHvT9Vq4cY=/0x0:6192x6192/1200x800/filters:focal(2601x2601:3591x3591)/cdn.vox-cdn.com/uploads/chorus_image/image/71310717/Philips_Hue_Lightguide_bulbs_and_matching_pendant_light_cords___lifestyle.0.jpg' width='700px' /><br/>
-
+It's official, Philips Hue's gorgeous Lightguide bulbs are real. Signify, which owns Philips Hue, announced the new white and color ambiance light bulbs at the IFA tech conference in Berlin this week, confirming The Verge's earlier report of the imminent arrival of the oversized dimmable smart bulbs designed for open lighting fixtures.
 <a href='https://www.theverge.com/2022/9/1/23331387/philips-hue-announces-new-lightguide-bulbs-smartthings-music-sync'> Source <a/>
