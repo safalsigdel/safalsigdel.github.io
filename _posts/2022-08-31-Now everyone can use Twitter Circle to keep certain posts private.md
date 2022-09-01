@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9V20Fc2tO1sgaWcYiyQy8YdLo4A=/0x0:2160x2160/1200x800/filters:focal(914x527:1258x871)/cdn.vox-cdn.com/uploads/chorus_image/image/71301653/twitter_circle_feature.0.png' width='700px' /><br/>
-Twitter Circle, a feature that lets you limit your tweets to a smaller audience, is now available to everyone. The platform first started testing the feature among “select people” in May ahead of a wider rollout.
-<a href='https://www.theverge.com/2022/8/30/23328616/twitter-circle-now-available-everyone-limit-tweets-privacy'> Source <a/>

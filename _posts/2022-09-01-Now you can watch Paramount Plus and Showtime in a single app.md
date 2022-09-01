@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rl7BZkQWJK3_soepcYBQ7QRX3po=/0x0:874x1768/1200x0/filters:focal(0x0:874x1768):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23983295/_App___2_Homepage_Marquee__YOUR_HONOR.png' width='700px' /><br/>
+You can now access the content packed into Paramount Plus and Showtime from a single app. First bundled as a subscription last September, Paramount and Showtime's catalogs have been separated between two apps for viewers in the US, but viewers can now access the full roster of TV shows and films from the Paramount Plus app.
+<a href='https://www.theverge.com/2022/8/31/23329389/paramount-plus-showtime-streaming-app-viacom'> Source <a/>

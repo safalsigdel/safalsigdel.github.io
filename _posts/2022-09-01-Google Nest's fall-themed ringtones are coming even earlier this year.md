@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ImvPfOjGaYA1wdCKcHmOuhWrR6o=/0x0:1966x1166/1200x800/filters:focal(373x502:687x816)/cdn.vox-cdn.com/uploads/chorus_image/image/71307404/Screenshot_2022_08_30_at_17.50.44.0.png' width='700px' /><br/>
+Google — along with Starbucks, Spirit Halloween, and seemingly every grocery store in my area — is starting to gear up for fall. It's bringing seasonal ringtones to the Nest Doorbell (battery) even earlier this year, with the addition of a festive accordion jingle for Oktoberfest that'll become available in the Google Home App starting September 5th.
+<a href='https://www.theverge.com/2022/8/31/23329855/google-nest-doorbell-fall-ringtones-halloween-oktoberfest-diwali'> Source <a/>

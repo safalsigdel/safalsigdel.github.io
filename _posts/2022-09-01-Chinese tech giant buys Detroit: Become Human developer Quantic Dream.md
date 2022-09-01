@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CWPv0k7fhrB8Mbb0aHPY43KV2ks=/0x0:3840x2160/1200x800/filters:focal(954x441:1568x1055)/cdn.vox-cdn.com/uploads/chorus_image/image/71308401/DETROIT_MARKUS_FLAG.0.jpg' width='700px' /><br/>
+Quantic Dream, the game developers behind titles like Detroit: Become Human and Heavy Rain, has been acquired by the Chinese technology giant NetEase (via CNBC). In a blog post, the French game studio announced that it will continue to operate independently despite joining the company.
+<a href='https://www.theverge.com/2022/8/31/23330961/chinese-tech-giant-netease-quantic-dream-detroit-become-human-developer'> Source <a/>

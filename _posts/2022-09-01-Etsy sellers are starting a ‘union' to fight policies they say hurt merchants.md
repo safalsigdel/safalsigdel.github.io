@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1r937xiIlRpIDgT1zs95mhCf8po=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71307997/acastro_STK091_01.0.jpg' width='700px' /><br/>
+When a group of Etsy sellers announced in March that they would temporarily shut down their shops to protest changes on the platform, organizers made a promise: the strike was just the first step.
+<a href='https://www.theverge.com/2022/8/31/23330758/etsy-strike-boycott-indie-sellers-guild-union-fee-increase'> Source <a/>

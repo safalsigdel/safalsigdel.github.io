@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PqAz8PGdL6eB9LIy3j4uDJhhQQw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71307551/acastro_STK019_02.0.jpg' width='700px' /><br/>
+Congress wants to know what Coinbase, Binance.US, FTX, Kraken, and KuCoin are doing to address scams related to cryptocurrency. In separate letters sent to each crypto exchange, the House Committee on Oversight and Reform expresses concern over “the rapid growth of fraud and consumer abuse,” as well as the “lack of action by cryptocurrency exchanges to protect consumers conducting transactions.”
+<a href='https://www.theverge.com/2022/8/31/23330623/congress-coinbase-binance-ftx-cryptocurrency-scams'> Source <a/>

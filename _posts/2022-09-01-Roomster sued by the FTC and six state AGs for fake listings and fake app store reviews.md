@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A5HUgFEK4LE2OrGU-8t-gIzQX4w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71309472/acastro_200302_3922_SuperTuesday_gavel.0.0.jpg' width='700px' /><br/>
+The Federal Trade Commission (FTC), along with six states, filed a lawsuit against John Shriber and Roman Zaks, owners of the room renting and roommate finder platform Roomster, for allegedly defrauding consumers, accusing them of paying people for fake reviews and listings on their site. The agency says that the “deceptive tactics” violated the FTC Act and state laws.
+<a href='https://www.theverge.com/2022/8/31/23330808/roomster-ftc-lawsuit-app-store-google-play-fake-reviews'> Source <a/>

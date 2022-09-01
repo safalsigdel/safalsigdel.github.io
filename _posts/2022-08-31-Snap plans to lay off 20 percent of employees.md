@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GvjdVorUUBJR3BO-kQw6iC7uDw4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71303717/acastro_STK466_01.0.jpg' width='700px' /><br/>
-Snap is planning to lay off approximately 20 percent of its more than 6,400 employees, according to people familiar with the matter.
-<a href='https://www.theverge.com/2022/8/30/23329301/snap-layoffs-20-percent-employees-snapchat'> Source <a/>

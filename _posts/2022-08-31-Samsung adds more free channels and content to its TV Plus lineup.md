@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2gqsKjv9LXMCVJxkEzhH6JJ5G6M=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71304562/samsung_tv_plus.0.jpeg' width='700px' /><br/>
-Samsung's bringing more content to TV Plus, its free, ad-supported streaming package that's built into a range of Samsung devices and available on the web. The update introduces several new shows, such as Top Gear, Law & Order Special Victims Unit, NCIS, and Chicago Fire.
-<a href='https://www.theverge.com/2022/8/30/23329219/samsung-tv-plus-adds-more-free-channels-content-fast-streaming'> Source <a/>
