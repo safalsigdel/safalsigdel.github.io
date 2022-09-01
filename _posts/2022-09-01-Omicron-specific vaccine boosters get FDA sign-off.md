@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aTP8Xi7PDySggrZdOBg2cweIrnU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71306684/acastro_210309_1777_vaccine_0002.0.jpg' width='700px' /><br/>
-COVID-19 vaccines designed to target the omicron variant have just been authorized by the Food and Drug Administration. Both Pfizer / BioNTech and Moderna got the FDA's sign-off for their booster doses of the reformulated shot. This is the first update to COVID-19 vaccines to be authorized in the United States.
-<a href='https://www.theverge.com/2022/8/31/23316414/omicron-vaccine-boosters-pfizer-moderna-fda-covid-19'> Source <a/>

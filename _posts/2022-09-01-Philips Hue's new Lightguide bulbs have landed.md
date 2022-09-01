@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WtCUn9QpSEiO0zKCtOHvT9Vq4cY=/0x0:6192x6192/1200x800/filters:focal(2601x2601:3591x3591)/cdn.vox-cdn.com/uploads/chorus_image/image/71310717/Philips_Hue_Lightguide_bulbs_and_matching_pendant_light_cords___lifestyle.0.jpg' width='700px' /><br/>
+
+<a href='https://www.theverge.com/2022/9/1/23331387/philips-hue-announces-new-lightguide-bulbs-smartthings-music-sync'> Source <a/>

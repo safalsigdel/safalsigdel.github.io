@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D4es_4uPjZ4YZOzBnfsfJV1w6rQ=/0x768:5400x4160/1200x800/filters:focal(1977x1988:2975x2986)/cdn.vox-cdn.com/uploads/chorus_image/image/71306599/DSCF2275.0.png' width='700px' /><br/>
-Elevator buttons can sometimes be fickle things — confusing labels or tricky security systems can start a trip up or down a building off on a slightly sour note. But on the control panel, there's one button that stands out for its ability to make someone's day instead of ruining it: the open door button.
-<a href='https://www.theverge.com/2022/8/31/23318937/open-elevator-door-button-kindness'> Source <a/>
