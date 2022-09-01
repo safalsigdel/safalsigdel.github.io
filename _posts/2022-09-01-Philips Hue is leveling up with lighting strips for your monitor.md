@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fe2K7ZM8gCIcf5EjafCP93Rhpec=/0x0:6720x3780/1200x800/filters:focal(2823x1353:3897x2427)/cdn.vox-cdn.com/uploads/chorus_image/image/71310715/Philips_Hue_Play_gradient_Lightstrip_for_PC___lifestyle_2.0.jpg' width='700px' /><br/>
-Signify is making further inroads with the gaming community with its new lineup of Philips Hue Play gradient lightstrips for PCs. Much like the 55-inch Play lightstrip explicitly made for TVs, the PC versions of the Play lightstrips provide flexible accent lighting that attaches to the back of your monitor.
-<a href='https://www.theverge.com/2022/9/1/23330916/signify-philips-hue-play-lightstrips-monitor-gaming-smart-home-ifa-2022'> Source <a/>

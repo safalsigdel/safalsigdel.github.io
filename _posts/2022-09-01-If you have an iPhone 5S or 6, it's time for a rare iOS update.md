@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FM-YNG7K0HGeDcp6t7xAABXo9Ww=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/71308352/IMG_3022-1024.1419979922.0.jpg' width='700px' /><br/>
-Almost a year after the last update, Apple released a new version of iOS 12 on Wednesday, meant to patch a security hole that was recently fixed in newer versions of the OS. If you're still using an iPhone 5S or an iPhone 6 or 6 Plus, it's worth taking the time to update — Apple obviously doesn't release security updates for its older software that often, so when it does, you know it's a reasonably serious issue.
-<a href='https://www.theverge.com/2022/8/31/23331104/apple-iphone-5s-6-plus-ios-12-5-6-update-security'> Source <a/>
