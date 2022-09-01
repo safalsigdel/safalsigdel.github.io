@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ig_fttpV7zlOMKWCQ8X7EPzCe3w=/0x0:2800x1868/1200x800/filters:focal(1176x710:1624x1158)/cdn.vox-cdn.com/uploads/chorus_image/image/71310663/Kobo_Clara_2E__345_Edit_EN.0.jpg' width='700px' /><br/>
+Kobo's announced its first fully waterproof six-inch e-reader, the Kobo Clara 2E, will be available on September 22nd. However, you can preorder it now from Kobo for $129.99.
+<a href='https://www.theverge.com/2022/9/1/23331027/kobo-clara-2e-e-reader-waterproof-recycled-plastic'> Source <a/>
