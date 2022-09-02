@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oWeiltiVz2xK4Fuxdx-qno5J6EE=/0x0:3200x2400/1200x800/filters:focal(1344x944:1856x1456)/cdn.vox-cdn.com/uploads/chorus_image/image/71311496/Samsung_Galaxy_A23_5G_Hero.0.jpg' width='700px' /><br/>
-Samsung is bringing the Galaxy A23 5G to the US today, providing fast 5G connectivity and a 120Hz full HD display for just under $300.
-<a href='https://www.theverge.com/2022/9/1/23332417/samsung-galaxy-a23-5g-120hz-specs-price-date'> Source <a/>

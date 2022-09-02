@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ivu86XG30syDY600MkXkqa_eoGw=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23990892/Watermarked4DSCF0426Jon_Porter.jpg' width='700px' /><br/>
+In case anyone is needing extra RGB lighting in their lives, LG's new MoodUp fridge has you covered. The refrigerator, which the South Korean electronics giant announced this week at IFA in Berlin, has LED light panels on its front that can illuminate in over a dozen different colors (22 for the upper panel, 19 for the lower). There's also a built-in Bluetooth speaker (I know).
+<a href='https://www.theverge.com/2022/9/2/23334150/lg-moodup-fridge-led-rgb-lighting-bluetooth-speaker-music-mood'> Source <a/>
