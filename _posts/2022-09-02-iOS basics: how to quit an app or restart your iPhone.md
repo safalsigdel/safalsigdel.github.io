@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-nrxvGzT3cxqrVB4VRtJKWaYzyE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69406378/HT015_S_Haddad_ios_iphone_apps.5.jpg' width='700px' /><br/>
-Even iOS apps occasionally misbehave — they can crash, or freeze, or otherwise stop working. If you're new to iOS or just haven't had this happen before, you may not know how to actually quit an app (as opposed to just swiping it off your screen). Here's how to quit an app and, if you need to, shut down your phone. (We used a phone loaded with a beta of iOS 16, but this will work with earlier versions of the OS just as well.)
-<a href='https://www.theverge.com/22429322/ios-14-how-to-close-quit-app-iphone'> Source <a/>
