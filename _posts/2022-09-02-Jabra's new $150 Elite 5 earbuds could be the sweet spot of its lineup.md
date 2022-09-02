@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8XdBl3GFsF9GlS1CgTqPLNK_B8Y=/0x0:1624x1110/1200x800/filters:focal(683x426:941x684)/cdn.vox-cdn.com/uploads/chorus_image/image/71312542/elite5.0.jpg' width='700px' /><br/>
+At IFA 2022, Jabra is announcing the new $149 Elite 5 earbuds. Serving as the company's midrange pair of buds — akin to something like the older Elite 75t — these will offer up to seven hours of continuous playback with active noise cancellation turned on. They also feature multipoint Bluetooth for two simultaneous connections, IP55 dust and water resistance, and codec support that includes aptX, AAC, and SBC.
+<a href='https://www.theverge.com/2022/9/1/23331888/jabra-elite-5-earbuds-announced-features-price'> Source <a/>

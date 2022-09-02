@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oxFHnf5Ck_i0CKnpuCPjLiK980A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71315133/acastro_STK045_01.0.jpg' width='700px' /><br/>
+Developer and App Store critic Kosta Eleftheriou has settled his lawsuit with Apple, according to a report from TechCrunch. The suit, filed in March 2021, argued that Apple made it difficult for him to sell his app, Flicktype, on the App Store, after it seemingly lost interest in acquiring the tech.
+<a href='https://www.theverge.com/2022/9/1/23333362/apple-app-store-lawsuit-flicktype-kosta-eleftheriou-scams'> Source <a/>

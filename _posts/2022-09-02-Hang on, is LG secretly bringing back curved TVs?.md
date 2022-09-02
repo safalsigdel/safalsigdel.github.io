@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9STpLlw_gRJgk2d242aqo3xXW04=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23989783/Watermarked5DSCF0396Jon_Porter.jpg' width='700px' /><br/>
+Outside of 3D, curved TVs are probably one of the industry's most ill-advised gimmicks. Unless you sat at a very specific point in front of them, they resulted in a warped image, harsh reflections, and a generally unpleasant viewing experience, for close to no benefit. Seriously, they were terrible. It felt like curved TVs happened because companies could make them, rather than because they should.
+<a href='https://www.theverge.com/2022/9/1/23333515/lg-oled-flex-transforming-tv-curved-flat-hands-on'> Source <a/>

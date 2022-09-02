@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/idLyMyqCdC31ldzAdU9DQAw0On4=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23988202/Grafaiai_Screen_1.png' width='700px' /><br/>
+A new Pokxc3xa9mon means, well, lots of new pokxc3xa9mon. And the lead-up to Pokxc3xa9mon Violet and Scarlet has been full of monster reveals, the most recent of which is an artist who stays up all night and is a bit of a loner.
+<a href='https://www.theverge.com/2022/9/1/23332658/pokemon-violet-scarlet-grafaiai-nintendo-switch'> Source <a/>

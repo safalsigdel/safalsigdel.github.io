@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8gyqmhWmEJwHZlfrk8mIu7rpet0=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/71312313/https___hybrismediaprod.blob.core.windows.net_sys_master_phoenix_images_container_hcd_h81_9436177006622_220826_kishi_v2_iphone_1500x1000_5.0.jpg' width='700px' /><br/>
+The Razer Kishi V2 for iPhone is available to purchase today for $99.99, following the release of the Android-only Kishi V2 in July. This is the brand's second generation of Nintendo Switch-like controllers for iOS devices that make mobile gaming feel more like a real console experience.
+<a href='https://www.theverge.com/2022/9/1/23332661/razer-kishi-v2-ios-iphone-gaming-console-price-specs-release-features'> Source <a/>

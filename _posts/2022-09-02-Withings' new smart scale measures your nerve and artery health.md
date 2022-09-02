@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YTaz6dE-5LTOkfQjIzgzJ7S2K5U=/0x0:4000x3000/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/71312568/B_COMP_KV_01_EN_FINAL.0.png' width='700px' /><br/>
+Withings has a few nifty ideas when it comes to smart scales, and for IFA 2022, it's announced the Body Comp. What makes the Body Comp stand out is it can assess the health of your arteries and nerves in addition to “normal” body composition. Withings is also introducing a new Health Plus coaching service alongside the scale to help users meet their goals.
+<a href='https://www.theverge.com/2022/9/1/23330920/withings-body-comp-health-plus-artery-nerve-ifa-2022'> Source <a/>
