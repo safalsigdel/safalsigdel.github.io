@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wHv6QsuGnAQ92FGPNQw84PZFJIc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71312476/acastro_STK050_09.0.jpg' width='700px' /><br/>
-So the thing about Elon Musk is that he's cliqued up — specifically with the so-called PayPal Mafia. If you haven't heard of it before, it's a group of influential men in Silicon Valley who all used to work at PayPal.
-<a href='https://www.theverge.com/2022/9/1/23331732/elon-musk-twitter-david-sacks-paypal-mafia-subpoenas-clout'> Source <a/>

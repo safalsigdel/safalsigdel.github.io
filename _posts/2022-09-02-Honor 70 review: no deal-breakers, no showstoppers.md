@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZAXXlWnFSLpfaHaOgwXj16-zmaQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71317506/226159_HONOR_70_PHO_jporter_0002.0.jpg' width='700px' /><br/>
+It's been almost two years since Honor split from parent company Huawei. That means that — unlike Huawei — it can sell phones with Google apps and services preinstalled, which means they're actually worth considering if you live in a country where Honor sells phones.  That includes several European markets but not the US, at least not yet.
+<a href='https://www.theverge.com/23323325/honor-70-review-120hz-display-snapdragon-778g-plus-triple-camera'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/57hvvSH0R6bwpYIr6de6tklvKt0=/0x0:1630x1087/1200x800/filters:focal(685x414:945x674)/cdn.vox-cdn.com/uploads/chorus_image/image/71317539/Screen_Shot_2022_08_29_at_2.15.27_PM.0.jpg' width='700px' /><br/>
+Honor is planning to release its second foldable next year, and unlike the Honor Magic V, the company hopes to actually release the device outside of China. Honor's CEO, George Zhao, confirmed the plans in an interview with The Verge ahead of this year's IFA trade show in Berlin and said the company expects to launch its next foldable device in the first quarter of next year.
+<a href='https://www.theverge.com/2022/9/2/23326730/honor-magic-v2-foldable-international-china-release-app-market'> Source <a/>

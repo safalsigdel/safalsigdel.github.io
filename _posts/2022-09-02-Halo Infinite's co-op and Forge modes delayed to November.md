@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w8PD9ufWT-nPokBwaAXjG-jVMz4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71312488/haloinfinite.0.jpg' width='700px' /><br/>
-343 Industries is delaying its next season of Halo Infinite to March 2023, extending its current season that started in May to 10 months long instead of the original promised three months. While Halo Infinite players are desperate for fresh content, the long-awaited Forge beta has also now been delayed and will launch on November 8th alongside the co-op mode.
-<a href='https://www.theverge.com/2022/9/1/23332738/halo-infinite-season-3-delay-forge-launch-november'> Source <a/>
