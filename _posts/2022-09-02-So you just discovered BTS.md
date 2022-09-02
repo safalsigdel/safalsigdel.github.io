@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HS2_DpOHraDcCZ_LeFdNZJK7O84=/0x0:5358x3572/1200x800/filters:focal(2251x1358:3107x2214)/cdn.vox-cdn.com/uploads/chorus_image/image/71316977/1239728779.0.jpg' width='700px' /><br/>
+Every fan of every band has, at some point, been there. You spotted them performing at the Grammys, working out with James Corden, taking over Grand Central, or hanging out with Joe Biden. You heard Butter on the radio, and you were like, “Hey, that's catchy.” You're intrigued — you like their music, and they seem like cool guys. You're ready to be a fan. So what's the next step? How do you get into the band?
+<a href='https://www.theverge.com/23332916/bts-how-to-members-weverse-social-media'> Source <a/>
