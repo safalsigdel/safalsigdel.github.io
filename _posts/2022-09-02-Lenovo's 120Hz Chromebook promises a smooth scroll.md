@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nKNUA0_vrNP3O_cE8E0EYFbdC_k=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/71312210/09_Ideapad_5i_Chromebook_Hero_Front_Facing_Right.0.png' width='700px' /><br/>
-Lenovo has launched the IdeaPad 5i Chromebook — a device that looks fairly unremarkable but has a potentially standout screen. The device will be available in Europe, the Middle East, and Africa in September 2022 with a starting price of xe2x82xac549 — US pricing and availability are still to be announced.
-<a href='https://www.theverge.com/2022/9/1/23332594/lenovo-ideapad-5i-chromebook-tab-p11-pro-ifa-2022'> Source <a/>
