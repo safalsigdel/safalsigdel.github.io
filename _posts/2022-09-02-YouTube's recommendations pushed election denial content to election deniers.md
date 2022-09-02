@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ozLfUX2GWMRShQE-z9dLcJWmKQ=/0x0:3211x2141/1200x800/filters:focal(1350x815:1862x1327)/cdn.vox-cdn.com/uploads/chorus_image/image/71312165/1242043574.0.jpg' width='700px' /><br/>
-YouTube's recommendation algorithm pushed more videos about election fraud to people who were already skeptical about the 2020 election's legitimacy, according to a new study. There were a relatively low number of videos about election fraud, but the most skeptical YouTube users saw three times as many of them as the least skeptical users.
-<a href='https://www.theverge.com/2022/9/1/23332596/youtube-recomendations-election-fraud-algorithm'> Source <a/>

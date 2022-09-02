@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RTCja95c1-MjOZsduWMik4BxT1g=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71317250/acastro_STK050_03.0.jpg' width='700px' /><br/>
+Twitter's lawyers argued David Sacks' main reason for trying to fight a subpoena filed in their case against Elon Musk is because he said he would on a podcast, and in a ruling issued Friday, the judge agreed.
+<a href='https://www.theverge.com/2022/9/2/23334338/elon-musk-twitter-david-sacks-subpoena-all-in-podcast'> Source <a/>
