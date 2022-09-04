@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hpT0s4cK38o_rptURr-qeRD8fFo=/0x0:5400x3600/1200x800/filters:focal(2268x1368:3132x2232)/cdn.vox-cdn.com/uploads/chorus_image/image/71321109/1242435245.0.jpg' width='700px' /><br/>
+Hackers caused a major traffic jam in Moscow after exploiting the Russian ride-hailing app, Yandex Taxi, to summon dozens of taxis to the same location at the same time (via Vice). The attack occurred on September 1st and had traffic heading towards Kutuzovsky Prospect — an already busy boulevard — stuck at a standstill.
+<a href='https://www.theverge.com/2022/9/3/23335694/hackers-traffic-jam-russia-moscow-ride-hailing-app-yandex-taxi'> Source <a/>

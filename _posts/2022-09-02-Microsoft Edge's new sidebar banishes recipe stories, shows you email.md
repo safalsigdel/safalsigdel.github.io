@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zkh1QacceSGidDAENIFn0sdv9pE=/0x0:2560x1366/1200x800/filters:focal(1953x178:2361x586)/cdn.vox-cdn.com/uploads/chorus_image/image/71314073/Screenshot_2022_09_01_112026.0.png' width='700px' /><br/>
-Microsoft has added a new sidebar to its Edge browser with buttons that let you see information about a site, check your email, access Microsoft Office, and even strip the essential elements of a recipe out of an overly long post (via Windows Central). The new feature seems to build on the “Search in sidebar” function added to Edge in 2020, but it adds even more multitasking abilities.
-<a href='https://www.theverge.com/2022/9/1/23333091/microsoft-edge-sidebar-widgets-search-email-recipes'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W480bIYuEsbEmassy9gbsZ92B-8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71318519/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
+Google has allowed Parler back onto the Google Play Store, according to a tweet from the social media platform, after it removed the app in January 2021, citing the platform's lack of moderation on posts inciting violence at the US Capitol. Apple re-instated Parler to its App Store in May 2021, after temporarily removing it around the same time Google did.
+<a href='https://www.theverge.com/2022/9/2/23334794/google-reinstates-parler-play-store-moderation'> Source <a/>

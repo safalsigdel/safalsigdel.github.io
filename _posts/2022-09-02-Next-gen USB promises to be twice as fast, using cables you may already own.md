@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VaOOgn8TK_SXf5khcyQGfSBw5dk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71313325/vlad-savov-computex-usb-c-2.0.0.jpg' width='700px' /><br/>
-The next version of USB could be one of the fastest connectors we've seen yet. The USB Promoter Group says that USB 4 version 2.0 will be capable of speeds up to 80 Gbps, double what the original USB 4, and even Thunderbolt 4, are capable of.
-<a href='https://www.theverge.com/2022/9/1/23332838/usb-4-version-2-80-gbps-thunderbolt'> Source <a/>

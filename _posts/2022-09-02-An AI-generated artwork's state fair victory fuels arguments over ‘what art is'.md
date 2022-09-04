@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/InmIgsiTqLVT8L1HW_iWxCWwkqo=/0x0:4032x2268/1200x800/filters:focal(1694x812:2338x1456)/cdn.vox-cdn.com/uploads/chorus_image/image/71312786/20220825_174538.0.jpg' width='700px' /><br/>
-A game designer has sparked controversy after submitting an image created by an AI text-to-image generator to a state art competition and taking home first prize.
-<a href='https://www.theverge.com/2022/9/1/23332684/ai-generated-artwork-wins-state-fair-competition-colorado'> Source <a/>

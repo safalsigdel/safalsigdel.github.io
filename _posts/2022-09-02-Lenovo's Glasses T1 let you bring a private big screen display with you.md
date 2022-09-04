@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OqzTEjWHzrXxS8O9cyDF7flMNCQ=/0x0:1280x854/1200x0/filters:focal(0x0:1280x854):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23988645/02_Lenovo_Glass_T1_Hero_Front_Left.jpeg' width='700px' /><br/>
-Lenovo is the latest company promoting a USB-C monitor made for your face. The company's new Glasses T1 put a Full HD OLED screen in front of each of your eyes and were revealed today during IFA and on Lenovo's virtual showcase.
-<a href='https://www.theverge.com/2022/9/1/23332907/lenovo-glasses-t1-yoga-smart-display-ifa'> Source <a/>

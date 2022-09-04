@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EbF826MnebvmALCr661eOWf99tw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71317905/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
+Samsung is warning customers about a cybersecurity incident in July, where “an unauthorized third party acquired information from some of Samsung's U.S. systems,” including things like names, birthdays, contact info, and product registration information. The company says it discovered the breach on August 4th, and is currently investigating it with “a leading outside cybersecurity firm.”
+<a href='https://www.theverge.com/2022/9/2/23334580/samsung-data-breach-us-names-birthdays-contact-info'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vid-lVRzZ2jouRYBuVMRjNUlezY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71312838/verge_DSCF0294_2040pxl.0.jpg' width='700px' /><br/>
-Today, Leica — yes, the camera company — announced its first ultra-short throw (UST) laser projector at the big IFA show in Germany, capable of producing a 4K image of up to 100 inches with Dolby Atmos sound.
-<a href='https://www.theverge.com/2022/9/1/23332775/leica-cine-1-ust-projector-price-specs-date'> Source <a/>

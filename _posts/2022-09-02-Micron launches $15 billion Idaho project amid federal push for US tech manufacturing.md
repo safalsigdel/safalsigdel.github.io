@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XBcn1C9VEyGBKdsCdi-5KrSIDTU=/0x0:4000x2753/1200x800/filters:focal(1680x1057:2320x1697)/cdn.vox-cdn.com/uploads/chorus_image/image/71313243/1242691767.0.jpg' width='700px' /><br/>
-On Thursday, Micron announced that it would invest $15 billion to build a new semiconductor plant in Idaho — just weeks after Congress passed $52 billion in new money to boost domestic chip manufacturing.
-<a href='https://www.theverge.com/2022/9/1/23332930/micron-idaho-manufacturing-chips-act-biden-white-house'> Source <a/>

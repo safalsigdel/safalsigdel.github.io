@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XR8He4wlkhaCAs68a1bGrBYuYIk=/0x0:1718x926/1200x800/filters:focal(722x326:996x600)/cdn.vox-cdn.com/uploads/chorus_image/image/71317835/Sonos_Sub_Mini_1662123635_0_0.0.jpg' width='700px' /><br/>
+Sonos customers have been waiting for a cheaper subwoofer since the first signs of one popped up late last year, and now WinFuture.de is giving us a few pics for a better look at the device.
+<a href='https://www.theverge.com/2022/9/2/23334501/sonos-sub-mini-leak-pictures-design'> Source <a/>
