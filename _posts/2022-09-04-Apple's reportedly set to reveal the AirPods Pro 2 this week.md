@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QJbxDskQ-JuhMAhEEAeENynYfPA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71323157/cwelch_191031_3763_0004.0.jpg' width='700px' /><br/>
+Apple is getting ready to reveal the second generation of the AirPods Pro at its “Far Out” event on Wednesday, according to a report from Apple tracker Mark Gurman. While we've been expecting the AirPods Pro 2 sometime this year, this is the first solid rumor indicating that they could launch this week.
+<a href='https://www.theverge.com/2022/9/4/23336671/apple-announce-airpods-pro-2-this-weeks-far-out-event'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uFP8kO8yhWZmY4gyIZHJarq5TaU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71315066/acastro_STK048_01.0.jpg' width='700px' /><br/>
-After a leak revealed Xbox Game Pass Friends & Family branding over the weekend, Microsoft has gone official with its new plan and revealed its pricing in Ireland and Colombia. The new subscription will allow Xbox Game Pass members to share with up to four other friends or family members at xe2x82xac21.99 per month in Ireland, and 49,900 COP in Colombia.
-<a href='https://www.theverge.com/2022/9/1/23333605/microsoft-xbox-game-pass-friends-family-pricing-confirmed'> Source <a/>
