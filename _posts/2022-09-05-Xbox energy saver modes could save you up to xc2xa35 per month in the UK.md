@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tqTfPLDnSOfTpTV4spXzcwrL3bk=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/71325612/twarren_200909_4177_0030.0.0.jpg' width='700px' /><br/>
+If you're an Xbox owner in the UK or Europe it might be time to look at what energy mode your console is using. Rising energy costs across the UK and Europe mean the consoles' Instant On standby mode could cost up to xc2xa35 per month next month for many households, as the energy cap on prices jumps a massive 80 percent in the UK alone.
+<a href='https://www.theverge.com/2022/9/5/23337587/game-console-energy-usage-mode-xbox-standby-instant-on-ps4-switch-compared'> Source <a/>

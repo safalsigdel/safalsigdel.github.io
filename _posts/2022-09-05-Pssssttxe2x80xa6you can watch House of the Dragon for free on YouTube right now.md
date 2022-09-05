@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U4T4wmMAu73K64bPP5Eiv6GQmB0=/0x0:1920x946/1200x800/filters:focal(807x320:1113x626)/cdn.vox-cdn.com/uploads/chorus_image/image/71325933/house_of_the_dragon.0.jpeg' width='700px' /><br/>
+HBO has made the first episode of its Game of Thrones prequel series House of the Dragon available to watch for free on YouTube, a marketing move that amusingly coincides with the release of Amazon Prime's The Lord of the Rings: The Rings of Power on Friday last week.
+<a href='https://www.theverge.com/2022/9/5/23337730/watch-house-of-the-dragon-free-youtube-now-hbo-max'> Source <a/>
