@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NagDT_NO7XftF-CL-Gk9rGklxcE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71323700/acastro__171016_1777_0001_v2.0.jpg' width='700px' /><br/>
+Cloudflare, a website security and hosting provider, announced on Saturday that it had blocked Kiwi Farms, an online forum known for hateful content. In a post on Cloudflare's blog, the company said Kiwi Farms posed an “immediate threat to human life,” citing an increase of “targeted threats” over the past two days.
+<a href='https://www.theverge.com/2022/9/4/23336772/cloudflare-blocks-kiwifarms-immediate-threat-human-life'> Source <a/>

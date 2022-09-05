@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CqZjdSO2V6YHQ7KF30Xvq-Jhor0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71278593/VRG_Illo_N_Barclay_5_apple.0.jpg' width='700px' /><br/>
+Apple's iPhone 14 launch event is just days away, and it's expected to showcase a range of new devices — not just a new iPhone. We're also on the lookout for three (yes, we said three) new Apple Watch models and even a refreshed pair of AirPods Pro earbuds.
+<a href='https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9'> Source <a/>

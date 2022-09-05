@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QN430yGZeuSeLVBHJPMJj0r_1g0=/0x0:5000x5000/1200x800/filters:focal(2100x2100:2900x2900)/cdn.vox-cdn.com/uploads/chorus_image/image/71324619/lg_nft_tvs.0.jpg' width='700px' /><br/>
+Just months after Samsung announced that it's bringing non-fungible tokens (NFTs) to its TVs, now LG's doing the same. The company's new NFT marketplace, called LG Art Lab, lets you “buy, sell and enjoy high-quality digital artwork” from your TV.
+<a href='https://www.theverge.com/2022/9/4/23336997/lg-bringing-nfts-smart-tvs-cryptocurrency'> Source <a/>

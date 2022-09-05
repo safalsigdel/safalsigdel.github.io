@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vuybPpTVna5xirrJ600jHbkTgOs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71315380/VRG_Illo_N_Barclay_1_apple.0.jpg' width='700px' /><br/>
-Workers at the Penn Square Apple Store in Oklahoma City have filed with the National Labor Relations Board to hold a union election, becoming the third US location to have done so. According to a press release, over 70 percent of the store's salespeople, genius admins, technicians, creatives, and operations specialists, have signed cards to say they're interested in being represented by the Communications Workers of America (CWA).
-<a href='https://www.theverge.com/2022/9/1/23333652/apple-store-oklahoma-city-union-election-cwa'> Source <a/>
