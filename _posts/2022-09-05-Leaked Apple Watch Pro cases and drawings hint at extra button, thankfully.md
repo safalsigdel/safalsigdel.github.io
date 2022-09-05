@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JG05NtUPkfRrcLp7Hvu4mdpYA9M=/0x0:1080x1440/1200x800/filters:focal(280x557:452x729)/cdn.vox-cdn.com/uploads/chorus_image/image/71325445/Fb3_GXkakAAoKEg.0.jpeg' width='700px' /><br/>
+Images of purported third-party accessories for the rumored Apple Watch Pro are making the rounds this morning, and boy do I hope they're legit. Those cutouts mean one or two more physical buttons are being added to the left of the display. CAD drawings later released by 91mobiles show a flat display and a single new button on the left side below a redesigned speaker vent, while a new protrusion on the right houses the Digital Crown, mic, and button.
+<a href='https://www.theverge.com/2022/9/5/23337584/apple-watch-pro-extra-buttons-rumor'> Source <a/>
