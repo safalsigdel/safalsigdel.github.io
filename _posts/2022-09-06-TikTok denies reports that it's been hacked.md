@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7ny9tC5VkOBC2X-aqrvrSpDi1Do=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71326727/STK051_VRG_Illo_N_Barclay_10_tiktok.0.jpg' width='700px' /><br/>
+TikTok is denying reports that it was breached after a hacking group posted images of what they claim is a TikTok database that contains the platform's source code and user information (via Bleeping Computer). In response to these allegations, TikTok said its team “found no evidence of a security breach.”
+<a href='https://www.theverge.com/2022/9/5/23338051/tiktok-denies-reports-hacked-data-breach'> Source <a/>

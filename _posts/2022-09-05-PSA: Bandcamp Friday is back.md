@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QG-IX5DQb49fGHCe2IS6AkJpW4s=/0x0:5477x3651/1200x800/filters:focal(2301x1388:3177x2264)/cdn.vox-cdn.com/uploads/chorus_image/image/71289787/1401111789.0.jpg' width='700px' /><br/>
-Bandcamp is bringing back its Bandcamp Fridays promotion where it waives its cut of any money you spend buying music from artists or their labels on its marketplace. Historically, the company ran the promotion on the first Friday of every month, and that appears to be the case this time around, too. According to its update page, it has Bandcamp Fridays scheduled for September 2nd, October 7th, November 4th, and December 2nd.
-<a href='https://www.theverge.com/2022/8/26/23323894/bandcamp-fridays-coming-back-september-2022-music-psa'> Source <a/>

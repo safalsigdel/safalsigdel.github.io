@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OpC3z5GEVU39Qq6sHKCZsmsDlUA=/0x0:3999x2665/1200x800/filters:focal(1681x1014:2319x1652)/cdn.vox-cdn.com/uploads/chorus_image/image/71326568/1242853644.0.jpg' width='700px' /><br/>
+Thousands of Colorado residents found themselves locked out of their smart thermostats during sweltering temperatures last week in an effort to prevent power demand from overwhelming the grid.
+<a href='https://www.theverge.com/2022/9/5/23337864/xcel-locked-out-customers-smart-thermostats-colorado-heatwave'> Source <a/>
