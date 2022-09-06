@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CtgIpaTgyUjthJos9QNMvzVOioA=/0x0:1733x866/1200x800/filters:focal(729x295:1005x571)/cdn.vox-cdn.com/uploads/chorus_image/image/71325471/girl_with_a_pearl_earring.0.jpeg' width='700px' /><br/>
-OpenAI has added a new “outpointing” function to its text-to-image AI model DALL-E that lets the system generate new visuals that expand the borders of any given picture.
-<a href='https://www.theverge.com/2022/9/5/23337580/openai-dall-e-text-to-image-generator-outpainting-native-function'> Source <a/>
