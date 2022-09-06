@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yVtsBi8wbxrjAkAnmgJI0JsYaro=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71318991/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
-Qualcomm and Meta have signed a multi-year agreement promising to team up on custom versions of Qualcomm's Snapdragon XR chips for the "future roadmap of Quest products" and "other devices," as Mark Zuckerberg put it.
-<a href='https://www.theverge.com/2022/9/2/23334656/meta-qualcomm-quest-vr-ar-snapdragon-xr-custom-chips'> Source <a/>
