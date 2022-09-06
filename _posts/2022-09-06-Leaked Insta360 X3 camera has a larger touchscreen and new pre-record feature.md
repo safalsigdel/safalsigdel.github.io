@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HAeN7W1_JFDs4fUGwo35bQuDaZ8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71328788/Insta360_X3_hero_2.0.jpg' width='700px' /><br/>
+Insta360 is currently teasing the announcement of its “next camera” on September 8th, but WinFuture seems to have the details early. The German-language site has images and specs for the company's new X3 360-degree action camera, which drops the “One” name from its branding and sports a larger display than its predecessor, the Insta360 One X2.
+<a href='https://www.theverge.com/2022/9/6/23338861/insta360-x3-360-degree-action-camera-release-price-specs-leak'> Source <a/>
