@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zXl-QK9lslzP8D7H0A4CdbjCl1A=/0x0:4000x2905/1200x800/filters:focal(1680x1133:2320x1773)/cdn.vox-cdn.com/uploads/chorus_image/image/71320696/1242907597.0.jpg' width='700px' /><br/>
-NASA has once again scrubbed the debut launch of its Space Launch System (or SLS) rocket after engineers failed to fix a persistent hydrogen leak.
-<a href='https://www.theverge.com/2022/9/3/23327972/nasa-artemis-i-sls-second-delay'> Source <a/>
