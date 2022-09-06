@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j3aW1HzAGm2R_jrr1mOfvkzuTB8=/0x0:2334x1556/1200x800/filters:focal(981x592:1353x964)/cdn.vox-cdn.com/uploads/chorus_image/image/71329586/ps5camo.0.jpg' width='700px' /><br/>
+Next up on Sony's list of colorways to coat its PS5 accessories is gray camouflage. The company released a YouTube video allegedly showing off a DualSense, Pulse 3D headset, and console covers, all clad in camouflage. I say “allegedly” because I'm taking Sony's word for it. I can't see the accessories, so the camo must be working.
+<a href='https://www.theverge.com/2022/9/6/23339078/sony-gray-camouflage-ps5-controllers-accessories-dualsense-pulse-3d-console-covers-preorder'> Source <a/>

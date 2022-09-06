@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/3VbKQnPQ0yg5AVtnUzSoDZADWcg=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/71328518/y_5c6f64ac127cb.0.jpg' width='700px' /><br/>
-Sony's longtime PlayStation hardware chief is retiring on October 1st. 60-year-old Masayasu Ito, who led the engineering for both the PS4 and PS5, is retiring according to Bloomberg and will be replaced by current director Lin Tao. Sony announced the changes in a brief press release today.
+Sony's longtime PlayStation hardware chief is retiring on October 1st. 60-year-old Masayasu Ito, who led the engineering for both the PS4 and PS5, is retiring, as reported by Bloomberg.
 <a href='https://www.theverge.com/2022/9/6/23338839/sony-playstation-masayasu-ito-hardware-chief-retirement'> Source <a/>

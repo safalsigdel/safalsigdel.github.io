@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NTp-28w9PQ-9YGEWUWKJJDEmtMo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71325378/226134_SAMSUNG_GALAXY_Z_FLIP_PHO_ajohnson_0001.0.jpg' width='700px' /><br/>
-Older generations of Samsung foldable phones and smartwatches will soon be eligible to update to the latest versions of One UI, granting new features such as multitasking gestures, optimizations for large-screened devices, first-party app enhancements and a PC-like taskbar for phones, and new watch faces and customizations for Galaxy smartwatches.
-<a href='https://www.theverge.com/2022/9/5/23337570/samsung-galaxy-foldables-phones-smart-watches-new-feature-update-selfie-android'> Source <a/>

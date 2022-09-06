@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zwvMX6ToY__1Y3hu8fcK1A1-lrU=/0x0:998x1370/1200x800/filters:focal(381x482:539x640)/cdn.vox-cdn.com/uploads/chorus_image/image/71321795/pixel_7_pro_unboxing.0.png' width='700px' /><br/>
-What appears to be the upcoming Google Pixel 7 Pro surfaced in a brief unboxing video posted on Facebook by Gadgetfull BD, a technology shop based in Bangladesh. The video shows someone taking the device out of a Google-branded box and showing off its sleek black exterior, which features Google's “G” logo stamped on the back.
-<a href='https://www.theverge.com/2022/9/3/23336007/google-pixel-7-pro-unboxing-video-launch-leak-rumors'> Source <a/>

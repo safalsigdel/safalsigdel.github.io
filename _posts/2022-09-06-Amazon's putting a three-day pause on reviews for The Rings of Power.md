@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jR9c9PV6p1VLCTTDdPHYB9IPmZw=/0x0:4800x2010/1200x800/filters:focal(2235x317:3003x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/71323314/S1_EpisodicStill_RPAZ_S1_FG_00250307_Still003_R1.0.jpg' width='700px' /><br/>
-Amazon is reportedly putting a three-day delay on user reviews for all of its content on Prime Video, including the newly-released The Lord of the Rings: The Rings of Power. According to reports from Variety and Deadline, the delay is supposed to help stave off review bombing, or the act of flooding a particular show, movie, game, or book with negative remarks.
-<a href='https://www.theverge.com/2022/9/4/23336624/amazon-prime-video-three-day-pause-rings-of-power-review-bombing'> Source <a/>

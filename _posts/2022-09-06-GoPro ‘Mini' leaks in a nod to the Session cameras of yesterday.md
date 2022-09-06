@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_eQitnh7ugocOhZt6BdgcPPwyvA=/0x0:875x573/1200x800/filters:focal(368x217:508x357)/cdn.vox-cdn.com/uploads/chorus_image/image/71329369/gopro_black_mini_leak.0.jpg' width='700px' /><br/>
+GoPro's rumored Hero 11 Black may not be the only camera the company releases this year. Leaked images shared by WinFuture indicate that GoPro's preparing a smaller surprise that seems like a modern iteration of the now-discontinued Session action cams.
+<a href='https://www.theverge.com/2022/9/6/23338926/gopro-hero11-black-mini-leaks-session-cameras-rumors'> Source <a/>
