@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/8eQyVK-c9f9DtZLUK5jtWw3dXK4=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/71326486/Group_Shot.0.jpg' width='700px' /><br/>
-Arcane, the popular Netflix animated series based on the League of Legends video game has won the award for Outstanding Animated Program at the Emmys' Creative Arts ceremony, on top of the three other animation-related trophies it earned earlier this year.
+Arcane, the popular Netflix animated series based on the League of Legends video game, has won the award for Outstanding Animated Program at the Creative Arts Emmy Awards ceremony, on top of the three other animation-related trophies it earned earlier this year.
 <a href='https://www.theverge.com/2022/9/5/23337974/netflix-arcane-streaming-win-animation-emmy-award-league-of-legends'> Source <a/>
