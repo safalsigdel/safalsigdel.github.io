@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZT5OP1YebUWRwE4BB1BdzDgIzEM=/0x0:1597x899/1200x800/filters:focal(672x323:926x577)/cdn.vox-cdn.com/uploads/chorus_image/image/71332629/RxIiQhY.0.jpeg' width='700px' /><br/>
+Sony has totally revamped the internal design of its latest PS5 models. A revised PS5 model started appearing in Australia last month, and now YouTuber Austin Evans has taken a look at the internals and discovered a lot of changes. Sony is using a new, smaller motherboard for the PS5, different cooling, and has even changed the SSD enclosure.
+<a href='https://www.theverge.com/2022/9/7/23340577/sony-ps5-new-design-motherboard-less-power-lighter'> Source <a/>

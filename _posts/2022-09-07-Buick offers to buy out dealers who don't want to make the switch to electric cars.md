@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5ZyZ10HnriLq6tHAmo_jvmao-KY=/0x0:2040x1359/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71329431/Buick_Wildcat_AP3_6399.0.jpg' width='700px' /><br/>
-Buick is offering to buy out dealers who don't want to make the necessary investments to upgrade to electric vehicles, The Wall Street Journal reports.
-<a href='https://www.theverge.com/2022/9/6/23339031/buick-buyout-dealer-ev-only-2030-gm'> Source <a/>
