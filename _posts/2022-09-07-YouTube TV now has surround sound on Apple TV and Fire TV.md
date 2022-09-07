@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uQ61aSECR0KZjtD2Usl6J_k_zN8=/0x0:1200x678/1200x800/filters:focal(504x243:696x435)/cdn.vox-cdn.com/uploads/chorus_image/image/71333929/Fb_8YukaUAAGY6x.0.jpeg' width='700px' /><br/>
+After releasing YouTube TV surround sound capability for Google's TV devices and Roku in June, Google is finally adding the feature for its cord-cutter audiences using Apple TV and Amazon Fire TV platforms. The company had promised to release the enhanced audio stream capability for those platforms eventually, saying it was “still working internally and with partners.”
+<a href='https://www.theverge.com/2022/9/7/23340818/youtube-tv-surround-sound-5-1-apple-tv-amazon-fire-tv'> Source <a/>
