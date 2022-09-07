@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lse1T4VVzQhKxCMPrswpproTAAw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71334139/akrales_220309_4977_0305.0.jpg' width='700px' /><br/>
+A cybercriminal group containing former members of the notorious Conti ransomware gang is targeting the Ukrainian government and European NGOs in the region, Google says.
+<a href='https://www.theverge.com/2022/9/7/23341045/former-conti-ransomware-gang-target-ukraine-google'> Source <a/>

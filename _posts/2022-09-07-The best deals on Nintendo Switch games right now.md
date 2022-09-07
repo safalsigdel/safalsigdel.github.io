@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BCO5CXjPYnSF8Itjl7CdyCeVjCQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70462199/NintendoSwitch_TLOZBreathoftheWild_Presentation2017_scrn34_png_jpgcopy.30.jpg' width='700px' /><br/>
-The Nintendo Switch is one of the most popular consoles ever released, one with an ever-expanding library of games to choose from. Odds are if a game is capable of working on the Switch's hardware, it's either already available or it will be soon.
-<a href='https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale'> Source <a/>
