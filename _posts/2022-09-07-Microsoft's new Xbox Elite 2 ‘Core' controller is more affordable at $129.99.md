@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JXoOI5izcNawDpQRsZET9rRS53g=/0x0:2640x1320/1200x0/filters:focal(0x0:2640x1320):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24001623/xboxelite2coreog.jpg' width='700px' /><br/>
+Microsoft is announcing a new Xbox Elite 2 Core controller today, and it's priced at $50 less than the existing Xbox Elite 2. The Xbox Elite Wireless Controller Series 2 xe2x80x93 Core (yes, that's the full name!) is available for preorder today for $129.99, but it doesn't include the usual interchangeable components — you'll have to purchase those separately.
+<a href='https://www.theverge.com/2022/9/7/23340603/microsoft-xbox-elite-wireless-controller-series-2-core-white-controller-release-date-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O_No66R2hmtd3rEmaBiT9QKF_tY=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71330149/acastro_226258_youtube_0002.0.jpg' width='700px' /><br/>
-The Anti-Defamation League, a nonprofit focused on antisemitism, received an unusual invitation from YouTube in early 2017: come meet our biggest influencer. The ADL agreed, and its staff logged onto a video conference call with YouTube's policy chief, Juniper Downs, and the platform's biggest star: Felix Kjellberg aka PewDiePie.
-<a href='https://www.theverge.com/23339163/pewdiepie-like-comment-subscribe-mark-bergen-book-excerpt-youtube-adpocalypse'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cjWg-lBOWKaeEWvwzWr16BdcsbU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71329691/VRG_Illo_5258_K_Radtke_WWDC.0.jpg' width='700px' /><br/>
-Apple's next event is just around the corner, and die-hard fans have been scouring the latest invitation for clues about what new products and features may be in the cards. It's a long-held belief that Apple hides things inside its event invitations, but we wondered whether this search for secrets ever bore any fruit (sorry) — and if it did, what sort of hints there are.
-<a href='https://www.theverge.com/2022/9/6/23338920/apple-event-invitation-hints-history-deciphered'> Source <a/>

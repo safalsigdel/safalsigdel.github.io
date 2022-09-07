@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C3qMGCcQomGCzixiiz_5GtQDDls=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/71333493/twarren_xboxelite2_1.0.jpg' width='700px' /><br/>
+Microsoft is bringing its Xbox Elite 2 controllers to the company's Xbox Design Lab later this year. Xbox owners will be able to order custom color variants of the Xbox Elite 2 in the same way they currently can for existing Xbox Series S / X controllers.
+<a href='https://www.theverge.com/2022/9/7/23340636/microsoft-xbox-elite-2-controllers-design-lab-launch'> Source <a/>
