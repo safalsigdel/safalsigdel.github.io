@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zqPR_hfqHBEbLVv7ArmVHTS_k3E=/0x0:864x1536/1200x0/filters:focal(0x0:864x1536):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24001604/1151834843359d07a2533b4b69c2b8fbee3b45c2.jpg' width='700px' /><br/>
+Sony is rolling out a new PS5 system software update that includes 1440p resolution support, a new gamelists feature, and UX and social improvements. Testing for 1440p on PS5 first started in July, and now all PS5 owners will be able to access the software update.
+<a href='https://www.theverge.com/2022/9/7/23340619/sony-ps5-1440p-update-social-ux-improvements-available'> Source <a/>
