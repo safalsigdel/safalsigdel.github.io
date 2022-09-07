@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qKhwZ0ZGLUj3HkSUGgJOv9df0Cw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71330588/acastro_STK061_hulu_04.0.jpg' width='700px' /><br/>
-We've got some good news for both Marvel and sports fans: you can save $60 while watching both Marvel's new Thor: Love and Thunder and football this week as a part of Hulu's latest sale. In honor of the NFL season kicking off this Thursday, September 8th, Hulu is offering both new and returning customers a Hulu with Live TV subscription for $49.99 instead of $69.99 per month for three months.
-<a href='https://www.theverge.com/good-deals/2022/9/6/23339557/hulu-live-tv-subscription'> Source <a/>
