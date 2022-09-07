@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gjzy_7WOaqw82pxpjBSBzYsoC_Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71326808/acastro_STK070__02.0.jpg' width='700px' /><br/>
-Ireland's Data Protection Commission has fined Meta xe2x82xac405 million (about $402 million) after an investigation into how it handled teenagers' data. The decision and fine were finalized last Friday, DPC spokesperson Caolmhe McGuire tells The Verge, and “full details of the decision will publish next week.”
-<a href='https://www.theverge.com/2022/9/5/23338081/instagram-eu-fine-ireland-kids-data'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WTADWjiB6MfG6zqn2TCA64ZNcCk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71326423/acastro_STK103__01.0.jpg' width='700px' /><br/>
-The Federal Trade Commission (FTC) is investigating Amazon's plans to acquire robot vacuum maker iRobot and the 1Life healthcare company behind One Medical, according to reports from Politico and The Wall Street Journal. Amazon announced a $3.9 billion deal to buy One Medical in July and said it would acquire iRobot for $1.7 billion just weeks later.
-<a href='https://www.theverge.com/2022/9/5/23335898/amazon-irobot-one-medical-ftc-investigation-antitrust'> Source <a/>

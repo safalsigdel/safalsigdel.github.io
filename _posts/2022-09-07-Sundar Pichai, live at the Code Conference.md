@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aXUOzmmZl8gWvz6QIAqEQtajAmE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71332011/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.0.jpg' width='700px' /><br/>
+Google CEO Sundar Pichai is about to appear at Vox Media's annual Code Conference in Beverly Hills, California for a wide-ranging interview with Kara Swisher.
+<a href='https://www.theverge.com/2022/9/6/23340153/sundar-pichai-google-code-conference-liveblog'> Source <a/>

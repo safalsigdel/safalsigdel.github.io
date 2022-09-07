@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k4EkXQenXMIE-vUiWpF0bqHzXi4=/0x0:1024x993/1200x800/filters:focal(452x501:614x663)/cdn.vox-cdn.com/uploads/chorus_image/image/71330610/lego_keyboard_melgeek.0.jpg' width='700px' /><br/>
+This Lego-friendly mechanical keyboard from MelGeek lets you swap out more than just its keycaps and switches (via Gizmodo). If you happen to have a bunch of Lego bricks sitting around, you can redesign the entire case thanks to the Lego studs planted across the sides and bottom of the board.
+<a href='https://www.theverge.com/2022/9/6/23339220/lego-mechanical-keyboard-melgeek'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xNtlSOzwe_Hu_aUQUlm0miRtrns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71331101/acastro_illo_226029_0001.0.jpg' width='700px' /><br/>
+Google is rolling out patches to fix some Pixel bugs after the phones received the latest Android 13 update last month. The September 2022 monthly update is being delivered throughout the week to most devices, addressing issues like unexpected battery drain and disabled wireless charging.
+<a href='https://www.theverge.com/2022/9/6/23339733/google-pixel-android-13-update-wireless-charging-battery-drain-bugs'> Source <a/>

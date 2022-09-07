@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RziBg2hmVk6DTmcED8nDMTJ0z1Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71329086/vpavic_220708_5335_0046.0.jpg' width='700px' /><br/>
-One of the new features introduced in Android 12 was the ability — if you had a Pixel phone — to automatically match your phone's color palette to that of your wallpaper, including what Google calls Themed icons — icons that, instead of using their own colors, take on the color palette you've chosen as a theme.
-<a href='https://www.theverge.com/23333063/android-13-wallpaper-google-how-to-color-palette'> Source <a/>

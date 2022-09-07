@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dblGNDcoQKCjPk7rxjfsS1o_c7w=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/71330901/cfaulkner_210311_4469_00010.0.jpg' width='700px' /><br/>
+If you have Xbox friends that like to breathe heavily into their microphones, blast loud music in the background, or click loudly on their controller, the new Xbox noise suppression feature is here to save you. Xbox Series X and S owners are getting an update today that has noise suppression during party chats to remove annoying clicks, background music, and breathing.
+<a href='https://www.theverge.com/2022/9/6/23339762/xbox-noise-suppression-party-chats-xbox-series-x-s-feature'> Source <a/>

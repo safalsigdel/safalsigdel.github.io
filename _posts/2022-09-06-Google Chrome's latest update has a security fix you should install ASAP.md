@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jh7OS6VdxVlGmS5pk1KP6Fik2VE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71325827/acastro_200207_3900_chrome_0001.0.5.jpg' width='700px' /><br/>
-Google Chrome users on Windows, Mac, and Linux need to install the latest update to the browser to protect themselves from a serious security vulnerability that hackers are actively exploiting.
-<a href='https://www.theverge.com/2022/9/5/23337648/google-chrome-install-update-security-vulnerability'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XXowAbaAfoKCJSluAtYvYoZb6NE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71331822/akrales_220309_4977_0182.0.jpg' width='700px' /><br/>
+Today let's talk about Kiwi Farms, Cloudflare, and whether infrastructure providers ought to take more responsibility for content moderation than they have generally taken.
+<a href='https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos'> Source <a/>

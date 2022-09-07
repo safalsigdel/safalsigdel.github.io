@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ySZXfFhqPs-FyArme-pluTCbS3U=/0x0:1862x1238/1200x800/filters:focal(783x471:1079x767)/cdn.vox-cdn.com/uploads/chorus_image/image/71326650/Screen_Shot_2022_01_26_at_11.13.16_AM.0.png' width='700px' /><br/>
-GoPro is reportedly getting ready to launch its next camera, but don't hold your breath for a big redesign. Instead, according to images and specs first spotted by WinFuture, it appears the GoPro Hero11 Black will look virtually identical to the Hero10, and all the important tweaks will be on the inside.
-<a href='https://www.theverge.com/2022/9/5/23338023/gopro-hero-11-black-design-sensor'> Source <a/>
