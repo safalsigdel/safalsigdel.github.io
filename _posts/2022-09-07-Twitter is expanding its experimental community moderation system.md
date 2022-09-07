@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rMbQ_q4sGoQLJ_ZT4OB8gMT6cJ8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71334074/acastro_STK050_02.0.jpg' width='700px' /><br/>
+Twitter is expanding Birdwatch, its community-driven content moderation program, to half of all US users on Wednesday.
+<a href='https://www.theverge.com/2022/9/7/23341003/twitter-birdwatch-community-moderation-notes-misinformation-tweets-qanon'> Source <a/>

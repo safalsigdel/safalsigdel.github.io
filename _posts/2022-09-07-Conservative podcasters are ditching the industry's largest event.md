@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X5slBGGEHBCqWc7NDR7kaPrDIj0=/39x164:2652x2457/1200x800/filters:focal(0x0:434x434)/cdn.vox-cdn.com/uploads/chorus_image/image/71334060/1307652285.0.jpg' width='700px' /><br/>
+I hope you all had a chill Labor Day xc3xa0 la Miss Flo. I spent more of it on Twitter than I would have liked because of the spit  , a gift from the messy drama gods. I don't care what Chris Pine's PR says — we saw what we saw.
+<a href='https://www.theverge.com/2022/9/7/23340901/ben-shapiro-podcast-movement-twitter-cumulus-alex-cooper-forbes'> Source <a/>
