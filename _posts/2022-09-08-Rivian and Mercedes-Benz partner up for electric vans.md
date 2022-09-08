@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cfz-HSIxCUGJim0IjIu0A9tCF-U=/0x0:1617x1078/1200x800/filters:focal(680x410:938x668)/cdn.vox-cdn.com/uploads/chorus_image/image/71338456/Screen_Shot_2022_09_08_at_9.27.26_AM.0.jpeg' width='700px' /><br/>
-Mercedes-Benz automotive group and Rivian have a new joint venture to build commercial electric vans for both automakers. The companies announced today that they signed a Memorandum of Understanding to start a strategic partnership that will build the new vans on an existing Mercedes-Benz site in Central / Eastern Europe.
+<img src='https://cdn.vox-cdn.com/thumbor/psA6E1mYK0Ccq8aaZvTBtyIsozQ=/0x0:4096x2304/1200x800/filters:focal(1721x825:2375x1479)/cdn.vox-cdn.com/uploads/chorus_image/image/71338456/FcIjSNfXEAEa5tg.5.jpeg' width='700px' /><br/>
+Mercedes-Benz and Rivian have formed a new joint venture to build “bespoke large” commercial electric vans, the companies announced Thursday.
 <a href='https://www.theverge.com/2022/9/8/23342580/rivian-mercedes-electric-vans-joint-venture-europe'> Source <a/>
