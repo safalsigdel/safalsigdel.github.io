@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rRn0jzb9ine5mh_vw6KbCE1fCio=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/71335701/Apple_Fitness_Plus_meditation_lifestyle_220907.0.jpg' width='700px' /><br/>
-Apple announced on Wednesday that iPhone users will be able to subscribe to its premium Fitness Plus workout subscription service even if they don't have an Apple Watch.
-<a href='https://www.theverge.com/2022/9/7/23341580/apple-fitness-plus-iphone-apple-watch-sign-up-subscribe'> Source <a/>
