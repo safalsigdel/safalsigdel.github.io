@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/emmoHiiGq0_8V5ZToFupcnRXpIQ=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/71338232/Uber_Nuro_image_1.0.jpg' width='700px' /><br/>
+Uber Eats customers in California and Texas may soon have their takeout delivered by a driverless delivery pod after the company signed a 10-year deal with autonomous driving startup Nuro.
+<a href='https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas'> Source <a/>

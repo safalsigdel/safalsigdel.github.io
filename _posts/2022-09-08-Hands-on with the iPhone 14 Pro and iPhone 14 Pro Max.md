@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pmXbPEdZdx0Rg0hrb_asw63I1wk=/0x0:3008x2000/1200x0/filters:focal(0x0:3008x2000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24003228/DSC03706_edited.jpg' width='700px' /><br/>
-Apple just announced the iPhone 14 Pro and iPhone 14 Pro Max. They're big upgrades to last year's iPhone 13 Pro handsets with always-on screens, a new pill-shaped cutout that moves and animates, a faster A16 Bionic chip, and even an improved 48-megapixel camera.
-<a href='https://www.theverge.com/23338833/iphone-14-pro-max-hands-on-notch-features-apple-event'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jXEg53AREER6BKcL9CwNE1CNVSY=/0x0:2744x2160/1200x800/filters:focal(1153x861:1591x1299)/cdn.vox-cdn.com/uploads/chorus_image/image/71334549/Apple_Watch_SE_8up_hero_220907.6.png' width='700px' /><br/>
-Apple has announced a new Apple Watch SE. An upgrade to the original SE, the new smartwatch is the second generation of the company's entry-level, cellular-capable model. The new SE will cost $249 for the GPS model and $299 for the cellular model, a $30 price drop from the original SE. The Apple Watch SE is available starting September 16th and can be pre-ordered today.
-<a href='https://www.theverge.com/2022/9/7/23328608/apple-watch-se-new-second-gen-price-specs-features-release-date'> Source <a/>

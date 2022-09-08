@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F16NR9QIIMCWO03DkLWZbgq6hG0=/0x0:2880x1620/1200x0/filters:focal(0x0:2880x1620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24002963/Apple_iPhone_14_iPhone_14_Plus_hero_220907_Full_Bleed_Image.jpg.large_2x.jpg' width='700px' /><br/>
-Apple just held its Far Out event, where it revealed its iPhone 14 lineup, three new Apple Watches, including the long-rumored Apple Watch Ultra, and the next generation of AirPods Pro earbuds.
-<a href='https://www.theverge.com/23341046/apple-iphone-14-plus-pro-max-notch-event-announcements-watch-8-se-ultra-airpods-pro'> Source <a/>

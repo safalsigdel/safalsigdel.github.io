@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0NPnNsIJfVt8ZaAP_Vw29Dgk5r8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71335301/DSCF9191.0.jpeg' width='700px' /><br/>
-Apple just announced its second-generation AirPods Pro. There's no big redesign overhaul here: these look a lot like their predecessors, with the most substantial upgrades on the inside and new software features. The new AirPods Pro still have Apple's signature stem and (again) only come in white. But at least there's now an extra-small ear tip size in the box.
-<a href='https://www.theverge.com/2022/9/7/23341025/apple-airpods-pro-second-gen-hands-on-impressions-fall-event-2022'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FJkv8U6Peq-Ig358NLYUhePCSYU=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71338263/EcoSmart_Cargo_Product01.0.jpg' width='700px' /><br/>
+Razor, the company that helped kick off the scooter craze over two decades ago, is expanding its lineup of vehicles for adults with the EcoSmart Cargo, a pretty rad-looking electric scooter that borrows a lot from the world of e-bikes.
+<a href='https://www.theverge.com/2022/9/8/23339833/razor-ecosmart-cargo-electric-scooter-price-specs'> Source <a/>
