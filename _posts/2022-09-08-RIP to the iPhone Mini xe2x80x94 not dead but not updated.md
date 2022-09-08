@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cE93R8OmUAywrpYbKOoZsPC6Sn0=/0x0:1886x1257/1200x800/filters:focal(793x479:1093x779)/cdn.vox-cdn.com/uploads/chorus_image/image/71338775/vpavic_210916_4760_0087.0.jpg' width='700px' /><br/>
+Well, that's it then — after just two iterations, Apple seems to be done with the iPhone Mini. Sure, it'll still sell you a new one; last year's 128GB iPhone 13 Mini is currently available for $599, but the new iPhone 14 lineup doesn't include any models with the smaller 5.4-inch screen that some people have come to love.
+<a href='https://www.theverge.com/2022/9/8/23328114/apple-iphone-12-13-mini-not-updated-ergonomics'> Source <a/>

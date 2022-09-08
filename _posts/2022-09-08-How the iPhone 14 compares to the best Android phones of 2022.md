@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gNOi0ZfAgzBCSAvXzX_BLmymPX0=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/71335757/Apple_iPhone_14_Pro_iPhone_14_Pro_Max_hero_220907.0.jpg' width='700px' /><br/>
-The iPhone 14 and iPhone 14 Pro have arrived. So, just like we always do, it's time to dissect those specs. Apple's 2022 iPhones have different processors, depending on the one you get. They also have different camera systems. Notably, the iPhone 14 Pro sports an always-on display and support for up to a 120Hz refresh rate. That just scratches the surface as to what's new here.
-<a href='https://www.theverge.com/23320596/iphone-14-vs-android-apple-pro-comparison-price-specs'> Source <a/>
