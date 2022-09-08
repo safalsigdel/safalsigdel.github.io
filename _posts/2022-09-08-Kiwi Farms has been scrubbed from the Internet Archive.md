@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7fG_xH25krBmTwkik9LAoG3v2GI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71335138/akrales_220209_4977_0290.0.jpg' width='700px' /><br/>
+The Internet Archive is no longer hosting backups of Kiwi Farms, continuing the forum's removal from major web platforms. Twitch streamer Clara “Keffals” Sorrenti, who has led a recent campaign against the site, publicized the removal yesterday. Another tweet noted that a separate backup site has also been removed; searching either returns a response that “this URL has been excluded from the Wayback Machine.”
+<a href='https://www.theverge.com/2022/9/7/23341051/kiwi-farms-internet-archive-backup-removal'> Source <a/>

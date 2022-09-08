@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MLMUoG6UgpgMlRMGeu33613aHIk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71333430/VRG_Illo_STK022_K_Radtke_Musk_Scales.0.jpg' width='700px' /><br/>
-A Delaware court has denied billionaire Elon Musk's attempt to push back the October trial over his abortive Twitter acquisition, but it agrees that he can incorporate claims made by former Twitter security chief Peiter “Mudge” Zatko into his case.
-<a href='https://www.theverge.com/2022/9/7/23339673/musk-twitter-trial-delay-request-denied-whistleblower-claims-granted'> Source <a/>

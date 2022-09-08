@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_dD-4MBye-Dg0XQW9cFKXXxG5IU=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/71336906/Screenshot_2022_09_07_at_16.48.20.0.png' width='700px' /><br/>
+When Apple announced the Apple Watch Series 8 on Wednesday, it introduced a new low power mode feature that lets the wearable double its battery life by turning off a few features. It won't be limited to Apple's latest devices, though — during the presentation, Apple said low power mode is coming to “the Series 4 and later” with watchOS 9, which is launching September 12th.
+<a href='https://www.theverge.com/2022/9/7/23342001/apple-watch-low-power-mode-series-4-watchos-9'> Source <a/>

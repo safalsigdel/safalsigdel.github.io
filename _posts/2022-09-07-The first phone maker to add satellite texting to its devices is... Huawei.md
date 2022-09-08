@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tm8otxZL4pYH0xT8bAaw-mM2m4A=/0x0:2422x1296/1200x800/filters:focal(1018x455:1404x841)/cdn.vox-cdn.com/uploads/chorus_image/image/71332087/Screen_Shot_2022_09_06_at_12.30.03_PM.0.png' width='700px' /><br/>
-Huawei has announced the Mate 50 series, a day ahead of Apple's September event and with a feature that the iPhone 14 is expected to offer: the ability to send texts via satellite communication. The Mate 50 and Mate 50 Pro will be able to send short texts and utilize navigation thanks to China's global BeiDou satellite network, allowing for communication in areas without cellular signal.
-<a href='https://www.theverge.com/2022/9/6/23339717/huawei-mate-50-pro-satellite-text-china-beidou'> Source <a/>

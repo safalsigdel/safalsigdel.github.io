@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3bJjlejVTvcXQOHSKoQ21j-AcpY=/0x0:5000x3331/1200x800/filters:focal(2100x1266:2900x2066)/cdn.vox-cdn.com/uploads/chorus_image/image/71331714/1347898638.0.jpg' width='700px' /><br/>
-Ethereum just set The Merge in motion — and the stakes are huge for the planet. The Merge is arguably one of the most anticipated events yet in cryptocurrency history, when the Ethereum blockchain will switch from a disturbingly energy-hungry method of validating transactions to a new strategy that uses a fraction of the electricity as the network gobbled up before.
-<a href='https://www.theverge.com/2022/9/6/23339594/ethereum-merge-energy-pollution-proof-of-stake'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AcnwixNu4ITHAhOuSTftlM-zOAE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71335065/akrales_171113_2119_0074.0.jpg' width='700px' /><br/>
+At WWDC 2022, Apple confirmed that the Apple Watch Series 3 wouldn't support watchOS 9. Ever since then, the writing's been on the wall. And now, it's official: Apple has finally, finally removed the Series 3 from its online store.
+<a href='https://www.theverge.com/2022/9/7/23323995/apple-watch-series-3-discontinued'> Source <a/>

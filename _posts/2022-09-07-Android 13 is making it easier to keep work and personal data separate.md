@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZxduAmi1ayCCcStAjcQIrQFj6-o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71332874/acastro_180507_1777_android_privacy_0002.0.jpg' width='700px' /><br/>
-Android 13 has new features that aim to improve the experience of using a single device for both work and play. According to Google, Android 13's redesigned “work profiles” build upon last year's enhancements to keep an employee's personal data separate from their work data and make the user experience better and more productive, all while still adhering to an IT department's admin policies.
-<a href='https://www.theverge.com/2022/9/7/23340628/android-13-new-business-features-work-profiles-personal-data'> Source <a/>

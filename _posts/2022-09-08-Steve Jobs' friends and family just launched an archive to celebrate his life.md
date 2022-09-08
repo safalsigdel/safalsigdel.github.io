@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JCHyPk3IcdCf17YCWZAVYxF6b_4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71337170/Celebrating_Steve___October_5___Apple_0_54_screenshot.0.png' width='700px' /><br/>
+The friends and family of Apple founder Steve Jobs have launched the Steve Jobs Archive, an organization that celebrates the technology titan. You can visit the archive at stevejobsarchive.com.
+<a href='https://www.theverge.com/2022/9/7/23342222/steve-jobs-archive-website-launch'> Source <a/>

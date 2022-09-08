@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6Pswx8jTxxJ_02qzZSEpXvE1UU4=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/71337058/Apple_Event_Live._Ceo_of_Apple_Tim_Cook__Apple___Metaverse_in_2022._3_56_22_screenshot.0.png' width='700px' /><br/>
+Someone on YouTube was live streaming an old interview with Tim Cook that was seemingly being used to attract attention to a crypto scam — and when it was live, tens of thousands of viewers were tuning.
+<a href='https://www.theverge.com/2022/9/7/23342120/apple-fake-youtube-live-stream-crypto-scam'> Source <a/>

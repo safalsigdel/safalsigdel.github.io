@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wZni9IB8HLeqZXR_0dKQmbzeTic=/0x0:2048x1699/1200x800/filters:focal(794x664:1120x990)/cdn.vox-cdn.com/uploads/chorus_image/image/71331298/snapdragon_mid_range_chips.0.jpeg' width='700px' /><br/>
-Qualcomm's next generation of mobile processors should help bring flagship features to more midrange devices. The chipmaker announced two new chips — the Snapdragon 6 Gen 1 and the Snapdragon 4 Gen 1 — that come bundled with AI enhancements and hardware to support 5G.
-<a href='https://www.theverge.com/2022/9/6/23339715/new-snapdragon-chips-midrange-android-phones-ai-features-2023'> Source <a/>

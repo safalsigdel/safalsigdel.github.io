@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_pyV5cU1Vf8eXZCL62rh-TOjWjY=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/71333870/eero_20lifestyle_20__20bookshelf.0.0.jpg' width='700px' /><br/>
-Eero's original mesh Wi-Fi router is going to the tech junkyard in the sky. This week, the company delivered an End of Life notice to users in its app, warning that the OG router's days are numbered.
-<a href='https://www.theverge.com/2022/9/7/23340705/eero-wi-fi-router-when-to-upgrade'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U_YXsGl1AcK04-ZhHqZtqQv4EHw=/0x0:2040x1351/1200x800/filters:focal(1010x334:1336x660)/cdn.vox-cdn.com/uploads/chorus_image/image/71336899/twarren_200909_4184_0001.0.0.jpg' width='700px' /><br/>
+Nvidia is bundling its higher-end RTX 30-series graphics cards with a copy of Marvel's Spider-Man: Remastered. If you purchase a GeForce RTX 3090 Ti, 3090, 3080 Ti, 3080 GPU — or a qualifying desktop or laptop that comes with those cards — Nvidia will include a free digital copy of the $59.99 game.
+<a href='https://www.theverge.com/2022/9/7/23341996/nvidia-30-series-gpu-spider-man-remastered-marvel-pc'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cgmAmAwM2Pa4tL2QKPQTJoe5VZE=/0x0:3008x2000/1200x800/filters:focal(1044x699:1524x1179)/cdn.vox-cdn.com/uploads/chorus_image/image/71335104/DSC03647.5.jpeg' width='700px' /><br/>
+The iPhone 14 is here, and it's available in two sizes this year: regular and big. The standard iPhone 14 sticks with the 6.1-inch display — notch intact — and the 14 Plus brings a big 6.7-inch screen to the standard, non-pro iPhone series for the first time. That's the story: aside from the new size, not much else has physically changed from the iPhone 13.
+<a href='https://www.theverge.com/23333525/iphone-14-plus-hands-on-features-apple-event'> Source <a/>

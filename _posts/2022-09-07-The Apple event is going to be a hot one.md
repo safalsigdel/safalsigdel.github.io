@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hGhyknlJxbK1TlB4MDAVuWLIzAA=/0x0:4891x3260/1200x800/filters:focal(2055x1239:2837x2021)/cdn.vox-cdn.com/uploads/chorus_image/image/71333918/1243000705.0.jpg' width='700px' /><br/>
-Tech reporters are descending on Cupertino, California, today for Apple's product launch event, where they're expecting a first look at new iPhones and Apple Watches. They'll also be hot — really hot. There's a suffocating heatwave across the whole state, including in the Bay Area, where temperatures hit all-time highs.
-<a href='https://www.theverge.com/2022/9/7/23340732/apple-event-heat-wave-california-power-grid-iphone'> Source <a/>

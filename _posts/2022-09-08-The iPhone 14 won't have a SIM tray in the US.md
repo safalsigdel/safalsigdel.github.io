@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wJAXmWKQAibQyNnYyFBnMITvvRc=/0x0:3008x2000/1200x800/filters:focal(1165x872:1645x1352)/cdn.vox-cdn.com/uploads/chorus_image/image/71335217/DSC03639.5.jpeg' width='700px' /><br/>
+The new iPhone 14 lineup will ship without physical SIM trays — but only in the US. They'll be able to use two eSIMs at once (and store more than that), but is the lack of a physical tray a big deal? And is it user-hostile and stupid?
+<a href='https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim'> Source <a/>

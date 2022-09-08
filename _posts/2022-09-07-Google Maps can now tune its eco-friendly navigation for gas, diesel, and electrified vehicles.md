@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YJ6e_qp-muBNxVKWlDA-huufx5o=/0x0:2654x1498/1200x800/filters:focal(1115x537:1539x961)/cdn.vox-cdn.com/uploads/chorus_image/image/71332338/Screenshot_2022_09_06_at_14.57.30.0.png' width='700px' /><br/>
-Google is expanding Maps' eco-friendly routing mode, rolling the feature out in dozens of European countries and making it even more powerful by letting you pick what type of fuel your car runs on.
-<a href='https://www.theverge.com/2022/9/7/23339954/google-maps-eco-friendly-routing-expanding-europe-fuel-types'> Source <a/>

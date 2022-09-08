@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bU5eH_6x70kxbe5q7GSasZGh29I=/0x0:1472x986/1200x675/filters:focal(619x376:853x610)/cdn.vox-cdn.com/uploads/chorus_image/image/71334055/Apple_Event_image.0.jpg' width='700px' /><br/>
-It's time for Apple's annual September event, and this should be a big one: we're expecting iPhones, Apple Watches, AirPods, and plenty of models between them. The event, which Apple's calling “Far Out,” kicks off today, September 7th, at 1PM ET / 10AM PT. It's streaming live for anyone who wants to tune in remotely, but Apple is also holding an in-person component from its campus in Cupertino — and we'll be there, reporting live.
-<a href='https://www.theverge.com/2022/9/7/23339616/apple-iphone-14-event-live-blog-updates-news'> Source <a/>

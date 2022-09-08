@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eIUOnUcRqyWI2On1ISNMtGPEROc=/0x0:1920x1334/1200x800/filters:focal(183x740:489x1046)/cdn.vox-cdn.com/uploads/chorus_image/image/71336152/Screenshot_2022_09_07_at_13.29.05.0.png' width='700px' /><br/>
+Apple has quietly introduced a new option for its third-generation non-Pro AirPods — a Lightning-only charging case (via MacRumors). On the surface, that's reasonable: forgoing wireless charging on the second-gen AirPods saved you $40. But this time around, you're only saving ten dollars: they cost $169, compared to $179 for the MagSafe version (which can also be charged with a Lightning cable).
+<a href='https://www.theverge.com/2022/9/7/23341651/apple-airpods-third-gen-charging-case-lightning-magsafe'> Source <a/>
