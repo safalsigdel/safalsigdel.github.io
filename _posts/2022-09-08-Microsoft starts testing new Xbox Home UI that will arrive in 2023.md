@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rdt6pCkCY6d8gZbD1br2c-sD9-c=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/71338914/xboxdek.0.jpg' width='700px' /><br/>
+Microsoft is starting to test new changes to the Xbox Home UI that will eventually arrive for everyone in 2023. The changes will include tweaks to the layout and design to make it easier to find Xbox games and apps or navigate to areas like the settings interface. Microsoft will conduct a variety of Xbox Home experiments over the coming months before launching its new Xbox Home UI in 2023.
+<a href='https://www.theverge.com/2022/9/8/23328667/microsoft-xbox-home-user-interface-update-changes-dashboard-2023'> Source <a/>
