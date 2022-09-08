@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AH3WujFB81kOjhfXzcRFuyRixqE=/0x0:4274x2849/1200x800/filters:focal(2157x1116:2839x1798)/cdn.vox-cdn.com/uploads/chorus_image/image/71339034/1421920088.0.jpg' width='700px' /><br/>
+Steve Bannon, Trump ally and former White House adviser, surrendered himself to the Manhattan district attorney's office on Thursday and is expected to face charges related to his role in an online crowdfunding effort to fulfill Trump's promise to build a wall along the US's southern border with Mexico, according to CNN.
+<a href='https://www.theverge.com/2022/9/8/23342729/steve-bannon-crowdfunding-we-build-the-wall-us-mexico-border-fraud'> Source <a/>
