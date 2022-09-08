@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X1U8Mu-O4UMLgPBt5VSMwmKAMX8=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24002869/DSCF9181.JPG' width='700px' /><br/>
-Today was a big day for Apple wearables. Not only did Apple announce the brand-new Series 8, but it also refreshed the SE and unveiled the rugged Apple Watch Ultra. In other words, we have a totally new Apple Watch lineup.
-<a href='https://www.theverge.com/23324010/apple-watch-series-8-se-ultra-hands-on-features-apple-event'> Source <a/>
