@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RIcAg5ZiZYwmsENdaQfXY8qwtPU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71338469/akrales_220815_226109_0085.0.jpg' width='700px' /><br/>
-One of the things about this job is that everyone in your life — from friends to relatives to distant acquaintances and strangers on the internet — asks you questions about laptops all the time. A very common one I hear is also one of the harder ones to answer: “What makes a good laptop?”
-<a href='https://www.theverge.com/2022/9/8/23317521/good-laptop-college-business-gaming-video-editing-2022'> Source <a/>
