@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q6Jse61a6N1pyFatluntVvtjS0k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71344083/DSCF8720.0.jpg' width='700px' /><br/>
+If you're interested in preordering the $249 second-gen AirPods Pro today but their price is holding you back, you may want to check out today's deal on Samsung's new Galaxy Buds 2 Pro. Today, we've come across one of the first discounts on the new set of noise-canceling wireless earbuds. Right now, they're on sale for just $179.99 ($50 off) at Woot with a 90-day limited warranty.
+<a href='https://www.theverge.com/good-deals/2022/9/9/23343420/samsung-galaxy-buds-2-pro-govee-dreamview-g1-pro-gaming-light-samsung-m8-smart-monitor-deal-sale'> Source <a/>

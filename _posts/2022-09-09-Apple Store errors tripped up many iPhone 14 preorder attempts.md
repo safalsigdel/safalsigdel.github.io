@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SKiDBE4LIjADdSHGgX3pYC15CFg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71344012/Apple_iPhone_14_Pro_iPhone_14_Pro_Max_Dynamic_Island_demo_3up.0.jpg' width='700px' /><br/>
+Avid iPhone fans worldwide are reporting a tough time preordering Apple's new products. The iPhone 14, 14 Pro, and AirPods Pro 2 all went up for preorder today, and people have had issues ranging from the Apple Store app and website not loading, financing not working, failure to verify phone numbers, and credit cards not working.
+<a href='https://www.theverge.com/2022/9/9/23344308/iphone-14-preorder-apple-store-errors-shipping'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l6LVoc_ajpFLML5GOZqoIjP9VWI=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/71343869/eVTOL_United_graphic.0.jpg' width='700px' /><br/>
+United Airlines is investing $15 million in Eve Air Mobility, an electric aviation startup owned by Brazilian aircraft manufacturer Embraer. As part of the deal, United will purchase 200 of Eve's electric air taxis, which can seat four passengers and take off and land vertically like a helicopter.
+<a href='https://www.theverge.com/2022/9/9/23342981/united-airlines-eve-air-mobililty-investment-taxi-evtol'> Source <a/>

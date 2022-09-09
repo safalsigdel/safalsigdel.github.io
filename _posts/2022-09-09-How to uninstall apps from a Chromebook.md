@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pnNsNTVJl2_rmZwL3WrtJeEX1b0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71344169/bfarsace_160101_5219_0011.0.jpg' width='700px' /><br/>
+Sometimes you download an Android app to your Chromebook and learn that it simply doesn't work. Other times your storage is full and you need to clear it up. Or maybe one of your favorite apps just got a PWA equivalent and you want that Android version out of your life.
+<a href='https://www.theverge.com/23344325/chromebook-chrome-os-android-app-uninstall-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/467xEQL_liYK4t5F5NerCtEkj4k=/0x0:1920x1080/1200x800/filters:focal(799x403:1105x709)/cdn.vox-cdn.com/uploads/chorus_image/image/71343224/iphone140proAODon.0.jpg' width='700px' /><br/>
+So, it finally happened. The iPhone 14 Pro and iPhone 14 Pro Max got an always-on display. If you've used a modern Android phone, you probably have experience with always-on screens — and need no convincing of why they're a handy feature — but this is a new thing in iPhone world. And Apple, of course, is doing it a little bit differently than everyone else.
+<a href='https://www.theverge.com/23320405/apple-iphone-14-pro-max-always-on-display-screen-feature'> Source <a/>

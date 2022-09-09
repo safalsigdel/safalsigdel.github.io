@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zh2tE19wRLXAOQhybfZVqt5alUM=/0x0:2040x1528/1200x800/filters:focal(857x601:1183x927)/cdn.vox-cdn.com/uploads/chorus_image/image/71338893/Bollinger_B1_Side.0.jpg' width='700px' /><br/>
-Mullen Automotive has acquired a controlling stake in electric vehicle startup Bollinger Motors, buying up 60 percent of the struggling company's stock for $148.2 million, the companies announced Thursday.
-<a href='https://www.theverge.com/2022/9/8/23342674/bollinger-mullen-ev-truck-acquisition-b1-b2'> Source <a/>
