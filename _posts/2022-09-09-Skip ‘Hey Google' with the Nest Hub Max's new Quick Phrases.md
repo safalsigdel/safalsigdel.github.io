@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eZ_q0k4MwAfQToDuuK8LaSai1yk=/0x0:2040x1360/1200x800/filters:focal(544x591:870x917)/cdn.vox-cdn.com/uploads/chorus_image/image/71340329/dseifert_190905_3634_0001.0.jpg' width='700px' /><br/>
-If you have a Nest Hub Max smart display and you're tired of saying “Hey Google” 50 times a day, a new feature could cut that number down a bit. Quick Phrases — a feature on the Pixel 6 phones, and which Google announced for the Nest Hub Max last year — are now live. This lets the Nest Hub Max (and only the Max so far) respond to certain commands without the phrase “Hey Google,” making talking to the voice interface a little easier.
-<a href='https://www.theverge.com/2022/9/8/23342903/nest-hub-max-quick-phrases-hey-google'> Source <a/>
