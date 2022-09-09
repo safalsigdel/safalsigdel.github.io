@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fO7bwqna-DJy_D0Wj7d43X8JUjM=/0x0:3840x2160/1200x800/filters:focal(2368x0:2982x614)/cdn.vox-cdn.com/uploads/chorus_image/image/71344494/MW_Reveal_05_wm.0.png' width='700px' /><br/>
+Activision has announced a showcase that it says will reveal the future of the Call of Duty franchise. Dubbed Call of Duty Next, the showcase will take place at 1PM ET on September 15th, broadcast on Twitch, YouTube, Twitter, and Facebook.
+<a href='https://www.theverge.com/2022/9/9/23344547/call-of-duty-next-activision-warzone-2-modern-warfare-2'> Source <a/>
