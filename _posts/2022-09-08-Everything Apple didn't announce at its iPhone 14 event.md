@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6WcS4hYiOmKbO6RDUB9Q7IaPKKw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71336592/VRG_Illo_N_Barclay_1_apple.0.jpg' width='700px' /><br/>
-Apple just wrapped up its Far Out event, giving us a glimpse at the new iPhone 14, three new Apple Watch models, and the next generation of AirPods Pro earbuds. But what about everything Apple didn't announce?
-<a href='https://www.theverge.com/2022/9/7/23341609/apple-iphone-14-far-out-event-missing-announcements'> Source <a/>

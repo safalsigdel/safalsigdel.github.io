@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nX_qBmq0eElFBJTbt6fTC6fxOLI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71338243/acastro_STK080_disneyPlus_03.0.jpg' width='700px' /><br/>
-If you've been eagerly awaiting the day you can stream Marvel's Thor: Love and Thunder from the comfort of your home, you can do so while saving today. In honor of Disney Plus Day, the House of Mouse's annual celebration of all things streaming-related, the company is offering both new and eligible returning subscribers one month of Disney Plus for $1.99 instead of $7.99.
-<a href='https://www.theverge.com/good-deals/2022/9/8/23339857/disney-plus-day-subscription-deal-sale'> Source <a/>

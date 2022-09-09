@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8I_JeOdRWhFJzFU69s4BnPtnUW0=/0x0:8792x4632/1200x675/filters:focal(3693x1613:5099x3019)/cdn.vox-cdn.com/uploads/chorus_image/image/71338394/MY24_Chevrolet_Equinox_EV_3LT.0.jpg' width='700px' /><br/>
-General Motors wants to be the biggest seller of electric vehicles in the world, and the new 2024 Chevrolet Equinox EV is intended to play a major role in that effort. Built on GM's Ultium platform, the midsize SUV will get up to 300 miles of range and will start at “around $30,000” — an affordable price point that's intended to drive broader EV adoption.
-<a href='https://www.theverge.com/2022/9/8/23339186/gm-chevy-equinox-ev-announce-price-specs-suv'> Source <a/>

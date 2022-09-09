@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S6fNF49Wg_PTVEp0HUnJRwAkJ1A=/0x0:1260x840/1200x800/filters:focal(530x320:730x520)/cdn.vox-cdn.com/uploads/chorus_image/image/71338414/nvidiainvite.0.jpg' width='700px' /><br/>
-Nvidia wants the world to know it's getting ready to launch its next-gen 40-series GPUs. Nvidia CEO Jensen Huang will hold a special “GeForce Beyond” keynote at the company's GTC 2022 conference on September 20th.
-<a href='https://www.theverge.com/2022/9/8/23342579/nvidia-rtx-40-series-gpu-geforce-beyond-event-date'> Source <a/>

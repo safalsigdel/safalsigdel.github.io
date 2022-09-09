@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sDgL-ZT6-3rndzMrYj-wXgpKwJ0=/0x0:3760x2813/1200x800/filters:focal(1510x670:2110x1270)/cdn.vox-cdn.com/uploads/chorus_image/image/71336212/1357928376.0.jpg' width='700px' /><br/>
-GameStop is doubling down on crypto, and as part of its growing expansion into blockchain technologies, it announced a new partnership with crypto exchange FTX on Wednesday.
-<a href='https://www.theverge.com/2022/9/7/23341693/gamestop-ftx-partnership-gift-card-crypto'> Source <a/>

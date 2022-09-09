@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gwzgILX__zxQURvG3bibW7gIHSY=/0x0:4000x2667/1200x800/filters:focal(1479x641:2119x1281)/cdn.vox-cdn.com/uploads/chorus_image/image/71337144/1421760684.5.jpg' width='700px' /><br/>
-Jony Ive isn't a fan of cars using too many touchscreen controls, and says they're an example of an interface “being driven inappropriately by something like multitouch.”
-<a href='https://www.theverge.com/2022/9/7/23342203/jony-ive-multitouch-car-touchscreen-control-design-apple'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/stJ2p0myoAMpDxG_gBhDNfXNR4Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71339321/acastro_STK092_01.0.jpg' width='700px' /><br/>
+YouTube is introducing a handful of new features for creators and institutions using the platform for educational content.
+<a href='https://www.theverge.com/2022/9/8/23341123/youtube-learning-educational-video-ad-free-courses-quizzes'> Source <a/>

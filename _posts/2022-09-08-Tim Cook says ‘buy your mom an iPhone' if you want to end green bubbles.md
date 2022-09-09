@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/19DAR-LAaen9Uv9W1oxKWIe8-2E=/0x0:4000x2665/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/71337190/1421759572.0.jpg' width='700px' /><br/>
-Apple CEO Tim Cook dismissed the idea of adopting RCS messaging to put an end to the green bubbles that surround messages when iPhone users text someone on an Android device.
-<a href='https://www.theverge.com/2022/9/7/23342243/tim-cook-apple-rcs-imessage-android-iphone-compatibility'> Source <a/>

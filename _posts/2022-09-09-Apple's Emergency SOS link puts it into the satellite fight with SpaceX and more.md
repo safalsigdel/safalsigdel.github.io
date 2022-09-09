@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NjK2esIGn2L7hs0uQ1BIv8g70U8=/0x0:2612x1828/1200x800/filters:focal(608x661:1024x1077)/cdn.vox-cdn.com/uploads/chorus_image/image/71340995/EmergencySOS.0.png' width='700px' /><br/>
+After Apple's announcement that the iPhone 14 and 14 Pro can send messages via satellite in emergency situations, it's becoming clear that the company hasn't just introduced a new feature. In typical fashion, it's also practically overnight become a key player in a new industry by getting heavily involved with satellite communications by adding Emergency SOS via satellite.
+<a href='https://www.theverge.com/2022/9/8/23342908/apple-satellite-sos-globalstar-business-ast-lynk-spacex'> Source <a/>

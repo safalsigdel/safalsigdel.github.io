@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9961/X2D_100C_SQUARE.jpg' width='700px' /><br/>
+Hasselblad's new $8,199 X2D 100C is utterly Hasselblad: an incredibly well built digital medium format camera that takes stunning photos pretty damn slowly. It's not a workhorse; it's a luxury cruiser. And in the mirrorless camera megapixel race, the X2D 100C's 100 of them are only beaten by the 102 megapixels of Fujifilm's GFX 100 and 100S.
+<a href='https://www.theverge.com/23341617/hasselblad-x2s-100c-medium-format-mirrorless-camera-review-test-specs-features-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pK8K356xRFMbeyU_wwF8eYRchKw=/0x0:3460x1444/1200x800/filters:focal(1454x446:2006x998)/cdn.vox-cdn.com/uploads/chorus_image/image/71337740/hero_ultra__bjuq9fkxb9ci_large_2x.0.jpg' width='700px' /><br/>
-I had a funny feeling watching yesterday's announcement of the Apple Watch Ultra: I've seen this show before. It wasn't until Garmin watch fans on Reddit and Twitter started lampooning Apple that it hit mexe2x80xa6 this is Nokia all over again.
-<a href='https://www.theverge.com/2022/9/8/23342402/apple-vs-garmin-watch-user-interface'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N2wYHlTmyrpCnmfa3Dr35WxHJCE=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/71339282/Next_Gen_BlueCruise.0.jpg' width='700px' /><br/>
+Ford is rolling out its first major update to its BlueCruise advanced driver-assist system, adding hands-free lane changing and several other new features, the company announced Thursday.
+<a href='https://www.theverge.com/2022/9/8/23342626/ford-bluecruise-adas-hands-free-lane-change-update'> Source <a/>

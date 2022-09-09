@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E4GgxiLJXVQQHr9S91xGDkFJJw0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71337019/VRG_Illo_STK170_L_Normand_TimCook_Positive.0.jpg' width='700px' /><br/>
-Steve Jobs was the first guest to be interviewed by Kara Swisher and Walt Mossberg at the conference that was then called D: All Things Digital.
-<a href='https://www.theverge.com/apple/2022/9/7/23342078/tim-cook-jony-ive-laurene-powell-jobs-on-steve-jobs-at-code-liveblog'> Source <a/>

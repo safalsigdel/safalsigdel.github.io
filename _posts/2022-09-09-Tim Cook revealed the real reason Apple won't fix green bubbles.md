@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j0vVABxBbQ09fesdEzg7LP9G3MQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71340853/acastro_226265_0001.0.jpg' width='700px' /><br/>
+Last night, Tim Cook shot down the possibility of solving the green bubble problem — and he revealed the real reason why Apple won't do it: it doesn't sell iPhones.
+<a href='https://www.theverge.com/2022/9/8/23343336/apple-tim-cook-imessage-blue-green-bubbles-texting-rcs'> Source <a/>

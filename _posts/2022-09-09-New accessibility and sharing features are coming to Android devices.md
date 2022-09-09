@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cRqLYEc1ZEA1yYbTsE-gfrZOF_s=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/71339338/0._Blog_header.0.png' width='700px' /><br/>
+Android is introducing a clutch of new features to improve accessibility, personalization, and productivity across various devices. One of the major announcements is that Nearby Share — Google's AirDrop competitor — is getting a much-needed update that allows users to easily send files between their own devices.
+<a href='https://www.theverge.com/2022/9/8/23342451/android-new-accessibility-sharing-features-tablets-emoji'> Source <a/>

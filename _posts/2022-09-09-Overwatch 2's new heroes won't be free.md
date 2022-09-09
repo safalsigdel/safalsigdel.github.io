@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TWUcMMgE0jqGrsfTSw1Ksvs_Vwo=/0x0:1520x540/1200x800/filters:focal(639x149:881x391)/cdn.vox-cdn.com/uploads/chorus_image/image/71340656/OW_2022_BETA_NowLive_MultiHero_Header_1520x540.0.png' width='700px' /><br/>
+When Overwatch 2 launches on October 4th, fans might have to get on the grind wheel to unlock the newest heroes. A tweet from Jon Spector, Overwatch's commercial lead, indicates new heroes will be gated behind battle pass progression, saying that “new Overwatch 2 heroes will be available on the free track of the Battle Pass.”
+<a href='https://www.theverge.com/2022/9/8/23342873/overwatch-2-new-hero-battle-pass-progression-kiriko'> Source <a/>

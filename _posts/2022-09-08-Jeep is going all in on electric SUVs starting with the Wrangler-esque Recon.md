@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0MOI5dN9JBApV7izfubURV1FkOg=/0x0:3000x2055/1200x675/filters:focal(1260x788:1740x1268)/cdn.vox-cdn.com/uploads/chorus_image/image/71338018/FP022_005JP.0.jpg' width='700px' /><br/>
-Jeep will introduce four new all-electric SUVs in North America and Europe by the end of 2025 as part of a broader strategy to have EVs comprise 50 percent of sales in the US and 100 percent in Europe by 2030.
-<a href='https://www.theverge.com/2022/9/8/23341409/jeep-electric-suv-recon-wagoneer-s-avenger-release-date'> Source <a/>
