@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h3fddEy06MyHawot-Mr_c5u5c6A=/0x0:4096x2304/1200x800/filters:focal(1721x825:2375x1479)/cdn.vox-cdn.com/uploads/chorus_image/image/71346516/FcPeEBoagAAcLci.5.jpeg' width='700px' /><br/>
+Disney just wrapped up its Disney and Marvel Games Showcase at D23, and the event was packed with news and announcements about games from the entertainment company's many franchises. The show was a lightning-fast deluge of trailers for a wide variety of games, including titles that are out right now, like Disney Dreamlight Valley, and ones that are a bit farther off.
+<a href='https://www.theverge.com/2022/9/9/23345058/disney-marvel-games-showcase-d23-captain-america-tron-black-panther'> Source <a/>

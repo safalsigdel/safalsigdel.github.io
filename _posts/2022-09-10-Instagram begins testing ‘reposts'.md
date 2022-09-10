@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wPKqZQgm4gCUewyMmdh0fCQa5b4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71346041/acastro_STK070__01.0.jpg' width='700px' /><br/>
+If you can believe it, Instagram is testing a new feature that mimics other social networks. TechCrunch reports Instagram confirmed tests of “reposts” to bring someone else's content onto your own timeline. It's similar to Twitter's retweets or the kind of reshares that are common on Tumblr and Facebook and are also in testing on TikTok.
+<a href='https://www.theverge.com/2022/9/9/23344560/instagram-reposting-share-retweet-feature'> Source <a/>

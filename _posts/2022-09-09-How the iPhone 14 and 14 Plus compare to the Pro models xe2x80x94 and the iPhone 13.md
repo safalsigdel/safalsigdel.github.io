@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rtIydNvygngBkbcqK8YliSnBcPU=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/71341406/Apple_iPhone_14_Pro_and_Pro_Max_Press_Image.0.jpg' width='700px' /><br/>
-It's official: the iPhone 14 is here. Following months of leaks and speculation, Apple formally announced the latest addition to its smartphone lineup during its “Far Out” event on Wednesday, where the company also gave us a glimpse of the long-rumored Apple Watch Ultra, a new Apple Watch SE, and the second-gen AirPods Pro.
-<a href='https://www.theverge.com/23319085/iphone-14-vs-13-plus-pro-max-mini-comparison-specs-price-apple'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8f8Uj7y_gd6Z1Zhj6tyjsoGkdqc=/0x0:3008x2000/1200x800/filters:focal(1264x760:1744x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71346336/DSC03706_edited.0.jpg' width='700px' /><br/>
+Every Wednesday and Friday, The Verge publishes our flagship podcast, The Vergecast, where our editors make sense of the week's most important technology news. On Fridays, Verge editor-in-chief Nilay Patel, editor-at-large David Pierce, and managing editor Alex Cranz discuss the week in tech news with the reporters and editors covering the biggest stories.
+<a href='https://www.theverge.com/2022/9/9/23344587/apple-iphone-14-pro-event-podcast-roundtable-vergecast'> Source <a/>

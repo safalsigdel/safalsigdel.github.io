@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gs6S1FdOAa39Rp1fyFDg7YstFa0=/0x0:1121x762/1200x800/filters:focal(611x293:843x525)/cdn.vox-cdn.com/uploads/chorus_image/image/71341302/bf_2042_screenshot_the_world.jpg.adapt.crop16x9.818p.0.jpg' width='700px' /><br/>
-EA has established a new Battlefield studio that will be working on a narrative campaign for the franchise. The studio, Ridgeline Games, is based in Kirkland, Washington, and is headed up by Halo co-creator Marcus Lehto, according to a press release.
-<a href='https://www.theverge.com/2022/9/8/23343316/ea-battlefield-narrative-campaign-ridgeline-games-marcus-lehto'> Source <a/>

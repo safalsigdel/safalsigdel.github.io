@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y_8zWVWiViNmQxh_8uVg0Gu8kc0=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/71346769/IMG_2347__1_.0.jpeg' width='700px' /><br/>
+If something's broken with your Steam Deck and you don't want to try to fix it yourself, Valve now has a new option for you: you can send your handheld gaming PC to one of the company's new repair centers to get it fixed.
+<a href='https://www.theverge.com/2022/9/9/23345067/valve-steam-deck-repair-center-fix'> Source <a/>

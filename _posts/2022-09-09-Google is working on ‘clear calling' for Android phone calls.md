@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VU6q0pEqADDf7P4ZVpm8LzI8N8w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71342960/acastro_illo_226029_0001.0.jpg' width='700px' /><br/>
-The first beta for the Android 13 quarterly release includes a new “clear calling” feature that “reduces background noises during calls.” It was first spotted by Mishaal Rahman on Twitter who also tweeted directions to enable it for yourself without root, if you're feeling bold.
-<a href='https://www.theverge.com/2022/9/9/23344147/android-phone-call-noise-cancelation-beta'> Source <a/>
