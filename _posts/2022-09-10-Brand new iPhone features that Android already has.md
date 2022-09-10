@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IAVTezDteQSrdf6dXEZv0EhJZhg=/0x0:3008x2000/1200x800/filters:focal(1264x760:1744x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71348552/DSC03682.0.jpeg' width='700px' /><br/>
+For some reason, people like to take sides on things that really don't need to have sides at all. You're a fan of iPhones? Cool. You're more comfortable with Android phones? Use it in good health.
+<a href='https://www.theverge.com/23319739/apple-iphone-ios-16-android-features-google-apps-comparison'> Source <a/>
