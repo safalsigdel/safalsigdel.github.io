@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OnCZEDlg59BXIW6CWownBzXjH98=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/71347907/verge_DECBE782_1E19_40C9_AC60_B9B4E6279503_1_201_a_2040pxl.0.jpg' width='700px' /><br/>
+It's hard to imagine, but there could soon come a time when a 100-pound battery on wheels that costs $3,699 is something you'll want or even need.
+<a href='https://www.theverge.com/23334052/ecoflow-delta-pro-battery-review-rv-off-grid-price'> Source <a/>
