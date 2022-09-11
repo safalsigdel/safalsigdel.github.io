@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J5RLOYo9jeeQDt39iXzGAD955N4=/0x0:5632x3755/1200x800/filters:focal(2359x1743:3259x2643)/cdn.vox-cdn.com/uploads/chorus_image/image/71352185/1347541176.0.jpg' width='700px' /><br/>
+Matternet has received approval from the Federal Aviation Administration (FAA) for its Model M2 drone delivery drone design. In a press release, Matternet explains that the Model M2 is the first non-military unmanned aircraft to achieve Type Certification by the FAA, which determines that an aircraft's design meets regulatory standards.
+<a href='https://www.theverge.com/2022/9/11/23347199/matternet-delivery-drone-model-m2-design-approved-faa'> Source <a/>
