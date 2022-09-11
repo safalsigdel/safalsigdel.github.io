@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T_J4BOTWEtOtG5DyZx-5W5yTjW0=/0x509:1280x1600/1200x800/filters:focal(538x698:742x902)/cdn.vox-cdn.com/uploads/chorus_image/image/71352569/swedish_house_mafia_record_player.0.jpeg' width='700px' /><br/>
+Ikea's record player made in collaboration with music supergroup Swedish House Mafia is set to go on sale in October. The all-black device sports an unsurprisingly minimalistic look and will cost you $159.99 once it hits Ikea's maze-like stores.
+<a href='https://www.theverge.com/2022/9/11/23347344/ikea-swedish-house-mafia-record-player-going-on-sale-next-month-obegransad'> Source <a/>
