@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7eeAhCwnshVafwyxtdpEPVZSBrU=/0x0:4737x3282/1200x800/filters:focal(1991x1263:2747x2019)/cdn.vox-cdn.com/uploads/chorus_image/image/71344188/1421721322.0.jpg' width='700px' /><br/>
-Wednesday's Apple event opened with a warning. The video montage at the start of the event highlighted times when people in emergency situations had their lives saved by the Apple Watch. They used it to call 911 and make phone calls. It flagged dangerous heart conditions. Without the watch, they might not have made it out alive. The implication being: without a watch, you might not make it out alive.
-<a href='https://www.theverge.com/2022/9/9/23344306/apple-watch-series-8-emergency-health-heart-monitor'> Source <a/>

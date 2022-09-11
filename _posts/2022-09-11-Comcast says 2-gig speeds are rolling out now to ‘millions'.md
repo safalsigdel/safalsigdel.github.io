@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j7xn6NCE4w7pWUv5cQIhQ2Ce_pc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71349951/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+Comcast plans on bringing multi-gig internet speeds to 34 cities across the US by the end of this year, and will later expand its reach to more than 50 million households by the end of 2025. According to a press release, the company has already started rolling out 2-gig speeds over its broadband network in Colorado Springs, CO; Augusta, GA; Panama City Beach, FL; and Philadelphia, PA.
+<a href='https://www.theverge.com/2022/9/10/23345904/comcast-2-gig-speeds-rolling-out-symmetrical-broadband-cable'> Source <a/>
