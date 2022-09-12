@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xics19jWnHgTXvhHsbAES0Y9lHI=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/71344888/Roblox_High_School.0.jpg' width='700px' /><br/>
-Roblox rode a wave of pandemic-era growth to a seven-fold value increase, an exploding user base, and a wildly popular Lil Nas X concert with tens of millions of attendees. That success largely all came thanks to Roblox's core user base of young and highly engaged players.
-<a href='https://www.theverge.com/2022/9/9/23343459/roblox-age-guidelines-metaverse-ads-developer-conference-announcements'> Source <a/>

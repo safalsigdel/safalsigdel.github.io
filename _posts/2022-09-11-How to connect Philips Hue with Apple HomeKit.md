@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ej_W4k14kCFLCPEHcim461OVuyQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71345102/HT023_smartHome_0007.0.jpg' width='700px' /><br/>
-Controlling smart lighting with your voice is one of the most useful features of a smart home. Saying, “Hey Siri, turn off the lights” from the comfort of your bed or the couch without having to get up or pull out your phone is really a great experience. And, if you have some Philips Hue smart light bulbs and an iPhone, it's really easy to connect them to Apple's HomeKit smart home platform to put Apple's Siri voice assistant to work for you.
-<a href='https://www.theverge.com/23344595/philips-hue-apple-homekit-connect-how-to'> Source <a/>

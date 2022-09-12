@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_44N2R7fmCKs3eC9zWBGE3Ypays=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71353569/ELDENRING_21.0.jpg' width='700px' /><br/>
+Elden Ring developer FromSoftware is making the game's music soundtrack available to stream online in case you want to relive Malenia's boss fight more than you've already replayed it. As announced in a Playstation blog post, you can listen to the 67-track album on Spotify, YouTube Music, Amazon Music, Apple Music, and more (you can view the whole list of services here).
+<a href='https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware'> Source <a/>
