@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wDZRdvp2Vd_OYCjzOkcL3WY3SXA=/0x0:1937x1453/1200x800/filters:focal(815x573:1123x881)/cdn.vox-cdn.com/uploads/chorus_image/image/71348283/watch.0.jpg' width='700px' /><br/>
-Apple introduced the rugged Apple Watch Ultra this week — with a bigger, brighter 49mm screen, an additional hardware button, a bigger battery, and better speakers — made for more extreme outdoor conditions. But I believe the $800 smartwatch can be used another way: to watch TV.
-<a href='https://www.theverge.com/23342927/apple-watch-ultra-tv-watch'> Source <a/>
