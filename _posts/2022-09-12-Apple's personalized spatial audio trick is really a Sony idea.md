@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5nw494CJgLdNfyASe6i_XM_203s=/0x0:2040x1315/1200x800/filters:focal(857x495:1183x821)/cdn.vox-cdn.com/uploads/chorus_image/image/71345926/Screen_Shot_2022_09_09_at_10.45.26_AM.0.jpg' width='700px' /><br/>
-One of the new features of iOS 16, and something that was again highlighted during Apple's event on Wednesday, is personalized spatial audio. Once you've installed the latest iOS release on your iPhone beginning September 12th, you'll be able to create a custom sound profile that should improve the sense of immersion and overall spatial audio experience you get from AirPods.
-<a href='https://www.theverge.com/2022/9/9/23344694/apple-airpods-personalized-spatial-audio-sony-ear-scanning'> Source <a/>
