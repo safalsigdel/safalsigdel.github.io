@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/96iOSrQ9c93moKovkS0T-2LIShw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71356818/HT016_macOS_00010.0.jpg' width='700px' /><br/>
+If you want to work with two apps, side by side, at the same time on a Mac computer, Split View is your friend. Sure, you could just resize the two apps manually yourself. But using Split View will do that automatically for you and save you some time.
+<a href='https://www.theverge.com/23348868/apple-macbook-macos-split-view-how-to'> Source <a/>

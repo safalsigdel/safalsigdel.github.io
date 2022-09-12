@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cBFvPIhIGSN11R1neJOTVgJcOCE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71348468/VRG_ILLO_4034_Yesterdays_Future_001.0.jpg' width='700px' /><br/>
-WALL-E, Pixar's 2008 masterpiece, is being added to the Criterion Collection, a curated list of movies that are deemed to be “important classic and contemporary films.” Its induction means that the movie is getting a special-edition 4K Blu-ray release, which comes with a bunch of extras.
-<a href='https://www.theverge.com/2022/9/10/23345385/wall-e-criterion-collection-4k-blu-ray'> Source <a/>
