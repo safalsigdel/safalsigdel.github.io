@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vK3kkPDxbzNW6rbBnaarGxsp9N0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71348719/acastro_191014_1777_google_pixel_0001.0.0.jpg' width='700px' /><br/>
-Google has just rolled out the first Android 13 quarterly platform release beta, and developers have already uncovered code that hints at a pair of upcoming devices: the rumored Pixel foldable and a new “Pro” tablet (via Android Police).
-<a href='https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors'> Source <a/>

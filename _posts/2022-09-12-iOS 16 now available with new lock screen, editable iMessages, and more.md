@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VZ3Av5uNVVRjbMnMHPGfOUJDkd8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71357103/akrales_210917_4760_0117.0.jpg' width='700px' /><br/>
+Apple is releasing its latest iOS 16 operating system for compatible iPhones today. The free update includes a new lock screen with widgets, unsend and edit for iMessage, new keyboard haptics, a new Home app, and much more. iPadOS won't be updated to version 16 today, though, as that will ship later as an iPadOS 16.1 release.
+<a href='https://www.theverge.com/2022/9/12/23348578/ios-16-download-rollout-availability-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iLkIttTCXxr_MxVAlaCyFu2X7ZQ=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/71349056/AirPods_Comparison_Press_Image.0.jpg' width='700px' /><br/>
-At its “Far Out” event on Wednesday, Apple introduced a new pair of AirPods Pro alongside the upcoming iPhone 14 lineup and long-rumored Apple Watch Ultra. The second-gen AirPods Pro are set to arrive on September 23rd, bringing with them a new H2 chip that Apple claims should cancel “up to twice as much noise” as its predecessor, as well as swipe-based controls and a number of other features.
-<a href='https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs'> Source <a/>
