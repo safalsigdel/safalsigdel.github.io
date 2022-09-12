@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AKZrwemDB8GiTFYfEMuRNPcS8lE=/0x0:3008x2000/1200x800/filters:focal(1264x760:1744x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71356155/DSC03649.0.jpeg' width='700px' /><br/>
+A battery replacement on the iPhone 14 will cost you $30 more than previous models (via 9to5Mac). The cost estimator on Apple's iPhone battery service page says replacing the battery on any iPhone 14 model runs $99, a fairly steep increase from the $69 price for past generations (except the iPhone SE, which has battery replacement priced at $49 across the board).
+<a href='https://www.theverge.com/2022/9/12/23348705/iphone-14-apple-battery-replacement-price'> Source <a/>
