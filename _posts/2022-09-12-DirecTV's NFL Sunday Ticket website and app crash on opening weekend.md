@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_cOfFa1FKOTIBJDIgpzwhdktsRM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71352968/acastro_STK099_NFL_01.0.jpg' width='700px' /><br/>
-Football fans are struggling to watch the first NFL Sunday Ticket game of the season due to issues with DirecTV's website and app. While some users (including myself) report seeing an error page when trying to access the Sunday Ticket website, others say they can't even sign in.
+Football fans struggled to watch the first NFL Sunday Ticket game of the season due to issues with DirecTV's website and app. While some users (including myself) reported seeing an error page when trying to access the Sunday Ticket website, others said they couldn't even sign in.
 <a href='https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football'> Source <a/>
