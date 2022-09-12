@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b4LxeAIgNOmBCgIFKUo4tjA8l6k=/0x0:3008x2000/1200x800/filters:focal(898x820:1378x1300)/cdn.vox-cdn.com/uploads/chorus_image/image/71335687/DSC03670.0.jpeg' width='700px' /><br/>
-If you're the kind of person who's always dropping your phone, AppleCare Plus may have just become a much better deal. As MacRumors points out, the service now covers “unlimited repairs for accidental damage protection.” According to an archived version of the AppleCare Plus page from last month, you used to be limited to “two incidents of accidental damage protection every 12 months.”
-<a href='https://www.theverge.com/2022/9/7/23341577/applecare-plus-unlimited-iphone-mac-ipad-airpods-watch-repairs'> Source <a/>

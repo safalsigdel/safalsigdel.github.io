@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VCVNudM-PBuvvnnqvnl7Y0-QJ40=/0x0:1464x1172/1200x800/filters:focal(344x64:578x298)/cdn.vox-cdn.com/uploads/chorus_image/image/71346527/Screenshot_2022_09_09_at_12.24.11.0.png' width='700px' /><br/>
-Apple is delaying the release of iOS 16's iCloud Shared Photo Library feature, saying it's “coming later this year” instead of when the mobile operating system refresh launches on September 12th (via AppleInsider). An archived version of the iOS 16 webpage shows the notice about the delay was added sometime this week.
-<a href='https://www.theverge.com/2022/9/9/23345000/icloud-shared-photo-library-delayed-ios-16'> Source <a/>

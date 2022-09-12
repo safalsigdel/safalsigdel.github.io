@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cDXBNbqPolCrVa7cQN9veXvICoU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71356203/acastro_STK054_04.0.jpg' width='700px' /><br/>
+Nintendo's next Direct showcase will take place tomorrow, September 13th. The Nintendo Direct will be broadcast at 7AM PT / 10AM ET tomorrow morning and will include “roughly 40 minutes of information mostly focused on Nintendo Switch games launching this winter.”
+<a href='https://www.theverge.com/2022/9/12/23348876/nintendo-direct-showcase-date-time-games-breath-of-the-wild'> Source <a/>
