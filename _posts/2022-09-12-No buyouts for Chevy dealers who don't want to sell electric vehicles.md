@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i4-gL_fD1XhbE2XSTJPsWwPnfWU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71356385/ahawkins_220512_5248_0003.0.jpg' width='700px' /><br/>
+Chevrolet won't follow its sister brands Cadillac and Buick in offering buyouts to dealers who don't want to make the necessary investments to upgrade to electric vehicles, Scott Bell, global vice president, told The Verge.
+<a href='https://www.theverge.com/2022/9/12/23344878/chevy-dealer-buyout-electric-ev-scott-bell'> Source <a/>
