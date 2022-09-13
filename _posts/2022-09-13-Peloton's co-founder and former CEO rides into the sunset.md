@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wzpbdicUhDP9vMr1WZB73Cpaynw=/0x0:5232x3488/1200x800/filters:focal(2198x1326:3034x2162)/cdn.vox-cdn.com/uploads/chorus_image/image/71358872/1027941602.0.jpg' width='700px' /><br/>
-Peloton co-founder and former CEO John Foley has resigned as executive chairman of the board, marking the latest big shakeup at the connected fitness company (via The Wall Street Journal).
-<a href='https://www.theverge.com/2022/9/12/23349809/peloton-john-foley-co-founder-former-ceo-leaving-company-resign'> Source <a/>

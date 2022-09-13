@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/13XYv5UT0GiHW23tVYMJZroOpaI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71358350/226267_HORI_SPLIT_PAD_PHO_cfaulkner_0001.0.jpg' width='700px' /><br/>
-Hori released the crowd-pleasing Split Pad Pro in 2019, the Joy-Con alternatives that make playing games so much more comfortable. It's basically like using Nintendo's Switch Pro controller in handheld mode, giving you bigger buttons, analog sticks, and cozy grips to accompany your play sessions.
-<a href='https://www.theverge.com/2022/9/12/23348870/hori-split-pad-compact-nintendo-switch-joy-con-price-features'> Source <a/>

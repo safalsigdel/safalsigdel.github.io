@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0V5tO2DcvGrpI6AGyJOVPbmd2qM=/0x0:1312x875/1200x0/filters:focal(0x0:1312x875):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24018305/223GE_ACC_00_04_Medium_static_D.jpg' width='700px' /><br/>
-Sony has launched a smartphone cooling fan accessory that's designed to lower the temperature of its Xperia 1 IV under intense gaming loads. The Xperia Stream also offers a selection of extra ports in addition to working as a cooling accessory. It's available to preorder now in Japan for 23,100 yen (around $162) with shipping expected on October 14th.
-<a href='https://www.theverge.com/2022/9/13/23350504/sony-xperia-stream-smartphone-cooling-fan-usb-hub-ethernet-hdmi-3-5mm'> Source <a/>

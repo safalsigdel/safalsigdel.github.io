@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M151A67-bdzjaUvcKL0JIz_RRUs=/0x0:927x605/1200x800/filters:focal(390x229:538x377)/cdn.vox-cdn.com/uploads/chorus_image/image/71359060/preview_928x522.0.jpg' width='700px' /><br/>
-Nissan has approved the first bidirectional charging system for use with its all-electric Leaf vehicle in the US. The FE-15 charger by Fermata Energy, which can power homes using the EV's battery, charge it, and send stored energy back to the grid, is the first system of its kind to earn UL 9741 certification for bidirectional charging solutions.
-<a href='https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy'> Source <a/>
