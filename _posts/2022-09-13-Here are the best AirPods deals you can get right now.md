@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xCwC4rsYgCu3eqJd7OJ_cmuSSGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67012059/cwelch_191031_3763_0003.5.jpg' width='700px' /><br/>
-If you know where to look, there are often some great discounts available on Apple's popular — yet oftentimes expensive — AirPods. Since Apple launched the third-gen AirPods last year, we've seen the starting price of the second-gen, entry-level model drop from $159 to $129. And now that you can preorder the second-gen AirPods Pro, we'll likely start seeing discounts on the last-gen Pro and other models, including the over-ear AirPods Max.
-<a href='https://www.theverge.com/21302051/best-apple-airpods-deals'> Source <a/>

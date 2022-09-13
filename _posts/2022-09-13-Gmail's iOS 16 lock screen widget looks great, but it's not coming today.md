@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tsyQFWV-obxbQAb0cJwU-FQxhKc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71358177/STK093_Google_01.5.jpg' width='700px' /><br/>
-Google has revealed a series of new lock screen widgets for the iPhone, including one for Gmail, timed along with the release of iOS 16. A refreshed lock screen is the most obvious change to iOS in this latest update (even if it's not a new thing for Android users), and Google's major apps will support it, but you'll have to wait a little while.
-<a href='https://www.theverge.com/2022/9/12/23349186/apple-iphone-ios-16-lock-screen-google-gmail-search-widget'> Source <a/>

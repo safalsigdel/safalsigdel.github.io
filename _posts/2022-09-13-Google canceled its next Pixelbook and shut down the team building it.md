@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EL5YSOl0j80qxvwkN0PAw1ktw3E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71357642/vpavic_191023_3755_0070.0.jpg' width='700px' /><br/>
-Google has canceled the next version of its Pixelbook laptop and dissolved the team responsible for building it. The device was far along in development and expected to debut next year, according to a person familiar with the matter, but the project was cut as part of recent cost-cutting measures inside of Google. Members of the team have been transferred elsewhere inside the company.
-<a href='https://www.theverge.com/2022/9/12/23348999/google-pixelbook-canceled-team-shut-down'> Source <a/>

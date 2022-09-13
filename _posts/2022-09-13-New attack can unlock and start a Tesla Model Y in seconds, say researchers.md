@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZY5COAK4b-WxJJG9b9XwWMhS1Kk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71357501/acastro_STK086_01.0.jpg' width='700px' /><br/>
-Tesla prides itself on its cybersecurity protections, particularly the elaborate challenge system that protects its cars from conventional methods for attacking the remote unlock system. But now, one researcher has discovered a sophisticated relay attack that would allow someone with physical access to a Tesla Model Y to unlock and steal it in a matter of seconds.
-<a href='https://www.theverge.com/2022/9/12/23348765/tesla-model-y-unlock-drive-car-thief-nfc-relay-attack'> Source <a/>

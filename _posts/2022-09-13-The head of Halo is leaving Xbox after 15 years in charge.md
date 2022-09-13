@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zlvpVKoIvnClJpPBLpytaVWiZho=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/71357336/CoOp_0.0.jpeg' width='700px' /><br/>
-Bonnie Ross, the corporate vice president of Halo developer 343 Industries, will be leaving the studio, Ross announced on Monday.
-<a href='https://www.theverge.com/2022/9/12/23349309/halo-infinite-343-industries-bonnie-ross-xbox'> Source <a/>

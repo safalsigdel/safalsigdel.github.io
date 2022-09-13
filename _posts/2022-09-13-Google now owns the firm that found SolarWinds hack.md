@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/etUR9gkFvIeUcx9v8wtGyzJ9Rpo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71357040/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
-Google has completed its acquisition of Mandiant, bringing a major name in cybersecurity under the tech giant's ever-growing umbrella.
-<a href='https://www.theverge.com/2022/9/12/23349213/google-mandiant-acquisition-cloud-security-threat-intelligence'> Source <a/>
