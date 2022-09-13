@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8cKKGze9ytn62PCVnNxlA3i12KQ=/0x0:1000x535/1200x0/filters:focal(0x0:1000x535):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24011166/ac_showcase.jpg' width='700px' /><br/>
-After a string of leaks, Ubisoft has officially unveiled the next major Assassin's Creed game. As expected, it's called Mirage and will shift the time-traveling series to 9th-century Baghdad, where players will take on the role of a budding assassin named Basim. (Fans might remember that name from an appearance in Assassin's Creed Valhalla; Mirage takes place two decades before that game.)
-<a href='https://www.theverge.com/2022/9/10/23340923/assassins-creed-mirage-baghdad-2023-japan-mobile'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OR3feBP4XsBKFPTXXni-sGl60CQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71358667/vpavic_210917_4760_0702.0.jpg' width='700px' /><br/>
+A little while back, my colleague Mitchell Clark and I challenged each other to use our old iPhones for the weekend — mine was an original iPhone SE, and they had an iPhone 5S. I bailed a few hours in after my wireless connection flaked out, and I watched the phone battery drop 10 percent in a matter of minutes. (Mitchell saw the challenge through.)
+<a href='https://www.theverge.com/2022/9/12/23345028/iphone-samsung-smartphone-camera-photographic-styles-hdr-contrast'> Source <a/>

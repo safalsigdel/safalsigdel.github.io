@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9qwkeZAKpPH7X2f-RWYNQ2W5NfM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71357675/acastro_STK070__03.0.jpg' width='700px' /><br/>
+Instagram's attempt to take on TikTok has cost the platform millions of dollars, countless app updates, and a week-long firestorm involving the most famous people on the planet, mad about the direction it was going in. And so far, Instagram hasn't caught up to the company it's chasing.
+<a href='https://www.theverge.com/2022/9/12/23349004/instagrams-reels-tiktok-internal-documents'> Source <a/>

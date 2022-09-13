@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Images and, later, a video of a “Meta Quest Pro” virtual reality (VR) headset surfaced online, posted on Facebook by Ramiro Cardenas, who claims the device was left in a hotel room (Thanks, Peter! via Reddit). The device shown resembles the Project Cambria headset Meta has been publicly teasing since late last year and looks like the one spotted in leaked setup videos.
-<a href='https://www.theverge.com/2022/9/11/23347979/meta-quest-pro-leak-vr-project-cambria-headset'> Source <a/>

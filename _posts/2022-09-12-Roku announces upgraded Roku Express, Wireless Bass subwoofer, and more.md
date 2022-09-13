@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LDRIDCFRm0yv5--yVqmTkdItgvY=/0x0:1670x1131/1200x800/filters:focal(671x413:937x679)/cdn.vox-cdn.com/uploads/chorus_image/image/71355841/roku.0.jpg' width='700px' /><br/>
-Roku is mostly leaving its hardware lineup untouched for the fall — with a couple exceptions. Today, the company is introducing an enhanced Roku Express that now includes dual-band Wi-Fi for more robust, dependable streaming performance. Still priced at $29.99, the device is available for preorder now and will be in stores on October 16th.
-<a href='https://www.theverge.com/2022/9/12/23348667/roku-express-2022-wireless-bass-new-features-announced'> Source <a/>

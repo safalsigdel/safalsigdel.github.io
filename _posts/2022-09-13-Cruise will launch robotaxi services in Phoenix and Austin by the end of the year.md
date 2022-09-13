@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FT2YNjinPSh1tjMnLiTJx_tsam4=/0x0:2559x1664/1200x800/filters:focal(1076x628:1484x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/71358904/1189070708.0.jpg' width='700px' /><br/>
+Cruise, the autonomous vehicle company owned by General Motors, will launch a robotaxi service in Phoenix, Arizona, and Austin, Texas, before the end of 2022, the company's CEO said today.
+<a href='https://www.theverge.com/2022/9/12/23349699/cruise-av-robotaxi-phoenix-austin-gm'> Source <a/>

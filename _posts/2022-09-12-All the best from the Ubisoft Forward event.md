@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kew8dwSYjPL7Q9vLbJT6DoiuG2Y=/0x0:1112x595/1200x800/filters:focal(435x212:611x388)/cdn.vox-cdn.com/uploads/chorus_image/image/71349918/ac_0codenamred.0.jpg' width='700px' /><br/>
-Ubisoft shared a ton of information on the projects, known and never-before-seen, during its Ubisoft Forward event. Here are the highlights.
-<a href='https://www.theverge.com/2022/9/10/23346125/ubisoft-forward-assassins-creed-mirage-mario-rabbids'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i0JJoGq5YphWUW_jtG9eyvqhQQI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71358922/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
+Sony just announced that it will be hosting a PlayStation State of Play video presentation on Tuesday at 6PM ET. The show will be about 20 minutes long and cover games coming to PS5, PS4, and PSVR2.
+<a href='https://www.theverge.com/2022/9/12/23349952/sony-playstation-state-of-play-event-showcase-same-day-nintendo-direct'> Source <a/>

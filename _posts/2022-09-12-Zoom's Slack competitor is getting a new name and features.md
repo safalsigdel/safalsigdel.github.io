@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qx2N6siURHbYWxgnPMExzBlroZ8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/71355799/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-Many of us have been on a lot of Zoom calls during the pandemic, but you might not know that Zoom also has its very own Slack- and Microsoft Teams-esque product called Zoom Chat. On Monday, Zoom announced a small change to the name of the product — it's now called Zoom Team Chat — alongside a handful of other handy updates coming to the collaboration software.
-<a href='https://www.theverge.com/2022/9/12/23345352/zoom-team-chat-name-features'> Source <a/>
