@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ATAwbf-ToZK3OMhOCrPnSxCFVYY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/71360127/acastro_STK094_01.0.jpg' width='700px' /><br/>
+Intel has accidentally published the specifications for its 13th Gen Raptor Lake processors. A day after confirming an upcoming 13th Gen CPU will run at 6GHz at stock, Intel published and quickly deleted specs for its Core i5-13600K, Core i7-13700K, and Core i9-13900K CPUs.
+<a href='https://www.theverge.com/2022/9/13/23350509/intel-13th-gen-core-i5-i7-i9-specs-leak'> Source <a/>
